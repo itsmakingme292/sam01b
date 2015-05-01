@@ -2,6 +2,17 @@
 
 # Samhällskunskap 1b
 
+[Introduktion]()
+
+  * # Om kursen
+  * [Vad är samhällskunskap?](subitem2.md)
+  * [Preliminärt upplägg](subitem1.md)
+  * [Skolverkets kursplan](subitem2.md)
+  - - - -
+  * # Viktig information
+  * [Bedömning & Betyg](subitem3.md)
+  * [Källhantering & Plagiat](subitem3.md)
+  - - - -
 [Demokrati i teori & praktik]()
 
   * # Material
