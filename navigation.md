@@ -2,6 +2,6 @@
 
 # Fredriks Wiki
 
-[Home](home.md)
+[Index](index.md)
 [About](about.md)
 [Download](download.md)
