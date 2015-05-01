@@ -12,11 +12,22 @@
   * [Bedömning & Betyg](1_intro/bedomning.md)
   * [Källhantering & Plagiat](1_intro/kallhantering.md)
 
-[Demokrati i teori & praktik]()
+[Media & Kritiskt tänkande]()
 
   * # Material
-  * [SubMenu Item 1](subitem1.md)
-  * [SubMenu Item 2](subitem2.md)
+  * [Vad är samhällskunskap?](1_intro/vad_ar_samhallskunskap.md)
+  * [Preliminärt upplägg](1_intro/kursens_upplagg.md)
+  * [Skolverkets kursplan](1_intro/kursplan.md)
+  - - - -
+  * # Övningsuppgifter & Diskussionsunderlag
+  * [Bedömning & Betyg](1_intro/bedomning.md)
+  * [Källhantering & Plagiat](1_intro/kallhantering.md)
+
+[Demokrati]()
+
+  * # Material
+  * [Sveriges politiska system](subitem1.md)
+  * [Demokrati](subitem2.md)
   - - - -
   * # Övningar & Diskussionsunderlag
   * [SubMenu Item 3](subitem3.md)
@@ -24,11 +35,11 @@
   * # Examinerande moment
   * [SubMenu Item 3](subitem3.md)
   
-[Samhällsekonomi]()
+[Ekonomi]()
 
   * # Material
-  * [SubMenu Item 1](subitem1.md)
-  * [SubMenu Item 2](subitem2.md)
+  * [Samhällsekonomi](subitem1.md)
+  * [Konsumenträtt](subitem2.md)
   - - - -
   * # Övningar & Diskussionsunderlag
   * [SubMenu Item 3](subitem3.md)
@@ -60,7 +71,7 @@
   * # Examinerande moment
   * [SubMenu Item 3](subitem3.md)
   
-[FN & Mänskliga rättigheter]()
+[FN & MR]()
 
   * # Material
   * [SubMenu Item 1](subitem1.md)
