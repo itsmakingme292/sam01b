@@ -5,10 +5,7 @@ På denna sida finner ni allt material utöver kursboken.
 
 Navigera er genom att använda menyn ovan. Varje delmoment har undermenyer. 
 
-### Preliminärt upplägg för kursen
+#### Senaste uppdateringarna av denna sida
 
-1. dsds
-2. ds
-3. ds
-4. sds
-5. ds
+* (2015-05-01) Bla bla bla
+* (2015-05-01) Bla bla bla
