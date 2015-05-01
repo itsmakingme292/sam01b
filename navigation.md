@@ -15,9 +15,10 @@
 [Kritiskt tänkande]()
 
   * # Material
+  * [Källkritik](1_intro/vad_ar_samhallskunskap.md)
   * [Media](1_intro/vad_ar_samhallskunskap.md)
-  * [Preliminärt upplägg](1_intro/kursens_upplagg.md)
-  * [Skolverkets kursplan](1_intro/kursplan.md)
+  * [Kognitiva Bias](1_intro/kursens_upplagg.md)
+  * [Argumentation](1_intro/kursplan.md)
   - - - -
   * # Övningsuppgifter & Diskussionsunderlag
   * [Bedömning & Betyg](1_intro/bedomning.md)
