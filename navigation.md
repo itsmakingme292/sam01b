@@ -63,7 +63,7 @@
 [Ideologier]()
 
   * # Material
-  * [Övergripande om ideologierna](om_ideologierna.md)
+  * [Övergripande om ideologierna](6_ideologier/om_ideologierna.md)
   * [SubMenu Item 2](subitem2.md)
   - - - -
   * # Övningar & Diskussionsunderlag
