@@ -6,7 +6,7 @@
   * # Om kursen
   * [Vad är samhällskunskap?](subitem2.md)
   * [Preliminärt upplägg](subitem1.md)
-  * [Skolverkets kursplan](subitem2.md)
+  * [Skolverkets kursplan](1_intro/kursplan.md)
   - - - -
   * # Viktig information
   * [Bedömning & Betyg](subitem3.md)
