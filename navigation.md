@@ -63,7 +63,7 @@
 [Ideologier]()
 
   * # Material
-  * [Övergripande om ideologierna](6_ideologier/om_ideologierna.md)
+  * [Det goda samhället: Vad säger ideologierna?](6_ideologier/om_ideologierna.md)
   * [SubMenu Item 2](subitem2.md)
   - - - -
   * # Övningar & Diskussionsunderlag
