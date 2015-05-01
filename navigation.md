@@ -4,11 +4,11 @@
 
 [Demokrati i teori & praktik]()
 
-  * # SubMenu Heading 1
+  * # Material
   * [SubMenu Item 1](subitem1.md)
   * [SubMenu Item 2](subitem2.md)
   - - - -
-  * # SubMenu Heading 2
+  * # Övningar & Diskussionsunderlag
   * [SubMenu Item 3](subitem3.md)
   - - - -
   * # SubMenu Heading 3
@@ -16,11 +16,11 @@
   
 [Samhällsekonomi]()
 
-  * # SubMenu Heading 1
+  * # Material
   * [SubMenu Item 1](subitem1.md)
   * [SubMenu Item 2](subitem2.md)
   - - - -
-  * # SubMenu Heading 2
+  * # Övningar & Diskussionsunderlag
   * [SubMenu Item 3](subitem3.md)
   - - - -
   * # SubMenu Heading 3
@@ -28,11 +28,11 @@
 
 [Kultur & Norm]()
 
-  * # SubMenu Heading 1
+  * # Material
   * [SubMenu Item 1](subitem1.md)
   * [SubMenu Item 2](subitem2.md)
   - - - -
-  * # SubMenu Heading 2
+  * # Övningar & Diskussionsunderlag
   * [SubMenu Item 3](subitem3.md)
   - - - -
   * # SubMenu Heading 3
@@ -40,11 +40,11 @@
 
 [Ideologier]()
 
-  * # SubMenu Heading 1
+  * # Material
   * [SubMenu Item 1](subitem1.md)
   * [SubMenu Item 2](subitem2.md)
   - - - -
-  * # SubMenu Heading 2
+  * # Övningar & Diskussionsunderlag
   * [SubMenu Item 3](subitem3.md)
   - - - -
   * # SubMenu Heading 3
@@ -52,11 +52,11 @@
   
 [FN & Mänskliga rättigheter]()
 
-  * # SubMenu Heading 1
+  * # Material
   * [SubMenu Item 1](subitem1.md)
   * [SubMenu Item 2](subitem2.md)
   - - - -
-  * # SubMenu Heading 2
+  * # Övningar & Diskussionsunderlag
   * [SubMenu Item 3](subitem3.md)
   - - - -
   * # SubMenu Heading 3
