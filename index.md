@@ -14,8 +14,6 @@ Frågor ställer man i första hand under lektionstid. Om man känner att man in
 
 Och kom ihåg: Var frågvisa – man lär sig mer då!
 
-**/ Fredrik**
-
 ## Uppdateringar av denna wiki
 
 * (2015-05-01) Något ändrades på sidan igen
