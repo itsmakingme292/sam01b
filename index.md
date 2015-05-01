@@ -10,7 +10,7 @@ Om ni har idéer för förbättring av både denna wiki och kursen som helhet, t
 
 **/ Fredrik**
 
-### Uppdateringar
+## Uppdateringar
 
 * (2015-05-01) Något ändrades på sidan igen
 * (2015-05-01) Något ändrades på sidan
