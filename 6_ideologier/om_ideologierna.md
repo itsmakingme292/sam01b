@@ -4,6 +4,7 @@
 En ideologi är ett ”paket” med idéer. En slags helhet med lika delar beskrivande teori som grundläggande värderingar
 
 _Varje ideologi förklarar:_
+
 1. Hur samhället ser ut och fungerar (just nu)
 	* Ideologisk analys
 		* Vilka är problemen i dagens samhälle?
@@ -137,8 +138,8 @@ En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideolo
 
 <!--dessa = delvis naturliga (kvinna/man som exempel) Iaf inget man bör förändra -->
 
-### Statens uppgift
-## Statens grundläggande syfte
+## Statens uppgift
+### Statens grundläggande syfte
 Kortfattat skulle statens grundläggande syfte inom de tre klassiska ideologierna kunna förklaras som följande:
 
 ### Liberalismen
