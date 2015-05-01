@@ -12,7 +12,7 @@
   * [Bedömning & Betyg](1_intro/bedomning.md)
   * [Källhantering & Plagiat](1_intro/kallhantering.md)
 
-[Media & Kritiskt tänkande]()
+[Kritiskt tänkande]()
 
   * # Material
   * [Vad är kritiskt tänkande?](1_intro/vad_ar_samhallskunskap.md)
