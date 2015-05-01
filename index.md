@@ -10,6 +10,12 @@ Om ni har idéer för förbättring av både denna wiki och kursen som helhet, t
 
 **/ Fredrik**
 
+## Kontakt & frågor
+
+Undrar man något, eller behöver prata med mig om något, gör man detta i första hand på lektionstid. Försök verkligen använda denna tid till att samtala och inte endast sitta passiva. 
+
+Vid mer akuta frågor ser man först om jag sitter på mitt arbetsrum. Om man inte får tag i mig så skickar man ett meddelande på schoolsoft. 
+
 ## Uppdateringar
 
 * (2015-05-01) Något ändrades på sidan igen
