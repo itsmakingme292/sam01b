@@ -36,7 +36,7 @@
   * # Examinerande moment
   * [SubMenu Item 3](subitem3.md)
 
-[Kultur & Norm]()
+[Norm & Makt]()
 
   * # Material
   * [SubMenu Item 1](subitem1.md)
