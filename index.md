@@ -20,6 +20,8 @@ Och kom ihåg: Var frågvisa – man lär sig mer då!
 
 Det är i första hand på denna sida ni finner information om uppgifter etc. Via Schoolsoft kommer främst  omdömen och betyg att rapporteras, samt meddelanden om deadlines etc. 
 
+För mer information om bedömning och betyg [klicka här](1_intro/bedomning.md).
+
 ## Uppdateringar av denna wiki
 
 * (2015-08-10) Övergripande uppdateringar inför kommande läsår 
