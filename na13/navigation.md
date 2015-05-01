@@ -1,8 +1,8 @@
 [gimmick:theme](readable)
 
-# NA 13 – Samhällskunskap 1b
+# Samhällskunskap 1b, Mikael Elias Gymnasium, Fredrik Ståhl
 
-[Om kursen](index.md)
+[Startsida/Info](index.md)
 [Demokrati i teori & praktik]()
 
   * # SubMenu Heading 1
@@ -27,7 +27,7 @@
   * # SubMenu Heading 3
   * [SubMenu Item 3](subitem3.md)
 
-[Norm & Makt]()
+[Kultur, Identitet, Norm & Makt]()
 
   * # SubMenu Heading 1
   * [SubMenu Item 1](subitem1.md)
@@ -39,7 +39,7 @@
   * # SubMenu Heading 3
   * [SubMenu Item 3](subitem3.md)
 
-[Det goda samhället]()
+[Ideologierna & Det goda samhället]()
 
   * # SubMenu Heading 1
   * [SubMenu Item 1](subitem1.md)
@@ -51,7 +51,7 @@
   * # SubMenu Heading 3
   * [SubMenu Item 3](subitem3.md)
   
-[Mänskliga rättigheter]()
+[FN & Mänskliga rättigheter]()
 
   * # SubMenu Heading 1
   * [SubMenu Item 1](subitem1.md)
