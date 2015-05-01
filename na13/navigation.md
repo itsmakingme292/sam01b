@@ -2,8 +2,7 @@
 
 # Samhällskunskap 1b, Mikael Elias Gymnasium, Fredrik Ståhl
 
-[Startsida/Info](index.md)
-[Demokrati]()
+[Demokrati i teori & praktik]()
 
   * # SubMenu Heading 1
   * [SubMenu Item 1](subitem1.md)
