@@ -117,7 +117,7 @@ En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideolo
 
 <!--Ang. kärnfamiljen: alltså inte ex. individen Detta kan vi se när det kommer till syn på om individen ska ha rätt att adoptera ex. Eller om det är en mamma och en pappa i en familj Eller för den delen föräldraledighet En socialist eller liberal skulle mer resonera att det är en individens rättighet För en konservativ blir det mer familjens rättighet Och kanske helst ska mamman stanna hemma -->
 
-## Människosyn
+### Människosyn
 #### Liberalismen
 1. Människan har stor potential att bli den hon vill.
 	* Människan är i grunden god, handlingskraftig och kreativ.
@@ -161,7 +161,7 @@ Kortfattat skulle statens grundläggande syfte inom de tre klassiska ideologiern
 <!--= Funktionalism + stabilitiet Statsmakten ska vara stark Framförallt Rättsväsendet Domstolar, poliser Militären -->
 
 
-## Statens storlek och form
+### Statens storlek och form
 Hur vi ser på statens uppgift påverkar vår syn på statens omfattning. Statens storlek är därför en bra gradskala utifrån vilken vi kan placera olika ideologier. I stora drag kan denna skala se ut som följande:
 
 Ingen --------- Nattväktarstat --------- Välfärdsstat --------- Allomfattande
