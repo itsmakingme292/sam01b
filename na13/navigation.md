@@ -2,7 +2,7 @@
 
 # NA 13 – Samhällskunskap 1b
 
-[Om denna Wiki](../index.md)
+[Info](index.md)
 [Demokrati i teori & praktik]()
 
   * # SubMenu Heading 1
