@@ -8,12 +8,14 @@ _Varje ideologi förklarar:_
 1. Hur samhället ser ut och fungerar (just nu)
 	* Ideologisk analys
 		* Vilka är problemen i dagens samhälle?
+			* Distribution av resurser och makt?
 		* Hur är människan funtad?
 			* Vad behöver hon?
 			* Vad är hon kapabel till?
 2. Hur samhället bör förändras (eller inte)
 	* Ideologiskt program
 		* Hur ska samhällets problem åtgärdas?
+			* Distribution av resurser och makt?
 		* Vad är målet? Hur skulle ett idealsamhälle vara ordnat?
 			* Vad är frihet?
 			* Vad är rättvisa?
