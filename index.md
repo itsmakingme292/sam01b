@@ -1,12 +1,12 @@
-# Välkomna till Samhällskunskap 1b
+# Välkomna till Samhällskunskap 1b!
 
-## Kort om denna sida
+### Kort om denna sida
 
 På denna sida finner ni allt material utöver kursboken. 
 
 Navigera er genom att använda menyn ovan. Varje delmoment har undermenyer. 
 
-## Preliminärt upplägg för kursen
+### Preliminärt upplägg för kursen
 
 1. dsds
 2. ds
