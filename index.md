@@ -1,6 +1,6 @@
 # Samhällskunskap 1b
 
-Viktig information: Här kan man skriva något som är jääätteviktigt...
+Viktig uppdatering: Här kan skriva om den uppdatering som är jätteviktig... Funkar också med titeln "viktig information"...
 
 ## Välkomna!
 
