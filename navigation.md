@@ -2,6 +2,6 @@
 
 # Fredriks Wiki
 
-[Index](index.md)
+[Om denna Wiki](index.md)
 [About](about.md)
 [Download](download.md)
