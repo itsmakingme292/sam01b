@@ -27,7 +27,7 @@ För mer information om bedömning och betyg [klicka här](1_intro/bedomning.md)
 * (2015-08-10) Övergripande uppdateringar inför kommande läsår 
 * (2015-08-10) Rensade uppdateringshistorik inför kommande läsår
 
-> test med quote...
+> test med quote... Detta behöver jag finna ett sätt att ändra?
 
 och igen med hur jag har det i filosofi-läroboken
 
