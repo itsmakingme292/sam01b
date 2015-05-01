@@ -12,10 +12,10 @@
   * [Bedömning & Betyg](1_intro/bedomning.md)
   * [Källhantering & Plagiat](1_intro/kallhantering.md)
 
-[Media & Kritiskt tänkande]()
+[Kritiskt tänkande]()
 
   * # Material
-  * [Vad är samhällskunskap?](1_intro/vad_ar_samhallskunskap.md)
+  * [Media](1_intro/vad_ar_samhallskunskap.md)
   * [Preliminärt upplägg](1_intro/kursens_upplagg.md)
   * [Skolverkets kursplan](1_intro/kursplan.md)
   - - - -
@@ -34,24 +34,24 @@
   - - - -
   * # Examinerande moment
   * [SubMenu Item 3](subitem3.md)
-  
-[Ekonomi]()
-
-  * # Material
-  * [Samhällsekonomi](subitem1.md)
-  * [Konsumenträtt](subitem2.md)
-  - - - -
-  * # Övningar & Diskussionsunderlag
-  * [SubMenu Item 3](subitem3.md)
-  - - - -
-  * # Examinerande moment
-  * [SubMenu Item 3](subitem3.md)
 
 [Norm & Makt]()
 
   * # Material
   * [SubMenu Item 1](subitem1.md)
   * [SubMenu Item 2](subitem2.md)
+  - - - -
+  * # Övningar & Diskussionsunderlag
+  * [SubMenu Item 3](subitem3.md)
+  - - - -
+  * # Examinerande moment
+  * [SubMenu Item 3](subitem3.md)
+  
+[Ekonomi]()
+
+  * # Material
+  * [Samhällsekonomi](subitem1.md)
+  * [Konsumenträtt](subitem2.md)
   - - - -
   * # Övningar & Diskussionsunderlag
   * [SubMenu Item 3](subitem3.md)
