@@ -1,7 +1,5 @@
 [gimmick:theme](readable)
 
-# Samhällskunskap 1b
-
 [Introduktion]()
 
   * # Om kursen
