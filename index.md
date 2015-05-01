@@ -16,3 +16,5 @@ Om ni har idéer för förbättring av både denna wiki och kursen som helhet, t
 * (2015-05-01) Något ändrades på sidan
 
 OBS: Det är i första hand här som uppdateringar kommer att ske. Schoolsoft kommer främst användas för omdömen och betyg, samt meddelanden. Så bokmärk denna sida!
+
+OBS: <br> *dsdsds <br> *ddsds
