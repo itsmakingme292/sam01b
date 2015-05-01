@@ -168,24 +168,24 @@ Ingen --------- Nattväktarstat --------- Välfärdsstat --------- Allomfattande
 
 Viktigt att komma ihåg är att vi inte nödvändigtvis står i valet mellan någon av dessa typer utan att vi ideologiskt kan hamna mittemellan två av dem. Många liberaler hamnar någonstans mellan nattväktarstat och välfärdsstat (eftersom de vill ha så lite statlig inblandning som möjligt i människors liv, men samtidigt vill ha en viss grundtrygghet) medan många socialister hamnar någonstans mellan välfärdsstat och allomfattandestat (då de ofta vill ha en större omfördelning av resurser i samhället, men inte ersätta marknadsekonomin helt). 
 
-### Ingen stat
+#### Ingen stat
 Den totala frånvaron av en stat förespråkas framförallt av den socialistiska förgreningen _anarkismen_ och av _vissa kommunister_. För dessa är målet  ett både stats- och klasslöst samhälle. I vissa fall innebär detta att vi _först_ måste genomgå ett stadie då en allomfattande stat avskaffar den kapitalistiska marknadsekonomin, för att sedan hamna i ett stadie då denna stat inte längre behövs och därför kan *avvecklas*. 
 
 De som förespråkar den totala avsaknaden av en stat menar att staten alltid utgör ett förtryck och en makt över individen som i det långa loppet inte kan rättfärdigas. 
 
-### Nattväktarstat
+#### Nattväktarstat
 En nattväktarstat är en slags minimi-stat. En sådant stat har endast en uppgift: att skydda medborgarna från varandra och från övriga stater (och därmed säkra "den inre" och "den yttre" säkerheten). Detta innebär i praktiken att staten endast står för sådant som ett rättsväsende (polis och domstolar), militär samt brandkår. I denna typ av stat råder 100 procent oreglerad marknadsekonomi och det sker ingen omfördelning av resurser från statens sida. Statens uppgift begränsas till att skydda medborgaren _liv_, _frihet_, och _egendom_. Utöver detta skall staten vara _passiv_.
 
 **Förespråkas av:** Nyliberaler/libertarianer. Vissa konservativa.
 
-### Välfärdsstat
+#### Välfärdsstat
 I en välfärdsstat står staten för mer än skyddet av _liv_, _frihet_ och _egendom_. I denna typ av stat är fokus på positiva rättigheter långt större. Framförallt syftar välfärdsstaten till att kompensera de individer som givits en allt för dålig lott i livets biologiska och sociala lotteri. Detta innebär att staten dels ger alla människor grundläggande förutsättningar att klara sig bra i livet genom sådant som _allmän vård_ och _allmän skola_. Men också genom ett större _skyddsnät_ i form av sådant som _pension_ och *sjukförsäkring*. I denna bemärkelse sker en viss omfördelning av resurser i ett välfärdssamhälle. Ofta genom att de som har mer beskattas högre. 
 
 Ekonomin i en välfärdstat är en blandekonomi. Detta innebär att man i stort har en marknadsekonomi men att staten sköter vissa grundläggande samhällsfunktioner.
 
 **Förespråkas av:** Social-liberaler och reformistiska socialister (däribland socialdemokrater). Vissa konservativa. För social-liberaler och konservativa handlar det dock om att se till vad man brukar kalla för _välfärdens kärna_. Med andra ord, välfärd är bra, men inte _för mycket_. 
 
-### Allomfattande stat
+#### Allomfattande stat
 
 Exakt vad det innebär att en stat är "allomfattande" är en fråga för diskussion. För många utgör en sådan stat endast ett skräckexempel på en typ av stat som ingriper i livets alla delar. En stat som spionerar på sina egna medborgare, fängslar de som inte anpassar sig till makten och reglerar samhället in i minsta detalj. 
 
