@@ -14,6 +14,10 @@ Frågor ställer man i första hand under lektionstid. Om man känner att man in
 
 Och kom ihåg: Var frågvisa – man lär sig mer då!
 
+### Angående information, denna wiki & schoolsoft
+
+Det är i första hand på denna sida ni finner information om uppgifter etc. Via Schoolsoft kommer främst  omdömen och betyg att rapporteras, samt meddelanden om deadlines etc. 
+
 ## Uppdateringar av denna wiki
 
 * (2015-05-01) Något ändrades på sidan igen
