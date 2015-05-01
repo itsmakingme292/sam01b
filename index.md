@@ -10,5 +10,6 @@ Tips: Navigera er genom att använda menyn högst upp. Varje delmoment har under
 
 ## Senaste uppdateringarna
 
+Tips: 
 * (2015-05-01) Bla bla bla
 * (2015-05-01) Bla bla bla
