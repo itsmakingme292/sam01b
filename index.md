@@ -20,5 +20,5 @@ Det är i första hand på denna sida ni finner information om uppgifter etc. Vi
 
 ## Uppdateringar av denna wiki
 
-* (2015-05-01) Något ändrades på sidan igen
-* (2015-05-01) Något ändrades på sidan
+* (2015-08-10) Övergripande uppdateringar inför kommande läsår 
+* (2015-08-01+) Rensade uppdateringshistorik inför kommande läsår
