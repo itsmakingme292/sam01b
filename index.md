@@ -1,8 +1,10 @@
 # Samhällskunskap 1b
 
-## Välkomna
+## Om denna sida
 
-På denna sida finner ni allt material utöver kursboken. Detta innebär sådant som kompletterande läsning, övningsuppgifter, diskussionsmaterial och instruktioner för examinerande moment. 
+I denna wiki finner ni material för läsning, övningsuppgifter, diskussionsunderlag och instruktioner för examinerande moment. Tanken är att samla allt på en plats, för att göra det så lätt som möjligt för er. Jag uppdaterar denna wiki kontinuerligt och man kan lätt se vad som ändrats längst ner på denna sida. 
+
+Om ni har idéer för förbättring av både denna wiki och kursen som helhet, tveka inte att prata med mig om det. 
 
 **/ Fredrik**
 
