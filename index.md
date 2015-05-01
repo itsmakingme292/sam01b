@@ -2,6 +2,8 @@
 
 Viktig uppdatering: Här kan skriva om den uppdatering som är jätteviktig... Funkar också med titeln "viktig information"...
 
+ANNA ÄR EN FIS!
+
 ## Välkomna!
 
 I denna wiki finner ni material för läsning, övningsuppgifter, diskussionsunderlag och instruktioner för examinerande moment. Tanken är att samla allt på en plats för att göra det så lätt som möjligt för er. Jag uppdaterar denna wiki kontinuerligt och man kan lätt se vad som ändrats längst ner på denna sida. 
