@@ -1,6 +1,6 @@
 # Det goda samhället
 
-## Ideologier och dess två komponenter
+## Ideologierna och dess två komponenter
 En ideologi är ett ”paket” med idéer. En slags helhet med lika delar beskrivande teori som grundläggande värderingar
 
 _Varje ideologi förklarar:_
