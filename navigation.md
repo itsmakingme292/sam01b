@@ -15,14 +15,14 @@
 [Kritiskt tänkande]()
 
   * # Material
+  * Vad är kritiskt tänkande?](1_intro/vad_ar_samhallskunskap.md)
   * [Källkritik](1_intro/vad_ar_samhallskunskap.md)
   * [Media](1_intro/vad_ar_samhallskunskap.md)
   * [Kognitiva Bias](1_intro/kursens_upplagg.md)
   * [Argumentation](1_intro/kursplan.md)
   - - - -
   * # Övningsuppgifter & Diskussionsunderlag
-  * [Bedömning & Betyg](1_intro/bedomning.md)
-  * [Källhantering & Plagiat](1_intro/kallhantering.md)
+  * [...](1_intro/bedomning.md)
 
 [Demokrati]()
 
