@@ -93,7 +93,7 @@ En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideolo
 <!--Denna del i löpande text istället? -->
  
 
-### Liberalismen
+#### Liberalismen
 * Individen
 	* Varje människas "egen utopi" och största möjliga handlingsutrymme. 
 	* Ingen bättre än individen själv vet vad ett gott liv innebär för denne. Inte heller skall individen _tvingas_ in i ett kollektivt ansvar för andra människors liv.
@@ -101,7 +101,7 @@ En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideolo
 
 <!--Med andra ord: största möjliga handlingsutrymme för individen -->
 
-### Socialismen
+#### Socialismen
 * Kollektivet
 	* Alla människor tillsammans. Genom solidaritet lyfter männsiskor varandra. 
 	* Socialismen bortser inte från individen, men kollektivet är likväl den viktigare politiska enheten. Detta eftersom _samhällsnyttan_ går före _egennyttan_.
@@ -109,7 +109,7 @@ En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideolo
 
 <!--Det är alltså inte så att socialismen struntar i individen, detta är en nidbild.  Tvärtom är individen själva målet. Men den viktigare politiska enheten är likväl kollektivet Detta blir mer klart när vi kommer till nästa punkt -->
 
-### Konservatismen
+#### Konservatismen
 * Nationen, familjen, traditionen, religionen etc.
 	* Kan vara olika beroende på vilken konservativ vi frågar.
 	* För många konservativa är *nationen* den _viktigaste_ enheten. Men den kanske _mest grundläggande_ enheten är samtidigt _kärnfamiljen_. Många konservativa lägger också stor vikt vid _religionen_.
@@ -118,19 +118,19 @@ En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideolo
 <!--Ang. kärnfamiljen: alltså inte ex. individen Detta kan vi se när det kommer till syn på om individen ska ha rätt att adoptera ex. Eller om det är en mamma och en pappa i en familj Eller för den delen föräldraledighet En socialist eller liberal skulle mer resonera att det är en individens rättighet För en konservativ blir det mer familjens rättighet Och kanske helst ska mamman stanna hemma -->
 
 ## Människosyn
-### Liberalismen
+#### Liberalismen
 1. Människan har stor potential att bli den hon vill.
 	* Människan är i grunden god, handlingskraftig och kreativ.
 2. Varje människa kan och _ska_ vara sin "egen lyckas smed".
 	* Det är upp till dig! Samhället är inte skyldig dig något annat än din frihet.
 
-### Socialismen:
+#### Socialismen:
 1. Människan har stor potential att bli den hon vill.
 	* Människan är i grunden god, handlingskraftig och kreativ, men hon hämmas och korrumperas i ett kapitalistisk samhälle.
 2. Människans potential realiseras genom kollektivets styrka och avskaffandet av samhällsklasser (kapitalism).
 	* Vi behöver varandra för vårt självförverkligande.
 
-### Konservatismen:
+#### Konservatismen:
 1. Människan är svag och i stort behov av vägledning. 
 	* Människan är ej av naturen god. En mer pessimistisk syn på människan. 
 2. Människan behöver tydliga ramar och fasta normer. 
@@ -142,7 +142,7 @@ En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideolo
 ### Statens grundläggande syfte
 Kortfattat skulle statens grundläggande syfte inom de tre klassiska ideologierna kunna förklaras som följande:
 
-### Liberalismen
+#### Liberalismen
 
 1. Ge människor friheten att leva så som denne vill, så länge detta inte innebär ett direkt våld mot andra individer. 
 2. Genom att skydda människor från varandra, men i övrigt inte lägga sig i allt för mycket.
@@ -150,11 +150,11 @@ Kortfattat skulle statens grundläggande syfte inom de tre klassiska ideologiern
 <!--1.Så lången individen inte brukar våld mot andra. 2.Så länge rent våld inte förekommer så är alla frivilliga transaktioner något en stat inte ska lägga sig i: en oreglerad marknadsekonomi -->
 
 
-### Socialismen
+#### Socialismen
 1. Ge människor så likartade möjligheter och förutsättningar det går.
 2. Genom stora omfördelningar av ekonomiska och sociala resurser i form av (delvis) gemensamt ägande och omfattande välfärd. Marknadsekonomin måste regleras (göras mindre kapitalistiskt) eller rentav avskaffas (ersättas med planekonomi). 
 
-### Konservatismen
+#### Konservatismen
 1. Ge människor en trygg gemenskap med tydliga ramar. 
 2. Genom bevarandet av samhällets viktiga institutioner, normer, värderingar och traditioner. Samhällets rötter får inte ryckas upp, samhället måste få utvecklas i sin egen takt. Staten bör inte förändra samhället i grunden utan tvärtom _värna_ om dess historiska värden.
 
