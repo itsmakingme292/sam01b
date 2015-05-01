@@ -11,8 +11,6 @@
   * [Bedömning & Betyg](subitem3.md)
   * [Källhantering & Plagiat](subitem3.md)
   - - - -
-  * # Övrigt
-  * [Om denna sida](index.md)
 
 [Demokrati i teori & praktik]()
 
