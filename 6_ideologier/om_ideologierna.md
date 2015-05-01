@@ -85,7 +85,7 @@ Positiva rättigheter handlar om _rätten till_ något. Dessa kräver en aktiv h
 
 ## Människan och samhället
 
-## Primära ideologiska enheter och fokus
+### Primära ideologiska enheter och fokus
 En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideologi fokuserar på i sin analys av samhället och i sitt ideologiska program (förslag på förändringar).
 
 
@@ -137,7 +137,7 @@ En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideolo
 
 <!--dessa = delvis naturliga (kvinna/man som exempel) Iaf inget man bör förändra -->
 
-## Statens uppgift
+### Statens uppgift
 ## Statens grundläggande syfte
 Kortfattat skulle statens grundläggande syfte inom de tre klassiska ideologierna kunna förklaras som följande:
 
