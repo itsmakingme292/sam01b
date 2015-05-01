@@ -49,7 +49,7 @@ Oavsett ideologi, måste vi ha en balans mellan rättigheter och skyldigheter. F
 
 <!--Samt om fokus på: positiva eller negativa... -->
 
-## Positiva & negativa rättigheter
+### Positiva & negativa rättigheter
 När det gäller rättigheter finner vi den stora skiljelinjen mellan ideologierna i vilket fokus de lägger på _negativa_ respektive _positiva_ rättigheter. 
 
 Negativa rättigheter handlar om *friheten från* något. Sådana rättigheter kräver ingen _aktiv_ handling ifrån staten, tvärtom. Dessa innebär "endast" att vi slipper inblandning från staten. Ett exempel på en negativ rättighet är _yttrandefriheten_, vilken innebär att vi inte _blir hindrade_ eller censurerade då vi uttrycker vår åsikt. 
@@ -61,12 +61,12 @@ Positiva rättigheter handlar om _rätten till_ något. Dessa kräver en aktiv h
 <!--Vi ges inte varsin kolumn i någon dagstidning Yttrandefrihet innebär endast att vi inte kommer bli hindrade av staten då vi uttrycker vår åsikt Positiv: Rätten till skolgång Vi GES något av staten -->
 
 
-### Liberalismen
+#### Liberalismen
 * Fokus på negativa rättigheter
 	* Människor skall vara lika inför lagen och ges stora friheter.
 	* Människor ska själva få bestämma över sina liv så länge de inte skadar andra. Staten skall i högsta möjliga mån låta individen vara.
 
-### Socialismen
+#### Socialismen
 * Större fokus på positiva rättigheter
 	* Hur lika vi än är inför lagen, räcker inte detta för att göra ett samhälle jämlikt. Vissa ges "sämre kort" från första början och har därför inte samma förutsättningar.
 	* Vi måste aktivt korrigera social ojämlikhet politiskt genom positiva rättigheter. 
@@ -77,7 +77,7 @@ Positiva rättigheter handlar om _rätten till_ något. Dessa kräver en aktiv h
 
 <!--Det räcker inte att de formella strukturerna (lagen) är "neutrala", de informella strukturerna (kapitalismen) måste också korrigeras politiskt. Genom att staten reglerar marknadsekonomin (kapitalism) + rättigheter Vissa ges "sämre kort", inte av staten, utan i sin sociala kontext (klass, kön, etnicitet, etc) -->
 
-### Konservatismen
+#### Konservatismen
 * Individens rättigheter får aldrig gå före bevarandet av de värden som samhället byggt upp
 	* Medborgaren har en skyldighet att rätta sig efter kollektiva värderingar och delta i värnandet av kulturen och dess normer.
 	* Samhället är en "känslig organism" där alla spelar olika roller (funktionalism). Jämlikhet är i denna mening ett något främmande begrepp för konservatismen. Vi _är_ olika och bör därför _behandlas_ olika. 
