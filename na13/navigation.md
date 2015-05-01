@@ -3,7 +3,7 @@
 # NA 13 – Samhällskunskap 1b
 
 [Om denna Wiki](../index.md)
-[Sveriges politiska system & Demokrati]()
+[Demokrati i teori & praktik]()
 
   * # SubMenu Heading 1
   * [SubMenu Item 1](subitem1.md)
