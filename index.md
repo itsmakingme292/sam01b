@@ -1,4 +1,3 @@
-# Välkomna till Samhällskunskap 1b!
 
 ### Kort om denna sida
 
