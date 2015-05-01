@@ -28,3 +28,9 @@ För mer information om bedömning och betyg [klicka här](1_intro/bedomning.md)
 * (2015-08-10) Rensade uppdateringshistorik inför kommande läsår
 
 > test med quote...
+
+och igen med hur jag har det i filosofi-läroboken
+
+> *En definition av begreppet “boll” skulle kanske kunna vara:*
+> 
+> > “En boll är ett sfäriskt objekt man använder i olika typer av spel och sport”.
