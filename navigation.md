@@ -21,7 +21,7 @@
   * # Övningar & Diskussionsunderlag
   * [SubMenu Item 3](subitem3.md)
   - - - -
-  * # SubMenu Heading 3
+  * # Examinerande moment
   * [SubMenu Item 3](subitem3.md)
   
 [Samhällsekonomi]()
@@ -33,7 +33,7 @@
   * # Övningar & Diskussionsunderlag
   * [SubMenu Item 3](subitem3.md)
   - - - -
-  * # SubMenu Heading 3
+  * # Examinerande moment
   * [SubMenu Item 3](subitem3.md)
 
 [Kultur & Norm]()
@@ -45,7 +45,7 @@
   * # Övningar & Diskussionsunderlag
   * [SubMenu Item 3](subitem3.md)
   - - - -
-  * # SubMenu Heading 3
+  * # Examinerande moment
   * [SubMenu Item 3](subitem3.md)
 
 [Ideologier]()
@@ -57,7 +57,7 @@
   * # Övningar & Diskussionsunderlag
   * [SubMenu Item 3](subitem3.md)
   - - - -
-  * # SubMenu Heading 3
+  * # Examinerande moment
   * [SubMenu Item 3](subitem3.md)
   
 [FN & Mänskliga rättigheter]()
@@ -69,5 +69,5 @@
   * # Övningar & Diskussionsunderlag
   * [SubMenu Item 3](subitem3.md)
   - - - -
-  * # SubMenu Heading 3
+  * # Examinerande moment
   * [SubMenu Item 3](subitem3.md)
