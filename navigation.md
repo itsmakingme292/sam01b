@@ -15,7 +15,7 @@
 [Kritiskt tänkande]()
 
   * # Material
-  * Vad är kritiskt tänkande?](1_intro/vad_ar_samhallskunskap.md)
+  * [Vad är kritiskt tänkande?](1_intro/vad_ar_samhallskunskap.md)
   * [Källkritik](1_intro/vad_ar_samhallskunskap.md)
   * [Media](1_intro/vad_ar_samhallskunskap.md)
   * [Kognitiva Bias](1_intro/kursens_upplagg.md)
