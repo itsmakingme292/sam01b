@@ -12,11 +12,11 @@ Om ni har idéer för förbättring av både denna wiki och kursen som helhet, t
 
 ## Kontakt & frågor
 
-Undrar man något, eller behöver prata med mig om något, gör man detta i första hand på lektionstid. Försök verkligen använda denna tid till att samtala och inte endast sitta passiva. 
+Frågor ställer man i första hand under lektionstid. Om man känner att man inte kan vänta till nästa lektion kan man besöka mig på mitt arbetsrum. Får man inte tag i mig så skickar man ett meddelande på schoolsoft. 
 
-Vid mer akuta frågor ser man först om jag sitter på mitt arbetsrum. Om man inte får tag i mig så skickar man ett meddelande på schoolsoft. 
+Och kom ihåg: För bästa möjliga lärandesituation: var frågvisa! 
 
-## Uppdateringar
+## Uppdateringar av denna wiki
 
 * (2015-05-01) Något ändrades på sidan igen
 * (2015-05-01) Något ändrades på sidan
