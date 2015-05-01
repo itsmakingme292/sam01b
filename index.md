@@ -1,6 +1,6 @@
-# Samhällskunskap 1b
+# Samhällskunskap 1b - Wiki och material
 
-## Kort om denna sida
+## Välkomna
 
 På denna sida finner ni allt material utöver kursboken.
 
@@ -10,7 +10,7 @@ OBS: Det är i första hand här som uppdateringar kommer att ske. Via Schoolsof
 
 **/ Fredrik**
 
-## Senaste uppdateringarna
+## Uppdateringar
 
-* (2015-05-01) Bla bla bla
-* (2015-05-01) Bla bla bla
+* (2015-05-01) Något ändrades på sidan igen
+* (2015-05-01) Något ändrades på sidan
