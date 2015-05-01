@@ -3,7 +3,7 @@
 # Samhällskunskap 1b, Mikael Elias Gymnasium, Fredrik Ståhl
 
 [Startsida/Info](index.md)
-[Demokrati i teori & praktik]()
+[Demokrati]()
 
   * # SubMenu Heading 1
   * [SubMenu Item 1](subitem1.md)
@@ -27,7 +27,7 @@
   * # SubMenu Heading 3
   * [SubMenu Item 3](subitem3.md)
 
-[Kultur, Identitet, Norm & Makt]()
+[Kultur & Norm]()
 
   * # SubMenu Heading 1
   * [SubMenu Item 1](subitem1.md)
@@ -39,7 +39,7 @@
   * # SubMenu Heading 3
   * [SubMenu Item 3](subitem3.md)
 
-[Ideologierna & Det goda samhället]()
+[Ideologier]()
 
   * # SubMenu Heading 1
   * [SubMenu Item 1](subitem1.md)
