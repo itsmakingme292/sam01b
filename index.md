@@ -3,7 +3,8 @@
 På denna sida finner ni allt material utöver kursboken. 
 
 Navigera er genom att använda menyn ovan. Varje delmoment har undermenyer.
-#### / Fredrik
+
+**/ Fredrik**
 <br>
 *Senaste uppdateringarna av denna sida*
 
