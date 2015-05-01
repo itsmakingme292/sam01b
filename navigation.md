@@ -1,4 +1,4 @@
-[gimmick:theme](readable)
+[gimmick:theme](egen)
 # SAM01b
 
 [Introduktion]()
