@@ -1,3 +1,5 @@
+[gimmick:theme](readable)
+
 # Fredriks Wiki
 
 [Home](home.md)
