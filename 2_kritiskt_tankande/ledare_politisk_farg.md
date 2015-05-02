@@ -15,7 +15,7 @@ Det sagt har vanligen en svensk tidning en viss polisk färg. Politiskt obundna 
 **Läs igenom ledarna** och...
 
 * Försök avgöra deras respektive politiska inriktningar. 
-* Fundera över vad du finner särskilt ”avslöjande” och skriv en kortare kommentar.
+* Notera sådant du finner särskilt ”avslöjande” och skriv en kortare kommentar.
 
 [Svara i det individuella formuläret längst ner på denna sida...](#Individuellt_svarsformulär)
 
@@ -47,6 +47,7 @@ Nördar eller nörderi är inte ett viktigare tema än något annat. Men det är
 
 I det här numret vill vi undersöka varför kvinnliga nördar har så svårt att claima sin - nördighet. Vi vill ifrågasätta den potentiella geekrevolutionen och framför allt ta reda på vad intellektuellt sug kan leda till för framtidsvisioner. Om det finns en värld där passion och intresse kommer före kön och kroppsliga begränsningar, vill vi gärna besöka den.
 
+Tips: [Fyll i respektive del i formuläret längst ner på denna sida efter varje läst ledare (men tryck inte på "submit" innan du är klar med läsningen av samtliga)...](#Individuellt_svarsformulär)
 ## Ledare 2: Höj rösten för handeln
 
 Frihandelsförhandlingarna ­mellan EU och USA står still. Stefan ­Löfven behöver knuffa på.
@@ -77,6 +78,7 @@ Då liksom nu sägs investeringsavtal leda till företagsdiktatur och välfärds
 
 Stefan Löfven borde höja rösten, skingra myterna och formulera ett tydligare stöd åt ett avtal som svensk och europeisk ekonomi behöver.​
 
+Tips: [Fyll i respektive del i formuläret längst ner på denna sida efter varje läst ledare (men tryck inte på "submit" innan du är klar med läsningen av samtliga)...](#Individuellt_svarsformulär)
 ## Ledare 3: Hyckleriet efter terrordådet i Paris
 
 Terrordådet i Paris är förskräckligt. Inte minst visar dådet vilket farligt Frankensteins monster som har byggts upp med västliga och saudiska pengar i krigens Syrien och Irak. Risken är stor att vi kommer att få se fler blodiga konsekvenser när fundamentalistiska våldsverkare som tränats i krig kommer hem igen, oavsett om det är nazister som vänder hem från Ukraina eller IS-krigare från Syrien och Irak.
@@ -121,6 +123,7 @@ Islamofobin och Islamiska Staten är varandras spegelbilder och förutsättninga
 
 Ett första steg för att försöka förhindra fler terrorbrott är att ge stöd och uppbackning till de krafter i förorter och moskéer som arbetar mot IS värvningar av soldater. Lika viktigt är att Sverige måste sluta ge politiskt, moraliskt, ekonomiskt och alla andra former av stöd till de krafter som håller de fundamentalistiska våldsverkarna under armarna – det gäller såväl imperialismens försök att med terror störta regeringar i Mellanöstern som den liberal-fascistiska kuppregimen i Ukraina.
 
+Tips: [Fyll i respektive del i formuläret längst ner på denna sida efter varje läst ledare (men tryck inte på "submit" innan du är klar med läsningen av samtliga)...](#Individuellt_svarsformulär)
 ## Ledare 4: Politiska konflikter – men inte prestige
 
 **Alla är överens om att skolan måste prioriteras**
@@ -146,6 +149,7 @@ Ingen ifrågasätter i dag att skolan har problem, och trots att Björklund gån
 **Det är prestige**
 Att den tioåriga grundskolan i praktiken är genomförd sedan snart 20 år och att ingen ifrågasätter att reglerna för friskolorna måste skärpas spelar i det sammanhanget ingen roll.Det är, om vi ska vara ärliga, inte politik. Det är prestige. Och lika säkert som att svensk politik i dag behöver tydliga politiska alternativ är nog att vi inte behöver fler strider om symboler och prestige.
 
+Tips: [Fyll i respektive del i formuläret längst ner på denna sida efter varje läst ledare (men tryck inte på "submit" innan du är klar med läsningen av samtliga)...](#Individuellt_svarsformulär)
 ## Ledare 5: Ubåtar och Nato utmanar
 
 Lagom till Folk och Försvars rikskonferens så avslöjade den säkerhetspolitiske reportern Mikael Holmström, som nyss gått från Svenska Dagbladet till Dagens Nyheter, att det skett ytterligare en ubåtskränkning i Stockholms skärgård, och det bara en vecka efter den omfattande ubåtsjakten i höstas.
@@ -162,6 +166,7 @@ Därför är det också olyckligt att den rödgröna regeringen avfärdar en utr
 
 När utrikesminister Margot Wallström (S) i Sälen sade att en utredning bara skulle sprida oro i Östersjön så lät hon mer som ett eko av Moskva. Det som sprider oro i Östersjön är det ryska agerandet, inte den försvarsallians som skyddar sina medlemmar. Det säkerhetspolitiska hål som ett alliansfritt Sverige utgör skapar i sig också oro i Östersjön. Fylls det inte av Nato och/eller ett betydligt starkare svenskt försvar så kommer Moskva att göra det. 
 
+Tips: [Fyll i respektive del i formuläret längst ner på denna sida efter varje läst ledare (men tryck inte på "submit" innan du är klar med läsningen av samtliga)...](#Individuellt_svarsformulär)
 ## Individuellt svarsformulär
 
 <iframe src="https://docs.google.com/forms/d/13KExITglXiOJHj7SK7WSw826-BbQrFp7chB6ty-eGi8/viewform?embedded=true" width="660" height="1200" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto">Loading...</iframe>
