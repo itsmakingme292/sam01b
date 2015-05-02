@@ -16,7 +16,7 @@ Frågor ställer man i första hand under lektionstid. Om man känner att man in
 
 Och kom ihåg: Var frågvisa – man lär sig mer då!
 
-### Angående information & Schoolsoft
+#### Angående information & Schoolsoft
 
 Det är i första hand på denna sida ni finner information om delmomenten och uppgifter. Via Schoolsoft kommer främst omdömen och betyg att rapporteras, samt deadlines för inlämningar och provtillfällen i provschemat. 
 
