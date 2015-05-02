@@ -40,7 +40,7 @@
 
   * # Material
   * [SubMenu Item 1](subitem1.md)
-  * [SubMenu Item 2](subitem2.md)
+  * [Centrala Begrepp](4_norm/centrala_begrepp.md)
   - - - -
   * # Övningar & Diskussionsunderlag
   * [SubMenu Item 3](subitem3.md)

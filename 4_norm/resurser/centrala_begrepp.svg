@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1039px" height="1390px" viewBox="0 0 1039 1390" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Untitled</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Centrala-begrepp---test-ny-layout" sketch:type="MSLayerGroup">
+            <path d="M0,0.04 L1038.96,0.04 L1038.96,1390 L0,1390 L0,0.04 Z" id="Fill-1" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M11,11 L1028,11 L1028,1379 L11,1379 L11,11 Z" id="Fill-3" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M11,11 L1028,11 L1028,1379 L11,1379 L11,11 Z" id="Stroke-4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <text id="Samhällets-struktur" sketch:type="MSTextLayer" font-family="Georgia" font-size="43" font-weight="normal" fill="#000000">
+                <tspan x="36" y="65.1420898">Samhällets struktur</tspan>
+            </text>
+            <text id="=-det-samspelsmönster-vi-kan-se-på-samhällelig-nivå" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="36" y="95.8203125">= det samspelsmönster vi kan se på samhällelig nivå</tspan>
+            </text>
+            <path d="M56,146.909 L227.36,146.909 L227.36,416 L56,416 L56,146.909 Z" id="Fill-5" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M56,146.909 L227.36,146.909 L227.36,416 L56,416 L56,146.909 Z" id="Stroke-6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <text id="Aktörer" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="bold" fill="#000000">
+                <tspan x="109.3987" y="226.774813">Aktörer</tspan>
+            </text>
+            <text id="Individer" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="108.8435" y="264.774813">Individer</tspan>
+            </text>
+            <text id="Grupper" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="111.7139" y="283.774813">Grupper</tspan>
+            </text>
+            <text id="Företag" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="114.5619" y="302.774813">Företag</tspan>
+            </text>
+            <text id="Organisationer" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="88.4963" y="321.774813">Organisationer</tspan>
+            </text>
+            <text id="Myndigheter" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="96.1571" y="340.774813">Myndigheter</tspan>
+            </text>
+            <path d="M497,38.909 L668.36,38.909 L668.36,308 L497,308 L497,38.909 Z" id="Fill-7" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M497,38.909 L668.36,38.909 L668.36,308 L497,308 L497,38.909 Z" id="Stroke-8" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <text id="Institutioner" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="bold" fill="#000000">
+                <tspan x="529.5433" y="90.2748125">Institutioner</tspan>
+            </text>
+            <text id="Familjen" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="551.2457" y="128.274812">Familjen</tspan>
+            </text>
+            <text id="Staten" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="560.0425" y="147.274812">Staten</tspan>
+            </text>
+            <text id="Rättssystemet" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="532.8985" y="166.274812">Rättssystemet</tspan>
+            </text>
+            <text id="Religionen" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="544.5161" y="185.274812">Religionen</tspan>
+            </text>
+            <text id="Ekonomin" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="545.7001" y="204.274812">Ekonomin</tspan>
+            </text>
+            <text id="Skolan-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="558.5481" y="223.274812">Skolan </tspan>
+            </text>
+            <text id="Media" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="560.4265" y="242.274812">Media</tspan>
+            </text>
+            <path d="M71,497 L212.545,497 C220.829,497 227.545,503.716 227.545,512 L227.545,571.697 C227.545,579.981 220.829,586.697 212.545,586.697 L71,586.697 C62.716,586.697 56,579.981 56,571.697 L56,512 C56,503.716 62.716,497 71,497 L71,497 Z" id="Fill-9" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M71,497 L212.545,497 C220.829,497 227.545,503.716 227.545,512 L227.545,571.697 C227.545,579.981 220.829,586.697 212.545,586.697 L71,586.697 C62.716,586.697 56,579.981 56,571.697 L56,512 C56,503.716 62.716,497 71,497 L71,497 Z" id="Stroke-10" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <text id="Kultur" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="bold" fill="#000000">
+                <tspan x="114.3155" y="544.168812">Kultur</tspan>
+            </text>
+            <path d="M367.455,821.303 L509,821.303 C517.284,821.303 524,828.019 524,836.303 L524,896 C524,904.284 517.284,911 509,911 L367.455,911 C359.171,911 352.455,904.284 352.455,896 L352.455,836.303 C352.455,828.019 359.171,821.303 367.455,821.303 L367.455,821.303 Z" id="Fill-11" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M367.455,821.303 L509,821.303 C517.284,821.303 524,828.019 524,836.303 L524,896 C524,904.284 517.284,911 509,911 L367.455,911 C359.171,911 352.455,904.284 352.455,896 L352.455,836.303 C352.455,828.019 359.171,821.303 367.455,821.303 L367.455,821.303 Z" id="Stroke-12" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <text id="Normer" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="bold" fill="#000000">
+                <tspan x="405.4072" y="868.471812">Normer</tspan>
+            </text>
+            <path d="M829.64,92.909 L1001,92.909 L1001,362 L829.64,362 L829.64,92.909 Z" id="Fill-13" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M829.64,92.909 L1001,92.909 L1001,362 L829.64,362 L829.64,92.909 Z" id="Stroke-14" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <text id="Sociala-kategorier-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="bold" fill="#000000">
+                <tspan x="840.6521" y="153.774813">Sociala kategorier </tspan>
+            </text>
+            <text id="Klass" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="896.5305" y="191.774813">Klass</tspan>
+            </text>
+            <text id="Kön-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="900.7257" y="210.774813">Kön </tspan>
+            </text>
+            <text id="Etnicitet" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="884.8937" y="229.774813">Etnicitet</tspan>
+            </text>
+            <text id="Sexualitet" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="880.2681" y="248.774813">Sexualitet</tspan>
+            </text>
+            <text id="Ålder" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="895.9241" y="267.774813">Ålder</tspan>
+            </text>
+            <text id="Funktionalitet" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="864.7129" y="286.774813">Funktionalitet</tspan>
+            </text>
+            <text id="Religion" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="885.7481" y="305.774813">Religion</tspan>
+            </text>
+            <path d="M477.187,1100 L597.268,1100 C611.472,1100 623,1110.297 623,1122.985 C623,1135.672 611.472,1145.97 597.268,1145.97 L477.187,1145.97 C462.983,1145.97 451.455,1135.672 451.455,1122.985 C451.455,1110.297 462.983,1100 477.187,1100" id="Fill-15" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M477.187,1100 L597.268,1100 C611.472,1100 623,1110.297 623,1122.985 C623,1135.673 611.472,1145.97 597.268,1145.97 L477.187,1145.97 C462.983,1145.97 451.455,1135.673 451.455,1122.985 C451.455,1110.297 462.983,1100 477.187,1100" id="Stroke-16" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <text id="Socialisation" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="bold" fill="#000000">
+                <tspan x="484.0439" y="1125.30521">Socialisation</tspan>
+            </text>
+            <path d="M845.537,1279.03 L973.565,1279.03 C988.709,1279.03 1001,1289.328 1001,1302.015 C1001,1314.703 988.709,1325 973.565,1325 L845.537,1325 C830.393,1325 818.102,1314.703 818.102,1302.015 C818.102,1289.328 830.393,1279.03 845.537,1279.03" id="Fill-17" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M845.537,1279.03 L973.565,1279.03 C988.709,1279.03 1001,1289.328 1001,1302.015 C1001,1314.703 988.709,1325 973.565,1325 L845.537,1325 C830.393,1325 818.102,1314.703 818.102,1302.015 C818.102,1289.328 830.393,1279.03 845.537,1279.03" id="Stroke-18" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <text id="Reproduktion" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="bold" fill="#000000">
+                <tspan x="851.7034" y="1304.33541">Reproduktion</tspan>
+            </text>
+            <path d="M141.691,416.5 L141.697,486.576" id="Stroke-19" stroke="#000000" stroke-width="1.008" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M141.698,494.589 L144.702,486.576 L138.693,486.576 L141.698,494.589 Z" id="Fill-20" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M141.698,494.589 L144.702,486.576 L138.692,486.576 L141.698,494.589 Z" id="Stroke-21" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M496.616,245.364 L203.449,490.316" id="Stroke-22" stroke="#000000" stroke-width="1.008" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M197.301,495.454 L205.376,492.622 L201.523,488.01 L197.301,495.454 Z" id="Fill-23" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M197.301,495.454 L205.376,492.622 L201.523,488.01 L197.301,495.454 Z" id="Stroke-24" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M829.177,262.466 L236.449,503.369" id="Stroke-25" stroke="#000000" stroke-width="1.008" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M229.026,506.386 L237.58,506.153 L235.317,500.585 L229.026,506.386 Z" id="Fill-26" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M229.026,506.386 L237.58,506.153 L235.317,500.585 L229.026,506.386 Z" id="Stroke-27" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M71,1232.03 L212.36,1232.03 C220.644,1232.03 227.36,1238.746 227.36,1247.03 L227.36,1337 C227.36,1345.284 220.644,1352 212.36,1352 L71,1352 C62.716,1352 56,1345.284 56,1337 L56,1247.03 C56,1238.746 62.716,1232.03 71,1232.03 L71,1232.03 Z" id="Fill-28" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M71,1232.03 L212.36,1232.03 C220.644,1232.03 227.36,1238.746 227.36,1247.03 L227.36,1337 C227.36,1345.284 220.644,1352 212.36,1352 L71,1352 C62.716,1352 56,1345.284 56,1337 L56,1247.03 C56,1238.746 62.716,1232.03 71,1232.03 L71,1232.03 Z" id="Stroke-29" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <text id="Individen-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="bold" fill="#000000">
+                <tspan x="101.6995" y="1275.33531">Individen </tspan>
+            </text>
+            <text id="och-dess" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="bold" fill="#000000">
+                <tspan x="106.7939" y="1294.33531">och dess</tspan>
+            </text>
+            <text id="Identitet" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="bold" fill="#000000">
+                <tspan x="105.7747" y="1313.33531">Identitet</tspan>
+            </text>
+            <path d="M227.86,1293.137 L807.715,1300.689" id="Stroke-30" stroke="#000000" stroke-width="1.008" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M815.727,1300.793 L807.754,1297.684 L807.676,1303.693 L815.727,1300.793 Z" id="Fill-31" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M815.727,1300.793 L807.754,1297.684 L807.676,1303.693 L815.727,1300.793 Z" id="Stroke-32" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M183.106,587.066 L390.193,813.609" id="Stroke-33" stroke="#000000" stroke-width="1.008" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M395.599,819.523 L392.41,811.582 L387.975,815.636 L395.599,819.523 Z" id="Fill-34" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M395.599,819.523 L392.41,811.582 L387.975,815.636 L395.599,819.523 Z" id="Stroke-35" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M455.695,911.467 L524.619,1090.274" id="Stroke-36" stroke="#000000" stroke-width="1.008" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M527.501,1097.75 L527.422,1089.193 L521.815,1091.354 L527.501,1097.75 Z" id="Fill-37" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M527.501,1097.75 L527.422,1089.193 L521.815,1091.354 L527.501,1097.75 Z" id="Stroke-38" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M482.981,1146.166 L236.945,1251.305" id="Stroke-39" stroke="#000000" stroke-width="1.008" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M229.577,1254.454 L238.126,1254.068 L235.765,1248.542 L229.577,1254.454 Z" id="Fill-40" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M229.577,1254.454 L238.126,1254.068 L235.765,1248.542 L229.577,1254.454 Z" id="Stroke-41" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M844.455,1082.303 L986,1082.303 C994.284,1082.303 1001,1089.019 1001,1097.303 L1001,1157 C1001,1165.284 994.284,1172 986,1172 L844.455,1172 C836.171,1172 829.455,1165.284 829.455,1157 L829.455,1097.303 C829.455,1089.019 836.171,1082.303 844.455,1082.303 L844.455,1082.303 Z" id="Fill-42" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M844.455,1082.303 L986,1082.303 C994.284,1082.303 1001,1089.019 1001,1097.303 L1001,1157 C1001,1165.284 994.284,1172 986,1172 L844.455,1172 C836.171,1172 829.455,1165.284 829.455,1157 L829.455,1097.303 C829.455,1089.019 836.171,1082.303 844.455,1082.303 L844.455,1082.303 Z" id="Stroke-43" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <text id="Maktordning" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="bold" fill="#000000">
+                <tspan x="861.0088" y="1129.47181">Maktordning</tspan>
+            </text>
+            <path d="M412.455,461 L554,461 C562.284,461 569,467.716 569,476 L569,535.697 C569,543.981 562.284,550.697 554,550.697 L412.455,550.697 C404.171,550.697 397.455,543.981 397.455,535.697 L397.455,476 C397.455,467.716 404.171,461 412.455,461 L412.455,461 Z" id="Fill-44" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M412.455,461 L554,461 C562.284,461 569,467.716 569,476 L569,535.697 C569,543.981 562.284,550.697 554,550.697 L412.455,550.697 C404.171,550.697 397.455,543.981 397.455,535.697 L397.455,476 C397.455,467.716 404.171,461 412.455,461 L412.455,461 Z" id="Stroke-45" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <text id="Diskriminering" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="bold" fill="#000000">
+                <tspan x="419.415" y="508.168812">Diskriminering</tspan>
+            </text>
+            <path d="M443.891,820.807 L476.334,561.041" id="Stroke-46" stroke="#000000" stroke-width="1.008" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M477.327,553.09 L473.353,560.668 L479.316,561.413 L477.327,553.09 Z" id="Fill-47" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M477.327,553.09 L473.353,560.668 L479.316,561.413 L477.327,553.09 Z" id="Stroke-48" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M553.256,460.729 L820.877,288.301" id="Stroke-49" stroke="#000000" stroke-width="1.008" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M827.613,283.961 L819.25,285.775 L822.505,290.827 L827.613,283.961 Z" id="Fill-50" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M827.613,283.961 L819.25,285.775 L822.505,290.827 L827.613,283.961 Z" id="Stroke-51" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M486.875,196.915 L237.485,257.987" id="Stroke-52" stroke="#000000" stroke-width="1.008" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M229.702,259.892 L238.2,260.905 L236.77,255.068 L229.702,259.892 Z" id="Fill-53" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M229.702,259.892 L238.2,260.905 L236.77,255.068 L229.702,259.892 Z" id="Stroke-54" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M494.658,195.01 L486.16,193.997 L487.59,199.834 L494.658,195.01 Z" id="Fill-55" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M494.658,195.01 L486.16,193.997 L487.59,199.834 L494.658,195.01 Z" id="Stroke-56" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M678.649,189.046 L819.351,211.905" id="Stroke-57" stroke="#000000" stroke-width="1.008" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M827.26,213.19 L819.833,208.939 L818.869,214.871 L827.26,213.19 Z" id="Fill-58" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M827.26,213.19 L819.833,208.939 L818.869,214.871 L827.26,213.19 Z" id="Stroke-59" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M670.74,187.761 L678.167,192.012 L679.131,186.08 L670.74,187.761 Z" id="Fill-60" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M670.74,187.761 L678.167,192.012 L679.131,186.08 L670.74,187.761 Z" id="Stroke-61" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M141.766,597.121 L141.689,1221.606" id="Stroke-62" stroke="#000000" stroke-width="1.008" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M141.688,1229.619 L144.693,1221.606 L138.684,1221.606 L141.688,1229.619 Z" id="Fill-63" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M141.688,1229.619 L144.693,1221.606 L138.684,1221.606 L141.688,1229.619 Z" id="Stroke-64" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M141.767,589.108 L138.761,597.121 L144.771,597.121 L141.767,589.108 Z" id="Fill-65" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M141.767,589.108 L138.761,597.121 L144.77,597.121 L141.767,589.108 Z" id="Stroke-66" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M718.455,686.303 L860,686.303 C868.284,686.303 875,693.019 875,701.303 L875,761 C875,769.284 868.284,776 860,776 L718.455,776 C710.171,776 703.455,769.284 703.455,761 L703.455,701.303 C703.455,693.019 710.171,686.303 718.455,686.303 L718.455,686.303 Z" id="Fill-67" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M718.455,686.303 L860,686.303 C868.284,686.303 875,693.019 875,701.303 L875,761 C875,769.284 868.284,776 860,776 L718.455,776 C710.171,776 703.455,769.284 703.455,761 L703.455,701.303 C703.455,693.019 710.171,686.303 718.455,686.303 L718.455,686.303 Z" id="Stroke-68" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <text id="Stereotyper" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-weight="bold" fill="#000000">
+                <tspan x="740.79" y="733.471812">Stereotyper</tspan>
+            </text>
+            <path d="M727.906,686.007 L552.507,556.877" id="Stroke-69" stroke="#000000" stroke-width="1.008" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M546.054,552.127 L550.726,559.297 L554.289,554.457 L546.054,552.127 Z" id="Fill-70" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M546.054,552.127 L550.726,559.297 L554.289,554.457 L546.054,552.127 Z" id="Stroke-71" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M67.693,899.888 L215.756,899.888 L215.756,960.888 L67.693,960.888 L67.693,899.888 Z" id="Fill-72" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <text id="Genom-kulturell-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="83.6582" y="913.707813">Genom kulturell </tspan>
+            </text>
+            <text id="tillhörighet-formas-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="73.8918" y="932.707813">tillhörighet formas </tspan>
+            </text>
+            <text id="individens-identitet" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="72.5318" y="951.707813">individens identitet</tspan>
+            </text>
+            <path d="M915.306,362.5 L915.233,1071.879" id="Stroke-73" stroke="#000000" stroke-width="1.008" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M915.232,1079.892 L918.238,1071.879 L912.228,1071.879 L915.232,1079.892 Z" id="Fill-74" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M915.232,1079.892 L918.238,1071.879 L912.228,1071.879 L915.232,1079.892 Z" id="Stroke-75" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M881.517,362.485 L802.986,676.191" id="Stroke-76" stroke="#000000" stroke-width="1.008" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M801.04,683.964 L805.901,676.921 L800.071,675.461 L801.04,683.964 Z" id="Fill-77" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M801.04,683.964 L805.901,676.921 L800.071,675.461 L801.04,683.964 Z" id="Stroke-78" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M883.758,1081.892 L520.362,559.255" id="Stroke-79" stroke="#000000" stroke-width="1.008" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M515.788,552.677 L517.895,560.971 L522.829,557.54 L515.788,552.677 Z" id="Fill-80" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M515.788,552.677 L517.895,560.971 L522.829,557.54 L515.788,552.677 Z" id="Stroke-81" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M525.657,913.99 L827.799,1079.313" id="Stroke-82" stroke="#000000" stroke-width="1.008" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M834.828,1083.159 L829.241,1076.677 L826.356,1081.949 L834.828,1083.159 Z" id="Fill-83" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M834.828,1083.159 L829.241,1076.677 L826.356,1081.949 L834.828,1083.159 Z" id="Stroke-84" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M518.627,910.144 L524.214,916.626 L527.099,911.354 L518.627,910.144 Z" id="Fill-85" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M518.627,910.144 L524.214,916.626 L527.099,911.354 L518.627,910.144 Z" id="Stroke-86" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M861.3,1278.814 L594.423,1150.487" id="Stroke-87" stroke="#000000" stroke-width="1.008" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M587.202,1147.015 L593.121,1153.195 L595.725,1147.779 L587.202,1147.015 Z" id="Fill-88" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M587.202,1147.015 L593.121,1153.195 L595.725,1147.779 L587.202,1147.015 Z" id="Stroke-89" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M628.586,1193.922 L828.268,1193.922 L828.268,1235.922 L628.586,1235.922 L628.586,1193.922 Z" id="Fill-90" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <text id="Individen-bidrar-till-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="656.88" y="1207.74241">Individen bidrar till </tspan>
+            </text>
+            <text id="andras-socialisation" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="655.6736" y="1226.74241">andras socialisation</tspan>
+            </text>
+            <path d="M406.093,955.802 L577.638,955.802 L577.638,1054.802 L406.093,1054.802 L406.093,955.802 Z" id="Fill-91" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <text id="Samhällets-olika-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="432.4236" y="969.621813">Samhällets olika </tspan>
+            </text>
+            <text id="aktörer-och-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="450.4748" y="988.621813">aktörer och </tspan>
+            </text>
+            <text id="institutioner-fostrar-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="420.1004" y="1007.62181">institutioner fostrar </tspan>
+            </text>
+            <text id="och-fostras-i-sociala-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="421.198" y="1026.62181">och fostras i sociala </tspan>
+            </text>
+            <text id="och-kulturella-normer" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="413.2796" y="1045.62181">och kulturella normer</tspan>
+            </text>
+            <path d="M261.071,1169.019 L455.188,1169.019 L455.188,1230.019 L261.071,1230.019 L261.071,1169.019 Z" id="Fill-92" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <text id="Kulturen-och-normen-blir-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="266.8987" y="1182.83971">Kulturen och normen blir </tspan>
+            </text>
+            <text id="till-en-del-av-det-egna-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="281.9179" y="1201.83971">till en del av det egna </tspan>
+            </text>
+            <text id="tänkandet" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="321.3755" y="1220.83971">tänkandet</tspan>
+            </text>
+            <path d="M408.81,1256.765 L603.951,1256.765 L603.951,1336.765 L408.81,1336.765 L408.81,1256.765 Z" id="Fill-93" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <text id="Individen-upprätthåller-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="421.0684" y="1270.58491">Individen upprätthåller </tspan>
+            </text>
+            <text id="och-återskapar-normen-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="421.8844" y="1289.58491">och återskapar normen </tspan>
+            </text>
+            <text id="genom-kommunikation-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="422.7788" y="1308.58491">genom kommunikation </tspan>
+            </text>
+            <text id="och-handling" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="459.662" y="1327.58491">och handling</tspan>
+            </text>
+            <path d="M778.085,454.68 L904.493,454.68 L904.493,591.68 L778.085,591.68 L778.085,454.68 Z" id="Fill-94" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <text id="Missvisande-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="796.7858" y="468.500812">Missvisande </tspan>
+            </text>
+            <text id="generaliseringar-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="780.6418" y="487.500812">generaliseringar </tspan>
+            </text>
+            <text id="och-överdrivna-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="786.5906" y="506.500812">och överdrivna </tspan>
+            </text>
+            <text id="uppfattningar-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="790.0002" y="525.500812">uppfattningar </tspan>
+            </text>
+            <text id="om-personer-av-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="785.1922" y="544.500812">om personer av </tspan>
+            </text>
+            <text id="en-viss-social-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="794.7394" y="563.500812">en viss social </tspan>
+            </text>
+            <text id="kategori" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="810.9858" y="582.500812">kategori</tspan>
+            </text>
+            <path d="M579.579,589.371 L722.373,589.371 L722.373,669.371 L579.579,669.371 L579.579,589.371 Z" id="Fill-95" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <text id="Negativ-åtskillnad-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="584.6366" y="603.190912">Negativ åtskillnad </tspan>
+            </text>
+            <text id="och-särbehandling-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="584.3326" y="622.190912">och särbehandling </tspan>
+            </text>
+            <text id="på-felaktiga-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="608.0318" y="641.190912">på felaktiga </tspan>
+            </text>
+            <text id="grunder" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="621.3166" y="660.190912">grunder</tspan>
+            </text>
+            <path d="M217.891,649.309 L352.614,649.309 L352.614,748.309 L217.891,748.309 L217.891,649.309 Z" id="Fill-96" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <text id="Ideal,-&quot;regler&quot;-och-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="220.0766" y="663.129512">Ideal, "regler" och </tspan>
+            </text>
+            <text id="föreställningar-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="230.819" y="682.129512">föreställningar </tspan>
+            </text>
+            <text id="kring-hur-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="250.9358" y="701.129512">kring hur </tspan>
+            </text>
+            <text id="människor-bör-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="231.811" y="720.129512">människor bör </tspan>
+            </text>
+            <text id="vara-och-agera" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="230.5966" y="739.129512">vara och agera</tspan>
+            </text>
+            <path d="M615.933,985.854 L809.537,985.854 L809.537,1046.854 L615.933,1046.854 L615.933,985.854 Z" id="Fill-97" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <text id="Maktordningen-bidrar-till-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="619.3015" y="999.673912">Maktordningen bidrar till </tspan>
+            </text>
+            <text id="normerna-och-normerna-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="623.4343" y="1018.67391">normerna och normerna </tspan>
+            </text>
+            <text id="bidrar-till-maktordningen" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="619.6839" y="1037.67391">bidrar till maktordningen</tspan>
+            </text>
+            <path d="M363.273,676.193 L550.641,676.193 L550.641,756.193 L363.273,756.193 L363.273,676.193 Z" id="Fill-98" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <text id="Personer-som-inte-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="392.3941" y="690.013012">Personer som inte </tspan>
+            </text>
+            <text id="stämmer-in-i-rådande-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="378.7957" y="709.013012">stämmer in i rådande </tspan>
+            </text>
+            <text id="norm-ses-som-avvikande-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="368.5029" y="728.013012">norm ses som avvikande </tspan>
+            </text>
+            <text id="och-&quot;konstiga&quot;" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="405.0069" y="747.013012">och "konstiga"</tspan>
+            </text>
+            <path d="M817.241,782.378 L1014.182,782.378 L1014.182,843.378 L817.241,843.378 L817.241,782.378 Z" id="Fill-99" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <text id="Hierarki-och-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="870.1179" y="796.198013">Hierarki och </tspan>
+            </text>
+            <text id="maktfördelning-inom-de-" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="828.7579" y="815.198013">maktfördelning inom de </tspan>
+            </text>
+            <text id="sociala-kategorierna" sketch:type="MSTextLayer" font-family="Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="841.5115" y="834.198013">sociala kategorierna</tspan>
+            </text>
+            <path d="M156.683,587.172 L344.994,1159.592" id="Stroke-100" stroke="#000000" stroke-width="1.008" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M347.498,1167.204 L347.849,1158.653 L342.14,1160.531 L347.498,1167.204 Z" id="Fill-101" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M347.498,1167.204 L347.849,1158.653 L342.14,1160.531 L347.498,1167.204 Z" id="Stroke-102" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M910.315,1278.531 L913.439,1182.418" id="Stroke-103" stroke="#000000" stroke-width="1.008" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M913.7,1174.41 L910.436,1182.321 L916.443,1182.516 L913.7,1174.41 Z" id="Fill-104" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M913.7,1174.41 L910.436,1182.321 L916.443,1182.516 L913.7,1174.41 Z" id="Stroke-105" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M396.958,514.943 L237.912,531.709" id="Stroke-106" stroke="#000000" stroke-width="1.008" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M229.943,532.549 L238.227,534.698 L237.597,528.721 L229.943,532.549 Z" id="Fill-107" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M229.943,532.549 L238.227,534.698 L237.597,528.721 L229.943,532.549 Z" id="Stroke-108" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+            <path d="M803.649,776.476 L897.797,1072.37" id="Stroke-109" stroke="#000000" stroke-width="1.008" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M900.227,1080.005 L900.66,1071.459 L894.934,1073.281 L900.227,1080.005 Z" id="Fill-110" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M900.227,1080.005 L900.66,1071.459 L894.934,1073.281 L900.227,1080.005 Z" id="Stroke-111" stroke="#000000" stroke-width="1.008" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
