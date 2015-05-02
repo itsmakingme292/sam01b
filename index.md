@@ -1,6 +1,6 @@
 # Samhällskunskap 1b
 
-Viktigt: Glöm inte att bokmärka denna wiki för att lätt ha den tillgänglig.
+Viktigt: Glöm inte att bokmärka denna wiki för att lätt ha den tillgänglig. ANNA ÄR EN FIS!
 
 ## Välkomna!
 
