@@ -149,7 +149,7 @@ Kortfattat skulle statens grundläggande syfte inom de tre klassiska ideologiern
 
 #### Liberalismen
 
-1. Ge människor friheten att leva så som denne vill, så länge detta inte innebär ett direkt våld mot andra individer. 
+1. Ge människor friheten att leva så som de vill, så länge detta inte innebär ett direkt våld mot andra individer. 
 2. Genom att skydda människor från varandra, men i övrigt inte lägga sig i allt för mycket.
 
 <!--1.Så lången individen inte brukar våld mot andra. 2.Så länge rent våld inte förekommer så är alla frivilliga transaktioner något en stat inte ska lägga sig i: en oreglerad marknadsekonomi -->
