@@ -1,5 +1,12 @@
 # Centrala begrepp
 
+## Samhällets strukturer
+= Det samspelsmönster vi kan se på samhällelig nivå.
+
+![BILD](resurser/centrala_begrepp.svg)
+
+***
+
 ## Kultur & normer
 
 ### Socialisation & reproduktion
@@ -13,14 +20,3 @@
 ### Diskriminering
 
 #### Strukturell diskriminering
-
-
-
-***
-
-## Samhällets strukturer
-= Det samspelsmönster vi kan se på samhällelig nivå.
-
-![BILD](resurser/centrala_begrepp.svg)
-
-***
