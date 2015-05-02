@@ -176,7 +176,7 @@ När utrikesminister Margot Wallström (S) i Sälen sade att en utredning bara s
 
 Tips: Fyll i respektive del i [formuläret längst ner på denna sida](#Individuellt_svarsformulär) efter varje läst ledare (men tryck inte på "submit" innan du är klar med läsningen av samtliga).
 ***
-## Individuellt svarsformulär
+## Svarsformulär
 
 <iframe src="https://docs.google.com/forms/d/13KExITglXiOJHj7SK7WSw826-BbQrFp7chB6ty-eGi8/viewform?embedded=true" width="660" height="1400" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto">Loading...</iframe>
 
