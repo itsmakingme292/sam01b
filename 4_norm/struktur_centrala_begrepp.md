@@ -1,18 +1,18 @@
 # Centrala begrepp
 
-## Kultur, norm, & identitet
+## Kultur & normer
 
-### Kultur
+### Socialisation & reproduktion
 
-### Norm
-
-### Identitet
+#### Identitet
 
 ## Makt
 
 ### Olika typer av makt
 
-### Strukturell diskriminering
+### Diskriminering
+
+#### Strukturell diskriminering
 
 
 
@@ -24,7 +24,3 @@
 ![BILD](resurser/centrala_begrepp.svg)
 
 ***
-
-## Diskriminering
-
-### Strukturell diskriminering
