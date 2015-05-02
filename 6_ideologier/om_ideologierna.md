@@ -173,6 +173,8 @@ Hur vi ser på statens uppgift påverkar vår syn på statens omfattning. Staten
 
 [gimmick:yuml]([Ingen]-.-[Nattväktarstat], [Nattväktarstat]-.-[Välfärdsstat], [Välfärdsstat]-.-[Allomfattande])
 
+![BILD](resurser/statens_storlek.svg)
+
 Viktigt att komma ihåg är att vi inte nödvändigtvis står i valet mellan någon av dessa typer utan att vi ideologiskt kan hamna mittemellan två av dem. Många liberaler hamnar någonstans mellan nattväktarstat och välfärdsstat (eftersom de vill ha så lite statlig inblandning som möjligt i människors liv, men samtidigt vill ha en viss grundtrygghet) medan många socialister hamnar någonstans mellan välfärdsstat och allomfattandestat (då de ofta vill ha en större omfördelning av resurser i samhället, men inte ersätta marknadsekonomin helt). 
 
 #### Ingen stat
