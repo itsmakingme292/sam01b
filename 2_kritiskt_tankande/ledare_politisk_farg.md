@@ -9,6 +9,8 @@ Inte heller är det längre lika vanligt att man officiellt stödjer ett enskilt
 
 Det sagt har vanligen en svensk tidning en viss polisk färg. Politiskt obundna tidningar är fortfarande i en liten minoritet (åtminstone om vi ser till dags- och kvällstidningar).
 
+***
+
 ## Instruktioner
 ### Att göra på egen hand
 
@@ -169,6 +171,7 @@ Därför är det också olyckligt att den rödgröna regeringen avfärdar en utr
 När utrikesminister Margot Wallström (S) i Sälen sade att en utredning bara skulle sprida oro i Östersjön så lät hon mer som ett eko av Moskva. Det som sprider oro i Östersjön är det ryska agerandet, inte den försvarsallians som skyddar sina medlemmar. Det säkerhetspolitiska hål som ett alliansfritt Sverige utgör skapar i sig också oro i Östersjön. Fylls det inte av Nato och/eller ett betydligt starkare svenskt försvar så kommer Moskva att göra det. 
 
 Tips: [Fyll i respektive del i formuläret längst ner på denna sida efter varje läst ledare (men tryck inte på "submit" innan du är klar med läsningen av samtliga)...](#Individuellt_svarsformulär)
+***
 ## Individuellt svarsformulär
 
 <iframe src="https://docs.google.com/forms/d/13KExITglXiOJHj7SK7WSw826-BbQrFp7chB6ty-eGi8/viewform?embedded=true" width="660" height="1200" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto">Loading...</iframe>
