@@ -39,8 +39,7 @@
 [Norm & Makt]()
 
   * # Material
-  * [SubMenu Item 1](subitem1.md)
-  * [Samhällets strukturer](4_norm/struktur_centrala_begrepp.md)
+  * [Centrala Begrepp](4_norm/struktur_centrala_begrepp.md)
   - - - -
   * # Övningar & Diskussionsunderlag
   * [SubMenu Item 3](subitem3.md)
