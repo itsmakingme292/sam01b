@@ -36,6 +36,8 @@ PS: När ni diskuterat klart ovanstående punkter går vi tillsammans igenom fac
 * Var det något som förvånade er? Var det något som inte direkt förvånade er? Fanns det någon ledare som var extra uppenbar? Någon som var mindre uppenbar? Varför?
 * På vilket sätt skulle ledarna se annorlunda ut om de var färgade av helt andra politiska inriktningar? Gå tillbaka till de enskilda texterna och fundera tillsammans på detta.
 
+***
+
 ## Ledare 1: Nördar
 Idag är nörden kulturell hårdvaluta. Men vilka är det som kan göra anspråk på rätt sorts nördighet, den lekfulla intellektualismens hederstitel?
 
