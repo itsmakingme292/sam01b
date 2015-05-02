@@ -22,7 +22,7 @@
   * [Argumentation](1_intro/kursplan.md)
   - - - -
   * # Övningsuppgifter & Diskussionsunderlag
-  * [...](1_intro/bedomning.md)
+  * [Ledare & Politisk färg](2_2_kritiskt_tankande/ledare_politisk_farg.md)
 
 [Demokrati]()
 
@@ -67,7 +67,7 @@
   * [SubMenu Item 2](subitem2.md)
   - - - -
   * # Övningar & Diskussionsunderlag
-  * [SubMenu Item 3](subitem3.md)
+  * [Ledare & Politisk färg](2_2_kritiskt_tankande/ledare_politisk_farg.md)
   - - - -
   * # Examinerande moment
   * [SubMenu Item 3](subitem3.md)
