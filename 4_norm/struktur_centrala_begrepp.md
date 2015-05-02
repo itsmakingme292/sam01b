@@ -9,6 +9,9 @@
 
 ## Kultur & normer
 
+<!--Ha allt detta ovanför samhällets strukturer? -->
+
+
 ### Socialisation & reproduktion
 
 #### Identitet
