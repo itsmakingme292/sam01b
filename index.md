@@ -1,6 +1,6 @@
 # Samhällskunskap 1b
 
-Viktig uppdatering: Här kan skriva om den uppdatering som är jätteviktig... Funkar också med titeln "viktig information"...
+Viktigt: Glöm inte att bokmärka denna wiki för att lätt ha den tillgänglig.
 
 ## Välkomna!
 
