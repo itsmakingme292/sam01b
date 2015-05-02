@@ -1,9 +1,10 @@
 # Ledare och politisk färg
 
-På ledarsidorna finner vi tidningarnas officiella politiska färg. Här ges kort och gott ett utrymme för att driva opinion. Vem som bestämmer en tidnings politiska färg kan se lite olika ut. Ibland är det ägaren som bestämmer, ibland är det tidningens tradition, ibland är det redaktionen.
+På ledarsidorna finner vi tidningarnas officiella politiska färg. Här ges kort och gott ett utrymme för att driva opinion. Vem som bestämmer en tidnings politiska färg kan se lite olika ut. Ibland är det ägaren som bestämmer, ibland är det tidningens tradition, ibland är det redaktionen. 
 
-Själva ledaren (texten) kan antingen vara signerad av redaktionen för hela tidningen, osignerad (men skriven av en ledarredaktion) eller signerad av en enskild skribent eller chefsredaktör.
-För inte allt för längesedan var en stor del av Sveriges tidningar direkt ägda av de politiska partierna. Idag är detta inte lika vanligt.
+Själva ledaren (texten) kan antingen vara signerad av redaktionen för hela tidningen, osignerad (men skriven av en ledarredaktion) eller signerad av en enskild skribent eller chefsredaktör. 
+   
+För inte allt för längesedan var en stor del av Sveriges tidningar direkt ägda av de politiska partierna. Idag är detta inte lika vanligt. 
 
 Inte heller är det längre lika vanligt att man officiellt stödjer ett enskilt parti. Vanligare är att man kallar sig exempelvis "oberoende moderat" eller ”oberoende liberal”. Detta betyder att man fortfarande kan sympatisera med ett visst partis politik men att man ändå inte är en direkt kanal för just det partiets åsikter (och därmed ibland går emot ”partilinjen”).
 
@@ -27,7 +28,7 @@ PS: Ord eller punkter mellan hakparanteser [ ] är borttagen text, som annars di
 
 * Jämför era kategoriseringar och hur ni kommit fram till dessa. Har ni gissat liknande och av samma anledningar? Har ni gissat olika och/eller av olika anledningar? Jämför era resonemang och diskutera.
 * Kändes det lätt eller svårt att avgöra den politiska färgen? Känner ni er mer eller mindre säkra på någon specifik ledare? Varför då tror ni?
-* Har ni strukit under liknande delar av texterna? Vart var ni lika, vart skilde ni er åt? Hur resonerar ni kring detta?
+* Uppmärksammade ni under er läsning samma delar av texterna? Hur resonerar ni kring detta? 
 * Finns det någon eller några ledare, eller delar av någon eller några ledare, som kan passa in på flera politiska inriktningar? Resonera och diskutera!
 
 PS: När ni diskuterat klart ovanstående punkter går vi tillsammans igenom facit i helklass och diskuterar vidare...
@@ -83,6 +84,7 @@ Då liksom nu sägs investeringsavtal leda till företagsdiktatur och välfärds
 Stefan Löfven borde höja rösten, skingra myterna och formulera ett tydligare stöd åt ett avtal som svensk och europeisk ekonomi behöver.​
 
 Tips: [Fyll i respektive del i formuläret längst ner på denna sida efter varje läst ledare (men tryck inte på "submit" innan du är klar med läsningen av samtliga)...](#Individuellt_svarsformulär)
+***
 ## Ledare 3: Hyckleriet efter terrordådet i Paris
 
 Terrordådet i Paris är förskräckligt. Inte minst visar dådet vilket farligt Frankensteins monster som har byggts upp med västliga och saudiska pengar i krigens Syrien och Irak. Risken är stor att vi kommer att få se fler blodiga konsekvenser när fundamentalistiska våldsverkare som tränats i krig kommer hem igen, oavsett om det är nazister som vänder hem från Ukraina eller IS-krigare från Syrien och Irak.
@@ -128,6 +130,7 @@ Islamofobin och Islamiska Staten är varandras spegelbilder och förutsättninga
 Ett första steg för att försöka förhindra fler terrorbrott är att ge stöd och uppbackning till de krafter i förorter och moskéer som arbetar mot IS värvningar av soldater. Lika viktigt är att Sverige måste sluta ge politiskt, moraliskt, ekonomiskt och alla andra former av stöd till de krafter som håller de fundamentalistiska våldsverkarna under armarna – det gäller såväl imperialismens försök att med terror störta regeringar i Mellanöstern som den liberal-fascistiska kuppregimen i Ukraina.
 
 Tips: [Fyll i respektive del i formuläret längst ner på denna sida efter varje läst ledare (men tryck inte på "submit" innan du är klar med läsningen av samtliga)...](#Individuellt_svarsformulär)
+***
 ## Ledare 4: Politiska konflikter – men inte prestige
 
 **Alla är överens om att skolan måste prioriteras**
@@ -154,6 +157,7 @@ Ingen ifrågasätter i dag att skolan har problem, och trots att Björklund gån
 Att den tioåriga grundskolan i praktiken är genomförd sedan snart 20 år och att ingen ifrågasätter att reglerna för friskolorna måste skärpas spelar i det sammanhanget ingen roll.Det är, om vi ska vara ärliga, inte politik. Det är prestige. Och lika säkert som att svensk politik i dag behöver tydliga politiska alternativ är nog att vi inte behöver fler strider om symboler och prestige.
 
 Tips: [Fyll i respektive del i formuläret längst ner på denna sida efter varje läst ledare (men tryck inte på "submit" innan du är klar med läsningen av samtliga)...](#Individuellt_svarsformulär)
+***
 ## Ledare 5: Ubåtar och Nato utmanar
 
 Lagom till Folk och Försvars rikskonferens så avslöjade den säkerhetspolitiske reportern Mikael Holmström, som nyss gått från Svenska Dagbladet till Dagens Nyheter, att det skett ytterligare en ubåtskränkning i Stockholms skärgård, och det bara en vecka efter den omfattande ubåtsjakten i höstas.
@@ -174,6 +178,6 @@ Tips: [Fyll i respektive del i formuläret längst ner på denna sida efter varj
 ***
 ## Individuellt svarsformulär
 
-<iframe src="https://docs.google.com/forms/d/13KExITglXiOJHj7SK7WSw826-BbQrFp7chB6ty-eGi8/viewform?embedded=true" width="660" height="1200" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/13KExITglXiOJHj7SK7WSw826-BbQrFp7chB6ty-eGi8/viewform?embedded=true" width="660" height="1400" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto">Loading...</iframe>
 
 När du svarat på ovanstående formulär är det dags att diskutera i grupp! [Klicka här för att komma till instruktionerna för denna diskussion.](#Att_göra_i_grupp)
