@@ -1,14 +1,20 @@
 # Centrala begrepp
 
-## Kultur, norm, makt & identitet
+## Kultur, norm, & identitet
 
 ### Kultur
 
 ### Norm
 
-### Makt
-
 ### Identitet
+
+## Makt
+
+### Olika typer av makt
+
+### Strukturell diskriminering
+
+
 
 ***
 
