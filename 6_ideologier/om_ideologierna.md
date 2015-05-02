@@ -1,5 +1,7 @@
 # Det goda samhället
-Om denna sida: Varje ideologi försöker svara på frågan om vad ett *gott* samhälle innebär. Denna sida innehåller en sammanfattning av de tre stora ideologiernas respektive svar. Var uppmärksamma på att en sådan sammanfattning alltid innebär vissa förenklingar och att varje ideologi har flertalet förgreningar.
+Om denna sida: Varje ideologi försöker svara på frågan om vad ett *gott* samhälle innebär. Denna sida innehåller en sammanfattning av de tre stora ideologiernas respektive svar.
+ 
+OBS: Var uppmärksamma på att en sådan sammanfattning alltid innebär vissa förenklingar och att varje ideologi har flertalet förgreningar.
 
 ## Ideologierna och dess två komponenter
 En ideologi är ett ”paket” som innehåller en uppfattning om samhället och idéer för dess förändring. En slags helhet med lika delar beskrivande teori som grundläggande värderingar
