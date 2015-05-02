@@ -17,7 +17,7 @@ Det sagt har vanligen en svensk tidning en viss polisk färg. Politiskt obundna 
 * Försök avgöra deras respektive politiska inriktningar. 
 * Fundera över vad du finner särskilt ”avslöjande” och skriv en kortare kommentar.
 
-[Svara i det individuella formuläret längst ner på denna sida...](2_kritiskt_tankande/ledare_politisk_farg.md#Individuellt_svarsformulär)
+[Svara i det individuella formuläret längst ner på denna sida...](#Individuellt_svarsformulär)
 
 PS: Ord eller punkter mellan hakparanteser [ ] är borttagen text, som annars direkt skulle avslöja den politiska färgen eller tidningen ifråga.
 
@@ -166,4 +166,4 @@ När utrikesminister Margot Wallström (S) i Sälen sade att en utredning bara s
 
 <iframe src="https://docs.google.com/forms/d/13KExITglXiOJHj7SK7WSw826-BbQrFp7chB6ty-eGi8/viewform?embedded=true" width="660" height="1200" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto">Loading...</iframe>
 
-När du svarat på ovanstående formulär är det dags att diskutera i grupp! [Klicka här för att komma till instruktionerna för denna diskussion.](2_kritiskt_tankande/ledare_politisk_farg.md#Att_göra_i_grupp)
+När du svarat på ovanstående formulär är det dags att diskutera i grupp! [Klicka här för att komma till instruktionerna för denna diskussion.](#Att_göra_i_grupp)
