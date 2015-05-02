@@ -10,6 +10,8 @@ Tips: Navigera er genom att använda menyn högst upp. Varje delmoment har under
 
 Om ni har idéer för förbättring av både denna wiki och kursen som helhet, tveka inte att prata med mig om det. Glöm inte heller att titta igenom övergripande information om kursen under introduktionsfliken. 
 
+***
+
 ## Kontakt & frågor
 
 Frågor ställer man i första hand under lektionstid. Om man känner att man inte kan vänta till nästa lektion kan man besöka mig på mitt arbetsrum. Får man inte tag i mig där så skickar man ett meddelande på schoolsoft. 
@@ -21,6 +23,8 @@ Och kom ihåg: Var frågvisa – man lär sig mer då!
 Det är i första hand på denna sida ni finner information om delmomenten, material och uppgifter. Via Schoolsoft kommer främst omdömen och betyg att rapporteras, samt deadlines för inlämningar och provtillfällen i provschemat. 
 
 För mer information om bedömning och betyg [klicka här](1_intro/bedomning.md).
+
+***
 
 ## Uppdateringar av denna wiki
 
