@@ -31,7 +31,9 @@
   * [Demokrati](subitem2.md)
   - - - -
   * # Övningar & Diskussionsunderlag
-  * [SubMenu Item 3](subitem3.md)
+  * [Vad är en god demokrati?](3_demokrati/ovningar/demokrati_diskussionsfragor.md)
+  * [Citat om demokrati](3_demokrati/ovningar/citat_tankar_demokrati.md)
+  * [Die Welle (Film)](3_demokrati/ovningar/die_welle.md)
   - - - -
   * # Examinerande moment
   * [SubMenu Item 3](subitem3.md)

@@ -1,14 +1,12 @@
 # Drömsamhället (UR)
 
-Denna övningsuppgift sträcker sig över flertalet lektioner och utgår ifrån [utbildningsradions programserie "Drömsamhället"](http://sli.se/apps/sli/prodsearch.php?db=3&search=Drömsamhället) som ägnar ett avsnitt per ideologi. 
+Denna övningsuppgift sträcker sig över flertalet lektioner och utgår ifrån [utbildningsradions programserie "Drömsamhället"](http://sli.se/apps/sli/prodsearch.php?db=3&search=Drömsamhället) som ägnar ett avsnitt per ideologi. Varje avsnitt är cirka 30 minuter och sedan måste vi ha tid för diskussion. Vi diskuterar först gruppvis och sedan i helklass.
 
 ## Instruktioner för samtliga avsnitt
 
-- Ta anteckningar kring viktiga punkter, men också kring frågetecken som uppstår.
-
-- Vad säger programmen om ideologierna?
-
-- Är det något kring ideologierna som blir oklart i programmen?
+- Ta anteckningar kring viktiga punkter och frågetecken som uppstår medan vi tittar på programmen.
+	- Vad säger programmen om ideologierna?
+	- Är det något kring ideologierna som blir oklart i programmen?
 
 - Behandlar programmen ideologierna på ett likvärdigt/schysst/rättvist sätt?
 
