@@ -17,9 +17,7 @@ Uppgiften går ut på att skriva en artikel om kritiskt tänkande (som ämnesomr
 - Källkritikens punkter.
 
 - Mediekritiskt tänkande.
-
 <br>
-
 #### *I relation till* sådant som exempelvis:
 
 - Eventuella framtida studier.
