@@ -14,7 +14,7 @@ Tips: Glöm inte att titta på [instuderingsfrågorna](../examinerande_moment/in
 
 **Sveriges politiska partier**
 
-Sid. 154-164 (10 sid)
+154-164 (10 sid)
 
 ***
 
