@@ -16,6 +16,8 @@
 
 #### Identitet
 
+***
+
 ## Makt
 
 ### Olika typer av makt

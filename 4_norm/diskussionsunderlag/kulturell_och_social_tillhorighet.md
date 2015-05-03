@@ -1,0 +1,23 @@
+# Kulturell och social tillhörighet
+## Instruktioner
+
+Tanken med detta diskussionsunderlag är att reflektera något kring sin egna kulturella och sociala tillhörighet. Hur denna ser ut och hur den påverkar oss.
+
+Nedanstående frågor är tankeväckande. Man behöver inte ge ett heltäckande svar. Kommer man på egna intressanta frågeställningar är detta också helt i sin ordning!
+
+OBS: Om det känns allt för utelämnande, personligt eller jobbigt att använda sig själv “som exempel” kan man (för samtliga, eller vissa frågor) istället välja att diskutera utifrån fiktiva (påhittade) personer. 
+
+## Diskussionsfrågor
+- Vilken eller vilka grupper/kulturer anser du dig tillhöra? 
+- Vilka institutioner och grupper tror du stått för merparten av din socialisation. Vilka bitar av din socialisation? Varför tror du?
+- Är kultur viktigt för din ”identitet”. Berättar kulturen något om vem du är?
+- Hur påverkad tror du att du är av din kulturella och sociala tillhörighet? Är det positivt och/eller negativt? Skulle du varit en annan person om du ”tillhört” en annan eller andra kulturer? 
+- Har du valt din kulturella tillhörighet eller har ”det bara blivit så”? Reflektera kritiskt.
+- Känner du dig som en kille eller en tjej? Är det viktigt för dig att vara det ena eller det andra? Varför? Varför inte? 
+- Har du som kille eller tjej samma möjligheter som någon av det motsatta könet? Förväntas det andra saker av dig än av någon av ett motsatt kön? På vilket sätt är detta problematiskt? Vad är dina egna erfarenheter? Vad säger normen? Vad säger du? Lever vi i ett patriarkat?
+- Vad är din klassbakgrund? Hur tror du denna påverkar dig (och andra)? 
+- Vad är din etniska bakgrund? Hur tror du att denna påverkar dig (och andra)? 
+- Upplever du ibland att den kultur eller de kulturer du tillhör ”krockar” med andras kulturer?
+- Upplever du ibland att din personlighet ”krockar” med din kulturella eller sociala tillhörighet? Finns något i dig, som inte passar in i någon av de grupper du tillhör?
+- Upplever du någon gång att dina grupptillhörigheter ”krockar” med varandra? Finns det någon grupp som gör det svårt att samtidigt tillhöra en annan? 
+- Hur du någon gång känt att du behövt anpassa dig till en viss kultur eller norm trots att du egentligen inte velat? Har du någon gång känt dig kulturellt ”utanför”?
