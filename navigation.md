@@ -62,14 +62,13 @@
 [Ideologier]()
 
   * # Material
-  * [Det goda samhället: Vad säger ideologierna?](6_ideologier/om_ideologierna.md)
-  * [SubMenu Item 2](subitem2.md)
+  * [Det goda samhället: Vad säger ideologierna?](6_ideologier/material/om_ideologierna.md)
   - - - -
   * # Övningar & Diskussionsunderlag
   * [Ledare & Politisk färg](2_kritiskt_tankande/ledare_politisk_farg.md)
   - - - -
   * # Examinerande moment
-  * [SubMenu Item 3](subitem3.md)
+  * [Inlämningsuppgift](6_ideologier/examinerande_moment/inlamning_det_goda_samhallet.md)
   
 [FN & MR]()
 
