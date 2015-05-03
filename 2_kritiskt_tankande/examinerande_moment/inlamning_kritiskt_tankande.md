@@ -1,6 +1,6 @@
 # Kritiskt tänkande: *Vad, hur och varför*
 
-## Instruktioner: Vad?
+## Instruktioner för innehåll
 
 Uppgiften går ut på att skriva en artikel om kritiskt tänkande (som ämnesområde i skolan) för en (påhittad) pedagogisk tidskrift. I denna artikel ska du behandla:
 
@@ -40,7 +40,7 @@ Uppgiften går ut på att skriva en artikel om kritiskt tänkande (som ämnesomr
 
 ***
 
-## Instruktioner: Hur? 
+## Att göra
 
 1. Du läser och reflekterar kring **kapitel 13 och 18 i läroboken**. Med **fokus** på sidorna **289-299, 304-307, 434** samt **443-450** (övriga sidor är ej obligatoriska).
 
