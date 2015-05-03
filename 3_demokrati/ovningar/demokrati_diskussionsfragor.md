@@ -6,6 +6,8 @@ Diskutera nedanstående frågor gruppvis och glöm inte att anteckna! När alla 
 
 OBS: Hinner ni inte med att diskutera alla frågor är detta inget problem – frågorna är många och stora. Det är också helt ok att välja ut några frågor man inom gruppen känner att man vill prioritera. 
 
+***
+
 ## Diskussionsfrågor
 
 - Vad utmärker en god demokrati? Vilka krav bör man ställa på *folket* i en demokrati? Vilka krav bör man ställa på det *politiska styret* i en demokrati? 

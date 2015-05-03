@@ -6,6 +6,8 @@ OBS: Denna uppgift är endast möjlig att genomföra under en dubbel-lektion (2,
 
 Först ser vi filmen. Sedan diskuterar ni gruppvis och till sist lyfter vi diskussionen i helklass.
 
+***
+
 ## Diskussionsunderlag
 
 *Vad kan filmen sägas oss om skillnaderna mellan en demokratisk och en

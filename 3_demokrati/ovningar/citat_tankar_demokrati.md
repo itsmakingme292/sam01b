@@ -54,6 +54,8 @@ r)  ”Demokrati uppstår när man eftersträvar alla medborgares frihet och jä
 
 s)  ”Alla demokratins sjukdomar kan botas med mer demokrati.” (Alfred Emanuel Smith)
 
+***
+
 ## Att göra på egen hand:
 
 1. Välj ut tre citat som stämmer bra överens med din egen uppfattning om vad demokrati är och borde vara. Anteckna ditt svar med en utredande motivering!
