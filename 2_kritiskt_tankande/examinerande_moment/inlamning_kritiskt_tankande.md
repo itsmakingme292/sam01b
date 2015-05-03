@@ -2,13 +2,13 @@
 
 ## Instruktioner: Vad?
 
-Uppgiften går ut på att skriva en artikel om kritiskt tänkande (som
-ämnesområde i skolan) för en (påhittad) pedagogisk tidskrift. I denna
-artikel ska du behandla:
+Uppgiften går ut på att skriva en artikel om kritiskt tänkande (som ämnesområde i skolan) för en (påhittad) pedagogisk tidskrift. I denna artikel ska du behandla:
 
 1.  **Vad kritiskt tänkande innebär och innehåller som ämne.**
 
 2.  **Varför det är viktigt för elever att lära sig kritiskt tänkande.**
+
+***
 
 #### I detta ska du *redovisa* och *argumentera* för vikten av:
 
@@ -17,6 +17,8 @@ artikel ska du behandla:
 - Källkritikens punkter.
 
 - Mediekritiskt tänkande.
+
+<br>
 
 #### *I relation till* sådant som exempelvis:
 

@@ -1,4 +1,4 @@
-# Bloggar och sociala medier kontra "gammelmedia"
+# Bloggar & "Gammelmedia"
 
 ## Att göra
 
