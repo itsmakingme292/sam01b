@@ -22,7 +22,7 @@ Det sagt har vanligen en svensk tidning en viss polisk färg. Politiskt obundna 
 
 [Svara i det individuella formuläret längst ner på denna sida...](#Svarsformulär)
 
-PS: Ord eller punkter mellan hakparanteser [ ] är borttagen text, som annars direkt skulle avslöja den politiska färgen eller tidningen ifråga.
+PS: I de fall ni finner ord eller punkter mellan hakparanteser [ ] i ledarna så handlar detta om borttagen text. Antingen är detta text som annars skulle avslöja den politiska färgen eller så handlar det om text jag tagit bort för att korta ner längden. I vilken utsträckning detta förekommer (om alls) beror på vilka ledare jag för tillfället valt att inkludera i denna övning.
 
 ### Att göra i grupp
 
