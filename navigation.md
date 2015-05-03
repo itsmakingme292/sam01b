@@ -65,6 +65,8 @@
   * [Det goda samhället: Vad säger ideologierna?](6_ideologier/material/om_ideologierna.md)
   - - - -
   * # Övningar & Diskussionsunderlag
+  * [Läsuppgift & Diskussion](6_ideologier/ovningar/lasning_arena_och_diskussion.md)
+  * [Programmet "Drömsamhället": Diskussion](ur_dromsamhallet.md)
   * [Ledare & Politisk färg](2_kritiskt_tankande/ledare_politisk_farg.md)
   - - - -
   * # Examinerande moment
