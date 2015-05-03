@@ -37,6 +37,7 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 - Tänk kvalité och inte kvantitet när du skriver. "Pladdra" inte bara på, utan tänk först noggrant efter kring de ideologier du valt att skriva om. Läs på och anteckna innan du börjar skriva din text.
 
 - Man kan absolut lyfta in andra ideologier än de tre man har sitt fokus på. Var dock tydlig med vilka ideologier som är ditt fokus och tänk på att du har ett begränsat utrymme att genomföra uppgiften på.
+
 ***
 
 ## Instruktioner: Hur? 
@@ -51,7 +52,7 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 5. Du skickar till **fredrik.stahl.metg@analys.urkund.se** (se deadline i provschema på schoolsoft)
 
-OBS: Misslyckas man med någon av punkterna 3-5 kommer jag att be er göra om och göra rätt...
+OBS: Misslyckas man med någon av punkterna 3-5 räknas det som en icke inlämnad uppgift...
 
 ***
 
