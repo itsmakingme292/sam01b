@@ -4,8 +4,6 @@
 
 Obligatoriskt för denna uppgift är **Liberalismen** och **Socialismen** samt **ytterligare en valfri** av följande ideologier: Konservatism, Ekologism, Feminism
 
-***
-
 #### 1) Beskriv dina tre ideologier, samt dess olika grenar
 
 Vilka är de mest utmärkande dragen? Vad säger de exempelvis om:
