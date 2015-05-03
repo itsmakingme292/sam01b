@@ -2,13 +2,13 @@
 
 ## Instruktioner
 
-### Att göra på egen hand:
+#### Att göra på egen hand:
 
 1. Välj ut tre citat från listan nedanför som stämmer bra överens med din egen uppfattning om vad demokrati är och borde vara. Anteckna ditt svar med en utredande motivering!
 
 2. Välj ut minst ett citat som du inte helt och fullt håller med om. Anteckna ditt svar med en utredande motivering! Vilka är dina invändningar?
 
-### Att göra i grupp:
+#### Att göra i grupp:
 
 * Jämför era val av citat och dess motiveringar. Var skiljer ni er åt? Vad har ni gemensamt?
  
