@@ -30,7 +30,7 @@ Uppgiften går ut på att skriva en artikel om kritiskt tänkande (som ämnesomr
 
 ***
 
-## Att tänka på:
+### Att tänka på:
 
 - För din redogörelse av argumentationens grunder gäller att du även kan diskutera centrala begrepp så som *relevans* och *hållbarhet*, samt att du ger något eller några valfria exempel på typer av argumentationsmisstag (se kompendiet om argumentation och kapitel 18 i Arena).
 
@@ -40,7 +40,7 @@ Uppgiften går ut på att skriva en artikel om kritiskt tänkande (som ämnesomr
 
 ***
 
-## Att göra:
+### Att göra:
 
 1. Du läser och reflekterar kring **kapitel 13 och 18 i läroboken**. Med **fokus** på sidorna **289-299, 304-307, 434** samt **443-450** (övriga sidor är ej obligatoriska).
 
