@@ -6,7 +6,7 @@ OBS: Denna övning sker antingen över två lektioner eller en dubbel-lektion.
 
 1. Ni delas in i grupper och varje grupp tilldelas ett parti.
 
-2. Ni letar upp partiets hemsida och undersöker där de beskriver sin politik.
+2. Ni letar upp partiets hemsida och undersöker hur de beskriver sin politik.
 
 3. Ni utgår i arbetet utifrån frågorna nedan och antecknar.
 
@@ -20,8 +20,8 @@ OBS: Denna övning sker antingen över två lektioner eller en dubbel-lektion.
 	* Exempel på konkreta politiska förslag? Vad vill partiet genomföra?
 <br>
 * Hur beskriver partiet sitt politiska perspektiv? 
-	* Hur ser deras problembeskrivning ut? Ser de något eller några grundproblem i samhället så som det ser ut nu? 
-	* Vad innebär detta perspektiv för dem? Vilket slags samhälle vill de ha?
+	* Hur ser deras problembeskrivning ut? Vad är felet med samhället?
+	* Vilket slags samhälle vill de ha?
 <br>
 * Säger sig partiet utgå ifrån någon särskild ideologi? 
 	* Exempelvis: Liberalism, Socialism, Konservatism, Feminism, Ekologism, Nationalism.
