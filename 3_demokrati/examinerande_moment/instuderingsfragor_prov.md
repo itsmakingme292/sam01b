@@ -9,7 +9,7 @@ riksdagens studiematerial).
 
 ## Demokrati
 
-### Kortare frågor:
+#### Kortare frågor:
 
 - Vad betyder demokrati ytterst kortfattat?
 
@@ -23,7 +23,7 @@ riksdagens studiematerial).
 
 - Vad är den grundläggande skillnaden mellan direkt och indirekt/representativ demokrati
 
-### Längre frågor:
+#### Längre frågor:
 
 - Vilka fördelar, respektive nackdelar, har de båda formerna av demokrati? Är representativ demokrati ett verkligt folkstyre? Eller har vi endast sann demokrati vart fjärde år och en slags lättare variant av diktatur däremellan? Är en fullvärdig direktdemokrati ens en praktisk möjlighet? Eller är det bättre att politiker sköter politiken? Vilken form av demokrati finner du själv mest tilltalande? Varför?
 
@@ -43,7 +43,7 @@ riksdagens studiematerial).
 
 ## Sveriges statsskick & grundlagar
 
-### Kortare frågor:
+#### Kortare frågor:
 
 - Vad är en konstitution/grundlag/författning? Hur förhåller sig denna till övriga lagar? Varför är det viktigt att ha en sådan?
 
@@ -61,7 +61,7 @@ riksdagens studiematerial).
 
 - Vad innebär den svenska offentlighetsprincipen och varför är denna så viktig?
 
-### Längre frågor:
+#### Längre frågor:
 
 - Vilka är Sveriges 4 grundlagar och hur kan vi kortfattat beskriva deras respektive innehåll?
 
@@ -71,7 +71,7 @@ riksdagens studiematerial).
 
 ## Riksdag och regering
 
-### Kortare frågor:
+#### Kortare frågor:
 
 - Vem är riksdagens ordförande?
 
@@ -99,7 +99,7 @@ riksdagens studiematerial).
 
 - Vad är en budgetproposition? Hur ofta, och av vem, framläggs en sådan? Vad innehåller denna kortfattat?
 
-### Längre frågor:
+#### Längre frågor:
 
 - Hur ser maktdelningen mellan riksdag och regering ut? Vilken är regeringens roll? Vilken är riksdagens roll?
 
