@@ -4,6 +4,8 @@
 
 Obligatoriskt för denna uppgift är **Liberalismen** och **Socialismen** samt **ytterligare en valfri** av följande ideologier: Konservatism, Ekologism, Feminism
 
+***
+
 #### 1) Beskriv dina tre ideologier, samt dess olika grenar
 
 Vilka är de mest utmärkande dragen? Vad säger de exempelvis om:
@@ -23,6 +25,8 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 - Vilken ideologi ger den rimligaste analysen/bilden av samhället?
 - Vilken ideologi ger de bästa förslagen på förändringar?
+
+***
 
 ### Att tänka på:
 
