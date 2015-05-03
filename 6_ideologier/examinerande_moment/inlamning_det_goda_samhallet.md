@@ -1,6 +1,6 @@
 # Ideologierna & Det goda samhället
 
-## Instruktioner: Vad?
+## Instruktioner
 
 Obligatoriskt för denna uppgift är **Liberalismen** och **Socialismen** samt **ytterligare en valfri** av följande ideologier: Konservatism, Ekologism, Feminism
 
@@ -40,7 +40,7 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 ***
 
-## Instruktioner: Hur? 
+### Att göra: 
 
 1. Du läser och reflekterar kring sidorna **133–154 i läroboken.**
 
