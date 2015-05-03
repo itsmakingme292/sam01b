@@ -59,6 +59,7 @@ s)  ”Alla demokratins sjukdomar kan botas med mer demokrati.” (Alfred Emanue
 ## Att göra på egen hand:
 
 1. Välj ut tre citat som stämmer bra överens med din egen uppfattning om vad demokrati är och borde vara. Anteckna ditt svar med en utredande motivering!
+
 2. Välj ut minst ett citat som du inte helt och fullt håller med om. Anteckna ditt svar med en utredande motivering! Vilka är dina invändningar?
 
 ***

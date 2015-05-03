@@ -10,7 +10,7 @@ Först ser vi filmen. Sedan diskuterar ni gruppvis och till sist lyfter vi disku
 
 ## Diskussionsunderlag
 
-* Vad kan filmen sägas oss om skillnaderna mellan en demokratisk och en icke-demokratisk kultur?:
+* Vad kan filmen sägas oss om skillnaderna mellan en demokratisk och en icke-demokratisk kultur?
 	* Om vad som gynnar uppkomsten och upprätthållandet av en diktatur?
 	* Om hur vi kan koppla samman detta med de förutsättningar som krävs för en verklig demokrati?
 	* Om vilka fallgropar en demokrati bör akta sig för?
