@@ -5,8 +5,10 @@ Denna övningsuppgift sträcker sig över flertalet lektioner och utgår ifrån 
 ## Instruktioner för samtliga avsnitt
 
 - Ta anteckningar kring viktiga punkter och frågetecken som uppstår medan vi tittar på programmen.
-	- Vad säger programmen om ideologierna?
-	- Är det något kring ideologierna som blir oklart i programmen?
+
+- Vad säger programmen om ideologierna?
+
+- Är det något kring ideologierna som blir oklart i programmen?
 
 - Behandlar programmen ideologierna på ett likvärdigt/schysst/rättvist sätt?
 
@@ -16,7 +18,7 @@ Denna övningsuppgift sträcker sig över flertalet lektioner och utgår ifrån 
 
 **Några Diskussionsfrågor**
 
-- Liberalism är en samhällsåskådning och politisk ideologi med den enskilda individens frihet i centrum. Fundera och diskutera vilka friheter som är viktigast för er?
+- Liberalism är en samhällsåskådning och politisk ideologi med den enskilda individens frihet i centrum. Fundera och diskutera vilka friheter som är viktigast för er.
 
 - Enligt Johan Norberg ska staten bara gripa in i nödsituationer, annars ska individen klara sig själv i största utsträckning. Vilka uppgifter i samhället tycker ni att staten ska ta hand om och vilka uppgifter ska individen få lösa själv?
 
