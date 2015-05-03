@@ -171,7 +171,7 @@ Kortfattat skulle statens grundläggande syfte inom de tre klassiska ideologiern
 ### Statens storlek och form
 Hur vi ser på statens uppgift påverkar vår syn på statens omfattning. Statens storlek är därför en bra gradskala utifrån vilken vi kan placera olika ideologier. I stora drag kan denna skala se ut som följande:
 
-![BILD](6_ideologier/resurser/statens_storlek.svg)
+![BILD](resurser/statens_storlek.svg)
 
 Viktigt att komma ihåg är att vi inte nödvändigtvis står i valet mellan någon av dessa typer utan att vi ideologiskt kan hamna mittemellan två av dem. Många liberaler hamnar någonstans mellan nattväktarstat och välfärdsstat (eftersom de vill ha så lite statlig inblandning som möjligt i människors liv, men samtidigt vill ha en viss grundtrygghet) medan många socialister hamnar någonstans mellan välfärdsstat och allomfattandestat (då de ofta vill ha en större omfördelning av resurser i samhället, men inte ersätta marknadsekonomin helt). 
 

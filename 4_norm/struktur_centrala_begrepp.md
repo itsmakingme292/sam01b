@@ -3,7 +3,7 @@
 ## Samhällets strukturer
 = Det samspelsmönster vi kan se på samhällelig nivå.
 
-![BILD](4_norm/resurser/centrala_begrepp.svg)
+![BILD](resurser/centrala_begrepp.svg)
 
 ***
 
