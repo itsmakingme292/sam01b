@@ -32,6 +32,7 @@
   * # Övningar & Diskussionsunderlag
   * [Vad är en god demokrati?](3_demokrati/ovningar/demokrati_diskussionsfragor.md)
   * [Citat om demokrati](3_demokrati/ovningar/citat_tankar_demokrati.md)
+  * [Sveriges politiska partier](3_demokrati/ovningar/sv_politiska_partier.md)
   * [Die Welle (Film)](3_demokrati/ovningar/die_welle.md)
   - - - -
   * # Examinerande moment
@@ -69,6 +70,8 @@
   * [Läsuppgift & Diskussion](6_ideologier/ovningar/lasning_arena_och_diskussion.md)
   * [UR "Drömsamhället"](6_ideologier/ovningar/ur_dromsamhallet.md)
   * [Ledare & Politisk färg](2_kritiskt_tankande/ledare_politisk_farg.md)
+  * [Sveriges politiska partier](3_demokrati/ovningar/sv_politiska_partier.md)
+  
   - - - -
   * # Examinerande moment
   * [Inlämningsuppgift](6_ideologier/examinerande_moment/inlamning_det_goda_samhallet.md)
