@@ -6,11 +6,13 @@ Denna övningsuppgift sträcker sig över flertalet lektioner och utgår ifrån 
 
 - Ta anteckningar kring viktiga punkter, men också kring frågetecken som uppstår.
 
-- Vad säger programmet om ideologierna?
+- Vad säger programmen om ideologierna?
 
-- Är det något kring ideologierna som blir oklart i programmet?
+- Är det något kring ideologierna som blir oklart i programmen?
 
-- Behandlar programmet ideologierna på ett likvärdigt/schysst/rättvist sätt?
+- Behandlar programmen ideologierna på ett likvärdigt/schysst/rättvist sätt?
+
+***
 
 ## Avsnitt 1: Liberalismen
 
@@ -22,6 +24,8 @@ Denna övningsuppgift sträcker sig över flertalet lektioner och utgår ifrån 
 
 - Vilken risk finns det att liberalismen i själva verket leder till ett ojämlikt samhälle?
 
+***
+
 ## Avsnitt 2: Socialismen
 
 **Några Diskussionsfrågor**
@@ -31,6 +35,8 @@ Denna övningsuppgift sträcker sig över flertalet lektioner och utgår ifrån 
 - Vad borde ägas kollektivt i Sverige? Diskutera, resonera och motivera.
 
 - Är (vissa) socialister alldeles för kritiska mot marknadsekonomi? Är en socialism utan planekonomi bättre än en med planekonomi? Bör vi ha en blandekonomi? Vad är egentligen kapitalism?
+
+***
 
 ## Avsnitt 3: Konservatismen
 
