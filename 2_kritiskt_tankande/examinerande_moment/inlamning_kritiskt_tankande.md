@@ -16,7 +16,7 @@ Uppgiften går ut på att skriva en artikel om kritiskt tänkande (som ämnesomr
 
 - Källkritikens punkter.
 
-- Mediekritiskt tänkande.
+- Mediekritiskt tänkande. <br>
 
 #### *I relation till* sådant som exempelvis:
 
@@ -58,7 +58,7 @@ OBS: Misslyckas man med någon av punkterna 4-6 räknas det som en icke inlämna
 
 ***
 
-## Betygskriterier för uppgiften:
+## Betygskriterier för uppgiften
 
 **Kriterier för betyget E**
 
