@@ -27,8 +27,7 @@
 [Demokrati]()
 
   * # Material
-  * [Sveriges politiska system](subitem1.md)
-  * [Demokrati](subitem2.md)
+  * [Läslista & Kompendium](3_demokrati/material/laslista_och_material.md)
   - - - -
   * # Övningar & Diskussionsunderlag
   * [Vad är en god demokrati?](3_demokrati/ovningar/demokrati_diskussionsfragor.md)
@@ -36,7 +35,7 @@
   * [Die Welle (Film)](3_demokrati/ovningar/die_welle.md)
   - - - -
   * # Examinerande moment
-  * [SubMenu Item 3](subitem3.md)
+  * [Instuderingsfrågor inför prov](3_demokrati/examinerande_moment/instuderingsfragor_prov.md)
 
 [Norm & Makt]()
 
