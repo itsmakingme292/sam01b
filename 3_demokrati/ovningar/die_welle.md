@@ -1,8 +1,8 @@
 # Die Welle
 
-## Instruktioner
-
 OBS: Denna uppgift är endast möjlig att genomföra under en dubbel-lektion (2,5 timmar)
+
+## Instruktioner
 
 Först ser vi filmen. Sedan diskuterar ni gruppvis och till sist lyfter vi diskussionen i helklass.
 
@@ -10,8 +10,8 @@ Först ser vi filmen. Sedan diskuterar ni gruppvis och till sist lyfter vi disku
 
 ## Diskussionsunderlag
 
-*Vad kan filmen sägas oss om skillnaderna mellan en demokratisk och en
-icke-demokratisk kultur?:*
+#### Vad kan filmen sägas oss om skillnaderna mellan en demokratisk och en
+icke-demokratisk kultur?:
 
 - Om vad som gynnar uppkomsten och upprätthållandet av en diktatur?
 
@@ -19,7 +19,7 @@ icke-demokratisk kultur?:*
 
 - Om vilka fallgropar en demokrati bör akta sig för?
 
-*Är filmen realistisk? Skulle detta kunna hända idag?:*
+#### Är filmen realistisk? Skulle detta kunna hända idag?:*
 
 - Vad kan filmen säga om mänsklig psykologi?
 
