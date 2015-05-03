@@ -42,7 +42,7 @@
   * [Centrala Begrepp](4_norm/struktur_centrala_begrepp.md)
   - - - -
   * # Övningar & Diskussionsunderlag
-  * [SubMenu Item 3](diskussionsunderlag/kulturell_och_social_tillhorighet.md)
+  * [Kulturell och social tillhörighet](4_norm/diskussionsunderlag/kulturell_och_social_tillhorighet.md)
   - - - -
   * # Examinerande moment
   * [SubMenu Item 3](subitem3.md)
