@@ -20,4 +20,4 @@ Sid. 154-164 (10 sid)
 
 Ett urval av riksdagens studiematerial (60sid, lättläst och kan till stor del ersätta delar av Arena).
 
-[Klicka här för att ladda ner som PDF](material/resurser/kompendium_sv_pol_system.pdf)
+[Klicka här för att ladda ner som PDF](resurser/kompendium_sv_pol_system.pdf)

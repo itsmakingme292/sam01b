@@ -1,6 +1,6 @@
 # Instuderingsfrågor
 
-Uppdelningen av dessa instuderingsfrågor följer till viss del ordningen i boken [(se läslista)](3_demokrati/material/laslista_och_material.md). Använd er gärna av andra källor, men var källkritiska. Ta också hjälp av utdelat kompendiet med ett urval av riksdagens studiematerial.
+Uppdelningen av dessa instuderingsfrågor följer till viss del ordningen i boken [(se läslista)](.../material/laslista_och_material.md). Använd er gärna av andra källor, men var källkritiska. Ta också hjälp av utdelat kompendiet med ett urval av riksdagens studiematerial.
 
 ***
 
