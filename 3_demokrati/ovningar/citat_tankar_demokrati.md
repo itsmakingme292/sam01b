@@ -16,7 +16,7 @@
 
 ***
 
-## Citat att fundera över
+## Citat
 
 a) ”En demokrati kan inte existera utan bestämda regler. Frihet betyder inte att man får köra på fel sida av gatan.” (Indira Gandhi)
 
