@@ -8,7 +8,7 @@ OBS: Denna övning sker antingen över två lektioner eller en dubbel-lektion.
 
 2. Ni letar upp partiets hemsida och undersöker där de beskriver sin politik.
 
-3) Ni utgår i arbetet utifrån frågorna nedan och antecknar.
+3. Ni utgår i arbetet utifrån frågorna nedan och antecknar.
 
 ***
 
