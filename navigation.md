@@ -63,7 +63,7 @@
   * [SubMenu Item 3](subitem3.md)
   - - - -
   * # Examinerande moment
-  * [SubMenu Item 3](subitem3.md)
+  * [Instuderingsfrågor inför prov](5_ekonomi/examinerande_moment/instuderingsfragor_ekonomi.md)
 
 [Ideologier]()
 
