@@ -53,10 +53,6 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 5. Du skickar till **fredrik.stahl.metg@analys.urkund.se** (se deadline i provschema på schoolsoft)
 
-**LYCKA TILL!**
-
-/ Fredrik
-
 ***
 
 ## Betygskriterier för uppgiften
@@ -85,4 +81,8 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 - Eleven drar **välgrundade och nyanserade slutsatser** och ger **välgrundade och nyanserade argument** för och emot ideologierna samt för sin egen ståndpunkt i mycket hög grad och uttrycker sig på ett **strukturerat** och **sammanhängande** sätt.
 
+***
 
+**LYCKA TILL!**
+
+/ Fredrik
