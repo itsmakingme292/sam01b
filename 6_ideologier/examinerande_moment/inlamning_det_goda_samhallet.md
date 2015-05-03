@@ -1,10 +1,8 @@
 # Ideologierna & Det goda samhället
 
-## Att göra
+## Instruktioner: Vad?
 
-Obligatoriskt för denna uppgift är **Liberalismen** och **Socialismen**
-samt **ytterligare en valfri** av följande ideologier: Konservatism,
-Ekologism, Feminism
+Obligatoriskt för denna uppgift är **Liberalismen** och **Socialismen** samt **ytterligare en valfri** av följande ideologier: Konservatism, Ekologism, Feminism
 
 **1) Beskriv dina tre ideologier, samt dess olika grenar.**
 
@@ -19,18 +17,16 @@ Vilka är de mest utmärkande dragen? Vad säger de exempelvis om:
 
 **2) Argumentera för och emot ideologierna och väg dem mot varandra**
 
-Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av
-en viss ideologi förslagsvis kunna kritisera de andra? Vart går de stora
-skiljelinjerna? Osv.
+Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en viss ideologi förslagsvis kunna kritisera de andra? Vart går de stora skiljelinjerna? Osv.
 
 **3) Beskriv och argumentera för din egen ståndpunkt/slutsats**
 
 - Vilken ideologi ger den rimligaste analysen/bilden av samhället?
 - Vilken ideologi ger de bästa förslagen på förändringar?
 
-## OBS:
+### Att tänka på:
 
-- En möjlig ståndpunkt/slutsats kan vara att du helst ser någon formav kombination mellan några,  eller alla, av de ideologier du valt att skriva om. Om detta är fallet: beskriv då hur du tänker dig att denna kombination skulle se ut och *varför* den är att föredra.
+- En möjlig ståndpunkt/slutsats kan vara att du helst ser någon form av kombination mellan några,  eller alla, av de ideologier du valt att skriva om. Om detta är fallet: beskriv då hur du tänker dig att denna kombination skulle se ut och *varför* den är att föredra.
 
 - Har du svårt att *ta ställning,* måste du likväl kunna *resonera* kring detta. Vilka aspekter av en viss ideologi ger den fördelar gentemot en viss annan? Varför anser du att det står och väger mellan dem? Osv.
 
@@ -39,6 +35,21 @@ skiljelinjerna? Osv.
 - Tänk kvalité och inte kvantitet när du skriver. "Pladdra" inte bara på, utan tänk först noggrant efter kring de ideologier du valt att skriva om. Läs på och anteckna innan du börjar skriva din text.
 
 - Man kan absolut lyfta in andra ideologier än de tre man har sitt fokus på. Var dock tydlig med vilka ideologier som är ditt fokus och tänk på att du har ett begränsat utrymme att genomföra uppgiften på.
+***
+
+## Instruktioner: Hur? 
+
+1. Du läser och reflekterar kring sidorna **133–154 i läroboken. **
+2. Du *bör* för denna uppgift använda dig **av ytterligare källor** och/eller eventuellt utdelat extramaterial (obs: var källkritisk!). Detta med en enklare *källförteckning* i slutet av din text (denna räknas ej med i max/min sidantal). Vid direkta citat eller referat krävs också *källhänvisning* i text.
+3. Du genomför uppgiften på **minst 1 A4** och **max 3 A4** (teckenstorlek 12, vanligt radavstånd, standard sid-marginaler, exklusive källförteckning).
+4. Du sparar dokumentet som/i formatet ”**PDF**” och döper dokumentet efter formen ”**Efternamn, förnamn, samhällskunskap, uppgift 2**”
+5. Du skickar till **fredrik.stahl.metg@analys.urkund.se** (se deadline i provschema på schoolsoft)
+
+**LYCKA TILL!**
+
+/ Fredrik
+
+***
 
 ## Betygskriterier för uppgiften
 
@@ -46,11 +57,9 @@ skiljelinjerna? Osv.
 
 - Eleven **redogör översiktligt** för **ideologiernas** **innehåll**.
 
-- Eleven visar **viss** **förståelse** för de **övergripande**
-**skillnaderna** mellan de olika ideologierna.
+- Eleven visar **viss** **förståelse** för de **övergripande** **skillnaderna** mellan de olika ideologierna.
 
-- Eleven drar **enkla slutsatser** och ger **enkla argument** för och
-emot ideologierna och för sin egen ståndpunkt.
+- Eleven drar **enkla slutsatser** och ger **enkla argument** för och emot ideologierna och för sin egen ståndpunkt.
 
 **Kriterier för betyget C**
 
@@ -68,14 +77,4 @@ emot ideologierna och för sin egen ståndpunkt.
 
 - Eleven drar **välgrundade och nyanserade slutsatser** och ger **välgrundade och nyanserade argument** för och emot ideologierna samt för sin egen ståndpunkt i mycket hög grad och uttrycker sig på ett **strukturerat** och **sammanhängande** sätt.
 
-## Övriga instruktioner:**
 
-1. Du läser och reflekterar kring sidorna **133–154 i läroboken. **
-2. Du *bör* för denna uppgift använda dig **av ytterligare källor** och/eller eventuellt utdelat extramaterial (obs: var källkritisk!). Detta med en enklare *källförteckning* i slutet av din text (denna räknas ej med i max/min sidantal). Vid direkta citat eller referat krävs också *källhänvisning* i text.
-3. Du genomför uppgiften på **minst 1 A4** och **max 3 A4** (teckenstorlek 12, vanligt radavstånd, standard sid-marginaler, exklusive källförteckning).
-4. Du sparar dokumentet som/i formatet ”**PDF**” och döper dokumentet efter formen ”**Efternamn, förnamn, samhällskunskap, uppgift 2**”
-5. Du skickar till **fredrik.stahl.metg@analys.urkund.se** (se deadline i provschema på schoolsoft)
-
-**LYCKA TILL!**
-
-/ Fredrik
