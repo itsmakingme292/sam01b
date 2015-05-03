@@ -16,7 +16,7 @@ Uppgiften går ut på att skriva en artikel om kritiskt tänkande (som ämnesomr
 
 - Källkritikens punkter.
 
-- Mediekritiskt tänkande. <br>
+- Mediekritiskt tänkande.
 
 #### *I relation till* sådant som exempelvis:
 
@@ -82,7 +82,7 @@ OBS: Misslyckas man med någon av punkterna 4-6 räknas det som en icke inlämna
 
 - Eleven visar **mycket god** **förståelse** för centrala begrepp och **vad kritiskt tänkande innebär**
 
-- Eleven för en **välutvecklad diskussion** med en **röd tråd** (god struktur) om **vikten av** kritiskt tänkande som i mycket hög grad bygger på **välgrundade och** **nyanserade slutsatser** och **välgrundade och** **nyanserade argument**.
+- Eleven för en **välutvecklad diskussion** med en **röd tråd** (god struktur) om **vikten av** kritiskt tänkande som i mycket hög grad bygger på **välgrundade och nyanserade slutsatser** och **välgrundade och** **nyanserade argument**.
 
 ***
 
