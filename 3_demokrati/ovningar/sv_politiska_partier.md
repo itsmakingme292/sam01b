@@ -12,22 +12,20 @@ OBS: Denna övning sker antingen över två lektioner eller en dubbel-lektion.
 
 ***
 
-• Några återkommande nyckel-ord i texten/texterna? Någon mening som kan
-beskriva deras grundläggande värden?
+* Några återkommande nyckel-ord i texten/texterna? 
+	* Någon återkommande mening/fras som är särskilt tongivande?
 
-• Vilka verkar vara partiets hjärtefrågor (viktiga politiska områden)?
-Försök välja ut tre stycken som ni anser särskilt typiska för partiet.
+* Vilka verkar vara partiets hjärtefrågor (viktiga politiska områden)?
+	* Försök välja ut tre stycken som ni anser särskilt typiska för partiet.
+	* Exempel på konkreta politiska förslag? Vad vill partiet genomföra?
 
-• Hur beskriver partiet sitt politiska/ideologiska perspektiv? Vad
-innebär detta perspektiv för dem? Hur ser deras problembeskrivning ut?
-Ser de något eller några grundproblem i samhället så som det ser ut nu?
-Vilket slags samhälle vill de ha?
+* Hur beskriver partiet sitt politiska perspektiv? 
+	* Hur ser deras problembeskrivning ut? Ser de något eller några grundproblem i samhället så som det ser ut nu? 
+	* Vad innebär detta perspektiv för dem? Vilket slags samhälle vill de ha?
 
-• Säger sig partiet utgå ifrån någon särskild ideologi? Exempelvis:
-Liberalism, Socialism, Konservatism, Feminism, Ekologism, Nationalism.
-En variant av någon av dessa? En kombination? Något helt annat?
-
-• Exempel på konkreta politiska förslag? Vad vill partiet genomföra?
+* Säger sig partiet utgå ifrån någon särskild ideologi? 
+	* Exempelvis: Liberalism, Socialism, Konservatism, Feminism, Ekologism, Nationalism.
+	* En variant av någon av dessa? En kombination? Något helt annat?
 
 ***
 
