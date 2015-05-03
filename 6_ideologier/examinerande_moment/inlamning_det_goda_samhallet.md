@@ -44,7 +44,7 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 1. Du läser och reflekterar kring sidorna **133–154 i läroboken.**
 
-2. Du *bör* för denna uppgift använda dig av **ytterligare källor utöver Arena** och/eller a eventuellt extra-material i denna wiki (var källkritisk!). Detta med en enklare *källförteckning* i slutet av din text (denna räknas ej med i max/min sidantal). Vid direkta citat eller referat krävs också *källhänvisning* i text.
+2. Du *bör* för denna uppgift använda dig av **ytterligare källor utöver Arena** och/eller åtminstone extra-material i denna wiki (var källkritisk!). Detta med en enklare *källförteckning* i slutet av din text (denna räknas ej med i max/min sidantal). Vid direkta citat eller referat krävs också *källhänvisning* i text.
 
 3. Du genomför uppgiften på **minst 1 A4** och **max 3 A4** (teckenstorlek 12, vanligt radavstånd, standard sid-marginaler, exklusive källförteckning).
 
