@@ -8,9 +8,7 @@ Uppgiften går ut på att skriva en artikel om kritiskt tänkande (som ämnesomr
 
 2.  **Varför det är viktigt för elever att lära sig kritiskt tänkande.**
 
-***
-
-*I detta ska du *redovisa* och *argumentera* för vikten av:*
+I detta ska du *redovisa* och *argumentera* för vikten av:*
 
 - Att kunna se, analysera och formulera argument.
 
@@ -18,7 +16,7 @@ Uppgiften går ut på att skriva en artikel om kritiskt tänkande (som ämnesomr
 
 - Mediekritiskt tänkande.
 
-* *I relation till* sådant som exempelvis:*
+*I relation till* sådant som exempelvis:*
 
 - Eventuella framtida studier.
 
