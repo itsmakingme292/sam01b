@@ -13,7 +13,7 @@ OBS: Om det känns allt för utelämnande, personligt eller jobbigt att använda
 
 - Vilka institutioner och grupper tror du stått för merparten av din socialisation. Vilka bitar av din socialisation? Varför tror du?
 
-- Är kultur viktigt för din ”identitet”. Berättar kulturen något om vem du är?
+- Är kultur viktigt för din ”identitet”. Berättar kulturen något om vem du är? Vilken kultur?
 
 - Hur påverkad tror du att du är av din kulturella och sociala tillhörighet? Är det positivt och/eller negativt? Skulle du varit en annan person om du ”tillhört” en annan eller andra kulturer? 
 
@@ -23,9 +23,9 @@ OBS: Om det känns allt för utelämnande, personligt eller jobbigt att använda
 
 - Har du som kille eller tjej samma möjligheter som någon av det motsatta könet? Förväntas det andra saker av dig än av någon av ett motsatt kön? På vilket sätt är detta problematiskt? Vad är dina egna erfarenheter? Vad säger normen? Vad säger du? Lever vi i ett patriarkat?
 
-- Vad är din klassbakgrund? Hur tror du denna påverkar dig (och andra)? 
+- Vilken är din klassbakgrund? Hur tror du denna påverkar dig (och andra)? Är denna viktig för din identitet?
 
-- Vad är din etniska bakgrund? Hur tror du att denna påverkar dig (och andra)? 
+- Vilken är din etniska bakgrund? Hur tror du att denna påverkar dig (och andra)? Är denna viktig för din identitet?
 
 - Upplever du ibland att den kultur eller de kulturer du tillhör ”krockar” med andras kulturer?
 
