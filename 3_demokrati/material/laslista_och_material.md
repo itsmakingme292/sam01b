@@ -1,6 +1,6 @@
-# Läslista & Material
+# Läslista
 
-## Att läsa i Arena
+## Arena
 
 **Demokrati och diktatur**
 
@@ -18,6 +18,6 @@ Sid. 154-164 (10 sid)
 
 ## Kompendium
 
-Ett urval av riksdagens studiematerial
+Ett urval av riksdagens studiematerial (60sid, lättläst och kan till stor del ersätta delar av Arena).
 
 [Klicka här för att ladda ner som PDF](material/resurser/kompendium_sv_pol_system.pdf)
