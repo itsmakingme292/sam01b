@@ -73,7 +73,11 @@ För ett högre omdöme gäller det att du i hög grad
 
 - Exempel på relevanta NGOs (och deras arbete)
 
+***
+
 ## Material
+
+***
 
 #### Sidor i boken
 
@@ -83,12 +87,16 @@ För ett högre omdöme gäller det att du i hög grad
 
 - Folkrätten och internationella domstolar (sid. 408-411)
 
+***
+
 #### Kompendium
 
 [Allmän förklaring om de mänskliga rättigheterna](../material/resurser/allmanforklaringomdemanskligarattigheterna.pdf)
 
 OBS: Detta kompendium utgör en obligatorisk del! (och glöm inte ta med
 det till seminariet)
+
+***
 
 #### Några förslag på länkar för vidare läsning
 
