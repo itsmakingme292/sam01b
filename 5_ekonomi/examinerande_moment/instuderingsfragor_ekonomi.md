@@ -26,7 +26,7 @@ Se kapitel 8 & 9 i läroboken
 - Vad innebär monopol, oligopol och kartellbildning? (se sid 174-176)
     - På vilket sätt är dessa problematiska i förhållande till en fri marknad och konkurrens?
     - Vad innebär detta för konsumenten?
-
+<br>
 - Vad är BNP och BNI? (se sid 180-184)
     - Vad innebär det att mäta ovanstående per capita?
     - Vad innebär det att räkna ovanstående per capita och med PPP ?

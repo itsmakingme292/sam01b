@@ -90,4 +90,4 @@
   * [SubMenu Item 3](subitem3.md)
   - - - -
   * # Examinerande moment
-  * [SubMenu Item 3](subitem3.md)
+  * [Seminarium](7_fn_mr/examinerande_moment/fn_mr_seminarium.md)
