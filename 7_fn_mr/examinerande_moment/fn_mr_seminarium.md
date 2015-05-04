@@ -139,12 +139,12 @@ runt hälften), men var förbered på att kunna diskutera samtliga (om än inte 
 Datum: Se provschema i Schoolsoft (och meddelande om gruppindelning)
 
 Seminarietillfällen:
-* Fyra lektioner
-* Två grupper per lektion
+- Fyra lektioner
+- Två grupper per lektion
 
 Tid och antal elever per grupp:
-* 4-5 elever per grupp
-* ca 40 minuter per grupp
+- 4-5 elever per grupp
+- ca 40 minuter per grupp
 
 ***
 
