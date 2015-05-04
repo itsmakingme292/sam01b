@@ -134,6 +134,8 @@ runt hälften), men var förbered på att kunna diskutera samtliga (om än inte 
 
 8. Har alla människor ett lika värde? Detta är något vi mer eller mindre tar för givet. Men vad menar vi? Vad är själva innebörden och vilken blir effekten? På vilket sätt skulle du argumentera för vikten av detta tankesätt? Kan du se några några eventuella problem?
 
+***
+
 ## Datum, tider och grupper
 
 Datum: Se provschema i Schoolsoft (och meddelande om gruppindelning)
