@@ -114,8 +114,7 @@ OBS: Detta kompendium utgör en obligatorisk del! (och glöm inte ta med det til
 
 ## Diskussionsfrågor
 
-Obs: välj ut ett antal av dessa att fokusera lite extra på (förslagsvis
-runt hälften), men var förbered på att kunna diskutera samtliga (om än inte lika utförligt).
+Obs: välj ut ett antal av dessa att fokusera lite extra på (förslagsvis runt hälften), men var förberedda på att kunna diskutera samtliga (om än inte lika utförligt).
 
 1. Vilka tre artiklar av den allmänna förklaringen (deklarationen) av MR ser du som allra viktigast? Varför då? Jämför med andra artiklar – varför prioriterar du inte dessa lika högt?
 
