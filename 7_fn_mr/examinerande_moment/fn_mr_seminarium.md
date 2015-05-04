@@ -1,13 +1,14 @@
 # Seminarium: FN, Mänskliga rättigheter & Folkrätt
 
-Denna uppgift går ut på att ni självständigt förbereder er för ett
-seminarium kring mänskliga rättigheter och folkrätt.
+## Instruktioner
+
+Denna uppgift går ut på att ni självständigt förbereder er för ett seminarium kring mänskliga rättigheter och folkrätt.
 
 1. Inför detta seminarium kommer ni att få resterande lektionstid till att själva söka information, anteckna, fundera, resonera och jobba med ett antal diskussionsfrågor. Ta tillvara på denna tid så att det inte blir lika mycket att göra hemma.
 
 2. Under ert arbete ska ni förbereda anteckningar med stolpar över sådant ni funnit intressant och viktigt, samt över era egna resonemang, tankar, argument och idéer. Dessa anteckningar får ni sedan ta med er till seminariet och ha som stöd. Det finns här ingen gräns på hur mycket material man får ta med, men tänk på att ni är mindre hjälpta av dessa anteckningar om de inte är strukturerade på ett lättnavigerat sätt. Tänk också på att det inte är meningen att ni ska sitta och läsa innantill.
 
-3. Under seminariet är diskussionen fri och driver idealt sig själv. Tanken är att det är ni som för samtalet och att jag modererar så lite som möjligt. Det är därför viktigt att ni i era förberedelser har en framtida fruktbar diskussion i åtanke och inte en monolog. Tänk också på att diskussionsfrågorna är ett underlag, samt att det inte är säkert att alla diskussionsfrågor du valt att fokusera på kommer att kunna ges samma utrymme.
+3. Under seminariet är diskussionen fri och driver idealt sig själv. Tanken är att det är ni som för samtalet och att jag modererar så lite som möjligt. Det är därför viktigt att ni i era förberedelser har en framtida fruktbar diskussion i åtanke och inte en monolog. Tänk också på att [diskussionsfrågorna](#Diskussionsfrågor) är ett underlag, samt att det inte är säkert att alla diskussionsfrågor du valt att fokusera på kommer att kunna ges samma utrymme.
 
 4. På följande sidor finner ni vägledning kring centrala delar, förslag på material, samt de diskussionsfrågor som seminariet kommer att utgå ifrån. Av dessa diskussionsfrågor får ni välja ett antal som ni i huvudsak vill fokusera på (förslagsvis runt hälften)
 
@@ -77,8 +78,6 @@ För ett högre omdöme gäller det att du i hög grad
 
 ## Material
 
-***
-
 #### Sidor i boken
 
 - Internationell politik, globalisering och aktörer (sid. 393-399)
@@ -86,8 +85,6 @@ För ett högre omdöme gäller det att du i hög grad
 - FN och mänskliga rättigheter (sid. 400-405)
 
 - Folkrätten och internationella domstolar (sid. 408-411)
-
-***
 
 #### Kompendium
 
@@ -116,7 +113,7 @@ det till seminariet)
 
 ***
 
-## Diskussionsfrågor:
+## Diskussionsfrågor
 
 Obs: välj ut ett antal av dessa att fokusera lite extra på (förslagsvis
 runt hälften), men var förbered på att kunna diskutera samtliga (om än inte lika utförligt).
@@ -137,7 +134,7 @@ runt hälften), men var förbered på att kunna diskutera samtliga (om än inte 
 
 8. Har alla människor ett lika värde? Detta är något vi mer eller mindre tar för givet. Men vad menar vi? Vad är själva innebörden och vilken blir effekten? På vilket sätt skulle du argumentera för vikten av detta tankesätt? Kan du se några några eventuella problem?
 
-## Datum, tid och grupper
+## Datum, tider och grupper
 
 Datum: Se provschema i Schoolsoft (och meddelande om gruppindelning)
 
