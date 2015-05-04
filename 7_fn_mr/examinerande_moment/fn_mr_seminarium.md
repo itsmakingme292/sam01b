@@ -76,7 +76,7 @@ För ett högre omdöme gäller det att du i hög grad
 
 ***
 
-[include](../material/lasning_mr.md)
+[incude](../material/lasning_mr.md)
 
 ***
 
