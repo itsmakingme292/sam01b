@@ -83,7 +83,7 @@
 [FN & MR]()
 
   * # Material
-  * [Läslista, kompendium & länkar](7_fn_mr/material/lasning_mr.md)
+  * [SubMenu Item 1](subitem1.md)
   * [SubMenu Item 2](subitem2.md)
   - - - -
   * # Övningar & Diskussionsunderlag
