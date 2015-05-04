@@ -90,8 +90,7 @@ För ett högre omdöme gäller det att du i hög grad
 
 [Allmän förklaring om de mänskliga rättigheterna](../material/resurser/allmanforklaringomdemanskligarattigheterna.pdf)
 
-OBS: Detta kompendium utgör en obligatorisk del! (och glöm inte ta med
-det till seminariet)
+OBS: Detta kompendium utgör en obligatorisk del! (och glöm inte ta med det till seminariet)
 
 ***
 
