@@ -1,5 +1,6 @@
 # Ledare och politisk färg
 
+## Om ledarsidor
 På ledarsidorna finner vi tidningarnas officiella politiska färg. Här ges kort och gott ett utrymme för att driva opinion. Vem som bestämmer en tidnings politiska färg kan se lite olika ut. Ibland är det ägaren som bestämmer, ibland är det tidningens tradition, ibland är det redaktionen. 
 
 Själva ledaren (texten) kan antingen vara signerad av redaktionen för hela tidningen, osignerad (men skriven av en ledarredaktion) eller signerad av en enskild skribent eller chefsredaktör. 
