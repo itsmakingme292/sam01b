@@ -137,12 +137,15 @@ runt hälften), men var förbered på att kunna diskutera samtliga (om än inte 
 
 ## Datum, tider och grupper
 
-Datum: Se provschema i Schoolsoft (och meddelande om gruppindelning)
+Datum: 
+
+* Se provschema i Schoolsoft
+* Meddelande om gruppindelning
 
 Seminarietillfällen:
 
 * Fyra lektioner
-*Två grupper per lektion
+* Två grupper per lektion
 
 Tid och antal elever per grupp:
 
