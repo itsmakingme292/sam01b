@@ -14,8 +14,8 @@ vara: fråga!
 
 ## Samhällsekonomi
 
-Se kapitel 8 & 9 i läroboken
-
+*Se kapitel 8 & 9 i läroboken*
+<br>
 - Vilka är de fyra grundläggande ekonomiska systemen och på vilket sätt skiljer sig dessa åt? (se sid 167-168)
 <br>
 - Vad är marknadskrafterna och vad krävs för att dessa ska fungera på bästa sätt? (se sid 169-171)
@@ -69,7 +69,7 @@ Se kapitel 8 & 9 i läroboken
 ## Konsumenträtt
 
 Se kompendiet [(”Konsumenträtt”)](../material/resurser/konsumentratt_kompendium.pdf)
-
+<br>
 - Vad innebär det att reklamera en vara?
     - Vad är det man rent konkret gör och vart är det man i första hand vänder sig?
     - För vad har man rätt att reklamera?
@@ -78,7 +78,7 @@ Se kompendiet [(”Konsumenträtt”)](../material/resurser/konsumentratt_kompen
     - Vad har man rätt till om man lämnat in en vara för reparation två gånger och den fortfarande inte fungerar som den ska?
 <br>
 - Vad är en garanti och på vilket sätt skiljer sig denna från rätten att reklamera?
-
+<br>
 - Vad menas med "öppet köp" respektive "bytesrätt"?
     - Erbjuder alla butiker detta?
     - Varför är kvitto viktigt i detta sammanhang?
