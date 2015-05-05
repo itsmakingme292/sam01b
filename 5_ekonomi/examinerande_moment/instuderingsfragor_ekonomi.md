@@ -17,7 +17,7 @@ vara: fråga!
 Se kapitel 8 & 9 i läroboken
 
 - Vilka är de fyra grundläggande ekonomiska systemen och på vilket sätt skiljer sig dessa åt? (se sid 167-168)
-
+<br>
 - Vad är marknadskrafterna och vad krävs för att dessa ska fungera på bästa sätt? (se sid 169-171)
     - Vad innebär en "perfekt marknad"?
     - På vilka sätt kan sambandet mellan efterfrågan och utbud se ut (i fråga om kvantitet och pris)?
