@@ -21,7 +21,7 @@
   * [Kognitiva Bias](1_intro/kursens_upplagg.md)
   * [Argumentation](1_intro/kursplan.md)
   - - - -
-  * # Övningsuppgifter & Diskussionsunderlag
+  * # Övningar & Diskussionsunderlag
   * [Bloggar & "Gammelmedia"](2_kritiskt_tankande/ovningar/bloggar_gammelmedia.md)
   * [Ledare & Politisk färg](2_kritiskt_tankande/ovningar/ledare_politisk_farg.md)
   - - - -
