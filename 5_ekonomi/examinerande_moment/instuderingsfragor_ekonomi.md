@@ -69,7 +69,7 @@ vara: fråga!
 ## Konsumenträtt
 
 *Se kompendiet [(”Konsumenträtt”)](../material/resurser/konsumentratt_kompendium.pdf)*
-
+<br>
 - Vad innebär det att reklamera en vara?
     - Vad är det man rent konkret gör och vart är det man i första hand vänder sig?
     - För vad har man rätt att reklamera?
