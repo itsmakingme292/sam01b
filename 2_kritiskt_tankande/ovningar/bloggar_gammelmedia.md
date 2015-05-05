@@ -13,7 +13,7 @@
  - Hur tror du att bloggar och sociala medier påverkar den demokratiska kulturen, den politiska diskussionen, människors världsbild och vår kunskap?
  
      - Har Bo Rothstein rätt eller fel? Stjälper eller hjälper bloggarna? Vilka är fördelarna, vilka är nackdelarna och vad väger över?
-
+<br>
  - På vilket sätt är det problematiskt att information på bloggar och i andra sociala medier inte går igenom en kvalitetsgranskning och/eller inte skrivs av professionella journalister?
 
      - Är denna problematik stor/övervägande eller liten/överdriven?
