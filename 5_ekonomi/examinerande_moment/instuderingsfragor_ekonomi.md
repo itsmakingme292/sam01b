@@ -1,11 +1,6 @@
 # Instuderingsfrågor
 
-Alla frågor går att besvara genom att använda kursboken samt [detta kompendium
-om konsumenträtt](../material/resurser/konsumentratt_kompendium.pdf) (men man får använda andra källor om man vill). Vissa
-frågor går snabbt att svara på, medan andra tar längre tid. Vilka frågor
-som tillhör vilken kategori kommer i de flesta fall bli uppenbart efter
-läsning, men om ni skulle känna er osäkra på hur detaljerade ni måste
-vara: fråga!
+Alla frågor går att besvara genom att använda kursboken samt [detta kompendium om konsumenträtt](../material/resurser/konsumentratt_kompendium.pdf) (men man får använda andra källor om man vill). Vissa frågor går snabbt att svara på, medan andra tar längre tid. Vilka frågor som tillhör vilken kategori kommer i de flesta fall bli uppenbart efter läsning, men om ni skulle känna er osäkra på hur detaljerade ni måste vara: fråga!
 
 **LYCKA TILL!**
 / Fredrik
