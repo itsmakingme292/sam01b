@@ -14,7 +14,7 @@ vara: fråga!
 
 ## Samhällsekonomi
 
-Se kapitel 8 & 9 i läroboken
+*Se kapitel 8 & 9 i läroboken*
 
 - Vilka är de fyra grundläggande ekonomiska systemen och på vilket sätt skiljer sig dessa åt? (se sid 167-168)
 <br>
@@ -68,7 +68,7 @@ Se kapitel 8 & 9 i läroboken
 
 ## Konsumenträtt
 
-Se kompendiet [(”Konsumenträtt”)](../material/resurser/konsumentratt_kompendium.pdf)
+*Se kompendiet [(”Konsumenträtt”)](../material/resurser/konsumentratt_kompendium.pdf)*
 
 - Vad innebär det att reklamera en vara?
     - Vad är det man rent konkret gör och vart är det man i första hand vänder sig?
