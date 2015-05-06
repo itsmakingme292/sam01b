@@ -1,3 +1,5 @@
+<script async defer src="//hypothes.is/embed.js"></script>
+
 # Det goda samhället
 Om denna sida: Varje ideologi försöker svara på frågan om vad ett *gott* samhälle innebär. Denna sida innehåller en sammanfattning av de tre stora ideologiernas respektive svar.
  
