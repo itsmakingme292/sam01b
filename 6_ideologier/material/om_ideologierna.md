@@ -26,7 +26,11 @@ _Varje ideologi förklarar:_
 			* Vad är rättvisa?
 ***		
 ## Rättvisa
-Alla gillar rättvisa. Det är inte frågan huruvida samhället *bör* vara rättvist som delar politiken, det är frågan om vad rättvisa *innebär*. Så vad är det vi egentligen talar om när vi talar om rättvisa och varför är det så svårt att komma överens?
+Alla gillar rättvisa. Sed aliquet faucibus risus, sed aliquet mauris suscipit sed. Nullam nec rutrum mi, eget ornare lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec scelerisque a odio ut tempor. Nulla fringilla ac enim ullamcorper rhoncus. Fusce mattis accumsan eleifend. Ut dapibus tellus sit amet vulputate elementum.
+
+Quisque in elit tristique metus commodo viverra sed quis ligula. Aliquam erat volutpat. Donec felis tellus, egestas eu tincidunt sed, pellentesque eget enim. Aenean dapibus tortor vitae vehicula gravida. Vivamus bibendum sapien risus, a imperdiet justo vulputate ac. Nulla ultrices interdum pulvinar. Ut convallis commodo libero, non posuere lacus iaculis nec. Mauris iaculis odio pharetra eros aliquam, nec tincidunt augue porttitor. Aenean mollis pharetra faucibus. Fusce dolor eros, eleifend eget faucibus eget, dignissim non lacus. Phasellus mollis leo justo, nec pretium justo finibus vitae. Fusce sed tellus ut felis ullamcorper rhoncus. Donec ornare mi a metus sollicitudin, et condimentum sapien varius. Nunc ac varius velit, in malesuada lacus. Nullam et dui eget nisl lobortis rutrum.
+
+Det är inte frågan huruvida samhället *bör* vara rättvist som delar politiken, det är frågan om vad rättvisa *innebär*. Så vad är det vi egentligen talar om när vi talar om rättvisa och varför är det så svårt att komma överens?
 
 Att svara på vad som är rättvist är att svara på vilket förhållande samhällets individer bör ha till varandra. 
 
