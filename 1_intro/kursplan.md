@@ -24,7 +24,7 @@ Om denna sida: Texten nedan är kopierad från skolverkets kursplan för samhäl
 
 - Presentation i olika former och med olika tekniker med betoning på det skriftliga och muntliga, till exempel debatter, debattartiklar och rapporter.
 
-## Kunskapskrav
+## Betygskriterier
 
 ### Betyget E
 

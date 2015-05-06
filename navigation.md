@@ -15,11 +15,7 @@
 [Kritiskt tänkande]()
 
   * # Material
-  * [Vad är kritiskt tänkande?](1_intro/vad_ar_samhallskunskap.md)
-  * [Källkritik](1_intro/vad_ar_samhallskunskap.md)
-  * [Media](1_intro/vad_ar_samhallskunskap.md)
-  * [Kognitiva Bias](1_intro/kursens_upplagg.md)
-  * [Argumentation](1_intro/kursplan.md)
+  * [Innehåll & Läslista] (2_kritiskt_tankande/material/innehall_laslista_kritiskt_tankande.md)
   - - - -
   * # Övningar & Diskussionsunderlag
   * [Bloggar & "Gammelmedia"](2_kritiskt_tankande/ovningar/bloggar_gammelmedia.md)
@@ -45,6 +41,7 @@
 [Norm & Makt]()
 
   * # Material
+  * [Innehåll & Läslista](4_norm/material/innehall_laslista_norm_makt.md)
   * [Centrala Begrepp](4_norm/struktur_centrala_begrepp.md)
   - - - -
   * # Övningar & Diskussionsunderlag
@@ -56,11 +53,10 @@
 [Ekonomi]()
 
   * # Material
-  * [Samhällsekonomi](subitem1.md)
-  * [Konsumenträtt](subitem2.md)
+  * [Innehåll & Läslista](5_ekonomi/material/innehall_laslista_ekonomi.md)
   - - - -
   * # Övningar & Diskussionsunderlag
-  * [SubMenu Item 3](subitem3.md)
+  * [...](vad.md)
   - - - -
   * # Examinerande moment
   * [Instuderingsfrågor inför prov](5_ekonomi/examinerande_moment/instuderingsfragor_ekonomi.md)
