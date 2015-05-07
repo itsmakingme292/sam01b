@@ -71,11 +71,13 @@ Positiva rättigheter handlar om _rätten till_ något. Dessa kräver en aktiv h
 
 
 #### Liberalismen
+
 * Fokus på negativa rättigheter
 	* Människor skall vara lika inför lagen och ges stora friheter.
 	* Människor ska själva få bestämma över sina liv så länge de inte skadar andra. Staten skall i högsta möjliga mån låta individen vara.
 
 #### Socialismen
+
 * Större fokus på positiva rättigheter
 	* Hur lika vi än är inför lagen, räcker inte detta för att göra ett samhälle jämlikt. Vissa ges "sämre kort" från första början och har därför inte samma förutsättningar.
 	* Vi måste aktivt korrigera social ojämlikhet politiskt genom positiva rättigheter. 
