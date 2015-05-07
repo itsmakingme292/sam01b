@@ -15,7 +15,7 @@
 [Kritiskt tänkande]()
 
   * # Material
-  * [Innehåll & Läslista] (2_kritiskt_tankande/material/innehall_laslista_kritiskt_tankande.md)
+  * [Innehåll & Läslista](2_kritiskt_tankande/material/innehall_laslista_kritiskt_tankande.md)
   - - - -
   * # Övningar & Diskussionsunderlag
   * [Bloggar & "Gammelmedia"](2_kritiskt_tankande/ovningar/bloggar_gammelmedia.md)
