@@ -14,7 +14,7 @@ Först ser vi filmen. Sedan diskuterar ni gruppvis och till sist lyfter vi disku
 	* Om vad som gynnar uppkomsten och upprätthållandet av en diktatur?
 	* Om hur vi kan koppla samman detta med de förutsättningar som krävs för en verklig demokrati?
 	* Om vilka fallgropar en demokrati bör akta sig för?
-<br>
+
 * Är filmen realistisk? Skulle detta kunna hända idag?
 	* Vad kan filmen säga om mänsklig psykologi?
 	* Vad gör Die Welle med eleverna? På vilket sätt förändras deras beteende? I förhållande till varandra? I förhållande till sig själva?

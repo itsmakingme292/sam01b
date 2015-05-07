@@ -26,6 +26,7 @@ _Varje ideologi förklarar:_
 		* Vad är målet? Hur skulle ett idealsamhälle vara ordnat?
 			* Vad är frihet?
 			* Vad är rättvisa?
+			
 ***		
 ## Rättvisa
 Alla gillar rättvisa. Det är inte frågan huruvida samhället *bör* vara rättvist som delar politiken, det är frågan om vad rättvisa *innebär*. Så vad är det vi egentligen talar om när vi talar om rättvisa och varför är det så svårt att komma överens?
