@@ -11,7 +11,7 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 
 *Se kapitel 8 & 9 i läroboken*
 
-- Vilka är de fyra grundläggande ekonomiska systemen och på vilket sätt skiljer sig dessa åt? (se sid 167-168)
+- Vilka är de fem grundläggande ekonomiska systemen och på vilket sätt skiljer sig dessa åt? (se sid 167-168)
 
 - Vad är marknadskrafterna och vad krävs för att dessa ska fungera på bästa sätt? (se sid 169-171)
     - Vad innebär en "perfekt marknad"?
