@@ -78,7 +78,7 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
     - Erbjuder alla butiker detta?
     - Varför är kvitto viktigt i detta sammanhang?
 
-- Vad är "ångerätt" och för vilken typ av köp har du denna?
+- Vad är "ångerrätt" och för vilken typ av köp har du denna?
     - Varför då tror du?
 
 - Om en butik varken erbjuder öppet köp, bytesrätt eller garanti, vad har du då för rättigheter om du upptäcker ett fel på varan?
