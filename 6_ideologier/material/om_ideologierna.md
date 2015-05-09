@@ -3,8 +3,6 @@ Om denna sida: Varje ideologi försöker svara på frågan om vad ett *gott* sam
  
 OBS: Var uppmärksamma på denna sammanfattning innebär vissa förenklingar och att varje ideologi har flertalet förgreningar.
 
-Tips: Denna sida har en funktion för markeringar och anteckningar via tjänsten hypothesis. Om man skapar en användare där sparas de markeringar ni gör. Om man inte skapar en användare, kommer dessa försvinna. Tänk dock på att grundinställningen är att alla markeringar och anteckningar är publika (med andra ord, alla kan se dem). Detta finns det både fördelar och nackdelar med. 
-
 ## Ideologierna och dess två komponenter
 En ideologi är ett ”paket” som innehåller en uppfattning om samhället och idéer för dess förändring. En slags helhet med lika delar beskrivande teori som grundläggande värderingar
 
