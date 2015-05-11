@@ -184,7 +184,7 @@ Den totala frånvaron av en stat förespråkas framförallt av den socialistiska
 De som förespråkar den totala avsaknaden av en stat menar att staten alltid utgör ett förtryck och en makt över individen som i det långa loppet inte kan rättfärdigas. 
 
 #### Nattväktarstat
-En nattväktarstat är en slags minimi-stat. En sådant stat har endast en uppgift: att skydda medborgarna från varandra och från övriga stater (och därmed säkra "den inre" och "den yttre" säkerheten). Detta innebär i praktiken att staten endast står för sådant som ett rättsväsende (polis och domstolar), militär samt brandkår. I denna typ av stat råder 100 procent oreglerad marknadsekonomi och det sker ingen omfördelning av resurser från statens sida. Statens uppgift begränsas till att skydda medborgaren _liv_, _frihet_, och _egendom_. Utöver detta skall staten vara _passiv_.
+En nattväktarstat är en slags minimi-stat. En sådant stat har endast en uppgift: att skydda medborgarna från varandra och från övriga stater (och därmed säkra "den inre" och "den yttre" säkerheten). Detta innebär i praktiken att staten endast står för sådant som ett rättsväsende (polis och domstolar), militär samt brandkår. I denna typ av stat råder 100 procent oreglerad marknadsekonomi och det sker ingen omfördelning av resurser från statens sida. Statens uppgift begränsas till att skydda medborgaren _liv_, _frihet_ och _(privata) egendom_. Utöver detta skall staten vara _passiv_.
 
 **Förespråkas av:** Nyliberaler/libertarianer. Vissa konservativa.
 
