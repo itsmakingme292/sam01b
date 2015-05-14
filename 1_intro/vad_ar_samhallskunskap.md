@@ -2,7 +2,11 @@
 
 ## Header nivå 2/1
 
-Fusce tortor est, feugiat gravida tincidunt vel, ultrices eget massa. Donec libero est, lobortis id ultrices et, gravida quis lorem. Maecenas gravida lacus a ultricies commodo. Donec nec faucibus nisi. Nam non mi ex. Pellentesque aliquam sem et libero efficitur, id ultrices lorem luctus. Curabitur placerat tempus leo, sit amet tempus ipsum tristique ut. Donec pulvinar dui ac mauris viverra, ac fermentum elit posuere. 
+Fusce tortor est, feugiat gravida tincidunt vel, ultrices eget massa. Donec libero est, lobortis id ultrices et, gravida quis lorem. Maecenas gravida lacus a ultricies commodo. Donec nec faucibus nisi. Nam non mi ex. Pellentesque aliquam sem et libero efficitur, id ultrices lorem luctus. Curabitur placerat tempus leo, sit amet tempus ipsum tristique ut. Donec pulvinar dui ac mauris viverra, ac fermentum elit posuere. [^Test]
+
+[^Test]: Testar fotnot...
+
+
 
 ### Header nivå 3/2
 
