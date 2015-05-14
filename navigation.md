@@ -1,6 +1,6 @@
 # SAM01b
 
-[Intro & Info]()
+[Introduktion]()
 
   * # Om kursen
   * [Vad är samhällskunskap?](1_intro/vad_ar_samhallskunskap.md)
