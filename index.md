@@ -10,6 +10,8 @@ Tips: Navigera er genom att använda menyn högst upp. Varje delmoment har under
 
 Om inget annat anges är det alltid jag (Fredrik Ståhl) som står bakom innehållet i denna wiki. Om ni har idéer för förbättring av både denna wiki och kursen som helhet, tveka inte att prata med mig om det. Glöm inte heller att titta igenom övergripande information om kursen under introduktionsfliken. 
 
+Tips: Tanken är att ni inte ska behöva skriva ut från denna sida, men om ni absolut vill göra det tänk då på att skriva ut 2 sidor per ark (utskrifts-stilen är anpassad för detta).
+
 ***
 
 ## Kontakt & frågor
