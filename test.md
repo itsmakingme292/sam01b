@@ -30,8 +30,15 @@ Vestibulum egestas augue a diam elementum, at cursus augue scelerisque. Pellente
 ## O-ordnad lista, utan radbryt
 
 * Proin non volutpat lacus. Nulla porttitor tristique egestas. Cras sollicitudin metus eget mi efficitur 
-* Proin non volutpat lacus. Nulla porttitor tristique egestas. Cras sollicitudin metus eget mi efficitur 
+* Proin non volutpat lacus. Nulla porttitor tristique egestas. Cras sollicitudin metus eget mi efficitur
 
+## O-ordnad lista, utan radbryt, korta punkter
+
+* Proin non volutpat lacus. 
+* Nulla porttitor tristique egestas. 
+* Cras sollicitudin.
+* Proin non volutpat lacus. 
+* Nulla porttitor
 
 ## O-ordnad lista, med radbryt
 

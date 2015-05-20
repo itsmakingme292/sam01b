@@ -2,6 +2,8 @@
 
 [Intro & Info]()
 
+  * [Test-dokument (debug)](test.md)
+ - - - -
   * # Om kursen
   * [Vad är samhällskunskap?](1_intro/vad_ar_samhallskunskap.md)
   * [Preliminärt upplägg](1_intro/kursens_upplagg.md)
