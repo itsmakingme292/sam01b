@@ -34,6 +34,7 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 - Beskriv vad som utgör goda förutsättningar för tillväxt (se sid 186-188)
     - Vilka "recept" för tillväxt anger boken?
     - Hur kan man argumentera för dessa?
+    - På vilket sätt hänger dessa samman med produktionsfaktorerna?
     - Finns det något som du skulle vilja lägga till?
 
 - Vad är inflation? (se sid 193-196)
@@ -80,6 +81,7 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 
 - Vad är "ångerrätt" och för vilken typ av köp har du denna?
     - Varför då tror du?
+    - Finns det någon tidsgräns?
 
 - Om en butik varken erbjuder öppet köp, bytesrätt eller garanti, vad har du då för rättigheter om du upptäcker ett fel på varan?
 
