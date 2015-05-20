@@ -53,7 +53,7 @@ Nördar eller nörderi är inte ett viktigare tema än något annat. Men det är
 
 I det här numret vill vi undersöka varför kvinnliga nördar har så svårt att claima sin - nördighet. Vi vill ifrågasätta den potentiella geekrevolutionen och framför allt ta reda på vad intellektuellt sug kan leda till för framtidsvisioner. Om det finns en värld där passion och intresse kommer före kön och kroppsliga begränsningar, vill vi gärna besöka den.
 
-Tips: Fyll i respektive del i [formuläret längst ner på denna sida](#Svarsformulär) efter varje läst ledare (men tryck inte på "submit" innan du är klar med läsningen av samtliga).
+Tips: Fyll i respektive del i [formuläret längst ner på denna sida](#Svarsformulär) efter varje läst ledare (men tryck inte på "skicka" innan du är klar med läsningen av samtliga).
 ## Ledare 2: Höj rösten för handeln
 
 Frihandelsförhandlingarna ­mellan EU och USA står still. Stefan ­Löfven behöver knuffa på.
@@ -84,7 +84,7 @@ Då liksom nu sägs investeringsavtal leda till företagsdiktatur och välfärds
 
 Stefan Löfven borde höja rösten, skingra myterna och formulera ett tydligare stöd åt ett avtal som svensk och europeisk ekonomi behöver.​
 
-Tips: Fyll i respektive del i [formuläret längst ner på denna sida](#Svarsformulär) efter varje läst ledare (men tryck inte på "submit" innan du är klar med läsningen av samtliga).
+Tips: Fyll i respektive del i [formuläret längst ner på denna sida](#Svarsformulär) efter varje läst ledare (men tryck inte på "skicka" innan du är klar med läsningen av samtliga).
 ***
 ## Ledare 3: Hyckleriet efter terrordådet i Paris
 
@@ -130,7 +130,7 @@ Islamofobin och Islamiska Staten är varandras spegelbilder och förutsättninga
 
 Ett första steg för att försöka förhindra fler terrorbrott är att ge stöd och uppbackning till de krafter i förorter och moskéer som arbetar mot IS värvningar av soldater. Lika viktigt är att Sverige måste sluta ge politiskt, moraliskt, ekonomiskt och alla andra former av stöd till de krafter som håller de fundamentalistiska våldsverkarna under armarna – det gäller såväl imperialismens försök att med terror störta regeringar i Mellanöstern som den liberal-fascistiska kuppregimen i Ukraina.
 
-Tips: Fyll i respektive del i [formuläret längst ner på denna sida](#Svarsformulär) efter varje läst ledare (men tryck inte på "submit" innan du är klar med läsningen av samtliga).
+Tips: Fyll i respektive del i [formuläret längst ner på denna sida](#Svarsformulär) efter varje läst ledare (men tryck inte på "skicka" innan du är klar med läsningen av samtliga).
 ***
 ## Ledare 4: Politiska konflikter – men inte prestige
 
@@ -157,7 +157,7 @@ Ingen ifrågasätter i dag att skolan har problem, och trots att Björklund gån
 **Det är prestige**
 Att den tioåriga grundskolan i praktiken är genomförd sedan snart 20 år och att ingen ifrågasätter att reglerna för friskolorna måste skärpas spelar i det sammanhanget ingen roll.Det är, om vi ska vara ärliga, inte politik. Det är prestige. Och lika säkert som att svensk politik i dag behöver tydliga politiska alternativ är nog att vi inte behöver fler strider om symboler och prestige.
 
-Tips: Fyll i respektive del i [formuläret längst ner på denna sida](#Svarsformulär) efter varje läst ledare (men tryck inte på "submit" innan du är klar med läsningen av samtliga).
+Tips: Fyll i respektive del i [formuläret längst ner på denna sida](#Svarsformulär) efter varje läst ledare (men tryck inte på "skicka" innan du är klar med läsningen av samtliga).
 ***
 ## Ledare 5: Ubåtar och Nato utmanar
 
@@ -175,7 +175,7 @@ Därför är det också olyckligt att den rödgröna regeringen avfärdar en utr
 
 När utrikesminister Margot Wallström (S) i Sälen sade att en utredning bara skulle sprida oro i Östersjön så lät hon mer som ett eko av Moskva. Det som sprider oro i Östersjön är det ryska agerandet, inte den försvarsallians som skyddar sina medlemmar. Det säkerhetspolitiska hål som ett alliansfritt Sverige utgör skapar i sig också oro i Östersjön. Fylls det inte av Nato och/eller ett betydligt starkare svenskt försvar så kommer Moskva att göra det. 
 
-Tips: Fyll i respektive del i [formuläret längst ner på denna sida](#Svarsformulär) efter varje läst ledare (men tryck inte på "submit" innan du är klar med läsningen av samtliga).
+Tips: Fyll i respektive del i [formuläret längst ner på denna sida](#Svarsformulär) efter varje läst ledare (men tryck inte på "skicka" innan du är klar med läsningen av samtliga).
 ***
 ## Svarsformulär
 
