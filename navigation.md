@@ -65,6 +65,7 @@
 [Ideologier]()
 
   * # Material
+  * [Innehåll & Läslista](6_ideologier/material/innehall_laslista_ideologier.md)
   * [Det goda samhället](6_ideologier/material/om_ideologierna.md)
   - - - -
   * # Övningar & Diskussionsunderlag
@@ -80,8 +81,7 @@
 [FN & MR]()
 
   * # Material
-  * [SubMenu Item 1](subitem1.md)
-  * [SubMenu Item 2](subitem2.md)
+  * [Innehåll & Läslista](7_fn_mr/material/innehall_laslista_fn_mr.md)
   - - - -
   * # Övningar & Diskussionsunderlag
   * [SubMenu Item 3](subitem3.md)
