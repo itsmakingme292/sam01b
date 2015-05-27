@@ -10,7 +10,7 @@
 * Vad utmärker en *god* demokrati? 
 * Olika former av demokrati (demokratimodeller)
 
-*I praktiken*
+*I praktiken:*
 
 * Sveriges statsskick & Grundlagar
 * Riksdag & Regering
