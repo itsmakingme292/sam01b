@@ -52,7 +52,7 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 5. Du skickar till **fredrik.stahl.metg@analys.urkund.se** (se deadline i provschema på schoolsoft)
 
-OBS: Misslyckas man med någon av punkterna 3-5 räknas det som en icke inlämnad uppgift...
+**OBS:** Misslyckas man med någon av punkterna 3-5 räknas det som en icke inlämnad uppgift...
 
 ***
 

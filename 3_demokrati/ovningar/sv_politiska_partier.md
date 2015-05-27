@@ -1,6 +1,6 @@
 # Övning: Sveriges politiska partier
 
-OBS: Denna övning sker antingen över två lektioner eller en dubbel-lektion.
+**OBS:** Denna övning sker antingen över två lektioner eller en dubbel-lektion.
 
 ## Del 1 (ca 60m)
 

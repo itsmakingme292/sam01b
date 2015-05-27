@@ -1,6 +1,6 @@
 # Die Welle
 
-OBS: Denna uppgift är endast möjlig att genomföra under en dubbel-lektion (2,5 timmar)
+**OBS:** Denna uppgift är endast möjlig att genomföra under en dubbel-lektion (2,5 timmar)
 
 ## Instruktioner
 
