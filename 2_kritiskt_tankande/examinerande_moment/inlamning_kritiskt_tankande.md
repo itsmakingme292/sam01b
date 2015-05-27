@@ -54,7 +54,7 @@ Uppgiften går ut på att skriva en artikel om kritiskt tänkande (som ämnesomr
 
 6. Du skickar till **fredrik.stahl.metg@analys.urkund.se** (se deadline i provschema på schoolsoft)
 
-OBS: Misslyckas man med någon av punkterna 4-6 räknas det som en icke inlämnad uppgift...
+**OBS:** Misslyckas man med någon av punkterna 4-6 räknas det som en icke inlämnad uppgift...
 
 ***
 

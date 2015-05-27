@@ -90,7 +90,7 @@ För ett högre omdöme gäller det att du i hög grad
 
 [Allmän förklaring om de mänskliga rättigheterna](../material/resurser/allmanforklaringomdemanskligarattigheterna.pdf)
 
-OBS: Detta kompendium utgör en obligatorisk del! (och glöm inte ta med det till seminariet)
+**OBS:** Detta kompendium utgör en obligatorisk del! (och glöm inte ta med det till seminariet)
 
 ***
 
@@ -114,7 +114,7 @@ OBS: Detta kompendium utgör en obligatorisk del! (och glöm inte ta med det til
 
 ## Diskussionsfrågor
 
-Obs: välj ut ett antal av dessa att fokusera lite extra på (förslagsvis runt hälften), men var förberedda på att kunna diskutera samtliga (om än inte lika utförligt).
+**OBS:** välj ut ett antal av dessa att fokusera lite extra på (förslagsvis runt hälften), men var förberedda på att kunna diskutera samtliga (om än inte lika utförligt).
 
 1. Vilka tre artiklar av den allmänna förklaringen (deklarationen) av MR ser du som allra viktigast? Varför då? Jämför med andra artiklar – varför prioriterar du inte dessa lika högt?
 

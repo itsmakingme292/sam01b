@@ -4,7 +4,7 @@
 
 Diskutera nedanstående frågor gruppvis och glöm inte att anteckna! När alla grupper är klara lyfter vi frågorna och era i svar i helklass. 
 
-OBS: Hinner ni inte med att diskutera alla frågor är detta inget problem – frågorna är många och stora. Det är också helt ok att välja ut några frågor man inom gruppen känner att man vill prioritera. 
+**OBS:** Hinner ni inte med att diskutera alla frågor är detta inget problem – frågorna är många och stora. Det är också helt ok att välja ut några frågor man inom gruppen känner att man vill prioritera. 
 
 ***
 

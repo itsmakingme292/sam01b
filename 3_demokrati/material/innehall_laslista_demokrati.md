@@ -19,7 +19,7 @@
 
 ## Läslista
 
-Tips: Glöm inte att titta på [instuderingsfrågorna](../examinerande_moment/instuderingsfragor_prov.md) innan ni börjar läsa.
+**Tips:** Glöm inte att titta på [instuderingsfrågorna](../examinerande_moment/instuderingsfragor_prov.md) innan ni börjar läsa.
 
 ### Arena
 
