@@ -10,3 +10,4 @@ Denna funkade för include i en md i annan mapp
 
 Se text-exp ".wbox" för att se alla möjliga boxar jag skapat...
 går bra att göra orden så första bokstav är stor
+
