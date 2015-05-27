@@ -18,7 +18,7 @@ Läs sid. **133-143** t.o.m. rubriken ”socialdemokratin idag” och **anteckna
 - Rättigheter & skyldigheter?
 - Samhällets utveckling?
 
-#### Grenar inom de tre stora ideologierna*
+#### Grenar inom de tre stora ideologierna
 
 - Vilka är de viktigaste typerna?
 - Vad är skillnaden mellan dessa?
