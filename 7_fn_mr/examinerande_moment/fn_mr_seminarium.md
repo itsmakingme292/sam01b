@@ -96,9 +96,9 @@ För ett högre omdöme gäller det att du i hög grad
 
 #### Några förslag på länkar för vidare läsning
 
-- [*fn.se*](http://www.fn.se) Svenska FN-förbundets hemsida. Mycket information om FN:s roll och folkrätt. Se exempelvis olika faktablad i PDF-format: [*http://www.fn.se/fn-info/vad-gor-fn/fn-fakta/*](http://www.fn.se/fn-info/vad-gor-fn/fn-fakta/)
+- [*fn.se*](http://www.fn.se) Svenska FN-förbundets hemsida. Mycket information om FN:s roll och folkrätt. Se exempelvis olika faktablad i PDF-format [här](http://www.fn.se/fn-info/vad-gor-fn/fn-fakta/)
 
-- [*skola.expo.se/de-manskliga-rattigheterna\_158.html*](http://skola.expo.se/de-manskliga-rattigheterna_158.html) "Expo Skola" är en sida som utvecklats av Expo, en organisation som verkar mot anti-demokratiska och rasistiska rörelser i samhället. Detta är deras pedagogiska material för mänskliga rättigheter.
+- [*skola.expo.se – de mänskliga rättigheterna*](http://skola.expo.se/de-manskliga-rattigheterna_158.html) "Expo Skola" är en sida som utvecklats av Expo, en organisation som verkar mot anti-demokratiska och rasistiska rörelser i samhället. Detta är deras pedagogiska material för mänskliga rättigheter.
 
 - [*manskligarattigheter.gov.se*](http://www.manskligarattigheter.gov.se) Svenska regeringens egen sida om MR. Här kan man läsa mer om granskningen av Sverige och vilket arbete vi har framför oss.
 
@@ -108,7 +108,7 @@ För ett högre omdöme gäller det att du i hög grad
 
 - [*hrw.org*](http://www.hrw.org) Human Rights Watch är en organisation som bevakar MR runt om världen. Denna sida är på engelska men innehåller mycket dagsaktuellt.
 
-- [*so-rummet.se*](http://so-rummet.se) Se exempelvis: [*http://so-rummet.se/fakta-artiklar/forenta-nationerna-fn*](http://so-rummet.se/fakta-artiklar/forenta-nationerna-fn) och [*http://www.so-rummet.se/kategorier/samhallskunskap/manskliga-rattigheter*](http://www.so-rummet.se/kategorier/samhallskunskap/manskliga-rattigheter)
+- [*so-rummet.se*](http://so-rummet.se) Se exempelvis deras sida om [FN](http://so-rummet.se/fakta-artiklar/forenta-nationerna-fn) och [mänskliga rättigher](http://www.so-rummet.se/kategorier/samhallskunskap/manskliga-rattigheter)
 
 ***
 
