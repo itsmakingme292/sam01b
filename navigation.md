@@ -49,7 +49,7 @@
   * [Kulturell och social tillhörighet](4_norm/diskussionsunderlag/kulturell_och_social_tillhorighet.md)
   - - - -
   * # Examinerande moment
-  * [SubMenu Item 3](subitem3.md)
+  * [...](subitem3.md)
   
 [Ekonomi]()
 
@@ -84,7 +84,7 @@
   * [Innehåll & Läslista](7_fn_mr/material/innehall_laslista_fn_mr.md)
   - - - -
   * # Övningar & Diskussionsunderlag
-  * [SubMenu Item 3](subitem3.md)
+  * [...](subitem3.md)
   - - - -
   * # Examinerande moment
   * [Seminarium](7_fn_mr/examinerande_moment/fn_mr_seminarium.md)
