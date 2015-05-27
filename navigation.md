@@ -28,7 +28,7 @@
 [Demokrati]()
 
   * # Material
-  * [Läslista & Kompendium](3_demokrati/material/laslista_och_material.md)
+  * [Innehåll & Läslista](3_demokrati/material/innehall_laslista_demokrati.md)
   - - - -
   * # Övningar & Diskussionsunderlag
   * [Vad är en god demokrati?](3_demokrati/ovningar/demokrati_diskussionsfragor.md)
@@ -43,7 +43,7 @@
 
   * # Material
   * [Innehåll & Läslista](4_norm/material/innehall_laslista_norm_makt.md)
-  * [Centrala Begrepp](4_norm/struktur_centrala_begrepp.md)
+  * [Centrala Begrepp](4_norm/material/struktur_centrala_begrepp.md)
   - - - -
   * # Övningar & Diskussionsunderlag
   * [Kulturell och social tillhörighet](4_norm/diskussionsunderlag/kulturell_och_social_tillhorighet.md)
