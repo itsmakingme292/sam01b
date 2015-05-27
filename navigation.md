@@ -37,7 +37,7 @@
   * [Die Welle (Film)](3_demokrati/ovningar/die_welle.md)
   - - - -
   * # Examinerande moment
-  * [Instuderingsfrågor inför prov](3_demokrati/examinerande_moment/instuderingsfragor_prov.md)
+  * [Instuderingsfrågor inför prov](3_demokrati/examinerande_moment/instuderingsfragor_demokrati.md)
 
 [Norm & Makt]()
 
