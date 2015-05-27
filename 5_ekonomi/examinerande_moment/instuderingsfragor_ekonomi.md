@@ -24,7 +24,7 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 
 - Vad är BNP och BNI? (se sid 180-184)
     - Vad innebär det att mäta ovanstående per capita?
-    - Vad innebär det att räkna ovanstående per capita och med PPP ?
+    - Vad innebär det att räkna ovanstående per capita och med PPP?
     - Vad gör BNP/BNI problematiskt som välfärdsmått?
     - Vilka alternativa välfärdsmått finns det? Vad mäter dessa kortfattat?
 
@@ -73,7 +73,8 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
     - Vad ska enligt lag hända efter det att man reklamerat (vilka alternativ finns)?
     - Vad har man rätt till om man lämnat in en vara för reparation två gånger och den fortfarande inte fungerar som den ska?
 
-- Vad är en garanti och på vilket sätt skiljer sig denna från rätten att reklamera?
+- Vad är en garanti? 
+	* På vilket sätt skiljer sig denna från rätten att reklamera?
 
 - Vad menas med "öppet köp" respektive "bytesrätt"?
     - Erbjuder alla butiker detta?
@@ -85,12 +86,16 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 
 - Om en butik varken erbjuder öppet köp, bytesrätt eller garanti, vad har du då för rättigheter om du upptäcker ett fel på varan?
 
+- Vart kan man vända sig om ett företag inte följer konsumenträtten?
+
+<!--Borttagna instuderingsfrågor: Konsumenträtt
+
 - Vad gäller då man köper något av en privatperson?
 
 - Vad är en dröjsmålsränta och vad är en betalningsanmärkning?
 
-    - På vilket sätt kan en betalningsanmärkning vara problematiskt för individen?
+  - På vilket sätt kan en betalningsanmärkning vara problematiskt för individen?
 
 - Vid vilken ålder får man enligt lag sluta ett avtal och vad innebär en bindningstid?
 
-- Vart kan man vända sig om ett företag inte följer konsumenträtten?
+-->
