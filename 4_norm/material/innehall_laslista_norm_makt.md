@@ -1,8 +1,8 @@
 # Norm & Makt
 
-[include](../../0_includes/preliminart_innehall.md)
-
 **Om namnet och innehållet i detta moment:** Detta moment skulle kunna ha ett mycket längre namn, men jag lät det stanna vid norm och makt. Alla begrepp som listas nedan hänger tätt samman. Se kartan "samhällets strukturer" under [centrala begrepp](struktur_centrala_begrepp.md).
+
+***
 
 ## Delmomentets innehåll
 
@@ -27,3 +27,6 @@
 #### Denna wiki
 
 Se material i huvudmenyn...
+
+***
+[include](../../0_includes/preliminart_innehall.md)

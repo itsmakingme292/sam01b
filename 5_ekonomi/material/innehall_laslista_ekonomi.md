@@ -1,8 +1,8 @@
 # Ekonomi
 
-[include](../../0_includes/preliminart_innehall.md)
-
 Fokus under detta delmoment kommer att ligga på *samhälls*ekonomi. *Privat*ekonomi kommer framförallt att behandlas i relation till samhällsekonomin, samt under den kortare delen om konsumenträtt.
+
+***
 
 ## Delmomentets innehåll
 
@@ -22,3 +22,6 @@ Fokus under detta delmoment kommer att ligga på *samhälls*ekonomi. *Privat*eko
 ## Läslista
 
 [Se instuderingsfrågorna](5_ekonomi/examinerande_moment/instuderingsfragor_ekonomi.md)
+
+***
+[include](../../0_includes/preliminart_innehall.md)
