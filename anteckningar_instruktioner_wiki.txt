@@ -1,0 +1,7 @@
+# MD-include
+
+Denna funkade för include i första-sidan
+[include](1_intro/test_include.md)
+
+Denna funkade för include i en md i annan mapp
+[include](../1_intro/test_include.md)
