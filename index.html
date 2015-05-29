@@ -177,18 +177,17 @@ h6 small,
     font-weight: normal;
     line-height: 1;
     color: #999
+
 }
 h1,
 h2,
 h3 {
-    margin-top: 24px;
-    margin-bottom: 12px
+    margin-top: 30px;
 }
 h4,
 h5,
 h6 {
     margin-top: 24px;
-    margin-bottom: 12px
 }
 h1,
 .h1 {
@@ -234,19 +233,55 @@ h4 small,
     border-bottom: 1px solid #eee
 }
 
+p, 
+h1,
+h3,
+h4,
+h5,
+h6 {
+margin-bottom:12px;
+}
+
+h2 {
+margin-bottom:20px;
+}
+
+
+h2:first-of-type {
+margin-top:12px;
+}
+
+p {
+margin-top:12px;
+}
+
 /* LISTOR */
- 
+
+/* här är mellanrum mellan en hel lista och en paragraf ovan */ 
 ul,
 ol {
-    margin-top: 17px;
+    margin-top: 12px;
+    
+/* här är mellan-rum mellan punkter */
 }
 ul ul,
 ol ul,
 ul ol,
-ol ol {
- 	margin-top: 12px;
-    margin-bottom: 12px;
+ol ol, 
+ol li, 
+body ul li {
+ 	margin-top: 10px;
+    margin-bottom: 10px;
 }
+
+
+/* Nedan är för punkter som har flera punkter under sig ska ha större mellanrum till nästa huvudpunkt */
+
+ul:last-child {
+margin-bottom:20px; 
+}
+
+/* Nedan vet jag inte vad det är */
 
 .list-unstyled {
     padding-left: 0;
@@ -262,11 +297,7 @@ ol ol {
     padding-left: 5px
 }
 
-ul:last-child {
-margin-bottom:24px; 
-}
-
-/* Ovanstående sätts i +24 och nedanstående -12 ex, eller skita i nedan? */
+/* Nedan är för att ovan inte ska fucka upp sammanhängande listor med 1. 2. och under-delar */
 
 
 ol ul:last-child{
@@ -274,22 +305,17 @@ ol ul:last-child{
 margin-bottom:0px; 
 }
 
-
+/* Nedan gör att listor ser likadana ut oberoende av radbrytningar */
 
 ol p, ul p {
 margin-bottom: 0px;
 margin-top: 0px;
 }
 
-ol li, body ul li {
-
-margin-top: 12px;
-margin-bottom: 0px;
-}
 
 /* Nedan är till för om det blir kokko med huvud- och sidomenyn -1 är för att man annars ser en liten strimma av vitt, men nu lyckas jag inte få till vertical centrering...*/
 
-ul.list-group li, ul.list-group {margin-top:0px !important; }
+ul.list-group li, ul.list-group, ul.list-group p {margin-top:0px !important; }
 
 .dropdown {margin-top:0px; margin-bottom:0px} /* Detta är själva menyn i menyn */
 ul.navbar-nav {margin-top:0px; margin-bottom:-1px;}
@@ -297,6 +323,7 @@ ul.navbar-nav {margin-top:0px; margin-bottom:-1px;}
 /* Nedan är avstånd för header i dropdown (grupper)*/
 .dropdown-header {
 margin-top: 8px;
+margin-bottom: 0px;
 }
 
 .divider {
