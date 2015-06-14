@@ -1,5 +1,9 @@
 # Preliminärt upplägg
 
+[include](../../0_includes/preliminart_innehall.md)
+
+***
+
 ## Delmoment – HT
 * Kritiskt tänkande
 * Demokrati – i teori och praktik
@@ -14,7 +18,8 @@
 
 ## Examinationsformer
 
-Tanken just nu är att finna en balans mellan salsprov, "hemtentor" och seminarium. Eventuellt kommer någon av examinationsformerna innebära grupparbete. 
+Tanken just nu är att finna en balans mellan salsprov, inlämningsuppgifter och seminarium. Eventuellt kommer någon av examinationsformerna innebära grupparbete. 
+
+**OBS:** Samtliga examinerande moment är obligatoriska om inget annat anges...
 
 ***
-[include](../../0_includes/preliminart_innehall.md)
