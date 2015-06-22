@@ -1,6 +1,6 @@
 # Kritiskt tänkande
 
-**Om begreppet kritiskt tänkande:** Det finns många sätt att definiera vad ett kritiskt tänkande innebär. Enkelt uttryckt kan vi kalla det kritiska tänkandet för "tänkandet om tänkandet", men det är svårt att ge en fullgod definition som alla kan hålla med om. Poängen med detta delmoment är att ni ska ges en *verktygslåda* och få en bättre förståelse för vad ett kritiskt tänkande *kan* innebära. 
+**Om begreppet kritiskt tänkande:** Det finns många sätt att definiera vad ett kritiskt tänkande innebär. Enkelt uttryckt kan vi kalla det kritiska tänkandet för "tänkandet om tänkandet". Det är dock svårt att ge en fullgod definition som *alla* kan hålla med om. Poängen med detta delmoment är att ni ska ges en *verktygslåda* och få en bättre förståelse för vad ett kritiskt tänkande *kan* innebära. 
 
 ***
 
