@@ -1,6 +1,6 @@
 # SAM01b
 
-[Info]()
+[Intro & Info]()
 
   * [Test-dokument (debug)](x_meta/test.md)
  - - - -
