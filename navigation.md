@@ -36,6 +36,17 @@
   - - - -
   * # Examinerande moment
   * [Instuderingsfrågor inför prov](3_demokrati/examinerande_moment/instuderingsfragor_demokrati.md)
+  
+[FN & MR]()
+
+  * # Material
+  * [Innehåll & Läslista](7_fn_mr/material/innehall_laslista_fn_mr.md)
+  - - - -
+  * # Övningar & Diskussionsunderlag
+  * [...](subitem3.md)
+  - - - -
+  * # Examinerande moment
+  * [Seminarium](7_fn_mr/examinerande_moment/fn_mr_seminarium.md)
 
 [Norm & Makt]()
 
@@ -74,13 +85,3 @@
   * [Grupparbete](6_ideologier/examinerande_moment/ideologier_grupparbete.md)
   * [Individuell slutexamination](6_ideologier/examinerande_moment/ideologier_individuell_slutex.md)
   
-[FN & MR]()
-
-  * # Material
-  * [Innehåll & Läslista](7_fn_mr/material/innehall_laslista_fn_mr.md)
-  - - - -
-  * # Övningar & Diskussionsunderlag
-  * [...](subitem3.md)
-  - - - -
-  * # Examinerande moment
-  * [Seminarium](7_fn_mr/examinerande_moment/fn_mr_seminarium.md)
