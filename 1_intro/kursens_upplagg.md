@@ -8,7 +8,7 @@
 * Introduktion
 	* Kort om kursen, bedömning, källhantering etc. 
 * Norm & makt
-	* Ingen examination
+	* Ingen examination (men likväl viktigt)
 * Demokrati – i teori och praktik
 	* E-grundande salsprov (F eller OK)
 	* Långfråga, seminarium eller kortare hemtenta
@@ -20,7 +20,7 @@
 	* E-grundande salsprov (F eller OK)
 	* Långfråga eller kortare hemtenta
 * Kritiskt tänkande
-	* Ingen examination
+	* Ingen examination (men likväl viktigt)
 * Ideologier
 	* Grupparbete (som ni får kommentarer på)
 	* Individuell slutexamination (endast betyg)
