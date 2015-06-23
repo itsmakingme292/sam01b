@@ -1,4 +1,4 @@
-# Ideologierna & Det goda samhället
+# Slutexamination: Det goda samhället
 
 ## Instruktioner
 

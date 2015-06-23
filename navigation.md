@@ -12,16 +12,15 @@
   * # Viktig information
   * [Bedömning & Betyg](1_intro/bedomning.md)
   * [Källhantering & Plagiat](1_intro/kallhantering.md)
-
-[Kritiskt tänkande]()
+  
+[Norm & Makt]()
 
   * # Material
-  * [Innehåll & Läslista](2_kritiskt_tankande/material/innehall_laslista_kritiskt_tankande.md)
+  * [Innehåll & Läslista](4_norm/material/innehall_laslista_norm_makt.md)
+  * [Centrala Begrepp](4_norm/material/struktur_centrala_begrepp.md)
   - - - -
   * # Övningar & Diskussionsunderlag
-  * [Bloggar & "Gammelmedia"](2_kritiskt_tankande/ovningar/bloggar_gammelmedia.md)
-  * [Ledare & Politisk färg](2_kritiskt_tankande/ovningar/ledare_politisk_farg.md)
-  * [Varför kritiskt tänkande?](2_kritiskt_tankande/ovningar/ovning_kritiskt_tankande.md)
+  * [Kulturell och social tillhörighet](4_norm/diskussionsunderlag/kulturell_och_social_tillhorighet.md)
 
 [Demokrati]()
 
@@ -47,15 +46,6 @@
   - - - -
   * # Examinerande moment
   * [Seminarium](7_fn_mr/examinerande_moment/fn_mr_seminarium.md)
-
-[Norm & Makt]()
-
-  * # Material
-  * [Innehåll & Läslista](4_norm/material/innehall_laslista_norm_makt.md)
-  * [Centrala Begrepp](4_norm/material/struktur_centrala_begrepp.md)
-  - - - -
-  * # Övningar & Diskussionsunderlag
-  * [Kulturell och social tillhörighet](4_norm/diskussionsunderlag/kulturell_och_social_tillhorighet.md)
   
 [Ekonomi]()
 
@@ -67,6 +57,16 @@
   - - - -
   * # Examinerande moment
   * [Instuderingsfrågor inför prov](5_ekonomi/examinerande_moment/instuderingsfragor_ekonomi.md)
+
+[Kritiskt tänkande]()
+
+  * # Material
+  * [Innehåll & Läslista](2_kritiskt_tankande/material/innehall_laslista_kritiskt_tankande.md)
+  - - - -
+  * # Övningar & Diskussionsunderlag
+  * [Bloggar & "Gammelmedia"](2_kritiskt_tankande/ovningar/bloggar_gammelmedia.md)
+  * [Ledare & Politisk färg](2_kritiskt_tankande/ovningar/ledare_politisk_farg.md)
+  * [Varför kritiskt tänkande?](2_kritiskt_tankande/ovningar/ovning_kritiskt_tankande.md)
 
 [Ideologier]()
 
