@@ -31,7 +31,7 @@ Diskutera i grupp vad ett kritiskt tänkande innebär för er och varför det ä
 
 1. Ni läser och reflekterar kring **kapitel 13 och 18 i läroboken**. Med **fokus** på sidorna **289-299, 304-307, 434** samt **443-450** (om ni inte redan gjort detta)
 
-2. Ni läser och reflekterar kring **delen om argumentation i denna wiki** samt era **anteckningar från lektionerna**. (om ni inte redan gjort detta)
+2. Ni läser och reflekterar kring **material i denna wiki** samt era **anteckningar från lektionerna** (om ni inte redan gjort detta).
 
 3. Ni diskuterar tillsammans ovanstående frågor
 
