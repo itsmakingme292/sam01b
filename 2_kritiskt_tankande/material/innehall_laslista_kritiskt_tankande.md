@@ -22,7 +22,7 @@
 ***
 
 ## Läslista
-*För mer info, se inlämningsuppgiften...*
+<!--*För mer info, se inlämningsuppgiften...* -->
 
 #### Arena
 

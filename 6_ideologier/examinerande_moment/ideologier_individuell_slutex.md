@@ -26,7 +26,7 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 ***
 
-### Att tänka på:
+### Observera att:
 
 - En möjlig ståndpunkt/slutsats kan vara att du helst ser någon form av kombination mellan några,  eller alla, av de ideologier du valt att skriva om. Om detta är fallet: beskriv då hur du tänker dig att denna kombination skulle se ut och *varför* den är att föredra.
 

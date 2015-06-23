@@ -8,11 +8,12 @@ Fokus under detta delmoment kommer att ligga på de tre klassiska ideologierna: 
 	* analys av samhällets problem
 	* förslag på lösningar
 * Samt ideologiernas syn på 
-	* rättvisa
-	* frihet
-	* rättigheter & skyldigheter
-	* människan
-	* statens uppgift
+	* Människan
+	* Statens uppgift
+	* Ekonomin
+	* Rättvisa? Frihet
+	* Rättigheter & skyldigheter
+	* Samhällets utveckling
 
 ***
 
