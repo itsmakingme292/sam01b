@@ -21,9 +21,7 @@
   * # Övningar & Diskussionsunderlag
   * [Bloggar & "Gammelmedia"](2_kritiskt_tankande/ovningar/bloggar_gammelmedia.md)
   * [Ledare & Politisk färg](2_kritiskt_tankande/ovningar/ledare_politisk_farg.md)
-  - - - -
-  * # Examinerande moment
-  * [Inlämningsuppgift](2_kritiskt_tankande/examinerande_moment/inlamning_kritiskt_tankande.md)
+  * [Varför kritiskt tänkande?](2_kritiskt_tankande/ovningar/ovning_kritiskt_tankande.md)
 
 [Demokrati]()
 
@@ -47,9 +45,6 @@
   - - - -
   * # Övningar & Diskussionsunderlag
   * [Kulturell och social tillhörighet](4_norm/diskussionsunderlag/kulturell_och_social_tillhorighet.md)
-  - - - -
-  * # Examinerande moment
-  * [...](subitem3.md)
   
 [Ekonomi]()
 
@@ -76,7 +71,8 @@
   
   - - - -
   * # Examinerande moment
-  * [Inlämningsuppgift](6_ideologier/examinerande_moment/inlamning_det_goda_samhallet.md)
+  * [Grupparbete](6_ideologier/examinerande_moment/ideologier_grupparbete.md)
+  * [Individuell slutexamination](6_ideologier/examinerande_moment/ideologier_individuell_slutex.md)
   
 [FN & MR]()
 
