@@ -2,7 +2,9 @@
 
 ## Instruktioner
 
-Obligatoriskt för denna uppgift är **Liberalismen** och **Socialismen** (och dess huvudsakliga förgreningar) samt **ytterligare en valfri** av följande ideologier: Konservatism, Ekologism, Feminism eller Anarkism/Syndikalism
+Obligatoriskt för denna uppgift är **Liberalismen** och **Socialismen** (och dess huvudsakliga förgreningar) samt **ytterligare en valfri** av följande ideologier: Konservatism, Ekologism, Feminism eller Anarkism/Syndikalism.
+
+**Tips:** Försök för denna uppgift inte bara tänka kring vad vi gått igenom under detta moment, utan också vad ni lärt er under tidigare moment...
 
 #### 1) Beskriv dina tre ideologier, samt dess olika grenar
 
@@ -13,7 +15,7 @@ Vilka är de mest utmärkande dragen? Vad säger de exempelvis om:
 - Ekonomin?
 - Rättvisa? Frihet?
 - Rättigheter & skyldigheter?
-- Samhällets utveckling?
+- Samhällets organisation och utveckling?
 
 #### 2) Argumentera för och emot ideologierna och väg dem mot varandra
 

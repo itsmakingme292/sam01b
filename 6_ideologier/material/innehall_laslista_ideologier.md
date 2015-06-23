@@ -13,7 +13,7 @@ Fokus under detta delmoment kommer att ligga på de tre klassiska ideologierna: 
 	* Ekonomin
 	* Rättvisa? Frihet
 	* Rättigheter & skyldigheter
-	* Samhällets utveckling
+	* Samhällets organisation och utveckling
 
 ***
 
