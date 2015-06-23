@@ -7,7 +7,7 @@
 ## Delmoment – HT
 * Introduktion
 	* Kort om kursen, bedömning, källhantering etc. 
-* Kultur, identitet, norm & makt
+* Norm & makt
 	* Ingen examination
 * Demokrati – i teori och praktik
 	* E-grundande salsprov (F eller OK)
