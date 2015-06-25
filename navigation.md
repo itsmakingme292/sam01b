@@ -6,7 +6,7 @@
  - - - -
   * # Om kursen
   * [Vad är samhällskunskap?](1_intro/vad_ar_samhallskunskap.md)
-  * [Preliminärt upplägg](1_intro/kursens_upplagg.md)
+  * [Preliminärt upplägg](1_intro/planering_kursens_upplagg.md)
   * [Skolverkets kursplan](1_intro/kursplan.md)
   - - - -
   * # Viktig information
