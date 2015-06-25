@@ -1,0 +1,30 @@
+ .commit-avatar, .commit-sha, .commit-author {
+display:none
+;
+ }
+ 
+ /* line 57, ../../src/scss/screen.scss */
+#latest-commits-widget {
+  width: 500px;
+  height: 500px;
+ font: 17px;
+}
+
+/* line 90, ../../src/scss/screen.scss */
+#latest-commits-widget ul#commit-history {
+  height: 500px;
+  padding-left: 0;
+  margin: 0;
+}
+
+.commit-message.a {
+display:list;
+}
+
+A:link {text-decoration: none; color: #428bca !important;}
+A:visited {text-decoration: none; color: #428bca !important;}
+A:active {text-decoration: none; color: #428bca !important;}
+A:hover {text-decoration: underline; color: #428bca !important; }
+
+
+commit-date
