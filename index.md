@@ -31,4 +31,4 @@ För mer information om bedömning och betyg [klicka här](1_intro/bedomning.md)
 ## Senaste fem uppdateringarna
 
 <iframe src="0_includes/commits/?username=itsmakingme292&repo=itsmakingme292.github.io&branch=master&limit=5"
-  allowtransparency="true" frameborder="0" scrolling="no" width="502px" height="431px"></iframe>
+  allowtransparency="true" frameborder="0" scrolling="no" width="712px" height="532px"></iframe>
