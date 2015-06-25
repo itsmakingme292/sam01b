@@ -4,7 +4,7 @@
 
 ## Välkomna!
 
-I denna wiki finner ni material för läsning, övningsuppgifter, diskussionsunderlag och instruktioner för examinerande moment. Tanken är att samla allt på en plats för att göra det så lätt som möjligt för er. Jag uppdaterar denna wiki kontinuerligt och man kan lätt de senaste ändringarna längst ner på denna sida (mycket viktiga ändringar under ett pågående moment kommer jag såklart uppdatera er om direkt). 
+I denna wiki finner ni material för läsning, övningsuppgifter, diskussionsunderlag och instruktioner för examinerande moment. Tanken är att samla allt på en plats för att göra det så lätt som möjligt för er. Jag uppdaterar denna wiki kontinuerligt och man kan lätt se de senaste ändringarna längst ner på denna sida (ev. större ändringar i planering under ett pågående moment kommer jag såklart att uppdatera er om direkt). 
 
 **Tips:** Navigera er genom att använda menyn högst upp. Varje delmoment har undermenyer med olika typer av innehåll. Till vänster (eller ovanför denna text om ni läser detta på en läsplatta eller en smartphone) ser ni menyn för den sida ni för stunden befinner er på.
 
