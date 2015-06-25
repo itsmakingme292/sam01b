@@ -28,7 +28,7 @@ För mer information om bedömning och betyg [klicka här](1_intro/bedomning.md)
 
 ***
 
-## Senaste fem uppdateringarna
+## Senaste uppdateringarna
 
-<iframe src="0_includes/commits/?username=itsmakingme292&repo=itsmakingme292.github.io&branch=master&limit=5"
-  allowtransparency="true" frameborder="0" scrolling="no" width="502px" height="431px"></iframe>
+<iframe src="http://tylerlh.github.com/github-latest-commits-widget/?username=itsmakingme292&repo=itsmakingme292.github.io&branch=master&limit=10"
+  allowtransparency="true" frameborder="0" scrolling="no" width="502px" height="252px"></iframe>
