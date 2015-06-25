@@ -1,18 +1,27 @@
+@import url("//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic");
+
+.commit-author-info {
+margin-bottom:12px;
+display: list-item;
+list-style-type: circle; 
+list-style-position: inside;
+
+}
+
  .commit-avatar, .commit-sha, .commit-author {
-display:none
-;
+display:none;
  }
  
  /* line 57, ../../src/scss/screen.scss */
 #latest-commits-widget {
-  width: 712px;
-  height: 532px;
+
+    width: 100%;
  font: 17px;
+ font-family: "Lora", Georgia;
 }
 
 /* line 90, ../../src/scss/screen.scss */
 #latest-commits-widget ul#commit-history {
-  height: 532px;
   padding-left: 0;
   margin: 0;
 }
@@ -25,3 +34,10 @@ A:link {text-decoration: none; color: #428bca !important;}
 A:visited {text-decoration: none; color: #428bca !important;}
 A:active {text-decoration: none; color: #428bca !important;}
 A:hover {text-decoration: underline; color: #428bca !important; }
+
+b {
+
+  font-weight: normal !important;
+  font-style: italic;
+
+}

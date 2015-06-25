@@ -37,7 +37,7 @@ $(function() {
     ul.empty();
     return $(response).each(function(index, result) {
       if (result.author != null) {
-        return ul.append("<li class=\"clearfix\">\n  <div class=\"left\">\n    <img class=\"commit-avatar\" src=\"" + result.author.avatar_url + "\">\n  </div>\n  <div class=\"commit-author-info left\">\n      <a href=\"https://github.com/" + result.author.login + "\"><b class=\"commit-author\">" + result.author.login + "</b></a>\n      <br />\n      <b class=\"commit-date\">" + ($.timeago(result.commit.committer.date)) + "</b><br /><i class=\"commit-sha\">SHA: " + result.sha + "</i>\n      <br />\n      <a class=\"commit-message\" href=\"https://github.com/" + username + "/" + repo + "/commit/" + result.sha + "\" target=\"_blank\">" + result.commit.message + "</a>\n  </div>\n</li>");
+        return ul.append("<li class=\"clearfix\">\n  <div class=\"left\">\n    <img class=\"commit-avatar\" src=\"" + result.author.avatar_url + "\">\n  </div>\n  <div class=\"commit-author-info left\">\n      <a href=\"https://github.com/" + result.author.login + "\"><b class=\"commit-author\">" + result.author.login + "</b></a>\n      \n      <b class=\"commit-date\">" + ($.timeago(result.commit.committer.date)) + "</b><i class=\"commit-sha\">SHA: " + result.sha + "</i>\n      \n      <a class=\"commit-message\" href=\"https://github.com/" + username + "/" + repo + "/commit/" + result.sha + "\" target=\"_blank\">" + result.commit.message + "</a>\n  </div>\n</li>");
       }
     });
   };
@@ -91,18 +91,18 @@ $(function() {
       strings: {
         prefixAgo: null,
         prefixFromNow: null,
-        suffixAgo: "sen",
-        suffixFromNow: "from now",
+        suffixAgo: "sen:",
+        suffixFromNow: "från nu",
         seconds: "mindre än en minut",
-        minute: "ungefär en minut",
+        minute: "en minut",
         minutes: "%d minuter",
-        hour: "ungefär en timma",
-        hours: "ungefär %d timmar",
+        hour: "en timma",
+        hours: "%d timmar",
         day: "en dag",
         days: "%d dagar",
-        month: "ungefär en månad",
+        month: "en månad",
         months: "%d månader",
-        year: "ungefär ett år",
+        year: "ett år",
         years: "%d år",
         wordSeparator: " ",
         numbers: []
