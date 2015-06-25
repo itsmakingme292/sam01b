@@ -1,2 +1,3 @@
-
 *.plist
+*.orig
+*.DS_Store
