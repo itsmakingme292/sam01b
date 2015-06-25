@@ -1,6 +1,6 @@
 # Samhällskunskap 1b
 
-**Viktigt:**  Glöm inte att bokmärka denna wiki för att lätt ha den tillgänglig.
+**Viktigt:** Glöm inte att bokmärka denna wiki för att lätt ha den tillgänglig.
 
 ## Välkomna!
 
@@ -28,7 +28,7 @@ För mer information om bedömning och betyg [klicka här](1_intro/bedomning.md)
 
 ***
 
-## Uppdateringar av denna wiki
+## Senaste uppdateringarna
 
-* (2015-08-10) Övergripande uppdateringar inför kommande läsår 
-* (2015-08-10) Rensade uppdateringshistorik inför kommande läsår
+<iframe src="http://tylerlh.github.com/github-latest-commits-widget/?username=itsmakingme292&repo=itsmakingme292.github.io&branch="master"&limit=5"
+  allowtransparency="true" frameborder="0" scrolling="no" width="502px" height="252px"></iframe>
