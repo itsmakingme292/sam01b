@@ -1,7 +1,3 @@
-# Samhällskunskap 1b
-
-**Viktigt:** Glöm inte att bokmärka denna wiki för att lätt ha den tillgänglig.
-
 ## Välkomna!
 
 I denna wiki finner ni material för läsning, övningsuppgifter, diskussionsunderlag och instruktioner för examinerande moment. Tanken är att samla allt på en plats för att göra det så lätt som möjligt för er. Jag uppdaterar denna wiki kontinuerligt och man kan lätt se de senaste ändringarna längst ner på denna sida (ev. större ändringar i planering under ett pågående moment kommer jag såklart att uppdatera er om direkt). 
@@ -28,9 +24,9 @@ För mer information om bedömning och betyg [klicka här](1_intro/bedomning.md)
 
 ***
 
-## Senaste uppdateringarna
+## Uppdateringar
 
-Här listas alltid de fem senaste uppdateringarna. Om man klickar på dem tas man till Github ("servern" för denna sida) där man kan se exakt vad som ändrats.
+Här nedan listas alltid de fem senaste uppdateringarna. Om man klickar på dem tas man till Github ("servern" för denna sida) där man kan se exakt vad som ändrats.
 
 <iframe src="0_includes/commits/?username=itsmakingme292&repo=itsmakingme292.github.io&branch=master&limit=5"
   allowtransparency="true" frameborder="0" scrolling="no" width="100%" height="240px"></iframe>
