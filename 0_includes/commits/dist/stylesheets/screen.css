@@ -3,9 +3,13 @@
 .commit-author-info {
 margin-bottom:12px;
 display: list-item;
-list-style-type: circle; 
-list-style-position: inside;
+list-style-type: disc; 
+list-style-position: outside;
 
+}
+
+#latest-commits-widget ul#commit-history {
+padding-left: 32px !important;
 }
 
  .commit-avatar, .commit-sha, .commit-author {
@@ -18,6 +22,8 @@ display:none;
     width: 100%;
  font: 17px;
  font-family: "Lora", Georgia;
+ line-height: 1.5 !important;
+ 
 }
 
 /* line 90, ../../src/scss/screen.scss */
