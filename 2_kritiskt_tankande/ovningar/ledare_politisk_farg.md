@@ -132,51 +132,6 @@ Ett första steg för att försöka förhindra fler terrorbrott är att ge stöd
 
 **Tips:** Fyll i respektive del i [formuläret längst ner på denna sida](#Svarsformulär) efter varje läst ledare (men tryck inte på "skicka" innan du är klar med läsningen av samtliga).
 ***
-## Ledare 4: Politiska konflikter – men inte prestige
-
-**Alla är överens om att skolan måste prioriteras**
-Efter alla helgdagar, klämdagar och mellandagar återgår politiken nu så smått till vardagen. Många hade nog trott att den just nu skulle bestå i valförberedelser, men så blir det som bekant inte. I stället för kampanjplaner får regering och riksdag arbeta vidare med frågor som skolan, arbetslösheten och ohälsan.
-
-Efter decemberöverenskommelsen varnade många för att den politiska debatten skulle begravas i ett enda väldigt samförstånd. I värsta fall skulle Sverigedemokraterna kunna framstå som den enda egentliga oppositionen.
-
-
-**Blockpolitiken lever**
-Det ser knappast ut att bli problemet. Svensk politik saknar inte grundläggande motsättningar i frågor om jämlikhet, trygghet eller samhällets ansvar och de senaste dagarna har vi fått flera exempel på att blockpolitiken är mer livaktig än på länge.
-
-Redan innan riksdagsledamöter och ministrar hunnit avsluta sin julledighet har inbjudningar till samarbete kring både integrationspolitiken och skolan presenterats och avvisats, tämligen bryskt.
-
-**Skolan måste prioriteras**
-Inget fel på oppositionens politiska kampvilja där inte. Frågan är bara, handlar grälen om grundläggande politiska idéer? Eller handlar de om symboler och käpphästar som blivit ett slags politisk identitet?
-
-Ta skolfrågan som exempel. I måndags manade tre ministrarna – Gustav Fridolin, Helene Hellmark Knutsson och Aida Hadzialic – till samarbete. Det ministrarna föreslog kan förefalla okontroversiellt. Politiska reformer på skolområdet ska bygga på modern forskning och vara väl förankrade hos dem som arbetar i skolan. Och för att und­vika att kursen läggs om efter varje val borde de om möjligt bygga på samförstånd.
-
-Ingen ifrågasätter i dag att skolan har problem, och trots att Björklund gång på gång utlovat en vändning syns den ännu inte till. Därför är också alla, från vänster till höger, eniga om att skolan måste prio­riteras.
-
-Ändå avvisar moderater och folkpartister ministrarnas invit. Partierna surar över att kommunerna ska få ett större inflytande över privatskolorna och lovar att driva en kraftfull oppositionspolitik med planerna på en tioårig skolplikt som bas.
-
-**Det är prestige**
-Att den tioåriga grundskolan i praktiken är genomförd sedan snart 20 år och att ingen ifrågasätter att reglerna för friskolorna måste skärpas spelar i det sammanhanget ingen roll.Det är, om vi ska vara ärliga, inte politik. Det är prestige. Och lika säkert som att svensk politik i dag behöver tydliga politiska alternativ är nog att vi inte behöver fler strider om symboler och prestige.
-
-**Tips:** Fyll i respektive del i [formuläret längst ner på denna sida](#Svarsformulär) efter varje läst ledare (men tryck inte på "skicka" innan du är klar med läsningen av samtliga).
-***
-## Ledare 5: Ubåtar och Nato utmanar
-
-Lagom till Folk och Försvars rikskonferens så avslöjade den säkerhetspolitiske reportern Mikael Holmström, som nyss gått från Svenska Dagbladet till Dagens Nyheter, att det skett ytterligare en ubåtskränkning i Stockholms skärgård, och det bara en vecka efter den omfattande ubåtsjakten i höstas.
-
-Den konspiratoriskt lagde kan säkert se ett samband med tidpunkten för avslöjandet – för att sätta ytterligare press på politikerna som nu samlats på Högfjällshotellet i Sälen. Men det gör ju inte avslöjandet sämre. Faktum är att uppgiftslämnaren inte är vem som helst. Det handlar om den pensionerade överstelöjtnanten vid kustartilleriet Sven-Olof Kviman, med stor egen erfarenhet av ubåtsjakt. Det var han som förde befälet vid minstationen i Mälsten i samband med incidenten i Hårsfjärden 1982. Fotografier och nära observationer med kikare gör honom mycket trovärdig.
-
-Det anmärkningsvärda är att en mindre ubåt observerats i ytläge dagtid den 31 oktober mitt i den stora farleden in mot Stockholm, mellan Lidingö och Nacka. Det är synnerligen provocerande och det bara en vecka efter det som i brist på större ubåtsjaktresurser kallats för underrättelseoperationer. Givet det sorgliga tillstånd vår ubåtsjaktförmåga numera har så är det dock inget större risktagande för främmande makt att gå så långt in. Annars är det på sina håll ganska trångt i farleden och det borde inte vara alltför svårt att spärra av. Nu satte man in korvetten HMS Malmö, som var det fartyg som fanns tillgängligt.
-
-Krav reses nu från bland annat oppositionspolitiker som Mikael Oscarsson (KD) och Allan Widman (FP) att vi måste skaffa oss en bättre ubåtsjaktförmåga, och det snart. Sedan några år saknar vi exempelvis helt möjlighet till insats med helikopter sedan vi obetänksamt sålt de sista av våra Helikopter 4 (Vertol). Vi kan inte vänta på de försenade leveranserna av Helikopter 14 (NH90). Vi behöver också fler och bättre ytfartyg för effektiv ubåtsjakt och patrullering.
-
-Även om något land inte kan pekas ut som skyldigt så är det med allra största sannolikhet Ryssland som är i farten. Ökade kränkningar av svenskt territorium, samt ett i övrigt betydligt mer provocerande uppträdande i Östersjöområdet och annorstädes ingår nu i ett nytt mer aggressivt mönster som vi måste möta. Incidenterna och kränkningarna lär inte bli färre och då måste vi skapa respekt för vårt territorium.
-
-Därför är det också olyckligt att den rödgröna regeringen avfärdar en utredning om för- och nackdelarna med ett svenskt Nato-medlemskap. Ryssland må mullra om Natos utvidgning, men de har en hälsosam respekt för västalliansens förmåga och vad dess säkerhetsgarantier betyder för sina medlemmar, som ju inkluderar de baltiska stater som tidigare var ockuperade av Sovjetunionen. I Moskva tror man inte utan fog att det går att skrämma räddhågsna svenska politiker till att inte vilja ta steg närmare Nato, även om man, precis som under det kalla kriget, ändå räknar med att Sverige trots alla neutralitetsbesvärjelser tillhör västsfären.
-
-När utrikesminister Margot Wallström (S) i Sälen sade att en utredning bara skulle sprida oro i Östersjön så lät hon mer som ett eko av Moskva. Det som sprider oro i Östersjön är det ryska agerandet, inte den försvarsallians som skyddar sina medlemmar. Det säkerhetspolitiska hål som ett alliansfritt Sverige utgör skapar i sig också oro i Östersjön. Fylls det inte av Nato och/eller ett betydligt starkare svenskt försvar så kommer Moskva att göra det. 
-
-**Tips:** Fyll i respektive del i [formuläret längst ner på denna sida](#Svarsformulär) efter varje läst ledare (men tryck inte på "skicka" innan du är klar med läsningen av samtliga).
-***
 ## Svarsformulär
 
 <iframe src="http://docs.google.com/forms/d/13KExITglXiOJHj7SK7WSw826-BbQrFp7chB6ty-eGi8/viewform?embedded=true" width="660" height="1500" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto">Loading...</iframe>
