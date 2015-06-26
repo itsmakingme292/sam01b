@@ -18,9 +18,9 @@ Om inget annat anges är det alltid jag (Fredrik Ståhl) som står bakom innehå
 
 Denna wiki innehåller markering- och anteckningsverktyget hypothesis. För att era markeringar ska sparas måste ni först skapa ett konto. Detta gör ni genom att trycka på pilen högst upp i högra hörnet. När ni sedan markerar text dyker det automatiskt upp två ikoner, välj pennan om ni vill spara en markering, välj pratbubblan om ni vill spara en markering _och_ göra en anteckning. 
 
-Vanliga markeringar är automatiskt privata (bara ni kan se dem), men markeringar med tillhörande anteckningar är som standard publika (alla kan se dem). För att göra en anteckning privat klicka på "Public" och välj "Only me". Publika anteckningar kan andra även kommentera på.
+Vanliga markeringar är automatiskt privata (bara ni kan se dem), men markeringar med tillhörande anteckningar är som standard publika (alla kan se dem). För att göra en anteckning privat klicka på "Public" och välj "Only me". Publika anteckningar kan även andra användare kommentera på.
 
-**OBS:** Detta verktyg fungerar i dagsläget dessvärre inte på läsplattor och smartphones och är därför avstängt för dessa. 
+**OBS:** Detta verktyg fungerar i dagsläget dessvärre inte på läsplattor och smartphones och är därför avstängt för dessa :( 
 
 ***
 
