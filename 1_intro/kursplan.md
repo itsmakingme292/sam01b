@@ -1,6 +1,6 @@
 # Kursplan SAMSAM01b
 
-**Om denna sida:** Texten nedan är kopierad från skolverkets kursplan för samhällskunskap 1b. Eventuella kommentarer från mig är skrivna inom rutor.
+**Om denna sida:** Texten nedan är kopierad från skolverkets kursplan för samhällskunskap 1b. <!--Eventuella kommentarer från mig är skrivna inom rutor. -->
 
 ## Centralt innehåll
 
