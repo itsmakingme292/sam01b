@@ -33,7 +33,6 @@ Vestibulum egestas augue a diam elementum, at cursus augue scelerisque. Pellente
 1. Quisque blandit, arcu rhoncus venenatis sollicitudin, velit odio viverra elit, at dignissim odio massa et
 2. Proin non volutpat lacus. Nulla porttitor tristique egestas. Cras sollicitudin metus eget mi efficitur 
 
-***
 
 ## Vanlig lista med radbryt:
 
@@ -41,7 +40,6 @@ Vestibulum egestas augue a diam elementum, at cursus augue scelerisque. Pellente
 
 2. Proin non volutpat lacus. Nulla porttitor tristique egestas. Cras sollicitudin metus eget mi efficitur 
 
-***
 
 ## O-ordnad lista, utan radbryt
 
