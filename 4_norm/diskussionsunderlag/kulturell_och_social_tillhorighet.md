@@ -5,7 +5,7 @@ Tanken med detta diskussionsunderlag är att reflektera något kring sin egen ku
 
 Nedanstående frågor är tankeväckande. Ni behöver inte ge  heltäckande svar, eller diskutera alla i samma utsträckning. Kommer man på egna intressanta frågeställningar är detta också helt i sin ordning!
 
-**OBS:** Om det känns allt för utelämnande, personligt eller jobbigt att använda sig själv “som exempel” kan man (för samtliga, eller vissa frågor) istället välja att diskutera utifrån fiktiva (påhittade) personer. 
+**OBS:** Om det känns allt för utelämnande, personligt eller jobbigt att använda sig själv “som exempel” kan man (för samtliga, eller vissa frågor) istället välja att diskutera  mer generellt och utifrån andra exempel och/eller fiktiva scenarion och personer. 
 
 ## Diskussionsfrågor
 

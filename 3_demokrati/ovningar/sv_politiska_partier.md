@@ -1,8 +1,8 @@
 # Övning: Sveriges politiska partier
 
-**OBS:** Denna övning sker antingen över två lektioner eller en dubbel-lektion.
+**OBS:** Denna övning tar eventuellt två lektioner eller en dubbel-lektion att genomföra.
 
-## Del 1 (ca 60m)
+## Del 1
 
 1. Ni delas in i grupper och varje grupp tilldelas ett parti.
 
@@ -29,7 +29,7 @@
 
 ***
 
-## Del 2 (ca 60m)
+## Del 2
 
 Ni redovisar i helklass vad er grupp kommit fram till och vi diskuterar
 tillsammans vad som egentligen skiljer partierna åt.
