@@ -41,7 +41,7 @@
             display: none;
         }
     }
-    @media (max-width: 985 px), {
+    @media (max-width: 985 px) {
         /* don't use floating for smaller screens */
         .md-float-left .col-sm-8, .md-float-left .col-sm-4, .md-float-left .col-sm-2 {
             width: 100%;
@@ -94,6 +94,10 @@
     	}
     	p, .md-text p, p.md-text {font-size: 12pt !important;}
     } 
+    
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 985px) {.annotator-frame, .annotator-toolbar, .annotator-bucket-bar { display: none; }}    
     </style>
 
 <!-- START extlib/css/highlight.github.css -->
