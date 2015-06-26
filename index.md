@@ -20,7 +20,7 @@ Denna wiki innehåller markering- och anteckningsverktyget hypothesis. För att 
 
 Vanliga markeringar är automatiskt privata (bara ni kan se dem), men markeringar med tillhörande anteckningar är som standard publika (alla kan se dem). För att göra en anteckning privat klicka på "Public" och välj "Only me". Publika anteckningar kan även andra användare kommentera på.
 
-**OBS:** Detta verktyg fungerar i dagsläget dessvärre inte på läsplattor och smartphones och är därför avstängt för dessa :( 
+**OBS:** Detta verktyg fungerar i dagsläget dessvärre inte på läsplattor och smartphones och är därför avstängt för dessa. 
 
 ***
 
@@ -44,3 +44,4 @@ Här nedan listas alltid de fem senaste uppdateringarna. Om man klickar på dem 
 
 <iframe src="0_includes/commits/?username=itsmakingme292&repo=sam01b&branch=gh-pages&limit=5"
   allowtransparency="true" frameborder="0" scrolling="no" width="100%" height="250px"></iframe>
+  <script>iFrameResize({log:true})</script>
