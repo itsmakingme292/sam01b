@@ -29,8 +29,7 @@
   * [Vad är en god demokrati?](3_demokrati/ovningar/demokrati_diskussionsfragor.md)
   * [Citat om demokrati](3_demokrati/ovningar/citat_tankar_demokrati.md)
   * [Sveriges politiska partier](3_demokrati/ovningar/sv_politiska_partier.md)
-<!--  * [Die Welle (Film)](3_demokrati/ovningar/die_welle.md) -->
-
+  * [Die Welle (Film)](3_demokrati/ovningar/die_welle.md)
   - - - -
   * # Examinerande moment
   * [Instuderingsfrågor inför prov](3_demokrati/examinerande_moment/instuderingsfragor_demokrati.md)
