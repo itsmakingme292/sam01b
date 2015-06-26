@@ -44,4 +44,3 @@ Här nedan listas alltid de fem senaste uppdateringarna. Om man klickar på dem 
 
 <iframe src="0_includes/commits/?username=itsmakingme292&repo=sam01b&branch=gh-pages&limit=5"
   allowtransparency="true" frameborder="0" scrolling="no" width="100%" height="250px"></iframe>
-  <script>iFrameResize({log:true})</script>
