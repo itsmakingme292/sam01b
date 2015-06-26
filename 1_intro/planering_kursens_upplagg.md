@@ -1,6 +1,6 @@
 # Preliminärt upplägg
 
-[include](../../0_includes/preliminart_innehall.md)
+**Notera att:** Kursens upplägg är preliminärt och delmomentens innehåll kan komma att ändras. Denna wiki uppdateras kontinuerligt – och utifrån feedback från er. Vad gäller de övningsuppgifter som finns i denna wiki kommer vi inte hinna med att göra alla - de finns här för att vi ska ha något att välja mellan. 
 
 ***
 

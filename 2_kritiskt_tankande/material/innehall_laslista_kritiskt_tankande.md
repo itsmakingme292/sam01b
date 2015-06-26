@@ -31,7 +31,6 @@ Kapitel 13 och 18. Med fokus på sidorna 289-299, 304-307, 434 samt 443-450
 
 #### Ev. extra material
 
-Se denna wiki, samt eventuellt utdelat kompendium
+Se denna wiki...
 
 ***
-[include](../../0_includes/preliminart_innehall.md)

@@ -27,6 +27,3 @@
 #### Denna wiki
 
 Se material i huvudmenyn...
-
-***
-[include](../../0_includes/preliminart_innehall.md)

@@ -3,7 +3,7 @@
 Denna funkade för include i första-sidan
 [include](1_intro/test_include.md)
 
-Denna funkade för include i en md i annan mapp
+Denna funkade för include i en md i annan mapp, fast nu märkte jag att detta bara funkar lokalt ej på server!
 [include](../1_intro/test_include.md)
 
 # Boxar

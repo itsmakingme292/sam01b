@@ -38,6 +38,3 @@
 ### Kompendium
 
 Ett urval av riksdagens studiematerial (58 sid, lättläst och kan till stor del ersätta delar av Arena). [Klicka här för att ladda ner som PDF](resurser/kompendium_sv_pol_system.pdf)
-
-***
-[include](../../0_includes/preliminart_innehall.md)

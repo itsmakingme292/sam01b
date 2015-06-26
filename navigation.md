@@ -2,8 +2,6 @@
 
 [Intro & Info]()
 
-  * [Om denna wiki](1_intro/om_denna_wiki.md)
- - - - -
   * # Om kursen
   * [Vad är samhällskunskap?](1_intro/vad_ar_samhallskunskap.md)
   * [Preliminärt upplägg](1_intro/planering_kursens_upplagg.md)

@@ -22,7 +22,5 @@ Fokus under detta delmoment kommer att ligga på de tre klassiska ideologierna: 
 * Arena, sid. 133–154
 * [Det goda samhället](om_ideologierna.md) 
 
-***
 
-[include](../../0_includes/preliminart_innehall.md)
 
