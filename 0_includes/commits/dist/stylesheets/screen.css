@@ -8,6 +8,11 @@ list-style-position: outside;
 
 }
 
+/* nedan är en fulfix för att få bort mellanslag innan datum, oklart hur detta blev dock, får se när det står något här som inte börjar med en siffra */
+.commit-date {
+margin-left:-4px;
+}
+
 #latest-commits-widget ul#commit-history {
 padding-left: 32px !important;
 }
