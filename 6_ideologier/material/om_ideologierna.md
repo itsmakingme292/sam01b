@@ -6,7 +6,7 @@
 ## Ideologierna och dess två komponenter
 En ideologi är ett ”paket” som innehåller en uppfattning om samhället och idéer för dess förändring. En slags helhet med lika delar beskrivande teori som grundläggande värderingar
 
-> _Varje ideologi förklarar:_
+> **Varje ideologi förklarar:**
 >
 > 1. Hur samhället ser ut och fungerar (just nu)
 	* Ideologisk analys
