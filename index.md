@@ -42,5 +42,5 @@ För mer information om bedömning och betyg [klicka här](1_intro/bedomning.md)
 
 Här nedan listas alltid de fem senaste uppdateringarna. Om man klickar på dem tas man till Github ("servern" för denna sida) där man kan se exakt vad som ändrats.
 
-<iframe src="0_includes/commits/?username=itsmakingme292&repo=sam01b&branch=gh-pages&limit=5"
+<iframe src="x_meta/0_includes/commits/?username=itsmakingme292&repo=sam01b&branch=gh-pages&limit=5"
   allowtransparency="true" frameborder="0" scrolling="no" width="100%" height="250px"></iframe>
