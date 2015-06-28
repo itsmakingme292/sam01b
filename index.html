@@ -126,7 +126,26 @@ and (max-device-width : 985px) {
 
 .annotator-frame, .annotator-toolbar, .annotator-bucket-bar { display: none; }
 
-}   
+}
+@media only screen 
+and (min-device-width : 740px) 
+and (max-device-width : 985px) {
+
+ul.nav.navbar-nav {
+height:100% !important;
+max-height:100% !important;
+}
+
+}
+
+@media only screen 
+and (max-device-width : 740px)  {
+
+.navbar-collapse, .nav navbar-nav {
+max-height: 460px !important;   
+
+}
+}
 /* padding för allt utom iphone/smartphone */ 
 
 @media only screen 
@@ -176,8 +195,9 @@ margin-right:auto;
 }
 
 
+
 .navbar-collapse, .nav navbar-nav {
-max-height: 460px !important;
+max-height: 100% !important;
 }
 
 /* OVANSTÅENDE är alltså HELT inlagt av mig */
