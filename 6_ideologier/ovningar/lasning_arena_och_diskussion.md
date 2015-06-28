@@ -23,7 +23,7 @@ Läs sid. **133-143** t.o.m. rubriken ”socialdemokratin idag” och **anteckna
 - Vilka är de viktigaste typerna?
 - Vad är skillnaden mellan dessa?
 
-***
+
 
 ## 2) I att göra i grupper
 

@@ -5,7 +5,7 @@
 
 ![BILD](resurser/centrala_begrepp.svg)
 
-***
+
 
 ## Kultur & normer
 
@@ -16,7 +16,7 @@
 
 #### Identitet
 
-***
+
 
 ## Makt
 

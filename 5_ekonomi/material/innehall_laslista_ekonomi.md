@@ -17,7 +17,7 @@ Fokus under detta delmoment kommer att ligga på *samhälls*ekonomi. *Privat*eko
 * Konsumenträtt
 	* Vilka rättigheter har jag som konsument?
 
-***
+
 
 ## Läslista
 

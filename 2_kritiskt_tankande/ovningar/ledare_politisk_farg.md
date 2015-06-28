@@ -11,7 +11,7 @@ Inte heller är det längre lika vanligt att man officiellt stödjer ett enskilt
 
 Det sagt har vanligen en svensk tidning en viss polisk färg. Politiskt obundna tidningar är fortfarande i en liten minoritet (åtminstone om vi ser till dags- och kvällstidningar).
 
-***
+
 
 ## Instruktioner
 ### Att göra på egen hand
@@ -40,7 +40,7 @@ Det sagt har vanligen en svensk tidning en viss polisk färg. Politiskt obundna 
 * Var det något som förvånade er? Var det något som inte direkt förvånade er? Fanns det någon ledare som var extra uppenbar? Någon som var mindre uppenbar? Varför?
 * På vilket sätt skulle ledarna se annorlunda ut om de var färgade av helt andra politiska inriktningar? Gå tillbaka till de enskilda texterna och fundera tillsammans på detta.
 
-***
+
 
 ## Ledare 1: Nördar
 Idag är nörden kulturell hårdvaluta. Men vilka är det som kan göra anspråk på rätt sorts nördighet, den lekfulla intellektualismens hederstitel?
@@ -85,7 +85,7 @@ Då liksom nu sägs investeringsavtal leda till företagsdiktatur och välfärds
 Stefan Löfven borde höja rösten, skingra myterna och formulera ett tydligare stöd åt ett avtal som svensk och europeisk ekonomi behöver.
 
 **Tips:** Fyll i respektive del i [formuläret längst ner på denna sida](#Svarsformulär) efter varje läst ledare (men tryck inte på "skicka" innan du är klar med läsningen av samtliga).
-***
+
 ## Ledare 3: Hyckleriet efter terrordådet i Paris
 
 Terrordådet i Paris är förskräckligt. Inte minst visar dådet vilket farligt Frankensteins monster som har byggts upp med västliga och saudiska pengar i krigens Syrien och Irak. Risken är stor att vi kommer att få se fler blodiga konsekvenser när fundamentalistiska våldsverkare som tränats i krig kommer hem igen, oavsett om det är nazister som vänder hem från Ukraina eller IS-krigare från Syrien och Irak.
@@ -131,7 +131,7 @@ Islamofobin och Islamiska Staten är varandras spegelbilder och förutsättninga
 Ett första steg för att försöka förhindra fler terrorbrott är att ge stöd och uppbackning till de krafter i förorter och moskéer som arbetar mot IS värvningar av soldater. Lika viktigt är att Sverige måste sluta ge politiskt, moraliskt, ekonomiskt och alla andra former av stöd till de krafter som håller de fundamentalistiska våldsverkarna under armarna – det gäller såväl imperialismens försök att med terror störta regeringar i Mellanöstern som den liberal-fascistiska kuppregimen i Ukraina.
 
 **Tips:** Fyll i respektive del i [formuläret längst ner på denna sida](#Svarsformulär) efter varje läst ledare (men tryck inte på "skicka" innan du är klar med läsningen av samtliga).
-***
+
 ## Svarsformulär
 
 <iframe src="http://docs.google.com/forms/d/13KExITglXiOJHj7SK7WSw826-BbQrFp7chB6ty-eGi8/viewform?embedded=true" width="660" height="1520" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto">Loading...</iframe>

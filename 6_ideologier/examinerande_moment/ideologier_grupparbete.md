@@ -26,7 +26,7 @@
 5. I den mån ni använt andra källor, skriver ni enskilt en kortare källkritisk analys av dessa i slutet av er text. Om man refererar eller använder citat krävs det också att man gör direkta källhänvisningar i text.
 6. Genomför den gemensamma uppgiften på **minst 3st A4** och **max 8st A4**. Spara dokumentet som/i formatet ”**PDF**”, döp efter formen ”Klass, Namn, Namn...Grupparbete” och skicka till **fredrik.stahl.metg@analys.urkund.se** (se deadline i provschema på schoolsoft)
 
-***
+
 
 ## Tips gällande turordning och upplägg
 
@@ -40,13 +40,13 @@
 * Som (reformistisk) socialist bör man bestämma sig hur man ser på marknadsekonomi och huruvida denna nödvändigtvis måste hänga ihop med kapitalism. 
 * Som social-liberal måste man vara tydlig med vad som skiljer en från en reformistisk socialist med avseende på valfärden. 
 
-***
+
 
 ## Efter inlämning...
 
 Efter det att ni lämnat in ert grupparbete kommer jag att ge er skriftliga kommentarer (inom en rimlig tid). Dessa kommentarer är till för *hela gruppen* även om de i huvudsak kommer att vara "riktade mot" respektive ideologis representant. Utifrån dessa kommentarer och utifrån ert arbete tillsammans kommer ni sedan (förhoppningsvis) att ha en mycket god grund att stå på inför ert slutliga individuella arbete [(slutexaminationen)](ideologier_individuell_slutex.md).
 
-***
+
 
 **LYCKA TILL!**
 

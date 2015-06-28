@@ -60,7 +60,7 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 - Vilka argument kan man framföra för och emot statligt ägande? (se sid 168)
     - Finns det några typer av verksamheter som är mindre lämpade för en konkurrensutsatt marknad? Varför då? Vad tänker du själv?
     
-***
+
 
 ## Konsumenträtt
 

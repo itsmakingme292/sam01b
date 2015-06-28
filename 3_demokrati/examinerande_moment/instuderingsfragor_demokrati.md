@@ -39,7 +39,7 @@ Uppdelningen av dessa instuderingsfrågor följer till viss del ordningen i boke
 
     - Om du kommer på någon eget krav/kriterium som du tycker saknas: beskriv detta och ge argument för varför du tycker det är viktig.
     
-***
+
 
 ## Sveriges statsskick & grundlagar
 
@@ -67,7 +67,7 @@ Uppdelningen av dessa instuderingsfrågor följer till viss del ordningen i boke
 
 - Vilka grundläggande fri- och rättigheter fastslås i RF?
 
-***
+
 
 ## Riksdag och regering
 

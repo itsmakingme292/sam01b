@@ -12,7 +12,7 @@ Denna uppgift går ut på att ni självständigt förbereder er för ett seminar
 
 4. På följande sidor finner ni vägledning kring centrala delar, förslag på material, samt de diskussionsfrågor som seminariet kommer att utgå ifrån. Av dessa diskussionsfrågor får ni välja ett antal som ni i huvudsak vill fokusera på (förslagsvis runt hälften)
 
-***
+
 
 För ett högre omdöme gäller det att du i hög grad
 
@@ -22,7 +22,7 @@ För ett högre omdöme gäller det att du i hög grad
 
 3. Ger intressanta infallsvinklar och driver diskussionen framåt, samt argumenterar på ett tydligt, hållbart och relevant sätt.
 
-***
+
 
 ## Att ha koll på
 
@@ -54,7 +54,7 @@ För ett högre omdöme gäller det att du i hög grad
 
 - NGO och civilsamhället
 
-***
+
 
 ### Centrala dokument & institutioner att ha koll på
 
@@ -74,7 +74,7 @@ För ett högre omdöme gäller det att du i hög grad
 
 - Exempel på relevanta NGOs (och deras arbete)
 
-***
+
 
 ## Material & Läsning
 
@@ -92,7 +92,7 @@ För ett högre omdöme gäller det att du i hög grad
 
 **OBS:** Detta kompendium utgör en obligatorisk del! (och glöm inte ta med det till seminariet)
 
-***
+
 
 #### Några förslag på länkar för vidare läsning
 
@@ -110,7 +110,7 @@ För ett högre omdöme gäller det att du i hög grad
 
 - [*so-rummet.se*](http://so-rummet.se) Se exempelvis deras sida om [FN](http://so-rummet.se/fakta-artiklar/forenta-nationerna-fn) och [mänskliga rättigher](http://www.so-rummet.se/kategorier/samhallskunskap/manskliga-rattigheter)
 
-***
+
 
 ## Diskussionsfrågor
 
@@ -132,7 +132,7 @@ För ett högre omdöme gäller det att du i hög grad
 
 8. Har alla människor ett lika värde? Detta är något vi mer eller mindre tar för givet. Men vad menar vi? Vad är själva innebörden och vilken blir effekten? På vilket sätt skulle du argumentera för vikten av detta tankesätt? Kan du se några några eventuella problem?
 
-***
+
 
 ## Datum, tider och grupper
 
@@ -151,7 +151,7 @@ Tid och antal elever per grupp:
 * 4-5 elever per grupp
 * ca 40 minuter per grupp
 
-***
+
 
 **LYCKA TILL!**
 

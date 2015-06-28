@@ -6,7 +6,7 @@
 
 Först ser vi filmen. Sedan diskuterar ni gruppvis och till sist lyfter vi diskussionen i helklass.
 
-***
+
 
 ## Diskussionsunderlag
 

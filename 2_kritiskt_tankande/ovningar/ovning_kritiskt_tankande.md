@@ -25,7 +25,7 @@ Diskutera i grupp vad ett kritiskt tänkande innebär för er och varför det ä
 
 - Livets alla val.
 
-***
+
 
 ## Att göra:
 

@@ -3,6 +3,8 @@
  
 **OBS:** Var uppmärksamma på denna sammanfattning innebär vissa förenklingar och att varje ideologi har flertalet förgreningar.
 
+***
+
 ## Ideologierna och dess två komponenter
 En ideologi är ett ”paket” som innehåller en uppfattning om samhället och idéer för dess förändring. En slags helhet med lika delar beskrivande teori som grundläggande värderingar
 
@@ -23,7 +25,7 @@ En ideologi är ett ”paket” som innehåller en uppfattning om samhället och
 			* Vad är frihet?
 			* Vad är rättvisa?
 			
-***		
+		
 ## Rättvisa
 Alla gillar rättvisa. Det är inte frågan huruvida samhället *bör* vara rättvist som delar politiken, det är frågan om vad rättvisa *innebär*. Så vad är det vi egentligen talar om när vi talar om rättvisa och varför är det så svårt att komma överens?
 
@@ -43,7 +45,7 @@ Till syvende och sist är frågan om rättvisa en fråga om vilket *ansvar* vi h
 
 <!--FÅ MED RAWLS HÄR!? -->
 
-***
+
 
 ## Rättigheter & skyldigheter
 Oavsett ideologi, måste vi ha en balans mellan rättigheter och skyldigheter. För att jag ska ges en rättighet, måste det finnas någon som har en skyldighet, och vice versa. Rättigheter och skyldigheter förutsätter varandra. Skillnaden mellan ideologierna ligger främst i omfattningen, och typen, av skyldigheter och rättigheter. De svarar kort och gott olika på de tätt sammanvävda frågorna:
@@ -92,7 +94,7 @@ Positiva rättigheter handlar om _rätten till_ något. Dessa kräver en aktiv h
  
 <!--Vill bevara kultur/normer genom skydd i lag Modernt konservativt exempel: äktenskapet endast för heterosexuella Ibland, eller på ett sätt: Det som är informellt (traditionen) görs formellt (till en del av staten) Rättvisa för individen är därför egentligen underordnat vad som är bäst för samhället i stort Funktionalism Ex. kön Jämlikhet för konservatismen ett något främmande begrepp Vi ÄR olika och ska därför behandlas OLIKA -->
 
-***
+
 ## Människan och samhället
 
 ### Primära ideologiska enheter och fokus
@@ -147,7 +149,7 @@ En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideolo
 
 <!--dessa = delvis naturliga (kvinna/man som exempel) Iaf inget man bör förändra -->
 
-***
+
 ## Statens uppgift
 ### Statens grundläggande syfte
 Kortfattat skulle statens grundläggande syfte inom de tre klassiska ideologierna kunna förklaras som följande:
@@ -205,7 +207,7 @@ Tanken med denna typ av stat är att det i en marknadsekonomi alltid kommer att 
 
 **Förespråkas av:** Vissa kommunister
 
-***
+
 ## Samhällets förändring 
 
 Som avrundning kan det vara bra att lite kort att säga något mer om ideologierna och dess förgreningars olika syn på samhällets förändring (genom politiken). 

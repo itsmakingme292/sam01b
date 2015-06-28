@@ -11,7 +11,7 @@ Om inget annat anges är det alltid jag (Fredrik Ståhl) som står bakom innehå
 
 **Tips:** Tanken är att ni inte ska behöva skriva ut från denna sida, men om ni absolut vill göra det tänk då på att skriva ut 2 sidor per ark (utskrifts-stilen är anpassad för detta).
 
-***
+
 
 ## Markeringsverktyg
 
@@ -21,7 +21,7 @@ Vanliga markeringar är automatiskt privata (bara ni kan se dem), men markeringa
 
 **OBS:** Detta verktyg fungerar i dagsläget dessvärre inte på läsplattor och smartphones och är därför avstängt för dessa. 
 
-***
+
 
 ## Kontakt & frågor
 
@@ -35,7 +35,7 @@ Det är i första hand på denna sida ni finner information om delmomenten, mate
 
 För mer information om bedömning och betyg [klicka här](1_intro/bedomning.md).
 
-***
+
 
 ## Uppdateringar
 

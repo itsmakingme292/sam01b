@@ -19,7 +19,7 @@
  	* Källkritik
  	* Mediakunskap
 
-***
+
 
 ## Läslista
 <!--*För mer info, se inlämningsuppgiften...* -->
@@ -33,4 +33,3 @@ Kapitel 13 och 18. Med fokus på sidorna 289-299, 304-307, 434 samt 443-450
 
 Se denna wiki...
 
-***

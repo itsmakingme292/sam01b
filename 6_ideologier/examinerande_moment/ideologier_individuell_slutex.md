@@ -26,7 +26,7 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 - Vilken ideologi ger den rimligaste analysen/bilden av samhället?
 - Vilken ideologi ger de bästa förslagen på förändringar?
 
-***
+
 
 
 ### Observera att:
@@ -45,7 +45,7 @@ OBS: Utelämnar man dessa förgreningar har man ej möjlighet till ett högre be
 
 - Man kan absolut lyfta in andra ideologier än de tre man har sitt fokus på. Var dock tydlig med vilka ideologier som är ditt fokus och tänk på att du har ett begränsat utrymme att genomföra uppgiften på.
 
-***
+
 
 ### Att göra: 
 
@@ -61,7 +61,7 @@ OBS: Utelämnar man dessa förgreningar har man ej möjlighet till ett högre be
 
 **OBS:** Misslyckas man med någon av punkterna 2-5 räknas det som en icke inlämnad uppgift... Vid osäkerhet om vad detta innebär: fråga mig.
 
-***
+
 
 ## Betygskriterier för uppgiften
 
@@ -89,7 +89,7 @@ OBS: Utelämnar man dessa förgreningar har man ej möjlighet till ett högre be
 
 - Eleven drar **välgrundade och nyanserade slutsatser** och ger **välgrundade och nyanserade argument** för och emot ideologierna samt för sin egen ståndpunkt i mycket hög grad och uttrycker sig på ett **strukturerat** och **sammanhängande** sätt.
 
-***
+
 
 **LYCKA TILL!**
 

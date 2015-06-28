@@ -10,7 +10,7 @@
 
 3. Ni utgår i arbetet utifrån frågorna nedan och antecknar.
 
-***
+
 
 * Några återkommande nyckel-ord i texten/texterna? 
 	* Någon återkommande mening/fras som är särskilt tongivande?
@@ -27,7 +27,7 @@
 	* Exempelvis: Liberalism, Socialism, Konservatism, Feminism, Ekologism, Nationalism.
 	* En variant av någon av dessa? En kombination? Något helt annat?
 
-***
+
 
 ## Del 2
 

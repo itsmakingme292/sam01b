@@ -14,7 +14,7 @@
 * Jämlikhet och jämställdhet
 * Mångkultur och integration
 
-***
+
 
 ## Läslista
 

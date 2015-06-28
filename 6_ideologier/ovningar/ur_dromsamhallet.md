@@ -2,6 +2,8 @@
 
 Denna övningsuppgift sträcker sig över flertalet lektioner och utgår ifrån [utbildningsradions programserie "Drömsamhället"](http://sli.se/apps/sli/prodsearch.php?db=3&search=Drömsamhället) som ägnar ett avsnitt per ideologi. Varje avsnitt är cirka 30 minuter och sedan måste vi ha tid för diskussion. Vi diskuterar först gruppvis och sedan i helklass.
 
+***
+
 ## Instruktioner för samtliga avsnitt
 
 - Ta anteckningar kring viktiga punkter och frågetecken som uppstår medan vi tittar på programmen.
@@ -12,7 +14,7 @@ Denna övningsuppgift sträcker sig över flertalet lektioner och utgår ifrån 
 
 - Behandlar programmen ideologierna på ett likvärdigt/schysst/rättvist sätt?
 
-***
+
 
 ## Avsnitt 1: Liberalismen
 
@@ -24,7 +26,7 @@ Denna övningsuppgift sträcker sig över flertalet lektioner och utgår ifrån 
 
 - Vilken risk finns det att liberalismen i själva verket leder till ett ojämlikt samhälle?
 
-***
+
 
 ## Avsnitt 2: Socialismen
 
@@ -36,7 +38,7 @@ Denna övningsuppgift sträcker sig över flertalet lektioner och utgår ifrån 
 
 - Är (vissa) socialister alldeles för kritiska mot marknadsekonomi? Är en socialism utan planekonomi bättre än en med planekonomi? Bör vi ha en blandekonomi? Vad är egentligen kapitalism?
 
-***
+
 
 ## Avsnitt 3: Konservatismen
 

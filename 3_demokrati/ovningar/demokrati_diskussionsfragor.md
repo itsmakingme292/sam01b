@@ -6,7 +6,7 @@ Diskutera nedanstående frågor gruppvis och glöm inte att anteckna! När alla 
 
 **OBS:** Hinner ni inte med att diskutera alla frågor är detta inget problem – frågorna är många och stora. Det är också helt ok att välja ut några frågor man inom gruppen känner att man vill prioritera. 
 
-***
+
 
 ## Diskussionsfrågor
 

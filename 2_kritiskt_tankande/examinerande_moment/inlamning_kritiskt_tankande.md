@@ -8,7 +8,7 @@ Uppgiften går ut på att skriva en artikel om kritiskt tänkande (som ämnesomr
 
 2.  **Varför det är viktigt för elever att lära sig kritiskt tänkande.**
 
-***
+
 
 #### I detta ska du *redovisa* och *argumentera* för vikten av:
 
@@ -28,7 +28,7 @@ Uppgiften går ut på att skriva en artikel om kritiskt tänkande (som ämnesomr
 
 - Livets alla val.
 
-***
+
 
 ### Att tänka på:
 
@@ -38,7 +38,7 @@ Uppgiften går ut på att skriva en artikel om kritiskt tänkande (som ämnesomr
 
 - Du *behöver inte* skriva om varken logik eller psykologi (kognitiva bias). Detta står det i stort sett inget om i boken. Skulle du dock finna något av detta intressant och viktigt för din artikel, är du helt och hållet fri att utgå ifrån eventuella föreläsningsanteckningar och själv söka mer information.
 
-***
+
 
 ### Att göra:
 
@@ -56,7 +56,7 @@ Uppgiften går ut på att skriva en artikel om kritiskt tänkande (som ämnesomr
 
 **OBS:** Misslyckas man med någon av punkterna 4-6 räknas det som en icke inlämnad uppgift...
 
-***
+
 
 ## Betygskriterier för uppgiften
 
@@ -84,7 +84,7 @@ Uppgiften går ut på att skriva en artikel om kritiskt tänkande (som ämnesomr
 
 - Eleven för en **välutvecklad diskussion** med en **röd tråd** (god struktur) om **vikten av** kritiskt tänkande som i mycket hög grad bygger på **välgrundade och nyanserade slutsatser** och **välgrundade och** **nyanserade argument**.
 
-***
+
 
 **LYCKA TILL!**
 
