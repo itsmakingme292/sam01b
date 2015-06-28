@@ -122,9 +122,20 @@ and (max-device-width : 985px) {
 
 .annotator-frame, .annotator-toolbar, .annotator-bucket-bar { display: none; }
 
+}   
+/* padding för allt utom iphone/smartphone */ 
+
+@media only screen 
+and (min-device-width : 986px) 
+ {
+#md-content.col-md-9 {
+padding-left: 30px;
+padding-right: 30px;}
 }    
+
 @media only screen 
 and (min-device-width : 740px) 
+and (max-device-width : 985px)
  {
 #md-body{
 padding-left: 40px;
