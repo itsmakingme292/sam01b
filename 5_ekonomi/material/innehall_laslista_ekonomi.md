@@ -21,4 +21,4 @@ Fokus under detta delmoment kommer att ligga på *samhälls*ekonomi. *Privat*eko
 
 ## Läslista
 
-[Se instuderingsfrågorna](5_ekonomi/examinerande_moment/instuderingsfragor_ekonomi.md)
+[Se instuderingsfrågorna](../examinerande_moment/instuderingsfragor_ekonomi.md)
