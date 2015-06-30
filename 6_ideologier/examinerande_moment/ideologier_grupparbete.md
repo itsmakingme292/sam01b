@@ -24,8 +24,9 @@
 	
 4. Turas om att göra inlägg och repliker i er text. Utgå ifrån vad som är styrkan i era respektive ideologier, och vad som ni anser är svagheten i de andras. Gå *inte* utanför era roller (ni *är* er ideologi) och var inte rädda att "attackera" varandra. Var tydliga i texten med vilken ideologi som för stunden "talar" (och vem som representerar varje ideologi).
 5. I den mån ni använt andra källor, skriver ni enskilt en kortare källkritisk analys av dessa i slutet av er text. Om man refererar eller använder citat krävs det också att man gör direkta källhänvisningar i text.
-6. Genomför den gemensamma uppgiften på **minst 3st A4** och **max 8st A4**. Spara dokumentet som/i formatet ”**PDF**”, döp efter formen ”Klass, Namn, Namn...Grupparbete” och skicka till **fredrik.stahl.metg@analys.urkund.se** (se deadline i provschema på schoolsoft)
+6. Genomför den gemensamma uppgiften på **max 8st A4** (inklusive källkritik). Spara dokumentet som/i formatet ”**PDF**”, döp efter formen ”Klass, Namn, Namn...Grupparbete” och skicka till **fredrik.stahl.metg@analys.urkund.se** (se deadline i provschema på schoolsoft)
 
+**Kommentar:** Det finns inget minst antal sidor man måste lämna in, poängen med denna uppgift är i första hand att förbereda er inför den individuella uppgiften. Hur mycket ni skriver tillsammans är helt upp till er, men av praktiska skäl måste jag sätta en övre gräns för sidantal. Känn dock inte att ni absolut måste uppnå detta max antal sidor. 
 
 
 ## Tips gällande turordning och upplägg
