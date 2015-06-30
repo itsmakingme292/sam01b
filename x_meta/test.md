@@ -4,6 +4,12 @@
 
 Fusce tortor est, feugiat gravida tincidunt vel, ultrices eget massa. Donec libero est, lobortis id ultrices et, gravida quis lorem. Maecenas gravida lacus a ultricies commodo. Donec nec faucibus nisi. Nam non mi ex. 
 
+här är test med fotnot markdown [^test]
+[^test]: test
+
+här är fotnot i html  <sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>
+
+
 > " Test med citat "
 
 Curabitur sagittis egestas hendrerit. Integer elementum in tellus a malesuada. Etiam auctor gravida felis ut interdum.
