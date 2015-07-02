@@ -18,7 +18,8 @@
   * [Centrala Begrepp](4_norm/material/struktur_centrala_begrepp.md)
   - - - -
   * # Övningar & Diskussionsunderlag
-  * [Kulturell och social tillhörighet](4_norm/diskussionsunderlag/kulturell_och_social_tillhorighet.md)
+  * [Manligt & Kvinnligt](4_norm/diskussionsunderlag/genus_manligt_kvinnligt_ovning.md)
+  * [Kulturell & Social tillhörighet](4_norm/diskussionsunderlag/kulturell_och_social_tillhorighet.md)
 
 [Demokrati]()
 
@@ -40,7 +41,7 @@
   * [Innehåll & Läslista](7_fn_mr/material/innehall_laslista_fn_mr.md)
   - - - -
   * # Övningar & Diskussionsunderlag
-  * [...](subitem3.md)
+  * [Deklarationen: Artikel 1](7_fn_mr/diskussion_ovningar/forsta_artikeln_diskussion.md)
   - - - -
   * # Examinerande moment
   * [Seminarium](7_fn_mr/examinerande_moment/fn_mr_seminarium.md)
