@@ -42,6 +42,6 @@ I en kurs måste man alltid ha någon form av uppdelning. Detta betyder dock int
 
 Tanken just nu är att finna en balans mellan salsprov, inlämningsuppgifter och seminarium. Om ni har tankar kring detta, förmedla gärna dessa.
 
-**OBS:** Samtliga examinerande moment är obligatoriska om inget annat anges...
+**OBS:** Samtliga examinerande moment är obligatoriska om inget annat anges. Skulle man missa ett examinerande moment eller hamna efter är det viktigt (och ens eget ansvar) att man pratar med mig om detta.
 
 
