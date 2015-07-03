@@ -3,7 +3,6 @@
 [Intro & Info]()
 
   * # Om kursen
-  * [Vad är samhällskunskap?](1_intro/vad_ar_samhallskunskap.md)
   * [Preliminärt upplägg](1_intro/planering_kursens_upplagg.md)
   * [Skolverkets kursplan](1_intro/kursplan.md)
   - - - -
@@ -52,7 +51,7 @@
   * [Innehåll & Läslista](5_ekonomi/material/innehall_laslista_ekonomi.md)
   - - - -
   * # Övningar & Diskussionsunderlag
-  * [...](vad.md)
+  * [Strandsatt på en öde ö](5_ekonomi/ovningsuppgifter/ekonomi_ovning_ode_o.md)
   - - - -
   * # Examinerande moment
   * [Instuderingsfrågor inför prov](5_ekonomi/examinerande_moment/instuderingsfragor_ekonomi.md)
