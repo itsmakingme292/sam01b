@@ -4,10 +4,9 @@
 
 Fusce tortor est, feugiat gravida tincidunt vel, ultrices eget massa. Donec libero est, lobortis id ultrices et, gravida quis lorem. Maecenas gravida lacus a ultricies commodo. Donec nec faucibus nisi. Nam non mi ex. 
 
-här är test med fotnot markdown [^test]
-[^test]: test
+Nullam varius, magna nec aliquet dapibus, ligula orci mollis nulla, ac auctor tortor justo sed eros. Donec facilisis enim et nisl placerat viverra. Sed ac bibendum nunc. Nullam a rhoncus ligula, a interdum tellus. Quisque a ante id urna malesuada auctor. Aliquam tempus vehicula enim, malesuada commodo ligula tincidunt et. Pellentesque et enim enim.
 
-här är fotnot i html  <sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>
+Maecenas nisl velit, ultrices quis dictum non, sodales at sapien. Aenean a lacus ac libero semper congue. Etiam et tristique mi. Phasellus eget venenatis leo, auctor malesuada enim. Fusce blandit libero lorem, aliquam pellentesque ligula mattis ut. Morbi aliquet tristique felis a posuere. Nulla non molestie dolor. Nulla velit justo, tempor quis imperdiet sit amet, blandit non erat. Cras commodo tincidunt sem, a auctor metus aliquet vel. Etiam non malesuada elit. Etiam tempus nunc consectetur nibh porttitor consequat. Donec vitae nulla non urna lobortis iaculis pulvinar a elit. Aenean eu ullamcorper arcu.
 
 
 > " Test med citat "
