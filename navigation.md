@@ -41,6 +41,7 @@
   - - - -
   * # Övningar & Diskussionsunderlag
   * [Deklarationen: Artikel 1](7_fn_mr/diskussion_ovningar/forsta_artikeln_diskussion.md)
+  * [Material från Amnesty](7_fn_mr/diskussion_ovningar/amnesty.md)
   - - - -
   * # Examinerande moment
   * [Seminarium](7_fn_mr/examinerande_moment/fn_mr_seminarium.md)
