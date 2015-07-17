@@ -19,7 +19,7 @@ Tänk er följande scenario: Påväg till en semesterort störtar ert plan på e
 	* Ska visst arbete ge vissa fördelar?
 		* Ska den som jobbar "hårdast" få mer mat exempelvis? 
 	* Hur gör ni med de som "vägrar bidra"?
-		* Ekonomisk sanktion? Ingen mat till denna exempelvis? 
+		* Ekonomisk sanktion? Ingen mat till dessa exempelvis? 
 * Hur ser ni till att resurserna på ön används på bästa sätt?
 	* Hushållning?
 		* Hur tänker ni se till att öns resurser inte sinar?
