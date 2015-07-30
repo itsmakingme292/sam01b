@@ -11,14 +11,14 @@
 	* Ingen examination (men likväl viktigt)
 * Demokrati – i teori och praktik
 	* E-grundande salsprov (F eller OK)
-	* Långfråga, seminarium eller kortare hemtenta
+	* Långfråga salsprov, seminarium eller kortare hemtenta
 * FN & Mänskliga rättigheter
 	* Seminarium 
 
 ## Delmoment – VT
 * Ekonomi
 	* E-grundande salsprov (F eller OK)
-	* Långfråga eller kortare hemtenta
+	* Långfråga salsprov eller kortare hemtenta
 * Kritiskt tänkande
 	* Ingen examination (men likväl viktigt)
 * Ideologier
