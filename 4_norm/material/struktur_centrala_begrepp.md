@@ -8,7 +8,7 @@
 
 En samhällsstruktur är det samspelsmönster vi kan se på övergripande samhällelig nivå (se kartan ovan). Denna struktur ges av hur samhället är ordnat genom dess institutioner (politiskt) men också genom hur samhällets individer generellt agerar (kulturen).
 
-Samhällets strukturer har i detta två olika delar. De **formella strukturerna** är "regler" som står skrivna, svart på vit –  exempelvis i lagen. De **informella strukturerna** är "regler" som inte står skrivna, men som vi ändå förväntas att följa – med andra ord normer.
+Samhällets strukturer har i detta två olika delar. De **formella strukturerna** är de "regler" som står skrivna, svart på vit –  exempelvis i lagen. De **informella strukturerna** är de "regler" som inte står skrivna, men som vi ändå förväntas att följa – med andra ord normer.
 
 Ett samhälle binds samman av gemensamma förväntningar och regler. Strukturen är en slags ram för samhället som reglerar vilka beteenden som är ok och inte. Samhällets strukturer kan därför vara lika förtryckande som de är nödvändiga. Strukturer möjliggör vårt liv tillsammans men de kan också innebära en ibland oönskad och ofta problematisk makt över våra liv. 
 
@@ -18,7 +18,7 @@ Begreppet **norm** ligger inte jättelångt ifrån begreppet struktur. Skillnade
 
 En **kultur** är, i sin tur, ett slags "paket" eller uppsättning av normer (regler). En kultur reglerar, precis som strukturen/strukturerna (vilken kulturen är en del av), vad som förväntas av oss.
 
-Vi är alla medlemmar av (flera) olika kulturer (det finns ingen "monokultur") och ofta innebär detta att vi har motstridiga förväntningar på oss. 
+Vi är alla medlemmar av (flera) olika kulturer (det finns ingen "monokultur") och ofta innebär detta att vi har motstridiga förväntningar på oss. Exempelvis har vår familj en uppsättning normer, vår bekantskapskrets en annan och vår skola, eller vårt jobb, en tredje, osv. 
 
 <!--Ha allt detta ovanför samhällets strukturer? -->
 
