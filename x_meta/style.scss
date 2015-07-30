@@ -132,15 +132,18 @@ margin-top: -8px;
 }
 
 
+
+
+h2 { border-top: 1px solid #eee;  padding-top: 24px;}
+
 h2:first-of-type {
 margin-top:12px;
 border-top: 0px ;
 padding-top: 0px;
 }
 
-h2 { border-top: 1px solid #eee;  padding-top: 24px;}
-
 p {
+margin-bottom:12px;
 margin-top:12px;
 }
 
@@ -190,7 +193,7 @@ margin-bottom:20px;
 
 
 ol ul:last-child{
- margin-top: 0px;
+margin-top: 0px;
 margin-bottom:0px; 
 }
 
