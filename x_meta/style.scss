@@ -347,6 +347,11 @@ ul.nav.navbar-nav, .navbar-collapse, .nav navbar-nav {
 max-height: 460px !important;   
 }
 
+}
+
+@media only screen 
+and (max-device-width : 414px)  {
+
 
 /* Ha annan storlek på h1 etc här för iphone. Kör med sass-variabler och gånger */
 
