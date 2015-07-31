@@ -180,6 +180,13 @@ body ul li {
 
 ul:last-child {
 margin-bottom:20px; 
+/* ändra denna till 24?*/
+}
+
+/* nedan gör så att det bara är huvudpunkter med child-punkter som får extra mellanrum. OBS: denna måste vara samma som marginal jag satt mellan alla punkter... */ 
+
+ul ul ul:last-child {
+margin-bottom:10px; 
 }
 
 /* Nedan vet jag inte vad det är */
