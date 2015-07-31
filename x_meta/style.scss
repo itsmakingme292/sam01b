@@ -382,15 +382,30 @@ h4,
 }
 
 }
-/* padding för allt utom iphone/smartphone */ 
+/* padding för allt utom iphone/smartphone + ipad*/ 
 
 @media only screen 
-and (min-device-width : 986px) 
+and (min-device-width : 992px) 
  {
 #md-content.col-md-9 {
 padding-left: 44px;
-padding-right: 30px;}
+}
+
+.col-md-3 {
+    width: 26.1%
+    }
+
+.col-md-9 {
+    width: 73.9%;
+    }
+#md-body{
+padding-left: 20px;
+padding-right: 20px;
+
+}
 }    
+
+/* padding för ipad */ 
 
 @media only screen 
 and (min-device-width : 740px) 
@@ -401,9 +416,7 @@ padding-left: 40px;
 padding-right: 40px;
 }
 
-}    
-
- 
+}     
  
  /* EGET FÖRSÖK TILL ATT FIXA max-width för sidan */
  
