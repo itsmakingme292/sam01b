@@ -56,16 +56,7 @@ h6 small,
     color: #999
 
 }
-h1,
-h2,
-h3 {
-    margin-top: 30px;
-}
-h4,
-h5,
-h6 {
-    margin-top: 24px;
-}
+
 h1,
 .h1 {
     font-size: 44px
@@ -110,7 +101,11 @@ h4 small,
     border-bottom: 1px solid #eee
 }
 
-p, 
+p {
+margin-bottom:17px;
+margin-top:17px;
+}
+
 h1,
 h3,
 h4,
@@ -119,11 +114,37 @@ h6 {
 margin-bottom:17px;
 }
 
+h1,
+h2,
+h3 {
+    margin-top: 24px;
+}
+
+/* ovanstående margin-top och nedanstående padding-top måste vara samma, på så vis är det samma avstånd ovanför och under strecken som ligger ovanför h2 */
+
+h2 { border-top: 1px solid #eee;  padding-top: 24px;}
+
+h2:first-of-type {
+margin-top:12px;
+border-top: 0px ;
+padding-top: 0px;
+}
+
+p:first-of-type {
+margin-top: 12px;
+}
+
+h4,
+h5,
+h6 {
+    margin-top: 24px;
+}
+
 h2 {
 margin-bottom:20px;
 }
 
-/* OBS OBS OBS, om margin ovan för H2 ändras, måste jag ta bort minus-margin nedan */
+/* OBS OBS OBS, om margin bottom-margin för H2 ändras, måste jag ta bort minus-margin nedan, detta är alltså den lilla "gå upp"-pilen som ligger under h2 på ipad/iphone */
 
 .visible-xs.visible-sm.jumplink {
 
@@ -134,18 +155,6 @@ margin-top: -8px;
 
 
 
-h2 { border-top: 1px solid #eee;  padding-top: 24px;}
-
-h2:first-of-type {
-margin-top:12px;
-border-top: 0px ;
-padding-top: 0px;
-}
-
-p {
-margin-bottom:17px;
-margin-top:17px;
-}
 
 /* LISTOR */
 
