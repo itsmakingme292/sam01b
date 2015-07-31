@@ -318,12 +318,16 @@ margin-bottom:12px !important;
     } 
     
 @media only screen 
-and (min-device-width : 320px) 
+and (min-device-width : 1px) 
 and (max-device-width : 985px) {
 
 .annotator-frame, .annotator-toolbar, .annotator-bucket-bar, .annotator-adder { display: none; }
 
+.annotator-adder {visibility: hidden; }
+
 }
+
+
 
 @media only screen 
 and (min-device-width : 740px) 
