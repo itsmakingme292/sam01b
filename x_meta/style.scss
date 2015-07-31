@@ -1,9 +1,29 @@
+$skala: 1.26;
+$body-text-och-margin: 17px;
+
+/* BERÄKNAT UTIFRÅN h1, kommentera ut, antingen denna eller nedan */
+
+/* 
+$h1-storlek: 44px;
+$h2-storlek: $h1-storlek/$skala;
+$h3-storlek: $h2-storlek/$skala;
+$h4-storlek: $h3-storlek/$skala;
+ */
+
+
+/* BERÄKNAT UTIFRÅN Body */
+
+$h4-storlek: $body-text-och-margin * $skala;
+$h3-storlek: $h4-storlek * $skala;
+$h2-storlek: $h3-storlek * $skala;
+$h1-storlek: $h2-storlek * $skala;
+
+
+
 @import url("//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic");
-
-
 body {
-    font-family: "Lora", Georgia, "Times New Roman", Times, serif;
-    font-size: 17px;
+    font-family:"Lora", Georgia, "Times New Roman", Times, serif;
+    font-size: $body-text-och-margin;
     line-height: 1.428571429;
     color: #333;
     background-color: #f9f9f9
@@ -33,78 +53,40 @@ border-top:1px solid #E6E6E6;
 
 }
 
- /* HEADLINES */
+ /* HEADLINES storlekar */
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-.h1,
-.h2,
-.h3,
-.h4,
-.h5,
-.h6 {
+h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
     font-weight: 700;
     line-height: 1.1
 }
-h1 small,
-h2 small,
-h3 small,
-h4 small,
-h5 small,
-h6 small,
-.h1 small,
-.h2 small,
-.h3 small,
-.h4 small,
-.h5 small,
-.h6 small {
-    font-weight: normal;
-    line-height: 1;
-    color: #999
-
-}
-
 h1,
 .h1 {
-    font-size: 44px
+    font-size: $h1-storlek
 }
+
 h2,
 .h2 {
-    font-size: 36px
+    /* font-size: 36px */
+    font-size:$h2-storlek
 }
 h3,
 .h3 {
-    font-size: 29px
+/*     font-size: 29px */
+    font-size:$h3-storlek
 }
 h4,
 .h4 {
-    font-size: 22px
+/*     font-size: 22px */
+    font-size:$h4-storlek
 }
 h5,
 .h5 {
-    font-size: 17px
+    font-size:$body-text-och-margin
 }
 h6,
 .h6 {
     font-size: 15px
-}
-h1 small,
-.h1 small {
-    font-size: 29px
-}
-h2 small,
-.h2 small {
-    font-size: 22px
-}
-h3 small,
-.h3 small,
-h4 small,
-.h4 small {
-    font-size: 17px
+
 }
 .page-header {
     padding-bottom: 11px;
@@ -112,9 +94,11 @@ h4 small,
     border-bottom: 1px solid #eee
 }
 
+ /* MARGINALER */
+
 p {
-margin-bottom:17px;
-margin-top:17px;
+margin-bottom:$body-text-och-margin;
+margin-top:$body-text-och-margin;
 }
 
 h1,
@@ -122,7 +106,7 @@ h3,
 h4,
 h5,
 h6 {
-margin-bottom:17px;
+margin-bottom:$body-text-och-margin;
 }
 
 h1,
@@ -361,6 +345,8 @@ and (max-device-width : 740px)  {
 ul.nav.navbar-nav, .navbar-collapse, .nav navbar-nav {
 max-height: 460px !important;   
 
+/* Ha annan storlek på h1 etc här för iphone. Kör med sass-variabler och gånger */
+
 }
 }
 /* padding för allt utom iphone/smartphone */ 
@@ -414,3 +400,39 @@ margin-right:auto;
 .annotator-adder:before {
 box-sizing: content-box !important;
 }
+
+
+/* BÖS som jag inte använder, men som bör vara kvar? */
+
+h1 small,
+h2 small,
+h3 small,
+h4 small,
+h5 small,
+h6 small,
+.h1 small,
+.h2 small,
+.h3 small,
+.h4 small,
+.h5 small,
+.h6 small {
+    font-weight: normal;
+    line-height: 1;
+    color: #999
+
+}
+
+h1 small,
+.h1 small {
+    font-size: 29px
+}
+h2 small,
+.h2 small {
+    font-size: 22px
+}
+h3 small,
+.h3 small,
+h4 small,
+.h4 small {
+    font-size: 17px
+    }
