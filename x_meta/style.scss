@@ -316,7 +316,8 @@ margin-bottom:12px !important;
     	}
     	p, .md-text p, p.md-text {font-size: 12pt !important;}
     } 
-    
+/* Nedan tar bort Hypothesis från mobila enheter */
+
 @media only screen 
 and (min-device-width : 1px) 
 and (max-device-width : 985px) {
