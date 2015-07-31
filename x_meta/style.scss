@@ -1,4 +1,5 @@
 $skala: 1.26;
+$mindre-headings-ihpone: 0.7;
 $body-text-och-margin: 17px;
 
 /* BERÄKNAT UTIFRÅN h1, kommentera ut, antingen denna eller nedan */
@@ -344,10 +345,32 @@ and (max-device-width : 740px)  {
 
 ul.nav.navbar-nav, .navbar-collapse, .nav navbar-nav {
 max-height: 460px !important;   
+}
+
 
 /* Ha annan storlek på h1 etc här för iphone. Kör med sass-variabler och gånger */
 
+h1,
+.h1 {
+    font-size: $h1-storlek * $mindre-headings-ihpone
 }
+
+h2,
+.h2 {
+    /* font-size: 36px */
+    font-size:$h2-storlek * $mindre-headings-ihpone
+}
+h3,
+.h3 {
+/*     font-size: 29px */
+    font-size:$h3-storlek * $mindre-headings-ihpone
+}
+h4,
+.h4 {
+/*     font-size: 22px */
+    font-size:$body-text-och-margin
+}
+
 }
 /* padding för allt utom iphone/smartphone */ 
 
