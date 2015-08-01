@@ -4,11 +4,13 @@
 
 När vi talar om bedömning blandar vi ofta samman två olika typer av bedömning. Den ena typen av bedömning kallas *summativ bedömning* och den andra *formativ bedömning* eller *bedömning för lärande*.
 
+***
+
 ## Summativ bedömning
 
-Summativ bedömning summerar vad en lärare i sin professionella roll bedömmer att en elev har uppnåt under en *hel* kurs – och ges i form av ett betyg. Till grund för den summativa bedömningen ligger examinationsmoment men också vad en lärare har observerat under kursens gång. Vilken vikt varje del ges varierar beroende på situation och lärare.
+Summativ bedömning summerar vad en lärare i sin professionella roll bedömmer att en elev har uppnåt under en *hel* kurs – och denna ges i form av ett betyg. Till grund för den summativa bedömningen ligger examinationsmoment men också vad en lärare har observerat under kursens gång. Vilken vikt varje del ges varierar beroende på situation och lärare.
 
-Betyg är en måttstock för vad man har lärt sig – inte ett redskap för lärande. En lärare kan aldrig veta vilket betyg en elev bör få innan en kurs är avslutad. Eventuella “betyg” på ett delmoment ska inte sammanblandas med vad ett betyg innebär när det ges i slutet av en kurs. Att veta “hur jag ligger till” är inte heller att veta “vilket betyg jag troligen kommer att få”.
+Betyg är en måttstock för vad man har lärt sig – inte ett redskap för lärande. En lärare kan aldrig veta vilket betyg en elev bör få innan en kurs är avslutad. Eventuella “betyg” på  delmoment ska inte sammanblandas med vad ett betyg innebär när det ges i slutet av en kurs. Att veta “hur jag ligger till” är inte att veta “vilket betyg jag troligen kommer att få”.
 
 ## Bedömning för lärande
 
