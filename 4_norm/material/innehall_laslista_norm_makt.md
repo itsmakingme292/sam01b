@@ -21,7 +21,7 @@
 #### Arena
 
 **Individen i samhället**
-15-35 (20 sid)
+15-34 (20 sid)
 
 
 #### Denna wiki
