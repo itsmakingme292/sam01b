@@ -18,7 +18,7 @@ Denna övningsuppgift sträcker sig över flertalet lektioner och utgår ifrån 
 
 ## Avsnitt 1: Liberalismen
 
-**Några Diskussionsfrågor**
+*Några Diskussionsfrågor:*
 
 - Liberalism är en samhällsåskådning och politisk ideologi med den enskilda individens frihet i centrum. Fundera och diskutera vilka friheter som är viktigast för er.
 
@@ -30,7 +30,7 @@ Denna övningsuppgift sträcker sig över flertalet lektioner och utgår ifrån 
 
 ## Avsnitt 2: Socialismen
 
-**Några Diskussionsfrågor**
+*Några Diskussionsfrågor:*
 
 - Socialismen är en samhällsåskådning och politisk ideologi med jämlikhet i centrum. Vad innebär jämlikhet för er och på vilket sätt sammanfaller eran syn med socialismens syn på jämlikhet och inte?
 
@@ -42,7 +42,7 @@ Denna övningsuppgift sträcker sig över flertalet lektioner och utgår ifrån 
 
 ## Avsnitt 3: Konservatismen
 
-**Några Diskussionsfrågor**
+*Några Diskussionsfrågor:*
 
 - Konservatismen är en samhällsåskådning och politisk ideologi med fokus på att bevara och undvika snabba samhällsförändringar. Vad en konservativ person vill bevara är olika från konservativ till konservativ. I vilka frågor skulle ni säga att ni är konservativa? Vad vill ni bevara?
 

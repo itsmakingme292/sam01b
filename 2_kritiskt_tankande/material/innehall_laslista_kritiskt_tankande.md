@@ -17,7 +17,7 @@
 
 3. Hur fungerar media och hur värderar man källor?
  	* Källkritik
- 	* Mediakunskap
+ 	* Mediekunskap
 
 
 
