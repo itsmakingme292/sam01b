@@ -22,7 +22,8 @@ $h1-storlek: $h2-storlek * $skala;
 
 
 @import url("//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic");
-body {
+
+body, code  {
     font-family:"Lora", Georgia, "Times New Roman", Times, serif;
     font-size: $body-text-och-margin;
     line-height: 1.428571429;
