@@ -14,7 +14,7 @@ Ett samhälle binds samman av gemensamma förväntningar och regler. Strukturen 
 
 ## Kultur & normer
 
-Begreppet **norm** ligger inte jättelångt ifrån begreppet struktur. Skillnaden är att en norm är en specifik regel, eller en värdering, och att en norm (i vanlig mening) alltid är informell (ej nedskriven – och därmed informell). I en viss mening kan vi kalla en viss juridisk lag för en norm, men det är vanligen inte det vi menar med begreppet. Det ordet "norm" vanligen syftar till är de "regler" som hör kulturen till. 
+Begreppet **norm** ligger inte jättelångt ifrån begreppet struktur. Skillnaden är att en norm är en specifik regel, eller en värdering, och att en norm (i vanlig mening) alltid är informell (ej nedskriven – och därmed informell). I en viss mening kan vi kalla en juridisk lag för en norm, men det är vanligen inte det vi menar med begreppet. Det ordet "norm" främst syftar till är de "regler" som hör kulturen till. 
 
 En **kultur** är, i sin tur, ett slags "paket" eller uppsättning av normer (regler och värderingar). En kultur reglerar, precis som strukturen/strukturerna (vilken kulturen är en del av), vad som *värdesätts* och vad som *förväntas av oss* (genom normer).
 
@@ -29,16 +29,16 @@ _Att vi alla tillhör olika kulturer/grupper innebär:_
 
 1. Att vi ”fostras” att följa och internalisera vissa normer och värderingar (internalisering = vi gör dem till våra egna). Vi lär oss vilka förväntningar de olika grupperna vi tillhör har på oss. 
 
-2. Att vi ofta(st) väljer att följa dessa för att inte hamna utanför gruppen, eller på ett eller annat sätt bli "straffade".
+2. Att vi ofta(st) väljer, eller tvingas, att följa normer för att inte hamna utanför gruppen, eller på ett eller annat sätt bli "straffade".
 
 Detta kallas **socialisation** och denna är en till stor omedveten _process_ (den händer utan att vi tänker på det). När vi i sin tur, genom både handling och kommunikation, "fostrar" andra i de regler, värderingar och normer _vi lärt oss_ **reproducerar** vi dessa (vi "återskapar" dem).
 
 
 #### Identitet
 
-Våran identitet är vilka vi "känner oss som" och denna formas i stor utsträckning av de grupper vi tillhör. Vi identifierar oss med andra, vi är och förblir flockdjur – vi vill tillhöra något (en grupp).
+Vår identitet är vilka vi "känner oss som" och denna formas i stor utsträckning av de grupper vi tillhör. Vi identifierar oss med andra, vi är och förblir flockdjur – vi vill tillhöra något (en grupp).
 
-Baksidan av hur vi formar vår identitet är att denna (ofta) leder till ett "vi och dom"-tänkande. För att vi ska kunna tillhöra en grupp måste det finnas någon som *inte gör det*. Som grupper definierar vi oss lika mycket utifrån vilka *vi är* som vilka *vi inte är*. 
+Baksidan av hur vi formar vår identitet är att denna leder till ett "vi och dom"-tänkande. För att vi ska kunna tillhöra en grupp måste det finnas någon som *inte gör det*. Som grupper definierar vi oss lika mycket utifrån vilka *vi är* som vilka *vi inte är*. 
 
 Inom varje grupp finns det en norm, med andra ord en förväntan på ett beteendet hos de som tillhör gruppen och därmed finns det också en *avvikelse*, med andra ord vad det innebär att *inte* få tillhöra gruppen (vad man inte får göra). 
 
@@ -47,8 +47,10 @@ Inom varje grupp finns det en norm, med andra ord en förväntan på ett beteend
 _Makt kan antingen handla om:_
 
 1. **Direkt makt:** Någon får mig att göra något jag annars inte skulle göra. Ofta med ett direkt eller indirekt hot om bestraffning om jag ej gör så.
-2. **Dagordningsmakt**: Vissa har mer makt över vad vi talar och beslutar om – media och politiker i synnerhet (och jag som lärare för den delen). 
-3. **Makten över tanken**: Denna makt handlar om normer, tankar och önskningar. Media har exempelvis mycket makt över vad vi tror och tänker om politiker – eller för den delen om oss själva. Vissa har makt över vårt *perspektiv* på verkligheten.
+
+2. **Dagordningsmakt**: Vissa har mer makt över _vad_ vi talar och beslutar om – media och politiker i synnerhet (och jag som lärare för den delen). 
+
+3. **Makten över tanken**: Vissa har makt över vårt *perspektiv* på verkligheten. Dels över vad vi tror och tänker om saker, men också över vad vi vill (våra önskningar) och hur vi uppfattar oss själva.
 
 ### Maktordning
 
