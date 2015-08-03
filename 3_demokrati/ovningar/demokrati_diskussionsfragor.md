@@ -18,7 +18,7 @@ Diskutera nedanstående frågor gruppvis och glöm inte att anteckna! När alla 
 
 - Är det diktatur eller demokrati som råder i klassrummet? Styr lärare för mycket? Styr elever för mycket? Vem ska styra vad? 
 
-- Är frågan om monarkins vara eller icke-vara i Sverige en viktig eller oviktig fråga? Vad tycker du vi först och främst ska kalla Sverige? En demokrati? Eller en monarki? Är en sådan fråga ens viktig? Är det bara ord eller är monarkin odemokratisk? 
+- Är frågan om monarkins vara eller icke-vara i Sverige en viktig eller oviktig fråga? Vad tycker du vi först och främst ska kalla Sverige? En demokrati? Eller en monarki? Är det bara ord eller är monarkin odemokratisk? 
 
 - Är representativ demokrati ett verkligt folkstyre? Eller har vi endast sann demokrati vart fjärde år och en slags lättare variant av diktatur däremellan? Är en fullvärdig direktdemokrati ens en praktisk möjlighet? Eller är det bättre att politiker sköter politiken? Vilken form av demokrati finner du själv mest tilltalande? Varför? 
 
