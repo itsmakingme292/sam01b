@@ -74,9 +74,9 @@ _Diskriminering =_
 
 ### Strukturell diskriminering
 
-Man kan givetvis diskrimineras av en enskild grupp, eller av en enskild person, men ofta menar vi med diskriminering snarast en **strukturell diskriminering**. Denna handlar antingen om att man diskrimineras genom *samhällets lagar* eller *samhällets normer*.
+Man kan givetvis diskrimineras av en enskild grupp, eller  "endast" av en enskild person, men ofta innebär diskriminering också en **strukturell diskriminering**. En sådan handlar antingen om att man diskrimineras genom *samhällets lagar* eller *samhällets normer*.
 
-I Sverige är det få lagar som verkar direkt diskriminerande –  de allra flesta sådana lagar är borta sedan länge. Värre är den svenska kulturen och samhällets normer. Även om Sverige  till stora delar *är* och *upplever sig* som ett allmänt tolerant och "upplyst" land där alla *ska* "behandlas lika", så diskrimineras människor dagligen.
+I Sverige är det få lagar som verkar direkt diskriminerande –  de allra flesta sådana lagar är borta sedan länge. Värre är den svenska kulturen och samhällets normer. Även om Sverige  till stora delar *är* och *upplever sig* som ett allmänt tolerant och "upplyst" land där alla *ska* "behandlas lika", så diskrimineras människor dagligen (och systematiskt).
 
 _Då det sker strukturell diskriminering innebär detta att:_
 
