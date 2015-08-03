@@ -1,6 +1,6 @@
 # Drömsamhället (UR)
 
-Denna övningsuppgift sträcker sig över flertalet lektioner och utgår ifrån [utbildningsradions programserie "Drömsamhället"](http://sli.se/apps/sli/prodsearch.php?db=3&search=Drömsamhället) som ägnar ett avsnitt per ideologi. Varje avsnitt är cirka 30 minuter och sedan måste vi ha tid för diskussion. Vi diskuterar först gruppvis och sedan i helklass.
+Denna övningsuppgift sträcker sig över flertalet lektioner och utgår ifrån [utbildningsradions programserie "Drömsamhället"](http://sli.se/apps/sli/prodsearch.php?db=3&search=Drömsamhället) som ägnar ett avsnitt per ideologi (vissa av nedanstående frågor är helt eller delvis tagna från deras medföljande skolmaterial). Varje avsnitt är cirka 30 minuter och sedan måste vi ha tid för diskussion. Vi diskuterar först gruppvis och sedan i helklass.
 
 ***
 
@@ -46,6 +46,6 @@ Denna övningsuppgift sträcker sig över flertalet lektioner och utgår ifrån 
 
 - Konservatismen är en samhällsåskådning och politisk ideologi med fokus på att bevara och undvika snabba samhällsförändringar. Vad en konservativ person vill bevara är olika från konservativ till konservativ. I vilka frågor skulle ni säga att ni är konservativa? Vad vill ni bevara?
 
-- Vad anser ni om monarkin? Bör den bevaras? Diskutera, resonera och motivera.
+- Vad anser ni om monarkin? Bör den bevaras? Diskutera, resonera och motivera. 
 
 - De flesta konservativa är liberala när det kommer till ekonomin, men konservativa när det gäller värderingar. Är konservatismen en omodern och bakåtsträvande ideologi? Exempelvis när det gäller synen på kärnfamiljen och kön/genus?
