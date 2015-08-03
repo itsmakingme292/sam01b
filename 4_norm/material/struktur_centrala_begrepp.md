@@ -36,13 +36,49 @@ Detta kallas **socialisation** och denna är en till stor omedveten _process_ (d
 
 #### Identitet
 
-Vår identitet formas i stor utsträckning av de grupper vi tillhör...
+Våran identitet är vilka vi "känner oss som" och denna formas i stor utsträckning av de grupper vi tillhör. Vi identifierar oss med andra, vi är och förblir flockdjur – vi vill tillhöra något (en grupp).
 
+Baksidan av hur vi formar vår identitet är att denna (ofta) leder till ett "vi och dom"-tänkande. För att vi ska kunna tillhöra en grupp måste det finnas någon som *inte gör det*. Som grupper definierar vi oss lika mycket utifrån vilka *vi är* som vilka *vi inte är*. 
+
+Inom varje grupp finns det en norm, med andra ord en förväntan på ett beteendet hos de som tillhör gruppen och därmed finns det också en *avvikelse*, med andra ord vad det innebär att *inte* få tillhöra gruppen (vad man inte får göra). 
 
 ## Makt
 
-### Olika typer av makt
+_Makt kan antingen handla om:_
 
-### Diskriminering
+1. **Direkt makt:** Någon får mig att göra något jag annars inte skulle göra. Ofta med ett direkt eller indirekt hot om bestraffning om jag ej gör så.
+2. **Dagordningsmakt**: Vissa har mer makt över vad vi talar och beslutar om – media och politiker i synnerhet (och jag som lärare för den delen). 
+3. **Makten över tanken**: Denna makt handlar om normer, tankar och önskningar. Media har exempelvis mycket makt över vad vi tror och tänker om politiker – eller för den delen om oss själva. Vissa har makt över vårt *perspektiv* på verkligheten.
 
-#### Strukturell diskriminering
+### Maktordning
+
+Att det finns en viss maktordning innebär att samhället är *skiktat*. Det finns med andra ord olika "lager" av samhället som innebär att man beroende av grupptillhörighet och på grund av samhällets struktur(er) har olika makt. Vissa grupper/personer befinner sig högre upp i "rang"/ordning/hierarki vad gäller makt – och vissa längre ner.
+
+Då vi talar om maktordning i relation till klass talar vi om ett _klassamhälle_. Ett samhälle där de rika har mer makt (genom att de som äger produktionsmedlen). Om vi talar om maktordning i relation till kön talar vi om en _könsmaktsordning_, med andra ord ett _patriarkalt samhälle_. Ett samhälle där _män_ i mångt och mycket "styr och ställer".
+
+Dessa två typer av maktordningar är dock inte de enda: samhällen skiktas (oftast) också utifrån sådant som etnicitet, sexualitet, funktionshinder, ålder, osv. 
+
+#### Intersektionalitet
+
+Olika positioner och sociala kategorier samverkar med varandra. Det är exempelvis en sak att vara arbetarklass och man och det är (ofta) en helt annan sak att vara arbetarklass och kvinna. Intersektionalitet handlar i detta inte bara om att det är "extra jobbigt" att tillhöra flera missgynnade sociala kategorier (exempelvis: kvinna, svart och arbetarklass) utan också om att själva de sociala kategorierna *förändras* genom relationen mellan dem. Vad det exempelvis *innebär* att vara arbetarklass är olika beroende på om man är kvinna eller man, och vad det i sin tur innebär att vara kvinna är beroende av om man är "vit" eller "rasifierad", osv. 
+
+**Kommentar**: Begreppet "rasifiering" belyser att det framförallt är "icke-vita" och "icke-etniskt" västerländska personer som ses som "en viss typ" (ras) av människor. Vita, västerländska människor är, i stort, normen (och därmed inte det "avvikande"). Kring vita människor sker kort sagt inte samma typ av stereotypifiering (fördomar) som kring "icke-vita" (rasifierade). En grundbult i den moderna rasismen om man så vill. 
+
+## Diskriminering
+
+_Diskriminering =_
+
+1. Man behandlar en person sämre än en annan person i samma situation.
+2. På grund av egenskaper hos personen som inte borde spela roll för situationen.
+3. Man gör negativ åtskillnad mellan människor på felaktiga (och godtyckliga) grunder.
+
+### Strukturell diskriminering
+
+Man kan givetvis diskrimineras av en enskild grupp, eller av en enskild person, men ofta menar vi med diskriminering snarast en **strukturell diskriminering**. Denna handlar antingen om att man diskrimineras genom *samhällets lagar* eller *samhällets normer*.
+
+I Sverige är det få lagar som verkar direkt diskriminerande –  de allra flesta sådana lagar är borta sedan länge. Värre är den svenska kulturen och samhällets normer. Även om Sverige  till stora delar *är* och *upplever sig* som ett allmänt tolerant och "upplyst" land där alla *ska* "behandlas lika", så diskrimineras människor dagligen.
+
+_Då det sker strukturell diskriminering innebär detta att:_
+
+1. Man kan se ett tydligt mönster. Med andra ord: det handlar inte om ett fåtal/enskilda händelser.
+2. Det finns en tydlig koppling till samhällets normer och/eller lagar samt att dessa tydligt missgynnar vissa och gynnar andra.
