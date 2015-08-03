@@ -5,7 +5,7 @@
 * Ni skapar gruppvis en fiktiv diskussion mellan de olika ideologierna i en gemensam text. Denna behöver inte skrivas kronologiskt (i följd) men ni *får inte redigera varandras inlägg*. 
 * Gruppen består av 5-7 elever och ni representerar var för sig *en* ideologi (eller förgrening) i er fiktiva diskussion. 
 * Ni fördelar själva ideologierna mellan er, men tänk på att det inte nödvändigtvis är roligast att "spela" sin egen favoritideologi.
-* Obligatoriska ideologier/roller inom grupperna är nyliberalism, socialliberalism, reformistisk socialism och kommunism. Utöver detta kan ni välja mellan ideologierna Konservatism, Ekologism, Feminism eller Anarkism/Syndikalism.
+* Obligatoriska ideologier/roller inom grupperna är nyliberalism, socialliberalism, reformistisk socialism och kommunism. Utöver detta kan ni välja mellan ideologierna konservatism, ekologism, feminism eller anarkism/syndikalism.
 * Tanken är att ni ska vara experter på era egna ideologier, men för att kunna föra ett samtal måste ni förstå de andra ideologierna och veta hur dessa står i relation till er egen (likheter / olikheter / svaga punkter osv).
 
 **Tips:** Försök för denna uppgift inte bara tänka kring vad vi gått igenom under detta moment, utan också vad ni lärt er under tidigare moment...
@@ -32,14 +32,14 @@
 ## Tips gällande turordning och upplägg
 
 * Ett sätt att skapa en struktur är att man som grupp först bestämmer vilka frågor som ska diskuteras och i vilken ordning. Kan man utveckla bra frågor har man redan kommit en bra bit på vägen mot goda svar. Eventuellt skapar man tillsammans också regler för exempelvis antal inlägg och repliker per ideologi, max-längd per inlägg, osv. 
-* Man kan även utse en "moderator" i gruppen om man känner att det kommer att underlätta. 
+* Man kan även utse en "moderator" i gruppen om man känner att det skulle underlätta. 
 
 ## Tips gällande ideologierna
 
-* Feminister och ekologister bör bestämma sig för om de även sympatiserar med någon viss annan ideologi. Detta för att kunna instämma samt göra tillägg och kopplingar till hur detta hänger samman med den egna ideologin. Man bör här också fundera en extra gång kring vilka ideologier (eller delar av ideologierna) man inte är lika kompatibel med. Feminismen och ekologismen har kanske inte lika naturliga fiender som de klassiska ideologierna, men de kan sannerligen rikta hård kritik åt en rad olika håll.
+* Feminister och ekologister bör bestämma sig för om de även sympatiserar med någon viss annan ideologi. Detta för att kunna instämma samt göra tillägg och kopplingar till hur andra ideologier hänger samman med den egna ideologin. Man bör här också fundera en extra gång kring vilka ideologier (eller delar av ideologierna) man inte är lika kompatibel med. Feminismen och ekologismen har kanske inte lika naturliga fiender som de klassiska ideologierna, men de kan sannerligen rikta hård kritik åt en rad olika håll.
 * Som feminist och konservativ bör man bestämma sig för vilken typ av feminist eller konservativ man är. För feminismen är detta relativt enkelt, det handlar framförallt om huruvida man lutar mer åt särartsfeminism eller likhetsfeminism. För konservatismen är detta något svårare och handlar om en rad olika frågor.
 * Som (reformistisk) socialist bör man bestämma sig hur man ser på marknadsekonomi och huruvida denna nödvändigtvis måste hänga ihop med kapitalism. 
-* Som social-liberal måste man vara tydlig med vad som skiljer en från en reformistisk socialist med avseende på valfärden. 
+* Som social-liberal måste man vara tydlig med vad som skiljer den egna ideologin från en reformistisk socialism med avseende på välfärden, samt varför man inte är nyliberal.
 
 
 
