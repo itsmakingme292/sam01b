@@ -14,20 +14,20 @@ Ett samhälle binds samman av gemensamma förväntningar och regler. Strukturen 
 
 ## Kultur & normer
 
-Begreppet **norm** ligger inte jättelångt ifrån begreppet struktur. Skillnaden är att en norm är en specifik regel och att en norm (i vanlig mening) alltid är informell (ej nedskriven – och därmed informell). I en viss mening kan vi kalla en viss juridisk lag för en norm, men det är vanligen inte det vi menar med begreppet. Det ordet "norm" vanligen syftar till är de "regler" som hör kulturen till. 
+Begreppet **norm** ligger inte jättelångt ifrån begreppet struktur. Skillnaden är att en norm är en specifik regel, eller en värdering, och att en norm (i vanlig mening) alltid är informell (ej nedskriven – och därmed informell). I en viss mening kan vi kalla en viss juridisk lag för en norm, men det är vanligen inte det vi menar med begreppet. Det ordet "norm" vanligen syftar till är de "regler" som hör kulturen till. 
 
-En **kultur** är, i sin tur, ett slags "paket" eller uppsättning av normer (regler). En kultur reglerar, precis som strukturen/strukturerna (vilken kulturen är en del av), vad som förväntas av oss.
+En **kultur** är, i sin tur, ett slags "paket" eller uppsättning av normer (regler och värderingar). En kultur reglerar, precis som strukturen/strukturerna (vilken kulturen är en del av), vad som *värdesätts* och vad som *förväntas av oss* (genom normer).
 
 Vi är alla medlemmar av (flera) olika kulturer (det finns ingen "monokultur") och ofta innebär detta att vi har motstridiga förväntningar på oss. Exempelvis har vår familj en uppsättning normer, vår bekantskapskrets en annan och vår skola, eller vårt jobb, en tredje, osv. 
 
-<!--Ha allt detta ovanför samhällets strukturer? -->
+**Kommentar:** Begreppet "monokultur" syftar till föreställningen om ett samhälle som består av *en enda* kultur.
 
 
 ### Socialisation & reproduktion
 
 _Att vi alla tillhör olika kulturer/grupper innebär:_
 
-1. Att vi ”fostras” att följa och internalisera vissa regler, värderingar & normer (internalisering = vi gör dem till våra egna). Vi lär oss vilka förväntningar de olika grupperna vi tillhör har på oss. 
+1. Att vi ”fostras” att följa och internalisera vissa normer och värderingar (internalisering = vi gör dem till våra egna). Vi lär oss vilka förväntningar de olika grupperna vi tillhör har på oss. 
 
 2. Att vi ofta(st) väljer att följa dessa för att inte hamna utanför gruppen, eller på ett eller annat sätt bli "straffade".
 
