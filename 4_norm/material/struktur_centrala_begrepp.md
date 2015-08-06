@@ -54,11 +54,11 @@ _Makt kan antingen handla om:_
 
 ### Maktordning
 
-Att det finns en viss maktordning innebär att samhället är *skiktat*. Det finns med andra ord olika "lager" av samhället som innebär att man beroende av grupptillhörighet och på grund av samhällets struktur(er) har olika makt. Vissa grupper/personer befinner sig högre upp i "rang"/ordning/hierarki vad gäller makt – och vissa längre ner.
+Att det finns en viss maktordning innebär att samhället är *skiktat* (detta kallas inom sociologin för social stratifiering). Det finns med andra ord olika "lager" av samhället som innebär att man beroende av grupptillhörighet och på grund av samhällets struktur(er) har olika makt. Vissa grupper/personer befinner sig högre upp i "rang"/ordning/hierarki vad gäller makt – och vissa längre ner.
 
-Då vi talar om maktordning i relation till klass talar vi om ett _klassamhälle_. Ett samhälle där de rika har mer makt (genom att de som äger produktionsmedlen). Om vi talar om maktordning i relation till kön talar vi om en _könsmaktsordning_, med andra ord ett _patriarkalt samhälle_. Ett samhälle där _män_ i mångt och mycket "styr och ställer".
+Då vi talar om maktordning i relation till klass talar vi om ett _klassamhälle_. Ett samhälle där de rika har mer makt (genom att de äger produktionsmedlen). Om vi talar om maktordning i relation till kön talar vi om en _könsmaktsordning_, med andra ord ett _patriarkalt samhälle_. Ett samhälle där _män_ i mångt och mycket "styr och ställer".
 
-Dessa två typer av maktordningar är dock inte de enda: samhällen skiktas (oftast) också utifrån sådant som etnicitet, sexualitet, funktionshinder, ålder, osv. 
+Dessa två typer av maktordningar är dock inte de enda: samhällen skiktas också utifrån sådant som etnicitet, sexualitet, funktionshinder, ålder, osv. 
 
 #### Intersektionalitet
 
