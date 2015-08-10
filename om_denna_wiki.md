@@ -19,7 +19,7 @@ Denna wiki innehåller markering- och anteckningsverktyget hypothesis. För att 
 
 Vanliga markeringar är automatiskt privata (bara ni kan se dem), men markeringar med tillhörande anteckningar är som standard publika (alla kan se dem). För att göra en anteckning privat klicka på "Public" och välj "Only me". Publika anteckningar kan även andra användare kommentera på.
 
-**OBS:** Detta verktyg fungerar i dagsläget dessvärre inte på läsplattor och smartphones och är därför avstängt för dessa. För de klasser som använder iPads rekommenderar jag nya split-screen-visningen (i iOS 9) med valfri anteckningsapp eller gammalt hederligt analogt anteckningsblock.  
+**OBS:** Detta verktyg fungerar i dagsläget dessvärre inte på läsplattor och smartphones och är därför avstängt för dessa. För de klasser som använder iPads rekommenderar jag nya split-screen-visningen (i iOS 9) med valfri anteckningsapp eller ett gammalt hederligt analogt anteckningsblock.  
 
 
 
