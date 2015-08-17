@@ -2,7 +2,7 @@
 
 # SAM01b
 
-[Intro]()
+[Intro & Info]()
 
   * # Om kursen
   * [Preliminärt upplägg](1_intro/planering_kursens_upplagg.md)
