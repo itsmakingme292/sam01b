@@ -14,11 +14,11 @@ Ett samhälle binds samman av gemensamma förväntningar och regler. Strukturen 
 
 ## Kultur & normer
 
-Begreppet **norm** ligger inte jättelångt ifrån begreppet struktur. Skillnaden är att en norm är en specifik regel, eller en värdering, och att en norm (i vanlig mening) alltid är informell (ej nedskriven – och därmed informell). I en viss mening kan vi kalla en juridisk lag för en norm, men det är vanligen inte det vi menar med begreppet. Det ordet "norm" främst syftar till är de "regler" som hör kulturen till. 
+Begreppet **norm** ligger inte jättelångt ifrån begreppet struktur. Skillnaden är att en norm är en specifik regel, eller en värdering, och att en norm är informell (ej nedskriven). I vissa sammanhang kan vi kalla en juridisk lag för en norm, men det är vanligen inte det vi menar med begreppet. Det ordet "norm" främst syftar till är de "regler" som hör kulturen till. 
 
-En **kultur** är, i sin tur, ett slags "paket" eller uppsättning av normer (regler och värderingar). En kultur reglerar, precis som strukturen/strukturerna (vilken kulturen är en del av), vad som *värdesätts* och vad som *förväntas av oss* (genom normer).
+En **kultur** är, i sin tur, ett slags "paket" eller uppsättning av normer (regler och värderingar). En kultur reglerar genom dess normer, precis som samhällsstrukturen/strukturerna (vilken kulturen är en del av), vad som *värdesätts* och vad som *förväntas av oss*.
 
-Vi är alla medlemmar av (flera) olika kulturer (det finns ingen "monokultur") och ofta innebär detta att vi har motstridiga förväntningar på oss. Exempelvis har vår familj en uppsättning normer, vår bekantskapskrets en annan och vår skola, eller vårt jobb, en tredje, osv. 
+Vi är alla medlemmar av flera olika kulturer (det finns ingen "monokultur") och ofta innebär detta att vi har motstridiga förväntningar på oss. Exempelvis har vår familj en uppsättning normer, vår bekantskapskrets en annan och vår skola, eller vårt jobb, en tredje, osv. 
 
 **Kommentar:** Begreppet "monokultur" syftar till föreställningen om ett samhälle som består av *en enda* kultur.
 
@@ -31,7 +31,7 @@ _Att vi alla tillhör olika kulturer/grupper innebär:_
 
 2. Att vi ofta(st) väljer, eller tvingas, att följa normer för att inte hamna utanför gruppen, eller på ett eller annat sätt bli "straffade".
 
-Detta kallas **socialisation** och denna är en till stor omedveten _process_ (den händer utan att vi tänker på det). När vi i sin tur, genom både handling och kommunikation, "fostrar" andra i de regler, värderingar och normer _vi lärt oss_ **reproducerar** vi dessa (vi "återskapar" dem).
+Detta kallas **socialisation** och denna är en till stor omedveten _process_. Den händer utan att vi tänker på det. När vi i sin tur, genom både handling och kommunikation, "fostrar" andra i de regler, värderingar och normer _vi lärt oss_ **reproducerar** vi dessa (vi "återskapar" dem).
 
 
 #### Identitet
@@ -44,7 +44,7 @@ Inom varje grupp finns det en norm, med andra ord en förväntan på ett beteend
 
 ## Makt
 
-_Makt kan antingen handla om:_
+_Makt kan handla om:_
 
 1. **Direkt makt:** Någon får mig att göra något jag annars inte skulle göra. Ofta med ett direkt eller indirekt hot om bestraffning om jag ej gör så.
 
@@ -56,15 +56,16 @@ _Makt kan antingen handla om:_
 
 Att det finns en viss maktordning innebär att samhället är *skiktat* (detta kallas inom sociologin för social stratifiering). Det finns med andra ord olika "lager" av samhället som innebär att man beroende av grupptillhörighet och på grund av samhällets struktur(er) har olika makt. Vissa grupper/personer befinner sig högre upp i "rang"/ordning/hierarki vad gäller makt – och vissa längre ner.
 
-Då vi talar om maktordning i relation till klass talar vi om ett _klassamhälle_. Ett samhälle där de rika har mer makt (genom att de äger produktionsmedlen). Om vi talar om maktordning i relation till kön talar vi om en _könsmaktsordning_, med andra ord ett _patriarkalt samhälle_. Ett samhälle där _män_ i mångt och mycket "styr och ställer".
+Då vi talar om maktordning i relation till klass talar vi om ett _klassamhälle_. Ett samhälle där de rika har mer makt (genom att de äger produktionsmedlen). Om vi talar om maktordning i relation till kön talar vi om en _könsmaktsordning_, med andra ord ett _patriarkalt samhälle_. Ett samhälle där _män_ har mer makt än kvinnor.
 
 Dessa två typer av maktordningar är dock inte de enda: samhällen skiktas också utifrån sådant som etnicitet, sexualitet, funktionshinder, ålder, osv. 
 
 #### Intersektionalitet
 
-Olika positioner och sociala kategorier samverkar med varandra. Det är exempelvis en sak att vara arbetarklass och man och det är (ofta) en helt annan sak att vara arbetarklass och kvinna. Intersektionalitet handlar i detta inte bara om att det är "extra jobbigt" att tillhöra flera missgynnade sociala kategorier (exempelvis: kvinna, svart och arbetarklass) utan också om att själva de sociala kategorierna *förändras* genom relationen mellan dem. Vad det exempelvis *innebär* att vara arbetarklass är olika beroende på om man är kvinna eller man, och vad det i sin tur innebär att vara kvinna är beroende av om man är "vit" eller "rasifierad", osv. 
+Olika positioner och sociala kategorier samverkar med varandra. Det är exempelvis en sak att vara arbetarklass och man och det är (ofta) en helt annan sak att vara arbetarklass och kvinna. Intersektionalitet handlar i detta inte bara om att det är "extra jobbigt" att tillhöra flera missgynnade sociala kategorier (exempelvis: kvinna, svart/rasifierad och arbetarklass) utan också om att själva de sociala kategorierna *förändras* genom relationen mellan dem. Vad det exempelvis *innebär* att vara arbetarklass är olika beroende på om man är kvinna eller man, och vad det i sin tur innebär att vara kvinna är beroende av om man är "vit" eller "rasifierad", osv. 
 
-**Kommentar**: Begreppet "rasifiering" belyser att det framförallt är "icke-vita" och "icke-etniskt" västerländska personer som ses som "en viss typ" (ras) av människor. Vita, västerländska människor är, i stort, normen (och därmed inte det "avvikande"). Kring vita människor sker kort sagt inte samma typ av stereotypifiering (fördomar) som kring "icke-vita" (rasifierade). En grundbult i den moderna rasismen om man så vill. 
+**Kommentar**: Begreppet "rasifiering" belyser att det framförallt är "icke-vita" och "icke-etniskt" västerländska personer som ses som "en viss typ" (ras) av människor. Vita, västerländska människor är, i stort, normen (och därmed inte det "avvikande"). Kring vita människor sker kort sagt inte samma typ av stereotypifiering (fördomar) som kring "icke-vita" (rasifierade). <!--En grundbult i den moderna rasismen om man så vill.  -->
+
 
 ## Diskriminering
 
