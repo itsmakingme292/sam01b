@@ -10,7 +10,7 @@
   - - - -
   * # Viktig information
   * [Bedömning & Betyg](1_intro/bedomning.md)
-  * [Källhantering & Plagiat](1_intro/kallhantering.md)
+  * [Källor & Plagiat](1_intro/kallhantering.md)
   
 [Norm & Makt]()
 
