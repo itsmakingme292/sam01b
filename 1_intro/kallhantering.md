@@ -16,7 +16,7 @@ Alla era inlämningar går via **URKUND**, ett system som mycket lätt upptäcke
 
 Ofta handlar plagiat om svårare gränsfall än ovanstående. Ingen kan uppnå 100% originalitet i sina tankar – och detta är  inte heller poängen. Men man kan kort och gott förhålla sig olika _självständigt_ i förhållande till källorna. "Efterapning" kan ske på fler sätt än genom ren avskrivning. Det är viktigt  att man som elev tänker på att _kommunicera sin egen förståelse_ (och inte någon annans). 
 
-OBS: I de fall då plagiat upptäcks kan en inlämning inte längre tjäna som betygsunderlag. Beroende på hur mycket man plagierat får man antingen (helt eller delvis) göra om samma uppgift, eller göra en helt ny. 
+**OBS:** I de fall då plagiat upptäcks kan en inlämning inte längre tjäna som betygsunderlag. Beroende på hur mycket man plagierat får man antingen (helt eller delvis) göra om samma uppgift, eller göra en helt ny. 
 
 ## Länkar för vidare läsning
 

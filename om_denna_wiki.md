@@ -39,4 +39,6 @@ För mer information om bedömning och betyg [klicka här](1_intro/bedomning.md)
 
 ## Uppdateringar
 
-Här nedan listas alltid de fem senaste uppdateringarna. Om man klickar på dem tas man till Github ("servern" för denna sida) där man kan se exakt vad som ändrats.
+Här nedan listas alltid de fem senaste uppdateringarna. Om man klickar på dem tas man till Github ("servern" för denna sida) där man kan se exakt vad som ändrats. 
+
+**OBS:** Använd inte nedanstående länkar för läsning. Github visar endast själva _ändringarna_ och skär bort text däremellan (därtill är texten på Github inte lika läsbar som här). Läs alltså alltid på denna sida och använd länkarna nedan endast om ni är nyfikna.
