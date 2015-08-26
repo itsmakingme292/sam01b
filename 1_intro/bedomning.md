@@ -8,7 +8,9 @@ När vi talar om bedömning blandar vi ofta samman två olika typer av bedömnin
 
 ## Summativ bedömning
 
-Summativ bedömning summerar vad en lärare i sin professionella roll bedömmer att en elev har uppnåt under en *hel* kurs – och denna ges i form av ett betyg. Till grund för den summativa bedömningen ligger examinationsmoment men också vad en lärare har observerat under kursens gång. Vilken vikt varje del ges varierar beroende på situation och lärare.
+Summativ bedömning summerar vad en lärare i sin professionella roll bedömmer att en elev har uppnåt under en *hel* kurs – och denna ges i form av ett betyg. Till grund för den summativa bedömningen ligger examinationsmoment men också vad en lärare har observerat under kursens gång. Vilken vikt varje del ges varierar beroende på situation och lärare. 
+
+<!--**OBS:** I den mån lärare använder allmänna observationer i klassrummet i sin summativa bedömning är det alltid till elevens fördel och aldrig nackdel. Det som händer på lektioner kan höja eleven rent betygsmässigt, men i princip aldrig sänka eleven (till skillnad från examinationer).  -->
 
 Betyg är en måttstock för vad man har lärt sig – inte ett redskap för lärande. En lärare kan aldrig veta vilket betyg en elev bör få innan en kurs är avslutad. Eventuella “betyg” på  delmoment ska inte sammanblandas med vad ett betyg innebär när det ges i slutet av en kurs. Att veta “hur jag ligger till” är inte att veta “vilket betyg jag troligen kommer att få”.
 
@@ -22,7 +24,7 @@ När respons ges i samband med ett betyg hämmar detta effekten av responsen. Be
 
 En annan form av ineffektiv feedback är att använda läraren “som facit”, det vill säga att fråga läraren om “det rätta svaret”. För att möjliggöra lärande bedömning krävs det att vi ställer rätt frågor. När elever ber om hjälp är det viktigt att de ställer konkreta frågor som är direkt kopplade till det som känns oklart. Lärare har exempelvis inte tid att läsa igenom hela inlämningsuppgifter innan inlämning och kan inte ge svar på frågor så som “vad ska jag göra för att få ett A”. Att förklara vad det innebär att få ett A i en kurs är detsamma som att genomföra hela denna kurs på A-nivå. Det sagt är det viktigt att man som elev ställer frågor före deadlines och examinationstillfällen snarare än efter (då det kan vara försent).
 
-Den bästa typen av feedback är respons som hjälper elever att förstå vad de kan göra bättre och hur de kan komma dit. Denna typ av respons leder i bästa fall till att eleven själv börjar se sin lärandeprocess – och tids nog utveckla strategier för sitt eget lärande.
+Den bästa typen av feedback är respons som hjälper elever att förstå vad de kan göra bättre och hur de kan komma dit. Denna typ av respons leder i bästa fall till att eleven själv börjar se sin egen lärandeprocess – och tids nog utveckla strategier för sitt eget lärande.
 
 Respons som leder till lärande handlar oftast om vad elever kan utveckla och inte vad de redan gjort bra. Det är här viktigt att eleven inte kopplar respons till en känsla av misslyckande och gör den personlig. “Negativ” feedback är positiv feedback – den möjliggör utveckling. Detta kräver förstås att läraren ger tid för att jobba med responsen och att eleverna använder den tid som ges under lektioner för eget arbete till att verkligen arbeta och till att våga ta hjälp av läraren. Att göra allt jobb hemma är inte bara onödigt utan också mindre effektivt för lärande.
 
