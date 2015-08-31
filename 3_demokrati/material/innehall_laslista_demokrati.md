@@ -10,9 +10,9 @@
 
 *I praktiken:*
 
-* Sveriges statsskick & Grundlagar
-* Riksdag & Regering
-* EU (kortfattat och grundläggande)
+* Sveriges statsskick & grundlagar
+* Riksdag & regering 
+* Politikens nivåer och delar (myndigheter, kommuner, landsting och EU; ytterst kortfattat och grundläggande)
 * Sveriges politiska partier (eventuellt)
 
 
