@@ -6,6 +6,7 @@
 
 ## Delmomentets innehåll
 
+* Vad är en struktur? Hur ser samhällsstrukturen ut? 
 * Vad är en norm? Hur fungerar normer?
 * Maktordning: vem har makt? Vilka typer av makt kan man ha?
 * Kulturen, gruppen och vår identitet
