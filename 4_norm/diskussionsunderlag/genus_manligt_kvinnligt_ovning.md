@@ -1,7 +1,7 @@
 # "Manligt" & "Kvinnligt"
 ## Gruppvis
 	
-- Hur är en "riktig" man? Hur är en "riktig" kvinna?
+- Hur är en "riktig man"? Hur är en "riktig kvinna"?
 	- Tänk i första hand på en vuxen person.
 - Lista de beskrivande ord och egenskaper som ni förknippar med "man" respektive "kvinna" (anteckna!)	
 	- Var inte oroliga för att vara fördomsfulla (detta är meningen!) utan gå på de första tankarna som dyker upp i huvudet.
