@@ -13,9 +13,10 @@
 * Sveriges statsskick & grundlagar
 * Riksdag & regering 
 * Politikens nivåer och delar (myndigheter, kommuner, landsting och EU; ytterst kortfattat och grundläggande)
-* Sveriges politiska partier (eventuellt)
 
+<!--* Sveriges politiska partier (eventuellt) -->
 
+**Kommentar:** Att jag här gör en skillnad mellan teori och praktik handlar endast om att vi å ena sidan kan resonera kring begreppet demokrati generellt och att vi å andra sidan kan använda Sverige som ett konkret exempel på hur en demokrati fungerar i praktiken. Det är givetvis viktigt att vi gör kopplingar mellan dessa två delar under momentets gång (det är rentav själva poängen). 
 
 ## Läslista
 
