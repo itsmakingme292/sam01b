@@ -26,7 +26,7 @@
 - Hur du någon gång känt att du behövt anpassa dig till en viss kultur eller norm trots att du egentligen inte velat? Har du någon gång känt dig kulturellt ”utanför”?	
 - Har du som kille eller tjej samma möjligheter som någon av det motsatta könet? Förväntas det andra saker av dig än av någon av ett motsatt kön? På vilket sätt är detta problematiskt? Vad är dina egna erfarenheter? Vad säger normen? Vad säger du? Lever vi i ett patriarkat?	
 - Hur påverkar klasstillhörighet ens möjligheter i livet? Säger klasstillhörighet någonting om en persons framgångar och motgångar? Är det lätt eller svårt att avgöra vilken klass någon tillhör? Finns det några klassmarkörer som är extra tydliga?	
-- Vilken roll spelar etnicitet och nationellt ursprung i en människors liv? Är dessa viktiga för identiteten? Hur ser du på problematiken kring eventuell diskriminering? 	
+- Vilken roll spelar etnicitet och nationellt ursprung i en människors liv? Är dessa viktiga för identiteten? Kan en stark identifiering med en viss folkgrupp vara ett problem?	
 
 
 <!--gamla versionen
