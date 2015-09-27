@@ -5,6 +5,8 @@ Uppdelningen av dessa instuderingsfrågor följer till viss del ordningen i boke
 **LYCKA TILL!**
 / Fredrik
 
+**OBS:** Dessa instuderingsfrågor är dels förberedelse inför ett kortare salsprov/kunskapstest (se provschema på schoolsoft) men de är också förberedelser inför [inlämningsuppgiften](inlamning_demokrati.md). När det är dags för ett kunskapstestet kommer vi att göra detta på [socrative.com](http://socrative.com)
+
 ***
 
 ## Demokrati
@@ -87,7 +89,7 @@ Uppdelningen av dessa instuderingsfrågor följer till viss del ordningen i boke
 
 - Vad är en minister?
 
-- Vad har stadsministern för funktion?
+- Vad har statsministern för funktion?
 
 - Vad är en interpellation och hur går denna till?
 

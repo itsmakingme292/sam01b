@@ -31,7 +31,7 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 ### Observera att:
 
-- Hur du väljer att lägga upp eran text är upp till dig. Ni behöver inte skriva i exakt den ordning som frågorna ovan följer – men ni måste ha någon form av struktur. Kanske väljer ni att baka samman jämförelserna med själva redovisningen av respektive ideologi, kanske väljer ni att spränga in era egna argument under dessa delar och inte bara i i avslutande slutsats, osv. Om ni är osäkra, diskutera ev. upplägg med mig. 
+- Hur du väljer att lägga upp din text är upp till dig. Du behöver inte skriva i exakt den ordning som frågorna ovan följer – men du måste ha någon form av struktur. Kanske väljer du att baka samman jämförelserna med själva redovisningen av respektive ideologi, kanske väljer du att spränga in era egna argument under dessa delar och inte bara i i avslutande slutsats, osv. Om du är osäker, diskutera ev. upplägg med mig. 
 
 - En möjlig ståndpunkt/slutsats kan vara att du helst ser någon form av kombination mellan några,  eller alla, av de ideologier du valt att skriva om. Om detta är fallet: beskriv då hur du tänker dig att denna kombination skulle se ut och *varför* den är att föredra.
 
@@ -51,7 +51,7 @@ OBS: Utelämnar man dessa förgreningar har man ej möjlighet till ett högre be
 
 1. Du läser och reflekterar kring sidorna **133–154 i läroboken.**
 
-2. Du *bör* för denna uppgift använda dig av **ytterligare källor utöver Arena** och/eller åtminstone extra-material i denna wiki. För denna uppgift är det också *obligatoriskt* med en  *källförteckning* och en **källkritisk analys** av *samtliga* använda källor (inkl. Arena). Vid direkta citat eller referat krävs också *källhänvisning* i text. 
+2. Du *bör* för denna uppgift använda dig av **ytterligare källor utöver Arena** och/eller åtminstone extra-material i denna wiki. För denna uppgift är det också *obligatoriskt* med en  *källförteckning* **och** en **källkritisk analys** av *samtliga* använda källor (inkl. Arena). Vid direkta citat eller referat krävs också *källhänvisning* i text. 
 
 3. Du genomför den huvudsakliga uppgiften på **minst 1 A4** och **max 3,5 A4** (teckenstorlek 12, vanligt radavstånd, standard sid-marginaler). För den källkritiska analysen skriver du **minst 0,5 A4** och **max 1 A4** i slutet av din text. Totalt blir sidantalet alltså **max 4,5 sidor**.
 
