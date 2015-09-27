@@ -31,9 +31,9 @@ Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart 
 
 ## Att göra 
 
-1. Du jobbar först med [instuderingsfrågorna](instuderingsfragor_demokrati.md) inför salsprovet och läser de angivna sidorna i läroboken och extramaterialet under ["Innehåll och läslista"](../material/innehall_laslista_demokrati.md)
+1. Du jobbar först med [instuderingsfrågorna](instuderingsfragor_demokrati.md) inför salsprovet och läser de angivna sidorna i läroboken och extramaterialet under ["Innehåll och läslista"](../material/innehall_laslista_demokrati.md) samt läser noggrant igenom och funderar kring instruktionerna ovan.
 
-2. Du *bör* för denna uppgift använda dig av **ytterligare källor utöver Arena** och/eller åtminstone extra-material i denna wiki. För denna uppgift är det *obligatoriskt* med en  *källförteckning* (men ingen källkritisk analys). Vid direkta citat eller referat krävs också *källhänvisning* i text. 
+2. Du *bör* för denna uppgift använda dig av **ytterligare källor utöver Arena** och/eller åtminstone extra-material i denna wiki. För denna uppgift är det *obligatoriskt* med en *källförteckning* (men ingen källkritisk analys). Vid direkta citat eller referat krävs också *källhänvisning* i text. 
 
 3. Du genomför den huvudsakliga uppgiften på **minst 1 A4** och **max 2,5 A4** (teckenstorlek 12, vanligt radavstånd, standard sid-marginaler). 
 
