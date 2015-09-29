@@ -10,7 +10,7 @@
 
 #### Att göra i grupp:
 
-* Jämför era val av citat och dess motiveringar. Var skiljer ni er åt? Vad har ni gemensamt?
+* Jämför era val av citat och era motiveringar. Var skiljer ni er åt? Vad har ni gemensamt?
  
 * Fanns det vissa citat som ni tolkade olika? Hurdå?
 
