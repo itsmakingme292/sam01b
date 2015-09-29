@@ -26,8 +26,8 @@ Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart 
 * Mänskliga fri- och rättigheter
 * **Genomskinlighet**: Offentlighetsprincipens roll för den svenska demokratin. 
 * Utbildning och dess demokratiska värde. 
-* Att politiker utgår ifrån "folkviljan" – att de är lyhörda. Samt hur detta hänger ihop med den representativa demokratin.
 * **Politiskt deltagande** och demokratisk kultur. Vilket kan kopplas till de olika opinionsfriheterna och begreppet deltagardemokrati kontra begreppet elitdemokrati/valdemokrati.
+* Att politiker utgår ifrån "folkviljan" – att de är lyhörda. Samt hur detta hänger ihop med den representativa demokratin och politiskt deltagande.
 
 ## Att göra 
 
