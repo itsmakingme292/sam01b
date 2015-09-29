@@ -18,20 +18,6 @@
 
 ## Citat
 
-a) ”En demokrati kan inte existera utan bestämda regler. Frihet betyder inte att man får köra på fel sida av gatan.” (Indira Gandhi)
-
-b) ”Demokrati är ett ord som knorrar meningslöst i tomma magar.” (Ritchie Calder)
-
-c) ”Demokrati är världens sämsta statsskick – om man bortser från alla andra.” (Winston Churchill)
-
-d) ”I en demokrati är folket underkastat sin egen vilja och det är ett hårt slaveri.” (Anatole France)
-
-e) ”Demokrati - det enda samhällsskick som kan avskaffas på demokratisk väg.” (Gabriel Laub)
-
-f) ”Demokrati är en ovanligt svår styrelseform, eftersom regeringen ska styra ett folk som styr regeringen.” (Cole Setters)
-
-g) ”Demokrati betyder helt enkelt att folk klubbar ner folk för folkets skull.” (Oscar Wilde)
-
 a) ”Demokrati bygger på tre principer: Samvetet, yttrandefriheten och förståndet och att inte ställa krav på de två förstnämnda.” (Mark Twain)
 
 b) ”Demokrati ger oss möjlighet att välja ett flertal inkompetenta i stället för att bli utsatta för ett fåtal korrumperade.” (George Bernard Shaw)
@@ -69,5 +55,19 @@ q) ”Demokrati betyder styre genom diskussion, där den optimala effekten uppn�
 r) ”Demokrati uppstår när man eftersträvar alla medborgares frihet och jämlikhet och tar hänsyn till deras antal men inte till deras art.” (Aristoteles)
 
 s) ”Alla demokratins sjukdomar kan botas med mer demokrati.” (Alfred Emanuel Smith)
+
+t) ”En demokrati kan inte existera utan bestämda regler. Frihet betyder inte att man får köra på fel sida av gatan.” (Indira Gandhi)
+
+u) ”Demokrati är ett ord som knorrar meningslöst i tomma magar.” (Ritchie Calder)
+
+v) ”Demokrati är världens sämsta statsskick – om man bortser från alla andra.” (Winston Churchill)
+
+w) ”I en demokrati är folket underkastat sin egen vilja och det är ett hårt slaveri.” (Anatole France)
+
+x) ”Demokrati - det enda samhällsskick som kan avskaffas på demokratisk väg.” (Gabriel Laub)
+
+y) ”Demokrati är en ovanligt svår styrelseform, eftersom regeringen ska styra ett folk som styr regeringen.” (Cole Setters)
+
+z) ”Demokrati betyder helt enkelt att folk klubbar ner folk för folkets skull.” (Oscar Wilde)
 
 
