@@ -143,8 +143,8 @@ Datum:
 
 Seminarietillfällen:
 
-* Fyra lektioner
-* Två grupper per lektion
+* Fyra lektioner/tillfällen
+* Två grupper per lektion/tillfälle
 
 Tid och antal elever per grupp:
 
