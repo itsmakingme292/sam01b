@@ -10,7 +10,7 @@ Denna uppgift går ut på att ni självständigt förbereder er för ett seminar
 
 3. Under seminariet är diskussionen fri och driver idealt sig själv. Tanken är att det är ni som för samtalet och att jag modererar så lite som möjligt. Det är därför viktigt att ni i era förberedelser har en framtida fruktbar diskussion i åtanke och inte en monolog. Tänk också på att [diskussionsfrågorna](#Diskussionsfrågor) är ett underlag, samt att det inte är säkert att alla diskussionsfrågor du valt att fokusera på kommer att kunna ges samma utrymme.
 
-4. På följande sidor finner ni vägledning kring centrala delar, förslag på material, samt de diskussionsfrågor som seminariet kommer att utgå ifrån. Av dessa diskussionsfrågor får ni välja ett antal som ni i huvudsak vill fokusera på (förslagsvis runt hälften)
+4. Nedan finner ni vägledning kring centrala delar, förslag på material, samt de diskussionsfrågor som seminariet kommer att utgå ifrån. Av dessa diskussionsfrågor får ni välja ett antal som ni i huvudsak vill fokusera på (förslagsvis runt hälften)
 
 
 
