@@ -44,5 +44,5 @@ Ett urval av riksdagens studiematerial (58 sid, lättläst och kan till stor del
 
 Utöver ovanstående bör ni givetvis också använda er av era egna föreläsningsanteckningar. Under detta delmoment har vi också haft en lektion med powerpoint och här finner ni den: [Val till val, powerpoint, PDF](resurser/val_till_val_pp.pdf)
 
-**Info:** Jag för gärna en diskussion med er angående fördelarna och nackdelar med powerpoints och tavlan. Min grundinställning är att använda tavlan så mycket som möjligt och att powerpoints endast används i undantagsfall. Fördelen med powerpoints är att man lätt kan presentera mycket information och det i en given ordning – men detta är också nackdelen. Tavlan är mer flexibel och skapar lättare en bra "takt" i undervisningen. 
+**Kommentar:** Jag för gärna en diskussion med er angående fördelarna och nackdelar med powerpoints och tavlan. Min grundinställning är att använda tavlan så mycket som möjligt och att powerpoints endast används i undantagsfall. Fördelen med powerpoints är att man lätt kan presentera mycket information och det i en given ordning – men detta är också nackdelen. Tavlan är mer flexibel och skapar lättare en bra "takt" i undervisningen. 
 
