@@ -2,7 +2,7 @@
 
 ## Källhantering
 
-Grundläggande för källhantering är att man uppger vart man hämtar sin information ifrån, inte plagierar och att man är _källkritisk_. Källkritik kommer vi att gå igenom kort under introduktionen och även återkomma till längre fram (framförallt under momentet kritiskt tänkande). För varje inlämningsuppgift står det i instruktionerna vad som gäller, men fråga mig om ni känner er osäkra. Se även länkarna nedan för vidare läsning.
+Grundläggande för källhantering är att man uppger vart man hämtar sin information ifrån, inte plagierar och att man är _källkritisk_. Källkritik kommer vi att gå igenom under introduktionen och även återkomma till längre fram (framförallt under momentet kritiskt tänkande). För varje inlämningsuppgift står det i instruktionerna vad som gäller, men fråga mig om ni känner er osäkra. Se även länkarna nedan för vidare läsning.
 
 ## Plagiat
 
