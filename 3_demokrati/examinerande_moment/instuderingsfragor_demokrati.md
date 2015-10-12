@@ -47,11 +47,9 @@ Uppdelningen av dessa instuderingsfrågor följer till viss del ordningen i boke
 
 #### Kortare frågor:
 
-- Vad är en konstitution/grundlag/författning? Hur förhåller sig denna till övriga lagar? Varför är det viktigt att ha en sådan?
-
 - Vad krävs för att kunna ändra en grundlag i Sverige?
 
-- Vad är riksdagsordningen? Är denna en grundlag?
+- Vad är riksdagsordningen och är denna en grundlag? (obs  endast mycket kortfattat)
 
 - Vem är Sveriges statschef?
 
@@ -61,13 +59,17 @@ Uppdelningen av dessa instuderingsfrågor följer till viss del ordningen i boke
 
 - Beskriv mycket kort vad som står i Sveriges konstitution om monarkens politiska befogenheter. Beskriv lika kort om det finns något som inte står där men som ändå är praxis (normen, det som förväntas, gällande hur monarken bör agera)?
 
-- Vad innebär den svenska offentlighetsprincipen och varför är denna så viktig?
-
 #### Längre frågor:
 
-- Vilka är Sveriges 4 grundlagar och hur kan vi kortfattat beskriva deras respektive innehåll?
+- Vad är en grundlag och varför är grundlagar viktigt? 
+	- Vad fyller grundlagar för någon funktion i en demokrati så som Sverige? 
+	- Hur förhåller sig grundlagar till övriga lagar?
 
-- Vilka grundläggande fri- och rättigheter fastslås i RF?
+- Vilka är Sveriges 4 grundlagar och hur kan vi kortfattat beskriva deras respektive innehåll? 
+
+	- Vad innebär den svenska offentlighetsprincipen och varför är denna så viktig?
+	
+	- Vilka grundläggande fri- och rättigheter fastslås i RF?
 
 
 
