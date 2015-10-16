@@ -7,13 +7,13 @@ Huvudpoängen med denna uppgift är att ni ska resonera kring kopplingen mellan 
 1. **Vad är en god demokrati?** 
 2. **På vilka sätt är Sverige en sådan?** 
 
-_Mer konkret innebär detta att ni exempelvis utreder:_
+_Mer konkret innebär detta att ni utreder sådant som:_
 
 1. Vilken roll de grundläggande fri- och rättigheterna i Sveriges grundlagar spelar för vår demokrati. 
 2. Fördelar och nackdelar med representativ demokrati och hur en sådan fungerar på bästa sätt.
 3. Vilka kriterier eller krav för en god demokrati som Sverige uppfyller (eller inte uppfyller) och i vilken utsträckning. 
 
-Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart ni vill lägga tyngdpunkten.  Det sagt har ni ett begränsat antal sidor att skriva på, så börja först med att _planera_ vad ni tycker är viktigt att ta upp – gärna i diskussion med mig. Till er hjälp har ni nedan centrala delar och begrepp att utgå ifrån (och även [instuderingsfrågorna](instuderingsfragor_demokrati.md)).
+Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart ni vill lägga tyngdpunkten.  Det sagt har ni ett begränsat antal sidor att skriva på, så börja först med att _planera_ vad ni tycker är viktigt att ta upp – gärna i diskussion med mig. Till er hjälp har ni nedanstående centrala delar och begrepp att utgå ifrån (och även [instuderingsfrågorna](instuderingsfragor_demokrati.md)).
 
 ## Centrala delar & begrepp
 *Fetstilade delar och begrepp är möjligen extra viktiga, men inget är oviktigt. Försök själva avgöra vad ni anser måste vara med i er text...*
