@@ -29,6 +29,8 @@ Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart 
 * **Politiskt deltagande** och demokratisk kultur. Vilket kan kopplas till de olika opinionsfriheterna och begreppet deltagardemokrati kontra begreppet elitdemokrati/valdemokrati.
 * Att politiker utgår ifrån "folkviljan" – att de är lyhörda. Samt hur detta hänger ihop med den representativa demokratin och politiskt deltagande.
 
+**OBS:** Tänk på att att inte bara rada upp dessa aspekter en efter en, utan försök också att utreda hur de hänger ihop. 
+
 ## Att göra 
 
 1. Du jobbar först med [instuderingsfrågorna](instuderingsfragor_demokrati.md) inför salsprovet och läser de angivna sidorna i läroboken och extramaterialet under ["Innehåll och läslista"](../material/innehall_laslista_demokrati.md) samt läser noggrant igenom och funderar kring instruktionerna ovan.
