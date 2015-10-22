@@ -125,6 +125,12 @@ if(!jQuery)throw new Error("Bootstrap requires jQuery");+function(a){"use strict
     <link rel="stylesheet" type="text/css" href="x_meta/style.css">
 </head>
 <body>
+<!--Nedan är så att alla sidor alltid börjar högst upp, om inte länkat till en annan del-->
+<script>
+$(window).on('beforeunload', function(){
+  $(window).scrollTop(0);
+});
+</script>
     <noscript>
         This website requires Javascript to be enabled. Please turn on Javascript
         and reload the page.
