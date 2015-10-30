@@ -1,5 +1,7 @@
 # Grupparbete: Det goda samhället
 
+**OBS:** Eventuellt kör vi detta som ett seminarium istället för en inlämning. Men det beror på hur gott om tid vi har kvar av terminen (seminarier kräver mer lektionstid). Här vill jag helst även att vi ska ha en viss marginal mot slutet av läsåret. 
+
 ## Instruktioner
 
 * Ni skapar gruppvis en fiktiv diskussion mellan de olika ideologierna i en gemensam text. Denna behöver inte skrivas kronologiskt (i följd) men ni *får inte redigera varandras inlägg*. 
