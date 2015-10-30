@@ -16,16 +16,14 @@
 	* Seminarium 
 
 ## Delmoment – VT
+* Kritiskt tänkande
+	* Ingen examination (men likväl viktigt)
 * Ekonomi
 	* E-grundande salsprov (F eller OK)
 	* Långfråga salsprov eller kortare hemtenta
-* Kritiskt tänkande
-	* Ingen examination (men likväl viktigt)
 * Ideologier
-	* Grupparbete (som ni får kommentarer på)
+	* Grupparbete (som ni får kommentarer på) eller seminarium
 	* Individuell slutexamination (endast betyg)
-
-
 
 
 ## Alla delar hänger ihop

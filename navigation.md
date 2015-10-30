@@ -48,17 +48,6 @@
   - - - -
   * # Examinerande moment
   * [Seminarium](7_fn_mr/examinerande_moment/fn_mr_seminarium.md)
-  
-[Ekonomi]()
-
-  * # Material
-  * [Innehåll & Läslista](5_ekonomi/material/innehall_laslista_ekonomi.md)
-  - - - -
-  * # Övningar & Diskussionsunderlag
-  * [Strandsatt på en öde ö](5_ekonomi/ovningsuppgifter/ekonomi_ovning_ode_o.md)
-  - - - -
-  * # Examinerande moment
-  * [Instuderingsfrågor inför prov](5_ekonomi/examinerande_moment/instuderingsfragor_ekonomi.md)
 
 [Kritiskt tänkande]()
 
@@ -69,6 +58,17 @@
   * [Bloggar & "Gammelmedia"](2_kritiskt_tankande/ovningar/bloggar_gammelmedia.md)
   * [Ledare & Politisk färg](2_kritiskt_tankande/ovningar/ledare_politisk_farg.md)
   * [Varför kritiskt tänkande?](2_kritiskt_tankande/ovningar/ovning_kritiskt_tankande.md)
+
+[Ekonomi]()
+
+  * # Material
+  * [Innehåll & Läslista](5_ekonomi/material/innehall_laslista_ekonomi.md)
+  - - - -
+  * # Övningar & Diskussionsunderlag
+  * [Strandsatt på en öde ö](5_ekonomi/ovningsuppgifter/ekonomi_ovning_ode_o.md)
+  - - - -
+  * # Examinerande moment
+  * [Instuderingsfrågor inför prov](5_ekonomi/examinerande_moment/instuderingsfragor_ekonomi.md)
 
 [Ideologier]()
 
