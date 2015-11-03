@@ -21,7 +21,7 @@ Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart 
 * Skillnaden mellan **representativ demokrati** och direktdemokrati. Olika funktioner inom den representativa demokratin så som utskott och remissrunda. Samt poängen med partisystemet.
 * Tillförlitliga och regelbundna val. Allmän, lika och hemlig **rösträtt**, samt majoritetsprincipen.
 * **Grundlagarna** som en garant för demokratin. Vad de innehåller och vilken funktion de fyller. 
-* **Opinionsfriheter**, så som **yttrandefrihet**, demonstrationsfrihet och **pressfrihet** föreningsfrihet/organisationsfrihet 
+* **Opinionsfriheter**, så som **yttrandefrihet**, mötesfrihet,  demonstrationsfrihet, **pressfrihet** och  föreningsfrihet/organisationsfrihet. 
 * Rättssäkerhet och likhet inför lagen
 * Mänskliga fri- och rättigheter
 * **Genomskinlighet**: Offentlighetsprincipens roll för den svenska demokratin. 
