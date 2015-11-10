@@ -100,6 +100,8 @@ För ett högre omdöme gäller det att du i hög grad
 
 - [*skola.expo.se – de mänskliga rättigheterna*](http://skola.expo.se/de-manskliga-rattigheterna_158.html) "Expo Skola" är en sida som utvecklats av Expo, en organisation som verkar mot anti-demokratiska och rasistiska rörelser i samhället. Detta är deras pedagogiska material för mänskliga rättigheter.
 
+- [Forum för levande historia](http://www.levandehistoria.se/). En myndighet under Kulturdepartementet med mycket material. Deras uppdrag är att "främja arbete med demokrati, tolerans och alla människors lika värde" genom att belysa brott mot mänskligheten. Ta framförallt en titt på deras PDF med 11 saker som alla borde veta om mänskliga rättigheter [här](http://www.levandehistoria.se/sites/default/files/material_file/11-rattigheter-igar-idag-imorgon-fickfolder_0.pdf)
+
 - [*manskligarattigheter.gov.se*](http://www.manskligarattigheter.gov.se) Svenska regeringens egen sida om MR. Här kan man läsa mer om granskningen av Sverige och vilket arbete vi har framför oss.
 
 - [*amnesty.se*](http://www.amnesty.se) Svenska Amnestys information om MR. Se även [*skola.amnesty.se*](http://skola.amnesty.se) där du kan finna en hel del intressant utbildningsmaterial och frågor att fördjupa dig i.
@@ -110,11 +112,18 @@ För ett högre omdöme gäller det att du i hög grad
 
 - [*so-rummet.se*](http://so-rummet.se) Se exempelvis deras sida om [FN](http://so-rummet.se/fakta-artiklar/forenta-nationerna-fn) och [mänskliga rättigher](http://www.so-rummet.se/kategorier/samhallskunskap/manskliga-rattigheter)
 
+##### Extramaterial om flyktingkrisen
+
+* [Amnesty Skolas material "En värld i rörelse"](http://skola.amnesty.se/files/files/efv_flykting_vt15.pdf)
+* [Migrationsverket beskriver hur man tar emot flyktingar](http://www.migrationsverket.se/Om-Migrationsverket/Den-aktuella-flyktingsituationen/Sa-har-tar-Migrationsverket-emot-flyktingarna-just-nu.html)
+* [Kort film från p3 om Dublinförordningens problematik](https://www.youtube.com/watch?v=Rsiy5xWJdZk)
+* [DNs specialtidning om flyktingkrisen och allas lika värde](http://www.dn.se/nyheter/sverige/dn-slapper-specialtidning-for-larare-och-elever/)
+
 
 
 ## Diskussionsfrågor
 
-**OBS:** välj ut ett antal av dessa att fokusera lite extra på (förslagsvis runt hälften), men var förberedda på att kunna diskutera samtliga (om än inte lika utförligt).
+**OBS:** Välj ut ett antal av dessa att fokusera lite extra på (förslagsvis runt hälften), men var förberedda på att kunna diskutera samtliga (om än inte lika utförligt).
 
 1. Vilka tre artiklar av den allmänna förklaringen (deklarationen) av MR ser du som allra viktigast? Varför då? Jämför med andra artiklar – varför prioriterar du inte dessa lika högt?
 
@@ -124,14 +133,18 @@ För ett högre omdöme gäller det att du i hög grad
 
 4. Har alla människor i Sverige de rättigheter som beskrivs i FN:s allmänna förklaring? Finns det fall där Sverige (den svenska staten) har brutit mot deklarationen (eller en ratificerad konvention)? Ge något konkret exempel och motivera.
 
-5. Hur ser du på millenniemålen och den allmänna utvecklingen mot en bättre värld? Har målen varit realistiska? Tillräckliga? Hur har det gått? Efter 2015 är det dags för det internationella samfundet att enas om nya mål. Hur tycker du dessa borde se ut?
+5. Hur ser du på flyktingkrisen? Vad innebär det att asyl är en mänsklig rättighet? Vems är ansvaret? Finns det ett problem här? Vad spelar exempelvis Dublinförordningen för någon roll i detta? Hur tycker du det borde se ut? 
 
-6. Suveränitetsprincipen har ett historiskt mycket starkt stöd i folkrätten. När anser du att man bör bryta mot denna princip? Vart går gränsen? På vilket sätt kan säkerhetsrådets permanenta medlemmar och deras vetorätt innebära ett problem i relation till detta? Ge konkreta exempel (kan vara hypotetiska) och motivera.
+6. Suveränitetsprincipen har ett historiskt mycket starkt stöd i folkrätten. När (om alls) anser du att man bör bryta mot denna princip? Vart går gränsen? På vilket sätt kan säkerhetsrådets permanenta medlemmar och deras vetorätt innebära ett problem i relation till detta? Ge konkreta exempel (kan vara hypotetiska) och motivera. 
 
-7. Hur kan NGOs vara en viktig del av arbetet med mänskliga rättigheter? Varför behövs de? Borde de behövas? Ge konkreta exempel på vad olika NGOs gör. Fundera också kring varje människas eventuella solidariska ansvar, samt balansen och relationen mellan civilsamhället och staten.
+7. Hur kan NGOs vara en viktig del av arbetet med mänskliga rättigheter? Varför behövs de? Borde de behövas? Ge konkreta exempel på vad olika NGOs gör. Fundera också kring varje människas eventuella solidariska ansvar, samt balansen och relationen mellan civilsamhället och staten. Är vi moraliskt skyldiga att engagera oss mer? Vilket ansvar har vi som individer för människor på "andra sidan jordklotet"?
 
-8. Har alla människor ett lika värde? Detta är något vi mer eller mindre tar för givet. Men vad menar vi? Vad är själva innebörden och vilken blir effekten? På vilket sätt skulle du argumentera för vikten av detta tankesätt? Kan du se några några eventuella problem?
+<!--8. Vad innebär det att mänskliga rättigheter är universella? Är mänskliga rättigheter eviga? Hur tänker du? Vad är styrkan med ett sådant tankesätt? Vad kan vara problemet? Men också: har alla människor ett lika värde? Detta är något vi mer eller mindre tar för givet. Men vad menar vi? Vad är själva innebörden och vilken blir effekten? På vilket sätt skulle du argumentera för vikten av detta tankesätt?  -->
 
+
+ <!--ev. framtida frågor: 
+ - Få in diskussionfråga om hur mycket makt de tänker att FN har i realiteten. Möjligen under suveränitetsfrågan eller som en egen. Koppla till vad som händer när man bryter mot MR 
+ - Få in fråga om vapenhandel? Sverige hett här jue! - Få in fråga om trafficking?  -->
 
 
 ## Datum, tider och grupper
@@ -150,7 +163,6 @@ Tid och antal elever per grupp:
 
 * 4-5 elever per grupp
 * ca 40 minuter per grupp
-
 
 
 **LYCKA TILL!**
