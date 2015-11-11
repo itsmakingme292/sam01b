@@ -70,9 +70,7 @@ För ett högre omdöme gäller det att du i hög grad
 
 - Vad som är funktionen hos FN:s kommittéer och FN:s råd för mänskliga rättigheter
 
-- Millenniemålen och dess framtid
-
-- Exempel på relevanta NGOs (och deras arbete)
+- Exempel på relevanta NGOs och deras arbete
 
 
 
