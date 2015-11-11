@@ -21,12 +21,12 @@ Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart 
 * Skillnaden mellan **representativ demokrati** och direktdemokrati. Olika funktioner inom den representativa demokratin så som utskott och remissrunda. Samt poängen med partisystemet.
 * Tillförlitliga och regelbundna val. Allmän, lika och hemlig **rösträtt**, samt majoritetsprincipen.
 * **Grundlagarna** som en garant för demokratin. Vad de innehåller och vilken funktion de fyller. 
-* **Opinionsfriheter**, så som **yttrandefrihet**, mötesfrihet,  demonstrationsfrihet, **pressfrihet** och  föreningsfrihet/organisationsfrihet. 
+* Grundläggande fri- och rättigheter. <!--Ens ha med denna? Hette mänskliga rättigheter innan -->
+* **Opinionsfriheter**, så som **yttrandefrihet**, mötesfrihet,  demonstrationsfrihet, **pressfrihet** och  föreningsfrihet/organisationsfrihet.
 * Rättssäkerhet och likhet inför lagen
-* Mänskliga fri- och rättigheter
 * **Genomskinlighet**: Offentlighetsprincipens roll för den svenska demokratin. 
 * Utbildning och dess demokratiska värde. 
-* **Politiskt deltagande** och demokratisk kultur. Vilket kan kopplas till de olika opinionsfriheterna och begreppet deltagardemokrati kontra begreppet elitdemokrati/valdemokrati.
+* **Politiskt deltagande** och demokratisk kultur. Vilket exempelvis kan kopplas till de olika opinionsfriheterna och begreppet deltagardemokrati kontra begreppet elitdemokrati/valdemokrati.
 * Att politiker utgår ifrån "folkviljan" – att de är lyhörda. Samt hur detta hänger ihop med den representativa demokratin och politiskt deltagande.
 
 **OBS:** Tänk på att att inte bara rada upp dessa aspekter en efter en, utan försök också att utreda hur de hänger ihop. 
@@ -37,7 +37,7 @@ Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart 
 
 2. Du *bör* för denna uppgift använda dig av **ytterligare källor utöver Arena** och/eller åtminstone extra-material i denna wiki. För denna uppgift är det *obligatoriskt* med en *källförteckning* (men ingen källkritisk analys). Vid direkta citat eller referat krävs också *källhänvisning* i text. 
 
-3. Du genomför den huvudsakliga uppgiften på **minst 1 A4** och **max 2,5 A4** (exklusive källförteckning). Detta med teckenstorlek 12, vanligt radavstånd, standard sid-marginaler, osv. 
+3. Du genomför den huvudsakliga uppgiften på **minst 1 A4** och **max 3 A4** (exklusive källförteckning). Detta med teckenstorlek 12, vanligt radavstånd, standard sid-marginaler, osv. 
 
 4. Du sparar dokumentet som/i formatet ”**PDF**” och döper dokumentet efter formen ”**Klass, Efternamn, Förnamn, Samhällskunskap, Demokrati**”
 
