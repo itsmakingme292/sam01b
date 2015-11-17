@@ -42,10 +42,6 @@ För ett högre omdöme gäller det att du i hög grad
 
 - Suveränitetsprincipen
 
-- Krigsförbrytelse
-
-- Brott mot mänskligheten
-
 - Militär intervention
 
 - Fredsbevarande styrkor (skillnaden gentemot föregående)
@@ -54,6 +50,7 @@ För ett högre omdöme gäller det att du i hög grad
 
 - NGO och civilsamhället
 
+<!--Borttaget: - Krigsförbrytelse  - Brott mot mänskligheten -->
 
 
 ### Centrala dokument & institutioner att ha koll på
@@ -64,14 +61,13 @@ För ett högre omdöme gäller det att du i hög grad
 
 - FN:s allmänna deklaration/förklaring om de mänskliga rättigheterna och relevanta artiklar i denna.
 
-- FN:s nio kärnkonventioner – exempel på vilka dessa är och exempel på vad de innehåller.
-
-- Något exempel på andra konventioner inom folkrätten (ex. Genèvekonventionerna).
+- Något eller några exempel på FN:s kärnkonventioner och vad de kortfattat handlar om.
 
 - Vad som är funktionen hos FN:s kommittéer och FN:s råd för mänskliga rättigheter
 
 - Exempel på relevanta NGOs och deras arbete
 
+<!--Borttaget: - Något exempel på andra konventioner inom folkrätten (ex. Genèvekonventionerna). -->
 
 
 ## Material & Läsning
