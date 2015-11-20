@@ -18,7 +18,7 @@ Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart 
 ## Centrala delar & begrepp
 *Fetstilade delar och begrepp är möjligen extra viktiga, men inget är oviktigt. Försök själva avgöra vad ni anser måste vara med i er text...*
 
-* Skillnaden mellan **representativ demokrati** och direktdemokrati. Olika funktioner inom den representativa demokratin så som utskott och remissrunda. Samt poängen med partisystemet.
+* Skillnaden mellan **representativ demokrati** och direktdemokrati. Olika funktioner inom den representativa demokratin, exempelvis remissrunda, eller sådant som poängen med partisystemet.
 * Tillförlitliga och regelbundna val. Allmän, lika och hemlig **rösträtt**, samt majoritetsprincipen.
 * **Grundlagarna** som en garant för demokratin. Vad de innehåller och vilken funktion de fyller. 
 * Grundläggande fri- och rättigheter. <!--Ens ha med denna? Hette mänskliga rättigheter innan -->

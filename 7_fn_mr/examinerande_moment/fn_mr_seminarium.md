@@ -13,7 +13,6 @@ Denna uppgift går ut på att ni självständigt förbereder er för ett seminar
 4. Nedan finner ni vägledning kring centrala delar, förslag på material, samt de diskussionsfrågor som seminariet kommer att utgå ifrån. Av dessa diskussionsfrågor får ni välja ett antal som ni i huvudsak vill fokusera på (förslagsvis runt hälften)
 
 
-
 För ett högre omdöme gäller det att du i hög grad
 
 1. Uttrycker dina kunskaper i ämnet med säkerhet och i detta redovisar relevanta delar på ett utförligt och nyanserat sätt.
@@ -84,7 +83,7 @@ För ett högre omdöme gäller det att du i hög grad
 
 [Allmän förklaring om de mänskliga rättigheterna](../material/resurser/allmanforklaringomdemanskligarattigheterna.pdf)
 
-**OBS:** Detta kompendium utgör en obligatorisk del! (och glöm inte ta med det till seminariet)
+**OBS:** Detta kompendium utgör obligatorisk läsning! (och glöm inte ta med det till seminariet)
 
 
 
