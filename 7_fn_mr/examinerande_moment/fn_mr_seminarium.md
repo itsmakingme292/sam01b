@@ -105,6 +105,9 @@ För ett högre omdöme gäller det att du i hög grad
 
 - [*so-rummet.se*](http://so-rummet.se) Se exempelvis deras sida om [FN](http://so-rummet.se/fakta-artiklar/forenta-nationerna-fn) och [mänskliga rättigher](http://www.so-rummet.se/kategorier/samhallskunskap/manskliga-rattigheter)
 
+<!--Sveriges regerings information om sanktioner http://www.regeringen.se/regeringens-politik/utrikes--och-sakerhetspolitik/sanktioner/ -->
+
+
 ##### Extramaterial om flyktingkrisen
 
 * [Amnesty Skolas material "En värld i rörelse"](http://skola.amnesty.se/files/files/efv_flykting_vt15.pdf)
