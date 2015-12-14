@@ -113,6 +113,8 @@ För ett högre omdöme gäller det att du i hög grad
 * [Amnesty Skolas material "En värld i rörelse"](http://skola.amnesty.se/files/files/efv_flykting_vt15.pdf)
 * [Migrationsverket beskriver hur man tar emot flyktingar](http://www.migrationsverket.se/Om-Migrationsverket/Den-aktuella-flyktingsituationen/Sa-har-tar-Migrationsverket-emot-flyktingarna-just-nu.html)
 * [Kort film från p3 om Dublinförordningens problematik](https://www.youtube.com/watch?v=Rsiy5xWJdZk)
+* [5-minute history of Syria's war and the rise of ISIS](http://www.vox.com/2015/11/14/9735102/syria-isis-history-video)
+* [Hans Rosling förklarar på 3 minuter varför flyktingar inte flyger istället för att ta den farliga vägen i båt över medelhavet](https://www.youtube.com/watch?v=YO0IRsfrPQ4&list=PLSrgd_ElrrXcMZ1Nt8hTC2tj1psJ4-K5O&index=3)
 * [DNs specialtidning om flyktingkrisen och allas lika värde](http://www.dn.se/nyheter/sverige/dn-slapper-specialtidning-for-larare-och-elever/)
 
 
