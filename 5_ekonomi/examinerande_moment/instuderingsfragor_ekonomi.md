@@ -63,8 +63,7 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 
 
 ## Konsumenträtt
-
-*Se kompendiet [(”Konsumenträtt”)](../material/resurser/konsumentratt_kompendium.pdf)*
+**Viktig info:** För denna del kommer vi ej ha genomgångar utan ni läser själva kompendiet *[”Konsumenträtt”](../material/resurser/konsumentratt_kompendium.pdf)*. Nedanstående frågor går också snabbare att svara på än frågorna under samhällsekonomi.
 
 - Vad innebär det att reklamera en vara?
     - Vad är det man rent konkret gör och vart är det man i första hand vänder sig?

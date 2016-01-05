@@ -21,4 +21,5 @@ Fokus under detta delmoment kommer att ligga på *samhälls*ekonomi. *Privat*eko
 
 ## Läslista
 
-[Se instuderingsfrågorna](../examinerande_moment/instuderingsfragor_ekonomi.md)
+* Kapitel 8 & 9 i läroboken
+* [Kompendium om konsumenträtt](../material/resurser/konsumentratt_kompendium.pdf)

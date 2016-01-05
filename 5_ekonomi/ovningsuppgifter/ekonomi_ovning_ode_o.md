@@ -26,7 +26,7 @@ Tänk er följande scenario: Påväg till en semesterort störtar ert plan på e
 	* Fördelning?
 		* Utifrån behov?
 	* Produktivitet?
-		* Hur ser ni till att användningen av resurserna skapar maximal nytta?
+		* Hur ser ni till att användningen av resurserna skapar maximal nytta? Hur skapar ni effektivitet i produktionen?
 
 **Tips:** Alla dessa punkter hänger samman. Försök att utreda kopplingen mellan dem när ni genomför denna övningsuppgift.
 
