@@ -11,6 +11,8 @@
   * # Viktig information
   * [Bedömning & Betyg](1_intro/bedomning.md)
   * [Källor & Plagiat](1_intro/kallhantering.md)
+  - - - -
+  * [Kursutvärdering](kursutvardering.md)
   
 [Norm & Makt]()
 
@@ -53,6 +55,7 @@
 
   * # Material
   * [Innehåll & Läslista](2_kritiskt_tankande/material/innehall_laslista_kritiskt_tankande.md)
+  * [Argumentation](2_kritiskt_tankande/material/argumentation.md)
   - - - -
   * # Övningar & Diskussionsunderlag
   * [Bloggar & "Gammelmedia"](2_kritiskt_tankande/ovningar/bloggar_gammelmedia.md)
@@ -84,6 +87,6 @@
   
   - - - -
   * # Examinerande moment
-  * [Grupparbete](6_ideologier/examinerande_moment/ideologier_grupparbete.md)
+  * [Grupparbete & Seminarium](6_ideologier/examinerande_moment/ideologier_grupparbete_sem.md)
   * [Individuell slutexamination](6_ideologier/examinerande_moment/ideologier_individuell_slutex.md)
   
