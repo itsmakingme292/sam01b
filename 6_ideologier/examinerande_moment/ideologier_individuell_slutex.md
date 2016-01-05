@@ -27,8 +27,6 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 - Vilken ideologi ger de bästa förslagen på förändringar?
 
 
-
-
 ### Observera att:
 
 - Hur du väljer att lägga upp din text är upp till dig. Du behöver inte skriva i exakt den ordning som frågorna ovan följer – men du måste ha någon form av struktur. Kanske väljer du att baka samman jämförelserna med själva redovisningen av respektive ideologi, kanske väljer du att spränga in era egna argument under dessa delar och inte bara i i avslutande slutsats, osv. Om du är osäker, diskutera ev. upplägg med mig. 
@@ -37,21 +35,20 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 - Har du svårt att *ta ställning,* måste du likväl kunna *resonera* kring detta. Vilka aspekter av en viss ideologi ger den fördelar gentemot en viss annan? Varför anser du att det står och väger mellan dem? Osv.
 
-- Socialismen har i boken flertalet grenar och förgreningar. Du *behöver* *inte* skriva om leninism och stalinism eller anarkism och syndikalism (men du får om du vill). Obligatoriskt för socialismen är socialdemokrati/reformistisk socialism och kommunism/marxism. Obligatoriskt för liberalismen är nyliberalism/libertarianism och social-liberalism. 
+- Socialismen har i boken flertalet grenar och förgreningar. Du *behöver* *inte* skriva om leninism och stalinism eller anarkism och syndikalism (men du får om du vill). _Obligatoriskt_ för socialismen är **reformistisk socialism** (socialdemokrati) och **revolutionär socialism** (kommunism/marxism). _Obligatoriskt_ för liberalismen är **nyliberalism** (libertarianism) och **social-liberalism**. 
 
-OBS: Utelämnar man dessa förgreningar har man ej möjlighet till ett högre betyg.
+**OBS:** Utelämnar man liberalismen och socialismens  förgreningar har man ej möjlighet till ett högre betyg (men man får inte nödvändigtvis F). 
 
-- Tänk kvalité och inte kvantitet när du skriver. "Pladdra" inte bara på, utan tänk först noggrant efter kring de ideologier du valt att skriva om. Läs på och anteckna innan du börjar skriva din text.
+- Tänk kvalité och inte kvantitet när du skriver. Skriv inte bara på, utan tänk först noggrant efter kring de ideologier du valt att skriva om. Läs på och anteckna innan du börjar skriva din text.
 
 - Man kan absolut lyfta in andra ideologier än de tre man har sitt fokus på. Var dock tydlig med vilka ideologier som är ditt fokus och tänk på att du har ett begränsat utrymme att genomföra uppgiften på.
 
 
-
 ### Att göra: 
 
-1. Du läser och reflekterar kring sidorna **133–154 i läroboken.**
+1. Du läser och reflekterar kring sidorna **133–154 i läroboken.** 
 
-2. Du *bör* för denna uppgift använda dig av **ytterligare källor utöver Arena** och/eller åtminstone extra-material i denna wiki. För denna uppgift är det också *obligatoriskt* med en  *källförteckning* **och** en **källkritisk analys** av *samtliga* använda källor (inkl. Arena). Vid direkta citat eller referat krävs också *källhänvisning* i text. 
+2. Du *bör* för denna uppgift använda dig av **ytterligare källor utöver Arena** och/eller åtminstone extra-material i denna wiki (se ["Det goda samhället"](../material/om_ideologierna.md)). För denna uppgift är det också *obligatoriskt* med en  *källförteckning* **och** en **källkritisk analys** av *samtliga* använda källor (inkl. Arena). Vid direkta citat eller referat krävs också *källhänvisning* i text. 
 
 3. Du genomför den huvudsakliga uppgiften på **minst 1 A4** och **max 3,5 A4** (teckenstorlek 12, vanligt radavstånd, standard sid-marginaler). För den källkritiska analysen skriver du **minst 0,5 A4** och **max 1 A4** i slutet av din text. Totalt blir sidantalet alltså **max 4,5 sidor**.
 

@@ -7,7 +7,7 @@
 * Ni skapar gruppvis en fiktiv diskussion mellan de olika ideologierna i en gemensam text. Denna behöver inte skrivas kronologiskt (i följd) men ni *får inte redigera varandras inlägg*. 
 * Gruppen består av 5-7 elever och ni representerar var för sig *en* ideologi (eller förgrening) i er fiktiva diskussion. 
 * Ni fördelar själva ideologierna mellan er, men tänk på att det inte nödvändigtvis är roligast att "spela" sin egen favoritideologi.
-* Obligatoriska ideologier/roller inom grupperna är nyliberalism, socialliberalism, reformistisk socialism och kommunism. Utöver detta kan ni välja mellan ideologierna konservatism, ekologism, feminism eller anarkism/syndikalism.
+* Obligatoriska ideologier/roller inom grupperna är nyliberalism, socialliberalism, reformistisk socialism, kommunism och konservatism. Utöver detta kan ni välja mellan ideologierna ekologism, feminism eller anarkism/syndikalism.
 * Tanken är att ni ska vara experter på era egna ideologier, men för att kunna föra ett samtal måste ni förstå de andra ideologierna och veta hur dessa står i relation till er egen (likheter / olikheter / svaga punkter osv).
 
 **Tips:** Försök för denna uppgift inte bara tänka kring vad vi gått igenom under detta moment, utan också vad ni lärt er under tidigare moment...
