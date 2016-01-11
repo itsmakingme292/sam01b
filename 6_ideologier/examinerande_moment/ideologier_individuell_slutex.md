@@ -37,7 +37,7 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 - Socialismen har i boken flertalet grenar och förgreningar. Du *behöver* *inte* skriva om leninism och stalinism eller anarkism och syndikalism (men du får om du vill). _Obligatoriskt_ för socialismen är **reformistisk socialism** (socialdemokrati) och **revolutionär socialism** (kommunism/marxism). _Obligatoriskt_ för liberalismen är **nyliberalism** (libertarianism) och **social-liberalism**. 
 
-**OBS:** Utelämnar man liberalismen och socialismens  förgreningar har man ej möjlighet till ett högre betyg (men man får inte nödvändigtvis F). 
+**OBS:** Utelämnar man liberalismen och socialismens  förgreningar har man ej möjlighet till ett högre betyg. 
 
 - Tänk kvalité och inte kvantitet när du skriver. Skriv inte bara på, utan tänk först noggrant efter kring de ideologier du valt att skriva om. Läs på och anteckna innan du börjar skriva din text.
 
