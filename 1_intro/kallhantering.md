@@ -21,6 +21,6 @@ Ofta handlar plagiat om svårare gränsfall än ovanstående. Ingen kan uppnå 1
 ## Länkar för vidare läsning
 
 * [Urkunds Plagiathandbok](http://www.hb.se/PageFiles/132916/Urkunds_plagiathandbok.pdf) – Förutom en bra genomgång av vad ett plagiat är, finns här även instruktioner för hur man refererar i text m.m.
-* ["Kolla källan"](http://www.skolverket.se/skolutveckling/resurser-for-larande/kollakallan)  – Detta skolverkets portal för material om källhantering.
+* För länkar med tips och material för källkritiskt tänkande, [se denna sida under kritiskt tänkande](../2_kritiskt_tankande/material/kallkritik.md) 
 
 <!--* [Citatteknik](http://svenska123.se/index.php?option=com_content&view=article&id=97:citatteknik&catid=40:referat-och-sammanstaellning&Itemid=116) * [Att skriva referat](http://svenska123.se/index.php?option=com_content&view=article&id=91:1-att-skriva-referat&catid=40:referat-och-sammanstaellning&Itemid=113) -->

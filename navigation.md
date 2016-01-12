@@ -56,6 +56,7 @@
   * # Material
   * [Innehåll & Läslista](2_kritiskt_tankande/material/innehall_laslista_kritiskt_tankande.md)
   * [Argumentation](2_kritiskt_tankande/material/argumentation.md)
+  * [Länklista: Källkritik](2_kritiskt_tankande/material/kallkritik.md)
   - - - -
   * # Övningar & Diskussionsunderlag
   * [Bloggar & "Gammelmedia"](2_kritiskt_tankande/ovningar/bloggar_gammelmedia.md)
