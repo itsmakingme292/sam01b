@@ -2,7 +2,7 @@
 
 ## Att göra
 
-1. Läs [Bo Rothsteins debattartikel](http://www.gp.se/kulturnoje/1.137979-starka-reaktioner-i-bloggvarlden) och [Sofia Mirjamsdotter blogginlägg](http://bloggar.aftonbladet.se/1/?s=Den+%28sken%29+demokratiska+bloggosfären). Vilken tes driver de? Vilka är deras argument? Håller dessa? Anteckna din iakttagelser, egna funderingar och åsikter.
+1. Läs [Bo Rothsteins debattartikel](http://www.gp.se/kulturnoje/1.137979-starka-reaktioner-i-bloggvarlden) och [Sofia Mirjamsdotter blogginlägg](http://bloggar.aftonbladet.se/1/?s=Den+%28sken%29+demokratiska+bloggosfären). Vilken tes driver de? Vilka är deras argument? Håller dessa? Anteckna dina iakttagelser, egna funderingar och åsikter.
 
 2. Fundera på egen hand över nedanstående diskussionsfrågor, försök koppla dessa till din läsning av texterna, men utgå också ifrån dina egna upplevelser. Anteckna dina tankar och förbered dig för diskussion.
 
