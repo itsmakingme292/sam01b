@@ -9,13 +9,15 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 
 ## Samhällsekonomi
 
+**OBS:** Försök också tänka på kopplingar _mellan_ frågorna. Pricka inte bara av dem en och en utan försök se helheten. 
+
 *Se kapitel 8 & 9 i läroboken*
 
 - Vilka är de fem grundläggande ekonomiska systemen och på vilket sätt skiljer sig dessa åt? (se sid 167-168)
 
 - Vad är marknadskrafterna och vad krävs för att dessa ska fungera på bästa sätt? (se sid 169-171)
     - Vad innebär en "perfekt marknad"?
-    - På vilka sätt kan sambandet mellan efterfrågan och utbud se ut (i fråga om kvantitet och pris)?
+    - Ge exempel på hur sambandet mellan efterfrågan och utbud kan se ut (i fråga om kvantitet och pris).
     - Vad händer vid jämviktspris och hur ofta tror du detta sker i verkligheten?
 
 - Vad innebär monopol, oligopol och kartellbildning? (se sid 174-176)
@@ -29,13 +31,14 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
     - Vilka alternativa välfärdsmått finns det? Vad mäter dessa kortfattat?
 
 - Vilka är de tre huvudsakliga produktionsfaktorerna och vad innebär dessa? (se sid 187)
-    - Vad innebär det att en produktion kan vara arbetskraftsintensiv eller kapitalintensiv?
+    - Vad innebär det att en produktion kan vara arbetskraftsintensiv eller kapitalintensiv? Ge exempel.
+    - Vad innebär produktivitet? 
 
 - Beskriv vad som utgör goda förutsättningar för tillväxt (se sid 186-188)
     - Vilka "recept" för tillväxt anger boken?
     - Hur kan man argumentera för dessa?
+    - Finns det någon punkt du själv skulle vilja lägga till?
     - På vilket sätt hänger dessa samman med produktionsfaktorerna?
-    - Finns det något som du skulle vilja lägga till?
 
 - Vad är inflation? (se sid 193-196)
     - Vad orsakar inflation?
@@ -52,14 +55,14 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
     - Beskriv hur lågkonjunkturens nedåtgående spiral kan se ut (vad som händer)
     - Beskriv hur högkonjunkturens uppåtgående spiral kan se ut (vad som händer)
 
-- Vad kan staten göra för att minska konjunktursvängningar? (se sid 208-211)
+- Vad kan staten göra för att minska konjunktursvängningar och skapa stabil tillväxt? (se sid 208-211)
     - Vad är ekonomisk politik och vad är denna politiks huvudmål?
     - Vad är finanspolitik, vad styr denna och på vilka sätt kan en aktiv finanspolitik lindra konjunktursvängningar?
     - Vad är penningpolitik och vilket är penningpolitikens främsta redskap?
 
 - Vilka argument kan man framföra för och emot statligt ägande? (se sid 168)
     - Finns det några typer av verksamheter som är mindre lämpade för en konkurrensutsatt marknad? Varför då? Vad tänker du själv?
-    
+
 
 
 ## Konsumenträtt
