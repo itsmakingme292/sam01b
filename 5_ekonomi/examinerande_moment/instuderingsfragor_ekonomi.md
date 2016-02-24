@@ -35,7 +35,7 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
     - Vad innebär produktivitet? 
 
 - Beskriv vad som utgör goda förutsättningar för tillväxt (se sid 186-188)
-    - Vilka "recept" för tillväxt anger boken?
+    - Vilka "recept" för tillväxt anger boken? 
     - Hur kan man argumentera för dessa?
     - Finns det någon punkt du själv skulle vilja lägga till?
     - På vilket sätt hänger dessa samman med produktionsfaktorerna?
@@ -55,9 +55,9 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
     - Beskriv hur lågkonjunkturens nedåtgående spiral kan se ut (vad som händer)
     - Beskriv hur högkonjunkturens uppåtgående spiral kan se ut (vad som händer)
 
-- Vad kan staten göra för att minska konjunktursvängningar och skapa stabil tillväxt? (se sid 208-211)
+- Vad kan staten göra för att minska konjunktursvängningar? (se sid 208-211)
     - Vad är ekonomisk politik och vad är denna politiks huvudmål?
-    - Vad är finanspolitik, vad styr denna och på vilka sätt kan en aktiv finanspolitik lindra konjunktursvängningar?
+    - Vad är finanspolitik, vad är det denna styr och vad är en vanlig grundläggande finanspolitisk princip för att lindra konjunktursvängningar?
     - Vad är penningpolitik och vilket är penningpolitikens främsta redskap?
 
 - Vilka argument kan man framföra för och emot statligt ägande? (se sid 168)
