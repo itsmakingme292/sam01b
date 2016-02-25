@@ -9,7 +9,7 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 
 ## Samhällsekonomi
 
-**OBS:** Försök också tänka på kopplingar _mellan_ frågorna. Pricka inte bara av dem en och en utan försök se helheten. 
+**OBS:** Försök också tänka på kopplingar _mellan_ frågorna. Pricka inte bara av dem en och en utan försök se helheten. Vissa frågor går också snabbare att svara på än andra. Om ni känner er osäkra på vilka som är vilka, fråga. 
 
 *Se kapitel 8 & 9 i läroboken*
 
@@ -17,7 +17,7 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 
 - Vad är marknadskrafterna och vad krävs för att dessa ska fungera på bästa sätt? (se sid 169-171)
     - Vad innebär en "perfekt marknad"?
-    - Ge exempel på hur sambandet mellan efterfrågan och utbud kan se ut (i fråga om kvantitet och pris).
+    - Hur ser sambandet mellan efterfrågan och utbud ut (i fråga om kvantitet och pris). Ge konkreta exempel.
     - Vad händer vid jämviktspris och hur ofta tror du detta sker i verkligheten?
 
 - Vad innebär monopol, oligopol och kartellbildning? (se sid 174-176)
