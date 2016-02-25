@@ -25,8 +25,8 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
     - Vad innebär detta för konsumenten?
 
 - Vad är BNP och BNI? (se sid 180-184)
-    - Vad innebär det att mäta ovanstående per capita?
-    - Vad innebär det att räkna ovanstående per capita och med PPP?
+    - Vad innebär det kortfattat att mäta ovanstående per capita?
+    - Vad innebär det kortfattat att räkna ovanstående per capita och med PPP?
     - Vad gör BNP/BNI problematiskt som välfärdsmått?
     - Vilka alternativa välfärdsmått finns det? Vad mäter dessa kortfattat?
 
@@ -44,7 +44,8 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
     - Vad orsakar inflation?
     - Vad är motsatsen till inflation?
     - Vilka är inflationens huvudsakliga skadeverkningar?
-    - Vad är KPI och hur fungerar detta?
+
+<!--Borttagen fråga:    - Vad är KPI och hur fungerar detta? -->
 
 - Försök med egna ord beskriva det "ekonomiska kretsloppet" (se sid 201, mfl)
     - Vilken roll fyller kreditinstitutioner, företag, hushåll och offentlig sektor?
@@ -60,8 +61,7 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
     - Vad är finanspolitik, vad är det denna styr och vad är en vanlig grundläggande finanspolitisk princip för att lindra konjunktursvängningar?
     - Vad är penningpolitik och vilket är penningpolitikens främsta redskap?
 
-- Vilka argument kan man framföra för och emot statligt ägande? (se sid 168)
-    - Finns det några typer av verksamheter som är mindre lämpade för en konkurrensutsatt marknad? Varför då? Vad tänker du själv?
+<!--- Borttagen fråga: Vilka argument kan man framföra för och emot statligt ägande? (se sid 168)     - Finns det några typer av verksamheter som är mindre lämpade för en konkurrensutsatt marknad? Varför då? Vad tänker du själv? -->
 
 
 
@@ -98,6 +98,6 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 
   - På vilket sätt kan en betalningsanmärkning vara problematiskt för individen?
 
-- Vid vilken ålder får man enligt lag sluta ett avtal och vad innebär en bindningstid?
+- Vid vilken ålder får man enligt lag sluta ett avtal och vad innebär en bindningstid? 
 
--->
+- -->
