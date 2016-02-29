@@ -11,17 +11,13 @@ Om inget annat anges är det alltid jag (Fredrik Ståhl) som står bakom innehå
 
 **Tips:** Tanken är att ni inte ska behöva skriva ut från denna sida, men om ni absolut vill göra det tänk då på att skriva ut 2 sidor per ark (utskrifts-stilen är anpassad för detta).
 
-
-
 ## Anteckningsfunktion
 
 Denna wiki innehåller markering- och anteckningsverktyget hypothesis. För att era markeringar ska sparas måste ni först skapa ett konto. Detta gör ni genom att trycka på pilen högst upp i högra hörnet. När ni sedan markerar text dyker det automatiskt upp två ikoner, välj pennan om ni vill spara en markering, välj pratbubblan om ni vill spara en markering _och_ göra en anteckning. 
 
-Vanliga markeringar är automatiskt privata (bara ni kan se dem), men markeringar med tillhörande anteckningar är som standard publika (alla kan se dem). För att göra en anteckning privat klicka på "Public" och välj "Only me". Publika anteckningar kan även andra användare kommentera på.
+Vanliga markeringar är automatiskt privata (bara ni kan se dem), men markeringar med tillhörande anteckningar är som standard publika (alla kan se dem). För att spara och göra en anteckning privat klicka på pilen vid "Post to Public" och välj "Only me". Publika anteckningar kan även andra användare kommentera på. 
 
-**OBS:** Detta verktyg fungerar i dagsläget dessvärre inte på läsplattor och smartphones och är därför avstängt för dessa. För de klasser som använder iPads rekommenderar jag nya split-screen-visningen (i iOS 9) med valfri anteckningsapp eller ett gammalt hederligt analogt anteckningsblock.  
-
-
+**OBS:** Detta verktyg fungerar i dagsläget dessvärre inte på läsplattor och smartphones och är därför avstängt för dessa. 
 
 ## Kontakt & frågor
 
@@ -35,10 +31,8 @@ Det är i första hand på denna sida ni finner information om delmomenten, mate
 
 För mer information om bedömning och betyg [klicka här](1_intro/bedomning.md).
 
-
-
 ## Uppdateringar
 
-Här nedan listas alltid de fem senaste uppdateringarna. Om man klickar på dem tas man till Github ("servern" för denna sida) där man kan se exakt vad som ändrats. 
+Här nedan listas alltid de fem senaste uppdateringarna. Om man klickar på dem tas man till Github ("servern" för denna sida) där man kan se exakt vad som ändrats.
 
 **OBS:** Använd inte nedanstående länkar för läsning. Github visar endast själva _ändringarna_ och skär bort text däremellan (därtill är texten på Github inte lika läsbar som här). Läs alltså alltid på denna sida och använd länkarna nedan endast om ni är nyfikna.
