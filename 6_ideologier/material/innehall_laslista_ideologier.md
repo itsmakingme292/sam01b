@@ -22,7 +22,8 @@ Fokus under detta delmoment kommer att ligga på de tre klassiska ideologierna: 
 ## Läslista
 
 * Arena, sid. 133–154
-* [Det goda samhället](om_ideologierna.md) 
+* [Det goda samhället](om_ideologierna.md) (bra grund för att förstå de tre stora ideologierna och dess förgreningar)
 
+**OBS:** För detta delmoment är det mycket viktigt att inte allt för mycket förlita sig på läroboken. Kapitlet om ideologier i Arena har en del brister. Läs texten om det goda samhället här på wikin, kolla föreläsningsanteckningar och sök själv andra källor och _jämför_. Vid osäkerheter, fråga mig! 
 
 

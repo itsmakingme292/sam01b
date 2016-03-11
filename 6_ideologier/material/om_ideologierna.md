@@ -78,8 +78,8 @@ Positiva rättigheter handlar om _rätten till_ något. Dessa kräver en aktiv h
 #### Socialismen
 
 * Större fokus på positiva rättigheter
-	* Hur lika vi än är inför lagen, räcker inte detta för att göra ett samhälle jämlikt. Vissa ges "sämre kort" från första början och har därför inte samma förutsättningar.
-	* Vi måste aktivt korrigera social ojämlikhet politiskt genom positiva rättigheter. 
+	* Hur lika vi än är inför lagen, räcker inte detta för att göra ett samhälle jämlikt. Vissa ges "sämre kort" från första början (såväl socialt som biologiskt) och har därför inte samma förutsättningar.
+	* Politiskt måste vi därför aktivt korrigera ojämlikhet  genom positiva rättigheter i stor utsträckning. 
 
 <!--Kanske ska jag ha en del om ekonomi istället för det jag har ovan? -->
 
@@ -91,6 +91,7 @@ Positiva rättigheter handlar om _rätten till_ något. Dessa kräver en aktiv h
 * Individens rättigheter får aldrig gå före bevarandet av de värden som samhället byggt upp
 	* Medborgaren har en skyldighet att rätta sig efter kollektiva värderingar och delta i värnandet av kulturen och dess normer.
 	* Samhället är en "känslig organism" där alla spelar olika roller (funktionalism). Jämlikhet är i denna mening ett något främmande begrepp för konservatismen. Vi _är_ olika och bör därför _behandlas_ olika. 
+	* I den mån förändringar av normer och värden ska ske, bör detta ske långsamt. 
  
 <!--Vill bevara kultur/normer genom skydd i lag Modernt konservativt exempel: äktenskapet endast för heterosexuella Ibland, eller på ett sätt: Det som är informellt (traditionen) görs formellt (till en del av staten) Rättvisa för individen är därför egentligen underordnat vad som är bäst för samhället i stort Funktionalism Ex. kön Jämlikhet för konservatismen ett något främmande begrepp Vi ÄR olika och ska därför behandlas OLIKA -->
 
@@ -137,7 +138,7 @@ En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideolo
 
 #### Socialismen:
 1. Människan har stor potential att bli den hon vill.
-	* Människan är i grunden god, handlingskraftig och kreativ, men hon hämmas och korrumperas i ett kapitalistisk samhälle.
+	* Människan är i grunden god, handlingskraftig och kreativ, _men_ hon hämmas och korrumperas i ett kapitalistisk samhälle.
 2. Människans potential realiseras genom kollektivets styrka och avskaffandet av samhällsklasser (kapitalism).
 	* Vi behöver varandra för vårt självförverkligande.
 
@@ -148,6 +149,9 @@ En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideolo
 	* En stark tradition, kultur och stadiga institutioner.
 
 <!--dessa = delvis naturliga (kvinna/man som exempel) Iaf inget man bör förändra -->
+
+<!--Kommentar från Tobias: Människan kan vara både god och ond inom en konservatism. Men hmm.. Detta blir ju lite förvirande. Människan är ändå i grund och botten svag... -->
+
 
 
 ## Statens uppgift
