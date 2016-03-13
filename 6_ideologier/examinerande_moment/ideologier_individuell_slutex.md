@@ -37,7 +37,7 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 - Socialismen har i boken flertalet grenar och förgreningar. Du *behöver* *inte* skriva om leninism och stalinism eller anarkism och syndikalism (men du får om du vill). _Obligatoriskt_ för socialismen är **reformistisk socialism** (socialdemokrati) och **revolutionär socialism** (kommunism/marxism). _Obligatoriskt_ för liberalismen är **nyliberalism** (libertarianism) och **social-liberalism**. 
 
-**OBS:** Utelämnar man liberalismen och socialismens  förgreningar har man ej möjlighet till ett högre betyg. 
+**OBS:** Utelämnar man liberalismen och socialismens förgreningar har man ej möjlighet till ett högre betyg. 
 
 - Tänk kvalité och inte kvantitet när du skriver. Skriv inte bara på, utan tänk först noggrant efter kring de ideologier du valt att skriva om. Läs på och anteckna innan du börjar skriva din text.
 
@@ -64,25 +64,28 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 #### Kriterier för betyget E
 
-- Eleven **redogör översiktligt** för **ideologiernas** **innehåll**.
+- Eleven **redogör översiktligt** för **ideologiernas** teoretiska **innehåll**.
 
 - Eleven visar **viss** **förståelse** för de **övergripande** **skillnaderna** mellan de olika ideologierna.
 
 - Eleven drar **enkla slutsatser** och ger **enkla argument** för och emot ideologierna och för sin egen ståndpunkt.
 
+<!--**Kommentar:** "Enkla" kan i detta sammanhang till viss del tolkas som "bristande" eller "otillräckliga". -->
+
+
 #### Kriterier för betyget C
 
-- Eleven **redogör utförligt** för **ideologiernas** **innehåll**.
+- Eleven **redogör utförligt** för **ideologiernas** **teoretiska** **innehåll** och ger **konkreta exempel** på deras tillämpning.
 
-- Eleven visar god **förståelse** för **skillnader och likheter** mellan de olika ideologierna.
+- Eleven visar **god** **förståelse** för **skillnader och likheter** mellan de olika ideologierna och deras förgreningar utifrån **olika aspekter**.
 
-- Eleven drar till övervägande del **välgrundade slutsatser** och ger **välgrundade argument** för och emot ideologierna samt för sin egen ståndpunkt.
+- Eleven drar i stor utsträckning **välgrundade slutsatser** och ger till stor del **välgrundade argument** för och emot ideologierna samt för sin egen ståndpunkt.
 
 #### Kriterier för betyget A
 
-- Eleven **redogör utförligt** och **nyanserat** för **ideologiernas** **innehåll**.
+- Eleven **redogör utförligt** och **nyanserat** för **ideologiernas teoretiska innehåll** och ger **utförligt** och **nyanserat** **konkreta exempel** på deras tillämpning.
 
-- Eleven visar **mycket god** **förståelse** för **komplexa** **skillnader och likheter** mellan de olika ideologierna **och dess förgreningar**.
+- Eleven visar **mycket god** **förståelse** för **komplexa** **skillnader och likheter** mellan de olika ideologierna och deras förgreningar utifrån **flertalet aspekter**.
 
 - Eleven drar **välgrundade och nyanserade slutsatser** och ger **välgrundade och nyanserade argument** för och emot ideologierna samt för sin egen ståndpunkt i mycket hög grad och uttrycker sig på ett **strukturerat** och **sammanhängande** sätt.
 
