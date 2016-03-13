@@ -139,7 +139,7 @@ En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideolo
 #### Socialismen:
 1. Människan har stor potential att bli den hon vill.
 	* Människan är i grunden god, handlingskraftig och kreativ, _men_ hon hämmas och korrumperas i ett kapitalistisk samhälle.
-2. Människans potential realiseras genom kollektivets styrka och avskaffandet av samhällsklasser (kapitalism).
+2. Människans potential realiseras genom kollektivets styrka och avskaffandet av samhällsklasser (arbetare och kapitalister, underklass och överklass, fattiga och rika).
 	* Vi behöver varandra för vårt självförverkligande.
 
 #### Konservatismen:
