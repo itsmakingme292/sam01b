@@ -222,4 +222,4 @@ Som avrundning kan det vara bra att lite kort att säga något mer om ideologier
 
 **Reformistisk socialism:** Det behövs stora förändringar i samhället, eftersom samhället i stor utsträckning är ojämlikt, men dessa ska ske stegvis samt på demokratisk väg. 
 
-**Revolutionär socialism/kommunism**: Samhället måste förändras i grunden och detta är inte möjligt annat än genom en revolution där det "gamla samhället" helt omkullkastas. Inte minst därför att kapitalister inte kommer att ge upp sin sociala, ekonomiska och politiska makt utan "en fajt". 
+**Revolutionär socialism/kommunism**: Samhället måste förändras i grunden och detta är inte möjligt annat än genom en revolution där det "gamla samhället" helt omkullkastas. Inte minst därför att kapitalister (de rika, de som äger mycket i samhället) inte kommer att ge upp sin sociala, ekonomiska och politiska makt utan "en fajt". 
