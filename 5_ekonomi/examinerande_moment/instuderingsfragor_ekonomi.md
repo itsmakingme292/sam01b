@@ -53,8 +53,8 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 - Vad kännetecknar/orsakar en hög- respektive en lågkonjunktur? (se sid 205-207)
     - Vad är en konjunkturcykel?
     - Vad är skillnaden mellan trend och konjunktur?
-    - Beskriv hur lågkonjunkturens nedåtgående spiral kan se ut (vad som händer)
-    - Beskriv hur högkonjunkturens uppåtgående spiral kan se ut (vad som händer)
+    - Beskriv hur en konjunkturcykels nedåtgående kurva kan se ut (hur vi hamnar i lågkonjunktur)
+    - Beskriv hur en konjunkturcykels uppåtgående kurva kan se ut (hur vi hamnar i högkonjunktur)
 
 - Vad kan staten göra för att minska konjunktursvängningar? (se sid 208-211)
     - Vad är ekonomisk politik och vad är denna politiks huvudmål?
