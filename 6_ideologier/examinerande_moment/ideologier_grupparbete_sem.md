@@ -3,7 +3,7 @@
 ## Beskrivning:
 
 * Ni förbereder er gruppvis (2-3 personer) inför ett seminarium i halvklass. Till denna förberedelse får ni två lektionstillfällen (resten av arbetet görs utanför lektionstid). 
-* Under seminariet kommer ni att tillsammans  "rollspela" ett samtal mellan de olika ideologierna. 
+* Under seminariet kommer ni att tillsammans "rollspela" ett samtal mellan de olika ideologierna. 
 * Varje grupp tilldelas en ideologi att specialisera sig på och sedan representerar under seminariet. 
 * Tanken är att ni ska vara experter på era egna ideologier, men för att kunna föra ett samtal måste ni förstå de andra ideologierna och veta hur dessa står i relation till er egen (likheter / olikheter / svaga punkter osv).
 
@@ -13,7 +13,7 @@
 
 ### Instruktioner:
 
-1. Sätt er in i ideologierna med fokus på den ideologi ni själva kommer att representera. Börja inte direkt med själva grupparbetet, utan förbered er först individuellt. Läs och reflektera kring sidorna 133–154 i läroboken, extra-material i denna wiki och sök efter  andra källor. 
+1. Sätt er in i ideologierna med fokus på den ideologi ni själva kommer att representera. Börja inte direkt med själva grupparbetet, utan förbered er först individuellt. Läs och reflektera kring sidorna 133–154 i läroboken, extra-material i denna wiki och sök efter andra källor. 
 2. Skapa ett gemensamt dokument, förslagsvis i Google Docs (detta kommer att underlätta) som ni under era förberedelser gemensamt antecknar i och som ni under seminariet kan ha som underlag.
 3. Diskutera i er grupp vad er ideologi säger om:
 
@@ -33,13 +33,13 @@
 
 * Feminister och ekologister bör bestämma sig för om de även sympatiserar med någon viss annan ideologi. Detta för att kunna instämma samt göra tillägg och kopplingar till hur andra ideologier hänger samman med den egna ideologin. Man bör här också fundera en extra gång kring vilka ideologier (eller delar av ideologierna) man inte är lika kompatibel med. Feminismen och ekologismen har kanske inte lika naturliga fiender som de klassiska ideologierna, men de kan sannerligen rikta hård kritik åt en rad olika håll.
 * Som feminist och konservativ bör man bestämma sig för vilken typ av feminist eller konservativ man är. För feminismen är detta relativt enkelt, det handlar framförallt om huruvida man lutar mer åt särartsfeminism eller likhetsfeminism. För konservatismen är detta något svårare och handlar om en rad olika frågor.
-* Som (reformistisk) socialist bör man bestämma sig hur man ser på marknadsekonomi och huruvida denna nödvändigtvis måste hänga ihop med kapitalism. 
+* Som (reformistisk) socialist bör man bestämma sig för hur man ser på marknadsekonomi, i vilken utsträckning man vill reglera denna (och varför), samt i hur stor utsträckning man vill se mer planekonomiska inslag. 
 * Som social-liberal måste man vara tydlig med vad som skiljer den egna ideologin från en reformistisk socialism med avseende på välfärden, samt varför man inte är nyliberal.
 
 
-## Angående seminariet:
+## Några avslutande punkter om tanken med seminariet:
 * Poängen med seminariet är i första hand att förbereda er inför den individuella uppgiften. 
-* Under seminariet är diskussionen fri och driver idealt sig själv. Tanken är att det är ni som för samtalet och att jag modererar så lite som bara möjligt (men jag kommer givetvis göra det i den mån det är nödvändigt). Det är därför viktigt att ni i era förberedelser har en framtida fruktbar diskussion i åtanke och inte en monolog. 
+* Under seminariet är diskussionen någorlunda fri och driver idealt sig själv. Tanken är att det är ni som för samtalet och att jag modererar så lite som bara möjligt (men jag kommer givetvis göra det i den mån det är nödvändigt). Det är därför viktigt att ni i era förberedelser har en framtida fruktbar diskussion i åtanke och inte en monolog. 
 * I slutet av (och möjligen till viss del under) seminariet kommer jag att ge er muntlig feedback. Denna är till för *hela klassen*, även om den i huvudsak kommer att vara "riktad mot" respektive ideologis representant. 
 * Ni kommer alltså inte att få individuella kommentarer eller omdömen. Det sagt gör ni er själva en björntjänst om ni inte tar seminariet på allvar. 
 * Utifrån feedbacken och utifrån ert arbete tillsammans kommer ni förhoppningsvis att ha en mycket god grund att stå på inför ert slutliga individuella arbete [(slutexaminationen)](ideologier_individuell_slutex.md).
