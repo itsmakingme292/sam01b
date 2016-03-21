@@ -11,7 +11,7 @@
 	* Ingen examination (men likväl viktigt)
 * Demokrati – i teori och praktik
 	* E-grundande salsprov (F eller OK)
-	* Långfråga salsprov, seminarium eller kortare hemtenta
+	* Långfråga salsprov, seminarium eller hemtenta
 * FN & Mänskliga rättigheter
 	* Seminarium 
 
