@@ -165,6 +165,3 @@ Tid och antal elever per grupp:
 **LYCKA TILL!**
 
 / Fredrik
-
-
-**PS:** SA15a kan hitta planering för hela MR-projektet samt gruppindelning i [detta google dokument](https://docs.google.com/document/d/1SFEIOZNLcB9rKtWoOAakFExdiSkHgGHRAeSV2G0vITY/edit?usp=sharing)

@@ -47,6 +47,10 @@
 
 <!--Ha exempel på frågor man kan ta upp här? -->
 
+
+## Datum, tider och grupper
+Datum och tider finns, eller kommer att finnas i provschemat på schoolsoft. Gruppindelning kommer att komma som ett meddelande och/eller nyhet en vecka innan eller så. Är man osäker, så frågar man. 
+
 **LYCKA TILL!**
 
 / Fredrik
