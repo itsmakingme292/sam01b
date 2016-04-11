@@ -76,7 +76,7 @@ Eleven kan **utförligt och nyanserat** redogöra för individens rättigheter o
 
 I arbetet med samhällsfrågor kan eleven **med säkerhet** söka, granska och tolka information från olika källor, redovisa sina källor samt göra **välgrundade och nyanserade** reflektioner om deras relevans och trovärdighet utifrån syftet. Eleven kan, **med säkerhet** och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer **samt formulera sig självständigt i förhållande till källorna**.
 
-<!-- inte ha med nedan? ELLER KANSKE TA MED!? ÄR JU BRA:...
+<!--inte ha med nedan? ELLER KANSKE TA MED!? ÄR JU BRA:... -->
 
 
 ## Bedömningsaspekter av resonemang
@@ -88,6 +88,7 @@ I arbetet med samhällsfrågor kan eleven **med säkerhet** söka, granska och t
 	* Enkla resonemang präglas av att resonemanget i huvudsak består av korta konstateranden. Finns resonemang i flera led är de i regel få och ibland onyanserade, till exempel a leder till b därför att ... 
 
 <!-- **Kommentar:** Det är något olyckligt att två olika användningar av begreppet "utvecklat" krockar något här. Ett utvecklat resonemang är oftast ett nyanserat resonemang. -->
+
 
 - I vilken omfattning konkretiserar eleven sitt resonemang? 
 	- Mer utvecklade resonemang innehåller konkretiseringar i hög utsträckning. De kan göras med hjälp av exempel, jämförelser i tid och rum, konsekvensbeskrivningar eller med stöd av egna erfarenheter. I mer utvecklade resonemang rör sig eleven mellan det konkreta och det abstrakta (eller mellan helhet och detaljer). Det generella (helheten) konkretiseras och tydliggörs med hjälp av det konkreta (detaljer). 
@@ -109,4 +110,3 @@ I arbetet med samhällsfrågor kan eleven **med säkerhet** söka, granska och t
 
 - I vilken omfattning underbygger  eleven sitt resonemang med hjälp av korrekta fakta, logik, exempel och egna erfarenheter? 
 	- Mer utvecklade resonemang underbyggs med hjälp av relevanta fakta, exempel och egna erfarenheter. En annan faktor som påverkar resonemangens underbyggnad är graden av logik. Väl underbyggda resonemang är logiska och tydliga. 
- -->

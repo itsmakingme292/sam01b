@@ -22,7 +22,7 @@
 	* E-grundande salsprov (F eller OK)
 	* Långfråga salsprov eller kortare hemtenta
 * Ideologier
-	* Grupparbete (som ni får kommentarer på) eller seminarium
+	* Grupparbete eller seminarium
 	* Individuell slutexamination (endast betyg)
 
 
