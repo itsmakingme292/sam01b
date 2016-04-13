@@ -81,7 +81,8 @@
   * [Det goda samhället](6_ideologier/material/om_ideologierna.md)
   - - - -
   * # Övningar & Diskussionsunderlag
-  * [Läsuppgift & Diskussion](6_ideologier/ovningar/lasning_arena_och_diskussion.md)
+  * [Vad bör staten göra?](6_ideologier/ovningar/diskussionsunderlag_ideologier.md)
+  * [Läsuppgift, Arena](6_ideologier/ovningar/lasning_arena_och_diskussion.md)
   * [UR "Drömsamhället"](6_ideologier/ovningar/ur_dromsamhallet.md)
   * [Ledare & Politisk färg](2_kritiskt_tankande/ovningar/ledare_politisk_farg.md)
   * [Sveriges politiska partier](3_demokrati/ovningar/sv_politiska_partier.md)
