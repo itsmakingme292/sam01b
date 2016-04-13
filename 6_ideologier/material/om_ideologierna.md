@@ -138,7 +138,7 @@ En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideolo
 
 #### Socialismen:
 1. Människan har stor potential att bli den hon vill.
-	* Människan är i grunden en kreativ varelse _men_ hon hämmas i ett kapitalistisk samhälle.
+	* Människan är i grunden en kreativ och handlingskraftig varelse _men_ hon hämmas i ett kapitalistisk samhälle.
 	* Människan föds varken god eller ond utan formas av det omgivande samhället.
 2. Människans potential realiseras genom kollektivets styrka och avskaffandet av samhällsklasser (arbetare och kapitalister, underklass och överklass, fattiga och rika).
 	* Vårt självförverkligande och våra möjligheter i livet beror på hur det omgivande samhället ser ut.  
