@@ -48,9 +48,9 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 1. Du läser och reflekterar kring sidorna **133–154 i läroboken.** 
 
-2. Du *bör* för denna uppgift använda dig av **ytterligare källor utöver Arena** och/eller åtminstone extra-material i denna wiki (se ["Det goda samhället"](../material/om_ideologierna.md)). För denna uppgift är det också *obligatoriskt* med en  *källförteckning* **och** en **källkritisk analys** av *samtliga* använda källor (inkl. Arena). Vid direkta citat eller referat krävs också *källhänvisning* i text. 
+2. Du *bör* för denna uppgift använda dig av **ytterligare källor utöver Arena** och/eller åtminstone extra-material i denna wiki (se ["Det goda samhället"](../material/om_ideologierna.md)). För denna uppgift är det också *obligatoriskt* med en **källförteckning**. Vid direkta citat eller referat krävs också *källhänvisning* i text. 
 
-3. Du genomför den huvudsakliga uppgiften på **minst 1 A4** och **max 3,5 A4** (teckenstorlek 12, vanligt radavstånd, standard sid-marginaler). För den källkritiska analysen skriver du **minst 0,5 A4** och **max 1 A4** i slutet av din text. Totalt blir sidantalet alltså **max 4,5 sidor**.
+3. Du genomför den huvudsakliga uppgiften på **minst 1 A4** och **max 3,5 A4** (teckenstorlek 12, vanligt radavstånd, standard sid-marginaler). 
 
 4. Du sparar dokumentet som/i formatet ”**PDF**” och döper dokumentet efter formen ”**Klass, Efternamn, Förnamn, Samhällskunskap, Ideologier**”
 
@@ -58,7 +58,9 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 **OBS:** Misslyckas man med någon av punkterna 2-5 räknas det som en icke inlämnad uppgift... Vid osäkerhet om vad detta innebär: fråga mig.
 
+<!--Borttaget under nummer 2: **och** en **källkritisk analys** av *samtliga* använda källor (inkl. Arena) -->
 
+<!--Borttaget under nummer 3:För den källkritiska analysen skriver du **minst 0,5 A4** och **max 1 A4** i slutet av din text. Totalt blir sidantalet alltså **max 4,5 sidor**. -->
 
 ## Betygskriterier för uppgiften
 
