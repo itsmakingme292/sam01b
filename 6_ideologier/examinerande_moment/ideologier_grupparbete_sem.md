@@ -11,6 +11,8 @@
 
 **Tips:** Försök för denna uppgift inte bara tänka kring vad vi gått igenom under detta moment, utan också vad ni lärt er under tidigare moment...
 
+**OBS:** Ett litet tillägg. Till seminariet får man ha med sig hur mycket anteckningar man vill.
+
 ## Att göra
 
 1. Sätt er in i ideologierna med fokus på den ideologi ni själva kommer att representera. Börja inte direkt med själva grupparbetet, utan förbered er först individuellt. Läs och reflektera kring sidorna 133–154 i läroboken, extra-material i denna wiki och sök efter andra källor. 
