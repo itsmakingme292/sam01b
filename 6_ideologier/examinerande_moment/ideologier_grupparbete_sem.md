@@ -15,7 +15,7 @@
 
 ## Att göra
 
-1. Sätt er in i ideologierna med fokus på den ideologi ni själva kommer att representera. Börja inte direkt med själva grupparbetet, utan förbered er först individuellt. Läs och reflektera kring sidorna 133–154 i läroboken, extra-material i denna wiki och sök efter andra källor. 
+1. Sätt er in i ideologierna med fokus på den ideologi ni själva kommer att representera. Börja inte direkt med själva grupparbetet, utan förbered er först individuellt. Läs och reflektera kring texten ["Det goda samhället"](../material/om_ideologierna.md) på denna hemsida samt sidorna 133–154 i läroboken och sök själva efter komplementerande källor. 
 2. Skapa ett gemensamt dokument, förslagsvis i Google Docs (detta kommer att underlätta) som ni under era förberedelser gemensamt antecknar i och som ni under seminariet kan ha som underlag.
 3. Diskutera i er grupp vad er ideologi säger om:
 

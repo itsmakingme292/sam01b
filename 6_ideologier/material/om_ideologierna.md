@@ -115,7 +115,7 @@ En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideolo
 
 #### Socialismen
 * Kollektivet
-	* Alla människor tillsammans. Genom solidaritet lyfter männsiskor varandra. 
+	* Alla människor tillsammans. Genom solidaritet lyfter människor varandra. 
 	* Socialismen bortser inte från individen, men kollektivet är likväl den viktigare politiska enheten. Detta eftersom _samhällsnyttan_ går före _egennyttan_.
 	*  Fokus i socialismen ligger på _social jämlikhet_. Människor har ett stort *ansvar* inför varandra. 
 
