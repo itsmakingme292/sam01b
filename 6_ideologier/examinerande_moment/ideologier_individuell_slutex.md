@@ -29,7 +29,7 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 ### Observera att:
 
-- Hur du väljer att lägga upp din text är upp till dig. Du behöver inte skriva i exakt den ordning som frågorna ovan följer – men du måste ha någon form av struktur. Kanske väljer du att baka samman jämförelserna med själva redovisningen av respektive ideologi, kanske väljer du att spränga in era egna argument under dessa delar och inte bara i i avslutande slutsats, osv. Om du är osäker, diskutera ev. upplägg med mig. 
+- Hur du väljer att lägga upp din text är upp till dig. Du behöver inte skriva i exakt den ordning som frågorna ovan följer – men du måste ha någon form av struktur. Kanske väljer du att baka samman jämförelserna med själva redovisningen av respektive ideologi, kanske väljer du att spränga in dina egna argument under dessa delar och inte bara i den avslutande slutsatsen, osv. Om du är osäker, diskutera ev. upplägg med mig. 
 
 - En möjlig ståndpunkt/slutsats kan vara att du helst ser någon form av kombination mellan några,  eller alla, av de ideologier du valt att skriva om. Om detta är fallet: beskriv då hur du tänker dig att denna kombination skulle se ut och *varför* den är att föredra.
 
