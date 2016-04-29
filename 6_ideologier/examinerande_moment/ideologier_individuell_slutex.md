@@ -2,7 +2,7 @@
 
 ## Instruktioner
 
-Obligatoriskt för denna uppgift är **Liberalismen** och **Socialismen** (och dess huvudsakliga förgreningar). Det är **valfritt** om man vill skriva om **ytterligare en** av följande ideologier: Konservatism, Ekologism, Feminism eller Anarkism/Syndikalism.
+Obligatoriskt för denna uppgift är **Liberalismen** och **Socialismen** (och dess huvudsakliga förgreningar). Det är **valfritt** att skriva om **ytterligare en** av följande ideologier: Konservatism, Ekologism, Feminism eller Anarkism/Syndikalism.
 
 **Tips:** Försök för denna uppgift inte bara tänka kring vad vi gått igenom under detta moment, utan också vad ni lärt er under tidigare moment...
 
