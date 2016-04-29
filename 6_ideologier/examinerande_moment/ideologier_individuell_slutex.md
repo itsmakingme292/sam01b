@@ -2,7 +2,7 @@
 
 ## Instruktioner
 
-Obligatoriskt för denna uppgift är **Liberalismen** och **Socialismen** (och dess huvudsakliga förgreningar) samt **ytterligare en valfri** av följande ideologier: Konservatism, Ekologism, Feminism eller Anarkism/Syndikalism.
+Obligatoriskt för denna uppgift är **Liberalismen** och **Socialismen** (och dess huvudsakliga förgreningar). Det är **valfritt** om man vill skriva om **ytterligare en** av följande ideologier: Konservatism, Ekologism, Feminism eller Anarkism/Syndikalism.
 
 **Tips:** Försök för denna uppgift inte bara tänka kring vad vi gått igenom under detta moment, utan också vad ni lärt er under tidigare moment...
 
@@ -26,7 +26,6 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 - Vilken ideologi ger den rimligaste analysen/bilden av samhället?
 - Vilken ideologi ger de bästa förslagen på förändringar?
 
-
 ### Observera att:
 
 - Hur du väljer att lägga upp din text är upp till dig. Du behöver inte skriva i exakt den ordning som frågorna ovan följer – men du måste ha någon form av struktur. Kanske väljer du att baka samman jämförelserna med själva redovisningen av respektive ideologi, kanske väljer du att spränga in dina egna argument under dessa delar och inte bara i den avslutande slutsatsen, osv. Om du är osäker, diskutera ev. upplägg med mig. 
@@ -41,7 +40,7 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 - Tänk kvalité och inte kvantitet när du skriver. Skriv inte bara på, utan tänk först noggrant efter kring de ideologier du valt att skriva om. Läs på och anteckna innan du börjar skriva din text.
 
-- Man kan absolut lyfta in andra ideologier än de tre man har sitt fokus på. Var dock tydlig med vilka ideologier som är ditt fokus och tänk på att du har ett begränsat utrymme att genomföra uppgiften på.
+- Man kan absolut lyfta in andra ideologier än de två eller tre man har sitt fokus på. Andra ideologier kan exempelvis bidra med intressant kritik. Var dock tydlig med vilka ideologier som är ditt fokus och tänk på att du har ett begränsat utrymme att genomföra uppgiften på.
 
 
 ### Att göra: 
@@ -50,7 +49,7 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 2. Du *bör* för denna uppgift använda dig av **ytterligare källor utöver Arena** och/eller åtminstone extra-material i denna wiki (se ["Det goda samhället"](../material/om_ideologierna.md)). För denna uppgift är det också *obligatoriskt* med en **källförteckning**. Vid direkta citat eller referat krävs också *källhänvisning* i text. 
 
-3. Du genomför den huvudsakliga uppgiften på **minst 1 A4** och **max 3,5 A4** (teckenstorlek 12, vanligt radavstånd, standard sid-marginaler). 
+3. Du genomför den huvudsakliga uppgiften på **minst 1 A4** och **max 3,5 A4** (teckenstorlek 12, vanligt radavstånd, standard sid-marginaler, källförteckning ej inräknad). 
 
 4. Du sparar dokumentet som/i formatet ”**PDF**” och döper dokumentet efter formen ”**Klass, Efternamn, Förnamn, Samhällskunskap, Ideologier**”
 
