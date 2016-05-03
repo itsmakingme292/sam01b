@@ -90,7 +90,7 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 - Eleven drar **välgrundade och nyanserade slutsatser** och ger **välgrundade och nyanserade argument** för och emot ideologierna samt för sin egen ståndpunkt i mycket hög grad och uttrycker sig på ett **strukturerat** och **sammanhängande** sätt.
 
-
+**TIPS:** Fundera alltid kring vilka relevanta motargument det finns för det du påstår och försäkra dig om att du också bemöter dessa. 
 
 **LYCKA TILL!**
 
