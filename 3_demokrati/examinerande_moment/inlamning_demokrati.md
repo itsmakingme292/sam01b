@@ -16,14 +16,15 @@ _Mer konkret innebär detta att ni utreder sådant som:_
 Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart ni vill lägga tyngdpunkten.  Det sagt har ni ett begränsat antal sidor att skriva på, så börja först med att _planera_ vad ni tycker är viktigt att ta upp – gärna i diskussion med mig. Till er hjälp har ni nedanstående centrala delar och begrepp att utgå ifrån (och även [instuderingsfrågorna](instuderingsfragor_demokrati.md)).
 
 ## Centrala delar & begrepp
-*Fetstilade delar och begrepp är möjligen extra viktiga, men inget är oviktigt. Försök själva avgöra vad ni anser måste vara med i er text...*
 
-* Skillnaden mellan **representativ demokrati** och direktdemokrati. Olika funktioner inom den representativa demokratin, exempelvis remissrunda, eller sådant som poängen med partisystemet.
+<!--*Fetstilade delar och begrepp är möjligen extra viktiga, men inget är oviktigt. Försök själva avgöra vad ni anser måste vara med i er text...* -->
+
+* Skillnaden mellan **representativ demokrati** och **direktdemokrati**. Olika funktioner inom den representativa demokratin, exempelvis remissrunda, eller sådant som poängen med partisystemet.
 * Tillförlitliga och regelbundna val. Allmän, lika och hemlig **rösträtt**, samt majoritetsprincipen.
 * **Grundlagarna** som en garant för demokratin. Vad de innehåller och vilken funktion de fyller. 
 * Grundläggande fri- och rättigheter. <!--Ens ha med denna? Hette mänskliga rättigheter innan -->
 * **Opinionsfriheter**, så som **yttrandefrihet**, mötesfrihet,  demonstrationsfrihet, **pressfrihet** och  föreningsfrihet/organisationsfrihet.
-* Rättssäkerhet och likhet inför lagen
+* **Rättssäkerhet** och likhet inför lagen
 * **Genomskinlighet**: Offentlighetsprincipens roll för den svenska demokratin. 
 * Utbildning och dess demokratiska värde. 
 * **Politiskt deltagande** och demokratisk kultur. Vilket exempelvis kan kopplas till de olika opinionsfriheterna och begreppet deltagardemokrati kontra begreppet elitdemokrati/valdemokrati.
