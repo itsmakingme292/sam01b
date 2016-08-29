@@ -71,6 +71,6 @@ God argumentation handlar om att vi:
 
 4. **Förstår vad vi säger implicit, såväl som explicit**: För att på så vis undvika att säga något som vi faktiskt inte menar.
 
-5. **Använder relevanta och hållbara argument**: För att vi aldrig bör söka stöd i tvivelaktiga påståenden eller i påståenden som inte har med saken att göra. 
+5. **Använder hållbara och relevanta argument**: För att vi aldrig bör söka stöd i tvivelaktiga påståenden eller i påståenden som inte har med saken att göra. 
 
 Att argumentera är en aktivitet som vi gör tillsammans. Ingen kan argumentera i ensamhet. Och som för alla aktiviteter vi gör tillsammans krävs det att vi har respekt. Både för ämnet, oss själva och för den andre. 

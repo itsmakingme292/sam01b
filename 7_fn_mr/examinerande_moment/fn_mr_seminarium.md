@@ -139,6 +139,7 @@ För ett högre omdöme gäller det att du i hög grad
 
 <!--8. Vad innebär det att mänskliga rättigheter är universella? Är mänskliga rättigheter eviga? Hur tänker du? Vad är styrkan med ett sådant tankesätt? Vad kan vara problemet? Men också: har alla människor ett lika värde? Detta är något vi mer eller mindre tar för givet. Men vad menar vi? Vad är själva innebörden och vilken blir effekten? På vilket sätt skulle du argumentera för vikten av detta tankesätt?  -->
 
+<!--ev. ändringar Kolla igenom diskussionfrågorna, ta bort en eller så, för vi hinner aldrig sju. Kolla också på fråga 3, är alldeles för dålig, eleverna förstår inte alltid den... Osv... -->
 
  <!--ev. framtida frågor: 
  - Få in diskussionfråga om hur mycket makt de tänker att FN har i realiteten. Möjligen under suveränitetsfrågan eller som en egen. Koppla till vad som händer när man bryter mot MR 
