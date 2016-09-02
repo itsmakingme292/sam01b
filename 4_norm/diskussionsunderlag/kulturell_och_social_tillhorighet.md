@@ -15,6 +15,9 @@
 	- Vad kom ni gruppvis fram till?
 	- Vad kan ni som (skol)klass enas om? Vad kan ni inte enas om?
 
+<!--OBS: nedan frågor bör kortas ner. Göras färre... -->
+
+
 ## Frågor	
 - Vilka institutioner, grupper och individer tror du stått för merparten av din socialisation? Vilka delar av din socialisation? Varför tror du?	
 - Är kultur viktigt för din ”identitet”? Berättar kulturen något om vem du är?	
