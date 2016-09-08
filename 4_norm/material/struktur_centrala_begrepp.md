@@ -4,24 +4,43 @@
 
 ***
 
-## Samhällets strukturer
+## Samhällsstruktur & normer
 
-En samhällsstruktur är det samspelsmönster vi kan se på övergripande samhällelig nivå (se kartan ovan). Denna struktur ges av hur samhället är ordnat genom dess institutioner (politiskt) men också genom hur samhällets individer generellt agerar (kulturen).
+Begreppet struktur används för att beskriva de _mönster_ vi kan se i hur människor beter sig (gentemot varandra). En samhällsstruktur är det samspelsmönster vi kan se på övergripande samhällelig nivå (se kartan ovan). Denna struktur bestäms av hur samhället är ordnat genom dess institutioner (politiskt) men också genom hur samhällets individer generellt agerar (kulturen). 
 
-Samhällets strukturer har i detta två olika delar. De **formella strukturerna** är de "regler" som står skrivna, svart på vit –  exempelvis i lagen. De **informella strukturerna** är de "regler" som inte står skrivna, men som vi ändå förväntas att följa – med andra ord _normer_.
+Samhällets struktur har i detta två olika delar. De **formella strukturerna** är de "regler" som står skrivna, svart på vit –  exempelvis i _lagen_. De **informella strukturerna** är de "regler" som inte står skrivna, men som vi ändå förväntas att följa – med andra ord **normer**. 
 
-Ett samhälle binds samman av gemensamma förväntningar och regler. Strukturen är en slags ram för samhället som reglerar vilka beteenden som är ok och inte. Samhällets strukturer kan därför vara lika förtryckande som de är nödvändiga. Strukturer möjliggör vårt liv tillsammans men de kan också innebära en ibland oönskad och ofta problematisk makt över våra liv. 
+**Kommentar:** Vad gäller kopplingen mellan det formella och det informella kan vi antingen stifta lagar för att _stärka_ vissa normer eller tvärtom för att _motverka_ vissa normer. Exempelvis kanske vi stiftar lagar som förbjuder bruk av narkotika (och därmed stärker normen att "det är dåligt att knarka") eller så kanske vi stiftar en lag om delad föräldraledighet för att få fler pappor att vara pappalediga och därmed motverka normen att "kvinnor är mer omhändertagande än män". 
 
-## Kultur & normer
+Begreppet **norm** ligger inte jättelångt ifrån begreppet struktur. Skillnaden är att en norm är en specifik oskriven regel, värdering eller ett ideal och att flera normer tillsammans är med och skapar en viss struktur (ett samspelsmönster). I vissa sammanhang kan vi även kalla en juridisk lag för en norm, men det är vanligen inte det vi menar med begreppet. 
 
-Begreppet **norm** ligger inte jättelångt ifrån begreppet struktur. Skillnaden är att en norm är en specifik regel, eller en värdering, och att en norm är informell (ej nedskriven). I vissa sammanhang kan vi kalla en juridisk lag för en norm, men det är vanligen inte det vi menar med begreppet. Det ordet "norm" främst syftar till är de "regler" som hör kulturen till. 
+Ett samhälle binds samman av gemensamma förväntningar och regler. Strukturen är en slags ram för samhället som reglerar vilka beteenden som är ok och inte. Samhällets struktur kan därför vara lika förtryckande som de är nödvändiga. Strukturer möjliggör vårt liv tillsammans men de kan också innebära en ibland oönskad och ofta problematisk makt över våra liv genom att de begränsar oss i hur vi tillåts vara. 
 
-En **kultur** är, i sin tur, ett slags "paket" eller uppsättning av normer (regler och värderingar). En kultur reglerar genom dess normer, precis som samhällsstrukturen/strukturerna (vilken kulturen är en del av), vad som *värdesätts* och vad som *förväntas av oss*.
+**Kommentar:** Ibland används ordet samhällsstruktur i singular (samhällstrukturen) och ibland i plural (samhällstrukturer). Ibland för att peka ut vissa delar av samhällstrukturen, ibland inte. Men oavsett om vi använder plural eller singular är det samma sak vi pratar om.
 
-Vi är alla medlemmar av flera olika kulturer (det finns ingen "monokultur") och ofta innebär detta att vi har motstridiga förväntningar på oss. Exempelvis har vår familj en uppsättning normer, vår bekantskapskrets en annan och vår skola, eller vårt jobb, en tredje, osv. 
+## Kultur
 
-**Kommentar:** Begreppet "monokultur" syftar till föreställningen om ett samhälle som består av *en enda* kultur.
+Begreppet kultur finns det 100-tals olika definitioner av, men den kanske enklaste är att en **kultur** utgör ett slags "paket" med normer inom en viss grupp. En kultur reglerar genom dess normer vad som *värdesätts* inom gruppen och vad som *förväntas av oss* när vi tillhör denna grupp.
 
+Kulturer existerar på olika nivåer och vissa är mer  dominerande än andra. Vi kan prata om nationella kulturer (exempelvis den svenska kulturen), subkulturer (exempelvis hip-hop-kulturen), regionala kulturer (exempelvis den göteborska kulturen), osv. Olika kulturer har därför olika "effekt" på den övergripande samhällsstrukturen. 
+
+Vi är alla medlemmar av flera olika kulturer (det finns ingen "monokultur") och ofta innebär detta att vi har motstridiga förväntningar på oss (olika förväntningar som inte går ihop). Exempelvis har vår familj en uppsättning normer, vår bekantskapskrets en annan och vår skola, eller vårt jobb, en tredje, osv. 
+
+**Kommentar:** Begreppet "monokultur" syftar till föreställningen om ett samhälle som består av *en enda* kultur. De flesta förstår att några sådana samhällen inte existerar, men vissa ser fortfarande detta som ett _ideal_.
+
+### Normen & normer
+
+I _Arena_ på sidan 20 används begreppet "normen". Detta begrepp skiljer sig från begreppet "normer". Med **normen** menar man (ibland) den grupp som det är mest gynnsamt att vara och bete sig som. 
+
+Om vi pratar om "mannen som norm" eller säger att "mannen är normen i vårt samhälle" menar vi att män (generellt sett) har mer makt än kvinnor och att vad vi ser som typiskt manliga egenskaper är mer eftersträvansvärt än vad vi ser som typiskt kvinnliga egenskaper. I detta blir "mannen" en slags måttstock som allt annat vägs emot. 
+
+I detta hänger givetvis de två begreppen ihop. Om det ska vara gynnsamt för mig att "vara man" måste jag också "bete mig som en man", vilket innebär att jag följer de **normer** som hör till att vara en man. Med andra ord att jag beter mig som män förväntas bete sig. 
+
+Att vi har dessa två begrepp "norm" och "normen" kan ibland bli förvirrande och det är olyckligt att Arena inte förklarar denna skillnad (eller överhuvudtaget inte ens går igenom begreppet "normer). Exempelvis kan vi faktiskt med själva ordet "normen" referera både till begreppet "normen" och begreppet "normer" och vi kan dessutom syfta till "ett paket med normer" (exempelvis: heteronormen). Här är tre exempel som belyser detta:
+
+* "Jag tycker vi måste förändra normen att män inte ska prata känslor" = **normer** (en norm)
+* "Jag tillhör inte normen i Sverige eftersom jag varken är svensk, man eller medelklass" = **normen** ()
+* "Normen för hur man ska bete sig som svensk" = **normer** (flera normer)
 
 ### Socialisation & reproduktion
 
@@ -34,13 +53,13 @@ _Att vi alla tillhör olika kulturer/grupper innebär:_
 Detta kallas **socialisation** och denna är en till stor omedveten _process_. Den händer utan att vi tänker på det. När vi i sin tur, genom både handling och kommunikation, "fostrar" andra i de regler, värderingar och normer _vi lärt oss_ **reproducerar** vi dessa (vi "återskapar" dem).
 
 
-#### Identitet
+### Identitet & norm
 
 Vår identitet är vilka vi "känner oss som" och denna formas i stor utsträckning av de grupper vi tillhör. Vi identifierar oss med andra, vi är och förblir flockdjur – vi vill tillhöra något (en grupp).
 
 Baksidan av hur vi formar vår identitet är att denna leder till ett "vi och dom"-tänkande. För att vi ska kunna tillhöra en grupp måste det finnas någon som *inte gör det*. Som grupper definierar vi oss lika mycket utifrån vilka *vi är* som vilka *vi inte är*. 
 
-Inom varje grupp finns det en norm, med andra ord en förväntan på ett beteendet hos de som tillhör gruppen och därmed finns det också en *avvikelse*, med andra ord vad det innebär att *inte* få tillhöra gruppen (vad man inte får göra). 
+Inom varje grupp finns det en norm, med andra ord en förväntan på ett beteendet hos de som tillhör gruppen och därmed finns det också en *avvikelse*. Beter vi oss inte som vi förväntas bete oss, och avviker för mycket, kan vi ibland riskera att uteslutas från gruppen. 
 
 ## Makt
 
@@ -72,8 +91,11 @@ Olika positioner och sociala kategorier samverkar med varandra. Det är exempelv
 _Diskriminering =_
 
 1. Man behandlar en person sämre än en annan person i samma situation.
-2. På grund av egenskaper hos personen som inte borde spela roll för situationen.
-3. Man gör negativ åtskillnad mellan människor på felaktiga (och godtyckliga) grunder.
+2. På grund av egenskaper hos personen som inte borde spela roll för situationen. 
+
+Ett annat sätt att beskriva diskriminering är att man gör en negativ åtskillnad mellan olika grupper av människor på felaktiga och godtyckliga grunder. 
+
+Det är exempelvis skillnad på om jag inte får ett jobb därför att arbetsgivaren får reda på att jag är homosexuell eller därför att jag inte är tillräckligt kvalificerad. I det första fallet är jag solklart diskriminerad, i det andra fallet är jag det inte (hur tråkigt det än känns).
 
 ### Strukturell diskriminering
 
