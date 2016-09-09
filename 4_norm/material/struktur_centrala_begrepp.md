@@ -18,16 +18,6 @@ Ett samhälle binds samman av gemensamma förväntningar och regler (nedskrivna 
 
 **Kommentar:** Ibland används ordet samhällsstruktur i singular (samhällstrukturen) och ibland i plural (samhällstrukturer). Ibland för att peka ut vissa delar av samhällstrukturen, ibland inte. Men oavsett om vi använder plural eller singular är det samma sak vi pratar om.
 
-## Kultur
-
-Begreppet kultur finns det 100-tals olika definitioner av, men den kanske enklaste är att en **kultur** utgör ett slags "paket" med normer inom en viss grupp. En kultur reglerar genom dess normer vad som *värdesätts* inom gruppen och vad som *förväntas av oss* när vi tillhör denna grupp.
-
-Kulturer existerar på olika nivåer och vissa är mer  dominerande än andra. Vi kan prata om nationella kulturer (exempelvis den svenska kulturen), subkulturer (exempelvis hip-hop-kulturen), regionala kulturer (exempelvis den göteborska kulturen), osv. Olika kulturer har därför olika "effekt" på den övergripande samhällsstrukturen. 
-
-Vi är alla medlemmar av flera olika kulturer (det finns ingen "monokultur") och ofta innebär detta att vi har motstridiga förväntningar på oss (olika förväntningar som inte går ihop). Exempelvis har vår familj en uppsättning normer, vår bekantskapskrets en annan och vår skola, eller vårt jobb, en tredje, osv. 
-
-**Kommentar:** Begreppet "monokultur" syftar till föreställningen om ett samhälle som består av *en enda* kultur. De flesta förstår att några sådana samhällen inte existerar, men vissa ser fortfarande detta som ett _ideal_.
-
 ### Normen & normer
 
 I _Arena_ på sidan 20 används begreppet "normen". Detta begrepp skiljer sig från begreppet "normer". Med **normen** menar man (ibland) den grupp som det är mest gynnsamt att vara och bete sig som. 
@@ -41,6 +31,16 @@ Att vi har dessa två begrepp "norm" och "normen" kan ibland bli förvirrande oc
 * "Jag tycker vi måste förändra normen att män inte ska prata känslor" = **normer** (en norm)
 * "Jag tillhör inte normen i Sverige eftersom jag varken är svensk, man eller medelklass" = **normen** 
 * "Normen för hur man ska bete sig som svensk" = **normer** (flera normer)
+
+## Kultur
+
+Begreppet kultur finns det 100-tals olika definitioner av, men den kanske enklaste är att en **kultur** utgör ett slags "paket" med normer inom en viss grupp. En kultur reglerar genom dess normer vad som *värdesätts* inom gruppen och vad som *förväntas av oss* när vi tillhör denna grupp.
+
+Kulturer existerar på olika nivåer och vissa är mer  dominerande än andra. Vi kan prata om nationella kulturer (exempelvis den svenska kulturen), subkulturer (exempelvis hip-hop-kulturen), regionala kulturer (exempelvis den göteborska kulturen), osv. Olika kulturer har därför olika "effekt" på den övergripande samhällsstrukturen. 
+
+Vi är alla medlemmar av flera olika kulturer (det finns ingen "monokultur") och ofta innebär detta att vi har motstridiga förväntningar på oss (olika förväntningar som inte går ihop). Exempelvis har vår familj en uppsättning normer, vår bekantskapskrets en annan och vår skola, eller vårt jobb, en tredje, osv. 
+
+**Kommentar:** Begreppet "monokultur" syftar till föreställningen om ett samhälle som består av *en enda* kultur. De flesta förstår att några sådana samhällen inte existerar, men vissa ser fortfarande detta som ett _ideal_.
 
 ### Socialisation & reproduktion
 
@@ -60,8 +60,6 @@ Vår identitet är vilka vi "känner oss som" och denna formas i stor utsträckn
 Inom varje grupp finns det en norm, med andra ord en förväntan på ett beteendet hos de som tillhör gruppen och därmed finns det också en *avvikelse*. Beter vi oss inte som vi förväntas bete oss, och avviker för mycket, kan vi ibland riskera att uteslutas från gruppen. 
 
 Baksidan av hur vi formar vår identitet är att denna leder till ett "vi och dom"-tänkande. För att vi ska kunna tillhöra en grupp måste det finnas någon som *inte gör det*. Som grupper definierar vi oss lika mycket utifrån vilka *vi är* som vilka *vi inte är*. 
-
-
 
 
 ## Makt
