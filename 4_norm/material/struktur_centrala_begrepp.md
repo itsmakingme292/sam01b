@@ -6,7 +6,7 @@
 
 ## Samhällsstruktur & normer
 
-Begreppet struktur används för att beskriva de _mönster_ vi kan se i hur människor beter sig (gentemot varandra). En samhällsstruktur är det samspelsmönster vi kan se på övergripande samhällelig nivå (se kartan ovan). Denna struktur bestäms av hur samhället är ordnat genom dess institutioner (politiskt) men också genom hur samhällets individer generellt agerar (kulturen). 
+Begreppet struktur används för att beskriva de _mönster_ vi kan se i hur människor beter sig (gentemot varandra). Att vi kan se mönster handlar om att beteenden och situationer ofta upprepar sig. En samhällsstruktur är det samspelsmönster vi kan se på övergripande samhällelig nivå (se kartan ovan). Denna struktur bestäms av hur samhället är ordnat genom dess institutioner (politiskt) men också genom hur samhällets individer generellt agerar (kulturen). 
 
 Samhällets struktur har i detta två olika delar. De **formella strukturerna** är de "regler" som står skrivna, svart på vit –  exempelvis i _lagen_. De **informella strukturerna** är de "regler" som inte står skrivna, men som vi ändå förväntas att följa – med andra ord **normer**. 
 
@@ -14,7 +14,7 @@ Samhällets struktur har i detta två olika delar. De **formella strukturerna** 
 
 Begreppet **norm** ligger inte jättelångt ifrån begreppet struktur. Skillnaden är att en norm är en specifik oskriven regel, värdering eller ett ideal och att flera normer tillsammans är med och skapar en viss struktur (ett samspelsmönster). I vissa sammanhang kan vi även kalla en juridisk lag för en norm, men det är vanligen inte det vi menar med begreppet. 
 
-Ett samhälle binds samman av gemensamma förväntningar och regler. Strukturen är en slags ram för samhället som reglerar vilka beteenden som är ok och inte. Samhällets struktur kan därför vara lika förtryckande som de är nödvändiga. Strukturer möjliggör vårt liv tillsammans men de kan också innebära en ibland oönskad och ofta problematisk makt över våra liv genom att de begränsar oss i hur vi tillåts vara. 
+Ett samhälle binds samman av gemensamma förväntningar och regler (nedskrivna som oskrivna). Strukturen är en slags ram för samhället som reglerar vilka beteenden som är ok och inte. Samhällets struktur kan därför vara lika förtryckande som de är nödvändiga. Strukturer möjliggör vårt liv tillsammans men de kan också innebära en ibland oönskad och ofta problematisk makt över våra liv genom att de begränsar oss i hur vi tillåts vara. 
 
 **Kommentar:** Ibland används ordet samhällsstruktur i singular (samhällstrukturen) och ibland i plural (samhällstrukturer). Ibland för att peka ut vissa delar av samhällstrukturen, ibland inte. Men oavsett om vi använder plural eller singular är det samma sak vi pratar om.
 
@@ -32,14 +32,14 @@ Vi är alla medlemmar av flera olika kulturer (det finns ingen "monokultur") och
 
 I _Arena_ på sidan 20 används begreppet "normen". Detta begrepp skiljer sig från begreppet "normer". Med **normen** menar man (ibland) den grupp som det är mest gynnsamt att vara och bete sig som. 
 
-Om vi pratar om "mannen som norm" eller säger att "mannen är normen i vårt samhälle" menar vi att män (generellt sett) har mer makt än kvinnor och att vad vi ser som typiskt manliga egenskaper är mer eftersträvansvärt än vad vi ser som typiskt kvinnliga egenskaper. I detta blir "mannen" en slags måttstock som allt annat vägs emot. 
+Om vi pratar om "mannen som norm" eller säger att "mannen är normen i vårt samhälle" menar vi att män (generellt sett) har mer makt än kvinnor och att vad vi ser som typiskt manliga egenskaper är mer eftersträvansvärt än vad vi ser som typiskt kvinnliga egenskaper. I detta blir "mannen" en slags måttstock som allt annat vägs emot (i detta fall: kvinnor). 
 
 I detta hänger givetvis de två begreppen ihop. Om det ska vara gynnsamt för mig att "vara man" måste jag också "bete mig som en man", vilket innebär att jag följer de **normer** som hör till att vara en man. Med andra ord att jag beter mig som män förväntas bete sig. 
 
 Att vi har dessa två begrepp "norm" och "normen" kan ibland bli förvirrande och det är olyckligt att Arena inte förklarar denna skillnad (eller överhuvudtaget inte ens går igenom begreppet "normer). Exempelvis kan vi faktiskt med själva ordet "normen" referera både till begreppet "normen" och begreppet "normer" och vi kan dessutom syfta till "ett paket med normer" (exempelvis: heteronormen). Här är tre exempel som belyser detta:
 
 * "Jag tycker vi måste förändra normen att män inte ska prata känslor" = **normer** (en norm)
-* "Jag tillhör inte normen i Sverige eftersom jag varken är svensk, man eller medelklass" = **normen** ()
+* "Jag tillhör inte normen i Sverige eftersom jag varken är svensk, man eller medelklass" = **normen** 
 * "Normen för hur man ska bete sig som svensk" = **normer** (flera normer)
 
 ### Socialisation & reproduktion
@@ -57,9 +57,12 @@ Detta kallas **socialisation** och denna är en till stor omedveten _process_. D
 
 Vår identitet är vilka vi "känner oss som" och denna formas i stor utsträckning av de grupper vi tillhör. Vi identifierar oss med andra, vi är och förblir flockdjur – vi vill tillhöra något (en grupp).
 
+Inom varje grupp finns det en norm, med andra ord en förväntan på ett beteendet hos de som tillhör gruppen och därmed finns det också en *avvikelse*. Beter vi oss inte som vi förväntas bete oss, och avviker för mycket, kan vi ibland riskera att uteslutas från gruppen. 
+
 Baksidan av hur vi formar vår identitet är att denna leder till ett "vi och dom"-tänkande. För att vi ska kunna tillhöra en grupp måste det finnas någon som *inte gör det*. Som grupper definierar vi oss lika mycket utifrån vilka *vi är* som vilka *vi inte är*. 
 
-Inom varje grupp finns det en norm, med andra ord en förväntan på ett beteendet hos de som tillhör gruppen och därmed finns det också en *avvikelse*. Beter vi oss inte som vi förväntas bete oss, och avviker för mycket, kan vi ibland riskera att uteslutas från gruppen. 
+
+
 
 ## Makt
 
@@ -77,7 +80,7 @@ Att det finns en viss maktordning innebär att samhället är *skiktat* (detta k
 
 Då vi talar om maktordning i relation till klass talar vi om ett _klassamhälle_. Ett samhälle där de rika har mer makt (genom att de äger produktionsmedlen). Om vi talar om maktordning i relation till kön talar vi om en _könsmaktsordning_, med andra ord ett _patriarkalt samhälle_. Ett samhälle där _män_ har mer makt än kvinnor.
 
-Dessa två typer av maktordningar är dock inte de enda: samhällen skiktas också utifrån sådant som etnicitet, sexualitet, funktionshinder, ålder, osv. 
+Dessa två typer av maktordningar är dock inte de enda: samhällen skiktas också utifrån sådant som etnicitet, sexualitet, funktionalitet, ålder, osv. 
 
 #### Intersektionalitet
 
