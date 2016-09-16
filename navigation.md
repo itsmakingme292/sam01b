@@ -23,6 +23,7 @@
   * # Övningar & Diskussionsunderlag
   * [Vem har mest makt?](4_norm/diskussionsunderlag/vem_har_mest_makt.md)
   * [Manligt & Kvinnligt](4_norm/diskussionsunderlag/genus_manligt_kvinnligt_ovning.md)
+  * [Diskriminering](4_norm/diskussionsunderlag/diskriminering.md)
   * [Kulturell & Social tillhörighet](4_norm/diskussionsunderlag/kulturell_och_social_tillhorighet.md)
 
 [Demokrati]()
