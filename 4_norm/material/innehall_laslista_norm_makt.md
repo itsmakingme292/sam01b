@@ -28,3 +28,7 @@
 #### Denna wiki
 
 Se [centrala begrepp](struktur_centrala_begrepp.md) i huvudmenyn...
+
+## Vidare läsning / länkar
+
+På statistiska centralbyråns hemsida "Sverige i siffror" hittar man statistik för sådant som löner, utbildningsnivå, invandring, m.m. [sverigeisiffror.scb.se](http://www.sverigeisiffror.scb.se)
