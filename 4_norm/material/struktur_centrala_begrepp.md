@@ -1,22 +1,24 @@
 # Centrala begrepp
 
+**OBS:** Denna sida är ett _komplement_ till kursboken (s. 15-34)
+
 ![BILD](resurser/centrala_begrepp.svg)
 
 ***
 
-## Samhällsstruktur & normer
+## Samhällsstruktur(er) & normer
 
 Begreppet struktur används för att beskriva de _mönster_ vi kan se i hur människor beter sig (gentemot varandra). Att vi kan se mönster handlar om att beteenden och situationer ofta upprepar sig. En samhällsstruktur är det samspelsmönster vi kan se på övergripande samhällelig nivå (se kartan ovan). Denna struktur bestäms av hur samhället är ordnat genom dess institutioner (politiskt) men också genom hur samhällets individer generellt agerar (kulturen). 
 
-Samhällets struktur har i detta två olika delar. De **formella strukturerna** är de "regler" som står skrivna, svart på vit –  exempelvis i _lagen_. De **informella strukturerna** är de "regler" som inte står skrivna, men som vi ändå förväntas att följa – med andra ord **normer**. 
+Samhällets (hela) struktur har i detta två olika delar. De **formella strukturerna** är de "regler" som står skrivna, svart på vit –  exempelvis i _lagen_. De **informella strukturerna** är de "regler" som inte står skrivna, men som vi ändå förväntas att följa – med andra ord **normer**. 
 
 **Kommentar:** Vad gäller kopplingen mellan det formella och det informella kan vi antingen stifta lagar för att _stärka_ vissa normer eller tvärtom för att _motverka_ vissa normer. Exempelvis kanske vi stiftar lagar som förbjuder bruk av narkotika (och därmed stärker normen att "det är dåligt att knarka") eller så kanske vi stiftar en lag om delad föräldraledighet för att få fler pappor att vara pappalediga och därmed motverka normen att "kvinnor är mer omhändertagande än män". 
 
 Begreppet **norm** ligger inte jättelångt ifrån begreppet struktur. Skillnaden är att en norm är en specifik oskriven regel, värdering eller ett ideal och att flera normer tillsammans är med och skapar en viss struktur (ett samspelsmönster). I vissa sammanhang kan vi även kalla en juridisk lag för en norm, men det är vanligen inte det vi menar med begreppet. 
 
-Ett samhälle binds samman av gemensamma förväntningar och regler (nedskrivna som oskrivna). Strukturen är en slags ram för samhället som reglerar vilka beteenden som är ok och inte. Samhällets struktur kan därför vara lika förtryckande som de är nödvändiga. Strukturer möjliggör vårt liv tillsammans men de kan också innebära en ibland oönskad och ofta problematisk makt över våra liv genom att de begränsar oss i hur vi tillåts vara. 
+Ett samhälle binds samman av gemensamma förväntningar och regler (nedskrivna som oskrivna). Samhällsstrukturen är en slags ram för samhället som reglerar vilka beteenden som är ok och inte. Samhällets strukturer kan därför vara lika förtryckande som de är nödvändiga. Strukturer möjliggör vårt liv tillsammans men de kan också innebära en ibland oönskad och ofta problematisk makt över våra liv genom att de begränsar oss i hur vi tillåts vara. 
 
-**Kommentar:** Ibland används ordet samhällsstruktur i singular (samhällstrukturen) och ibland i plural (samhällstrukturer). Ibland för att peka ut vissa delar av samhällstrukturen, ibland inte. Men oavsett om vi använder plural eller singular är det samma sak vi pratar om.
+**Kommentar:** Ibland används ordet samhällsstruktur i singular (samhällstrukturen) och ibland i plural (samhällstrukturer). Ibland för att peka ut vissa delar av samhällstrukturen, ibland inte. Men oavsett om vi använder plural eller singular är det samma sak vi pratar om. Orsaken till detta är att flera strukturer tillsammans skapar en övergripande struktur, så grammatiskt beror det helt enkelt på vår "zoom"-nivå. 
 
 ### Normen & normer
 
@@ -61,16 +63,48 @@ Inom varje grupp finns det en norm, med andra ord en förväntan på ett beteend
 
 Baksidan av hur vi formar vår identitet är att denna leder till ett "vi och dom"-tänkande. För att vi ska kunna tillhöra en grupp måste det finnas någon som *inte gör det*. Som grupper definierar vi oss lika mycket utifrån vilka *vi är* som vilka *vi inte är*. 
 
+## Sociala kategorier
+
+Sociala kategorier är en typ av grupptillhörigheter som vi själva (oftast) inte har möjligheten att välja. Exempel på sådana är:
+
+* Kön
+* Klass
+* Etnicitet
+* Sexualitet
+* Funktionalitet
+* Ålder
+
+### Kön & Genus
+Vad gäller den sociala kategorin "kön" är det viktigt att dela upp denna. Dels kan vi tala om _biologiskt kön_ och dels kan vi tala om **genus** (det sociala könet). Genus är "summan" av alla de normer som är kopplade till vår könstillhörighet – vårt genus handlar om _könsroller_ och inte om naturliga skillnader. Genus är någonting som skapas inom vår kultur (en social konstruktion) och inget vi föds med. Vi _socialiseras_ in i vårt genus, vi lär oss att vara "som män" eller "som kvinnor". 
+
+### Klass
+När vi pratar om olika klasser i samhället kan vi göra olika indelningar. Vanligast är att man pratar om överklass, medelklass och arbetarklass/underklass. Men vad handlar då klass om? Ofta tänker vi på ekonomi, om att de som tillhör en högre klass har mer pengar och tillgångar än de som tillhör en lägre klass. Men klass handlar inte bara om detta. Sociologen Pierre Bourdieu menar att klass framförallt handlar om vilken tillgång man har till följande fyra typer av kapital: 
+
+1. **Ekonomiskt kapital** – Pengar på banken, men även tillgångar, alltså sådant man äger, exempelvis hus, bil, företag, osv. 
+2. **Kulturellt kapital** – Sådant som: smak, etikett, språk, utbildning. 
+3. **Socialt kapital** – Vilka man känner. De sociala nätverk man har påverkar ens möjligheter att påverka, både sitt eget liv och andras. 
+4. **Symboliskt kapital** – Detta sista kapital är egentligen inte så mycket ett eget kapital som ett _uttryck_ för de övriga kapitalen. Detta kapital handlar om hur vi visar vår klasstillhörighet för andra. Enklast är att tänka på konsumtion: exempelvis vilken stil jag har (kläder osv).
+
+### Etnicitet
+
+Exempel på olika etniska grupper kan vara "Svenskar", "Iranier", "Engelsmän", "Kroater", "Greker", "Turkar", osv. 
+
+_En etnisk grupp har:_
+
+- Känsla av samhörighet: man tillhör ett folk med en gemensam bakgrund och historia
+- Gemensam kultur: sådant som traditioner, seder, språk, litteratur, religion, osv. 
+- Någon form av härkomst: en plats där man "hör till" eller kommer ifrån (detta är dock mer komplicerat i vissa fall).
+
+<!--Läs mer om etnicitet på sid 28-31 i Arena.  -->
+
+### Intersektionalitet
+
+Olika positioner och sociala kategorier samverkar med varandra. Det är exempelvis en sak att vara arbetarklass och man och det är (ofta) en helt annan sak att vara arbetarklass och kvinna. Intersektionalitet handlar i detta inte bara om att det är "extra jobbigt" att tillhöra flera missgynnade sociala kategorier (exempelvis: kvinna, svart/rasifierad och arbetarklass) utan också om att själva de sociala kategorierna *förändras* genom relationen mellan dem. Vad det exempelvis *innebär* att vara arbetarklass är olika beroende på om man är kvinna eller man, och vad det i sin tur innebär att vara kvinna är beroende av om man är "vit" eller "rasifierad", osv. 
+
+**Kommentar**: Begreppet "rasifiering" belyser att det framförallt är "icke-vita" och "icke-etniskt" västerländska personer som ses som "en viss typ" (ras) av människor. Vita, västerländska människor är, i stort, normen (och därmed inte det "avvikande"). Kring vita människor sker kort sagt inte samma typ av stereotypifiering (fördomar) som kring "icke-vita" (rasifierade). <!--En grundbult i den moderna rasismen om man så vill.  -->
+
 
 ## Makt
-
-_Makt kan handla om:_
-
-1. **Direkt makt:** Någon får mig att göra något jag annars inte skulle göra. Ofta med ett direkt eller indirekt hot om bestraffning om jag ej gör så.
-
-2. **Dagordningsmakt**: Vissa har mer makt över _vad_ vi talar och beslutar om – media och politiker i synnerhet (och jag som lärare för den delen). 
-
-3. **Makten över tanken**: Vissa har makt över vårt *perspektiv* på verkligheten. Dels över vad vi tror och tänker om saker, men också över vad vi vill (våra önskningar) och hur vi uppfattar oss själva.
 
 ### Maktordning
 
@@ -80,12 +114,15 @@ Då vi talar om maktordning i relation till klass talar vi om ett _klassamhälle
 
 Dessa två typer av maktordningar är dock inte de enda: samhällen skiktas också utifrån sådant som etnicitet, sexualitet, funktionalitet, ålder, osv. 
 
-#### Intersektionalitet
+### Typer av makt
 
-Olika positioner och sociala kategorier samverkar med varandra. Det är exempelvis en sak att vara arbetarklass och man och det är (ofta) en helt annan sak att vara arbetarklass och kvinna. Intersektionalitet handlar i detta inte bara om att det är "extra jobbigt" att tillhöra flera missgynnade sociala kategorier (exempelvis: kvinna, svart/rasifierad och arbetarklass) utan också om att själva de sociala kategorierna *förändras* genom relationen mellan dem. Vad det exempelvis *innebär* att vara arbetarklass är olika beroende på om man är kvinna eller man, och vad det i sin tur innebär att vara kvinna är beroende av om man är "vit" eller "rasifierad", osv. 
+_Makt kan handla om:_
 
-**Kommentar**: Begreppet "rasifiering" belyser att det framförallt är "icke-vita" och "icke-etniskt" västerländska personer som ses som "en viss typ" (ras) av människor. Vita, västerländska människor är, i stort, normen (och därmed inte det "avvikande"). Kring vita människor sker kort sagt inte samma typ av stereotypifiering (fördomar) som kring "icke-vita" (rasifierade). <!--En grundbult i den moderna rasismen om man så vill.  -->
+1. **Direkt makt:** Någon får mig att göra något jag annars inte skulle göra. Ofta med ett direkt eller indirekt hot om bestraffning om jag ej gör så.
 
+2. **Dagordningsmakt**: Vissa har mer makt över _vad_ vi talar och beslutar om – media och politiker i synnerhet (och jag som lärare för den delen). 
+
+3. **Makten över tanken**: Vissa har makt över vårt *perspektiv* på verkligheten. Dels över vad vi tror och tänker om saker, men också över vad vi vill (våra önskningar) och hur vi uppfattar oss själva.
 
 ## Diskriminering
 
