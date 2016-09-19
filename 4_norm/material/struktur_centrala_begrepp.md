@@ -137,9 +137,9 @@ Det är exempelvis skillnad på om jag inte får ett jobb därför att arbetsgiv
 
 ### Strukturell diskriminering
 
-Man kan givetvis diskrimineras av en enskild grupp, eller  "endast" av en enskild person, men ofta innebär diskriminering också en **strukturell diskriminering**. En sådan handlar antingen om att man diskrimineras genom *samhällets lagar* eller *samhällets normer*.
+Man kan givetvis diskrimineras av en enskild grupp, eller  "endast" av en enskild person, men ofta innebär diskriminering (också) en **strukturell diskriminering**. Detta innebär att vi ofta kan se en viss upprepning i hur människor blir behandlade och att vissa grupper missgynnas mer än andra genom *samhällets lagar* och/eller *samhällets normer*.
 
-I Sverige är det få lagar som verkar direkt diskriminerande –  de allra flesta sådana lagar är borta sedan länge. Värre är den svenska kulturen och samhällets normer. Även om Sverige  till stora delar *är* och *upplever sig* som ett allmänt tolerant och "upplyst" land där alla *ska* "behandlas lika", så diskrimineras människor dagligen (och systematiskt).
+I Sverige är det få lagar som verkar direkt diskriminerande –  de allra flesta sådana lagar är borta sedan länge. Värre är den svenska kulturen och samhällets normer. Även om Sverige  till stora delar *är* och *upplever sig* som ett allmänt tolerant och "upplyst" land där alla *ska* "behandlas lika", så diskrimineras människor dagligen (och systematiskt). Detta är dock inte detsamma som att alla är medvetna om den strukturella diskrimineringen. Strukturell diskriminering handlar ofta om "små saker" som upprepas vid flera tillfällen men som tillsammans skapar stora problem för de som är utsatta. 
 
 _Då det sker strukturell diskriminering innebär detta att:_
 
