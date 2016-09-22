@@ -8,12 +8,17 @@
 
 2. Välj ut minst ett citat som du inte helt och fullt håller med om. Anteckna ditt svar med en utredande motivering! Vilka är dina invändningar?
 
+3. Fyll i [detta formulär](https://goo.gl/forms/I7ypCw3AzVDiSyYQ2) för att vi senare i helklass snabbt ska kunna se vilka citat som är mest populära och inte. 
+
 #### Att göra i grupp:
 
 * Jämför era val av citat och era motiveringar. Var skiljer ni er åt? Vad har ni gemensamt?
- 
 * Fanns det vissa citat som ni tolkade olika? Hurdå?
 
+#### Att göra i helklass
+
+* Vi tittar på hur ni svarat i formuläret.
+* Vi diskuterar era olika motiveringar och vad ni i grupperna kom fram till. 
 
 
 ## Citat
