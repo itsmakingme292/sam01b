@@ -13,24 +13,33 @@ _Mer konkret innebär detta att ni utreder sådant som:_
 2. Fördelar och nackdelar med representativ demokrati och hur en sådan fungerar på bästa sätt.
 3. Vilka kriterier eller krav för en god demokrati som Sverige uppfyller (eller inte uppfyller) och i vilken utsträckning. 
 
-Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart ni vill lägga tyngdpunkten.  Det sagt har ni ett begränsat antal sidor att skriva på, så börja först med att _planera_ vad ni tycker är viktigt att ta upp – gärna i diskussion med mig. Till er hjälp har ni nedanstående centrala delar och begrepp att utgå ifrån (och även [instuderingsfrågorna](instuderingsfragor_demokrati.md)).
+Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart ni vill lägga tyngdpunkten. Det sagt har ni ett begränsat antal sidor att skriva på, så börja först med att _planera_ vad ni tycker är viktigt att ta upp – gärna i diskussion med mig. Till er hjälp har ni nedanstående centrala delar och begrepp att utgå ifrån (och även [instuderingsfrågorna](instuderingsfragor_demokrati.md)).
 
 ## Centrala delar & begrepp
 
 <!--*Fetstilade delar och begrepp är möjligen extra viktiga, men inget är oviktigt. Försök själva avgöra vad ni anser måste vara med i er text...* -->
 
-* Skillnaden mellan **representativ demokrati** och **direktdemokrati**. Olika funktioner inom den representativa demokratin, exempelvis remissrunda, eller sådant som poängen med partisystemet.
-* Tillförlitliga och regelbundna val. Allmän, lika och hemlig **rösträtt**, samt majoritetsprincipen.
-* **Grundlagarna** som en garant för demokratin. Vad de innehåller och vilken funktion de fyller. 
-* Grundläggande fri- och rättigheter. <!--Ens ha med denna? Hette mänskliga rättigheter innan -->
-* **Opinionsfriheter**, så som **yttrandefrihet**, mötesfrihet,  demonstrationsfrihet, **pressfrihet** och  föreningsfrihet/organisationsfrihet.
-* **Rättssäkerhet** och likhet inför lagen
-* **Genomskinlighet**: Offentlighetsprincipens roll för den svenska demokratin. 
-* Utbildning och dess demokratiska värde. 
-* **Politiskt deltagande** och demokratisk kultur. Vilket exempelvis kan kopplas till de olika opinionsfriheterna och begreppet deltagardemokrati kontra begreppet elitdemokrati/valdemokrati.
-* Att politiker utgår ifrån "folkviljan" – att de är lyhörda. Samt hur detta hänger ihop med den representativa demokratin och politiskt deltagande.
+* Skillnaden mellan **representativ demokrati** och **direktdemokrati** samt skillnaden mellan **deltagardemokrati** och **elitdemokrati**/valdemokrati. 
+* Tillförlitliga och regelbundna val. Allmän, lika och hemlig **rösträtt**
+* **Grundlagarna** som en garant för demokratin och våra grundläggande fri- och rättigheter. Vad de innehåller och vilken funktion de fyller. 
+* **Opinionsfriheter** – yttrandefrihet, mötesfrihet,  demonstrationsfrihet, pressfrihet och  föreningsfrihet/organisationsfrihet.
+* Vikten av **rättssäkerhet** och likhet inför lagen.
+* **Genomskinlighet** och offentlighetsprincipens roll för den svenska demokratin. 
+* **Utbildning** och dess demokratiska värde. 
+* **Politiskt deltagande** och demokratisk kultur. Vilket exempelvis kan kopplas till de olika opinionsfriheterna och begreppet deltagardemokrati kontra begreppet elitdemokrati/valdemokrati. 
+* Vad det innebär att politiker är **lyhörda** och utgår ifrån "folkviljan". Samt hur detta hänger ihop med den representativa demokratin och politiskt deltagande. 
 
-**OBS:** Tänk på att att inte bara rada upp dessa aspekter en efter en, utan försök också att utreda hur de hänger ihop. 
+<!--Inför punkten om folkviljan igen och ha med remissinstanser etc under denna Mjae? Eller? Alltså typ: -->
+<!--Vad det innebär att politiker är **lyhörda** och utgår ifrån "folkviljan". Hur detta hänger ihop med den representativa demokratin och politiskt deltagande genom konkreta exempel så som remissrundor. -->
+
+
+**OBS:** Tänk på att att inte bara rada upp dessa aspekter en efter en, utan försök också att utreda hur de hänger ihop. Tänk också på att exemplifiera.
+
+<!--borttaget: * Grundläggande fri- och rättigheter. -->
+<!--borttaget: , samt majoritetsprincipen. -->
+<!--borttaget: Olika funktioner inom den representativa demokratin, exempelvis remissrunda, eller sådant som poängen med partisystemet.  -->
+<!--borttaget: Att politiker utgår ifrån "**folkviljan**" – att de är lyhörda. Samt hur detta hänger ihop med den representativa demokratin och politiskt deltagande. -->
+
 
 ## Att göra 
 
@@ -70,9 +79,9 @@ Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart 
 
 #### Kriterier för betyget A
 
-- Eleven **redogör utförligt** och **nyanserat** för **flertalet** centrala delar av **Sveriges politiska system** samt för **flertalet** av de krav man kan ställa på en **god demokrati**. I detta visar eleven en träffsäkerhet och självständighet vad gäller sitt urval.
+- Eleven **redogör utförligt** och **nyanserat** för **flertalet** centrala delar av **Sveriges politiska system** samt för **flertalet** av de krav man kan ställa på en **god demokrati**. I detta visar eleven en **träffsäkerhet** och **självständighet** vad gäller sitt **urval**.
 
-- I sin analys av demokratibegreppet förklarar eleven **komplexa samband** och **identifierar** **flertalet frågor** och **problem** i relation till **Sveriges politiska system**. 
+- I sin analys av demokratibegreppet förklarar eleven **komplexa samband** och **identifierar** **flertalet frågor** och **problem** i relation till **Sveriges politiska system**. I detta använder eleven tydliga och belysande **exempel**. 
 
 - Eleven använder **med säkerhet** samhällsvetenskapliga begrepp och modeller **samt värderar dem med nyanserade omdömen**. 
 
