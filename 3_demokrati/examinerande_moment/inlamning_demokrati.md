@@ -19,6 +19,8 @@ Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart 
 
 <!--*Fetstilade delar och begrepp är möjligen extra viktiga, men inget är oviktigt. Försök själva avgöra vad ni anser måste vara med i er text...* -->
 
+**Kommentar:** Nedanstående lista är inte heltäckande utan en guide. 
+
 * Skillnaden mellan **representativ demokrati** och **direktdemokrati** samt skillnaden mellan **deltagardemokrati** och **elitdemokrati**/valdemokrati. 
 * Tillförlitliga och regelbundna val. Allmän, lika och hemlig **rösträtt**
 * **Grundlagarna** som en garant för demokratin och våra grundläggande fri- och rättigheter. Vad de innehåller och vilken funktion de fyller. 
@@ -32,12 +34,11 @@ Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart 
 <!--Inför punkten om folkviljan igen och ha med remissinstanser etc under denna Mjae? Eller? Alltså typ: -->
 <!--Vad det innebär att politiker är **lyhörda** och utgår ifrån "folkviljan". Hur detta hänger ihop med den representativa demokratin och politiskt deltagande genom konkreta exempel så som remissrundor. -->
 
-
 **OBS:** Tänk på att att inte bara rada upp dessa aspekter en efter en, utan försök också att utreda hur de hänger ihop. Tänk också på att exemplifiera.
 
 <!--borttaget: * Grundläggande fri- och rättigheter. -->
 <!--borttaget: , samt majoritetsprincipen. -->
-<!--borttaget: Olika funktioner inom den representativa demokratin, exempelvis remissrunda, eller sådant som poängen med partisystemet.  -->
+<!--borttaget: Olika funktioner inom den representativa demokratin, exempelvis remissrunda, eller sådant som poängen med partisystemet. -->
 <!--borttaget: Att politiker utgår ifrån "**folkviljan**" – att de är lyhörda. Samt hur detta hänger ihop med den representativa demokratin och politiskt deltagande. -->
 
 
@@ -79,7 +80,9 @@ Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart 
 
 #### Kriterier för betyget A
 
-- Eleven **redogör utförligt** och **nyanserat** för **flertalet** centrala delar av **Sveriges politiska system** samt för **flertalet** av de krav man kan ställa på en **god demokrati**. I detta visar eleven en **träffsäkerhet** och **självständighet** vad gäller sitt **urval**.
+<!--Tog bort ”flertalet” i första punkten nu... -->
+
+- Eleven **redogör utförligt** och **nyanserat** för centrala delar av **Sveriges politiska system** samt för de krav man kan ställa på en **god demokrati**. I detta visar eleven en **träffsäkerhet** och **självständighet** vad gäller sitt **urval**
 
 - I sin analys av demokratibegreppet förklarar eleven **komplexa samband** och **identifierar** **flertalet frågor** och **problem** i relation till **Sveriges politiska system**. I detta använder eleven tydliga och belysande **exempel**. 
 
