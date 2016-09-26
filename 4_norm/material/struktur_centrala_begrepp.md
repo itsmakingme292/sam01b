@@ -14,7 +14,9 @@ Samhällets (hela) struktur har i detta två olika delar. De **formella struktur
 
 **Kommentar:** Vad gäller kopplingen mellan det formella och det informella kan vi antingen stifta lagar för att _stärka_ vissa normer eller tvärtom för att _motverka_ vissa normer. Exempelvis kanske vi stiftar lagar som förbjuder bruk av narkotika (och därmed stärker normen att "det är dåligt att knarka") eller så kanske vi stiftar en lag om delad föräldraledighet för att få fler pappor att vara pappalediga och därmed motverka normen att "kvinnor är mer omhändertagande än män". 
 
-Begreppet **norm** ligger inte jättelångt ifrån begreppet struktur. Skillnaden är att en norm är en specifik oskriven regel, värdering eller ett ideal och att flera normer tillsammans är med och skapar en viss struktur (ett samspelsmönster). I vissa sammanhang kan vi även kalla en juridisk lag för en norm, men det är vanligen inte det vi menar med begreppet. 
+Begreppet **norm** ligger inte jättelångt ifrån begreppet struktur. Skillnaden är att en norm är en specifik oskriven regel, värdering eller ett ideal och att flera normer tillsammans är med och skapar en viss struktur (ett samspelsmönster). 
+
+<!--borttaget: I vissa sammanhang kan vi även kalla en juridisk lag för en norm, men det är vanligen inte det vi menar med begreppet.  -->
 
 Ett samhälle binds samman av gemensamma förväntningar och regler (nedskrivna som oskrivna). Samhällsstrukturen är en slags ram för samhället som reglerar vilka beteenden som är ok och inte. Samhällets strukturer kan därför vara lika förtryckande som de är nödvändiga. Strukturer möjliggör vårt liv tillsammans men de kan också innebära en ibland oönskad och ofta problematisk makt över våra liv genom att de begränsar oss i hur vi tillåts vara. 
 
@@ -24,7 +26,7 @@ Ett samhälle binds samman av gemensamma förväntningar och regler (nedskrivna 
 
 I _Arena_ på sidan 20 används begreppet "normen". Detta begrepp skiljer sig från begreppet "normer". Med **normen** menar man (ibland) den grupp som det är mest gynnsamt att vara och bete sig som. 
 
-Om vi pratar om "mannen som norm" eller säger att "mannen är normen i vårt samhälle" menar vi att män (generellt sett) har mer makt än kvinnor och att vad vi ser som typiskt manliga egenskaper är mer eftersträvansvärt än vad vi ser som typiskt kvinnliga egenskaper. I detta blir "mannen" en slags måttstock som allt annat vägs emot (i detta fall: kvinnor). 
+Om vi pratar om "mannen som norm" eller säger att "mannen är normen i vårt samhälle" menar vi att män (generellt sett) har mer makt än kvinnor och att vad vi ser som typiskt manliga egenskaper är mer eftersträvansvärda än vad vi ser som typiskt kvinnliga egenskaper. Det som är "manligt" blir en slags måttstock som allt annat vägs emot (i detta fall, mer konkret: det som är kvinnligt). 
 
 I detta hänger givetvis de två begreppen ihop. Om det ska vara gynnsamt för mig att "vara man" måste jag också "bete mig som en man", vilket innebär att jag följer de **normer** som hör till att vara en man. Med andra ord att jag beter mig som män förväntas bete sig. 
 
@@ -52,7 +54,7 @@ _Att vi alla tillhör olika kulturer/grupper innebär:_
 
 2. Att vi ofta(st) väljer, eller tvingas, att följa normer för att inte hamna utanför gruppen, eller på ett eller annat sätt bli "straffade".
 
-Detta kallas **socialisation** och denna är en till stor omedveten _process_. Den händer utan att vi tänker på det. När vi i sin tur, genom både handling och kommunikation, "fostrar" andra i de regler, värderingar och normer _vi lärt oss_ **reproducerar** vi dessa (vi "återskapar" dem).
+Detta kallas **socialisation** och denna är en till stor omedveten _process_. Denna händer utan att vi tänker på det. När vi i sin tur, genom både handling och kommunikation, "fostrar" andra i de regler, värderingar och normer _vi lärt oss_ **reproducerar** vi dessa (vi "återskapar" dem).
 
 
 ### Identitet & norm
@@ -82,7 +84,7 @@ När vi pratar om olika klasser i samhället kan vi göra olika indelningar. Van
 
 1. **Ekonomiskt kapital** – Pengar på banken, men även tillgångar, alltså sådant man äger, exempelvis hus, bil, företag, osv. 
 2. **Kulturellt kapital** – Sådant som: smak, etikett, språk, utbildning. 
-3. **Socialt kapital** – Vilka man känner. De sociala nätverk man har påverkar ens möjligheter att påverka, både sitt eget liv och andras. 
+3. **Socialt kapital** – Vilka man känner. De(t) sociala nätverk man har påverkar ens möjligheter att påverka, både sitt eget liv och andras. 
 4. **Symboliskt kapital** – Detta sista kapital är egentligen inte så mycket ett eget kapital som ett _uttryck_ för de övriga kapitalen. Detta kapital handlar om hur vi visar vår klasstillhörighet för andra. Enklast är att tänka på konsumtion: exempelvis vilken stil jag har (kläder osv).
 
 ### Etnicitet
