@@ -62,9 +62,9 @@ Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart 
 
 - Eleven **redogör översiktligt** för **några** centrala delar av **Sveriges politiska system** samt för **några** av de krav man kan ställa på en **god demokrati**.
 
-- Eleven **analyserar** **begreppet demokrati** och **identifierar** **någon fråga** och **något problem** i relation till **Sveriges politiska system**. 
+- Eleven **analyserar översiktligt begreppet demokrati** och **identifierar** **någon fråga** och **något problem** i relation till **Sveriges politiska system**. 
 
-- Eleven använder med **viss säkerhet** **samhällsvetenskapliga begrepp** och modeller.
+- Eleven använder med **viss säkerhet** **samhällsvetenskapliga begrepp** och modeller. <!--Lägga till ”begränsad" här? -->
 
 - Eleven drar **enkla slutsatser** och ger **enkla argument** för sin egen ståndpunkt gällande graden av demokrati i Sverige.
 
@@ -72,7 +72,7 @@ Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart 
 
 - Eleven **redogör utförligt** för **flertalet** centrala delar av **Sveriges politiska system** samt för **flertalet** av de krav man kan ställa på en **god demokrati**.
 
-- I sin analys av demokratibegreppet förklarar eleven **samband** och **identifierar** **flertalet frågor** och **några problem** i relation till **Sveriges politiska system**. 
+- Eleven **analyserar utförligt begreppet demokrati**. I sin analys förklarar eleven **samband** och **identifierar** **flertalet frågor** och **några problem** i relation till **Sveriges politiska system**. 
 
 - Eleven använder **med viss säkerhet** samhällsvetenskapliga begrepp och modeller, **samt värderar dem med enkla omdömen**.
 
@@ -84,7 +84,7 @@ Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart 
 
 - Eleven **redogör utförligt** och **nyanserat** för centrala delar av **Sveriges politiska system** samt för de krav man kan ställa på en **god demokrati**. I detta visar eleven en **träffsäkerhet** och **självständighet** vad gäller sitt **urval**
 
-- I sin analys av demokratibegreppet förklarar eleven **komplexa samband** och **identifierar** **flertalet frågor** och **problem** i relation till **Sveriges politiska system**. I detta använder eleven tydliga och belysande **exempel**. 
+- Eleven **analyserar utförligt och nyanserat begreppet demokrati**. I sin analys förklarar eleven **komplexa samband** och **identifierar** **flertalet frågor** och **problem** i relation till **Sveriges politiska system**. I detta använder eleven tydliga och belysande **exempel**. 
 
 - Eleven använder **med säkerhet** samhällsvetenskapliga begrepp och modeller **samt värderar dem med nyanserade omdömen**. 
 
