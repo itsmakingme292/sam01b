@@ -4,6 +4,8 @@
 
 Grundläggande för källhantering är att man uppger vart man hämtar sin information ifrån, inte plagierar och att man är _källkritisk_. Källkritik kommer vi att gå igenom under introduktionen och även återkomma till längre fram (framförallt under momentet kritiskt tänkande). För varje inlämningsuppgift står det i instruktionerna vad som gäller, men fråga mig om ni känner er osäkra. Se även länkarna nedan för vidare läsning.
 
+**Tips:** Jämför alltid olika källor och nöj er inte bara med en eller ett fåtal källor. Se alltid om samma information går att finna någon annanstans och försök så långt det är möjligt att finna förstahandskällor.
+
 ## Plagiat
 
 <!--I uppslagsverket nationalencyklopedin står det följande under begreppet _plagiat_: "efterapning eller stöld av litterära eller konstnärliga verk, t.ex. avskrivningar av annans verk utan att uppge upphovsmannen eller markera citat” (Nationalencyklopedin 2012). -->
