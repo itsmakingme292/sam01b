@@ -35,6 +35,7 @@
   * [Vad är en god demokrati?](3_demokrati/ovningar/demokrati_diskussionsfragor.md)
   * [Citat om demokrati](3_demokrati/ovningar/citat_tankar_demokrati.md)
   * [Sveriges politiska partier](3_demokrati/ovningar/sv_politiska_partier.md)
+  * [Yttrandefrihetens gränser](3_demokrati/ovningar/yttrandefrihet_ovning.md)
   <!--  * [Die Welle (Film)](3_demokrati/ovningar/die_welle.md) -->
   - - - -
   * # Examinerande moment
