@@ -33,8 +33,7 @@
 **Europeiska Unionen**
 111-122 (11 sid)
 
-**Sveriges politiska partier**
-154-164 (10 sid)
+<!--**Sveriges politiska partier** 154-164 (10 sid) -->
 
 ### Kompendium
 
