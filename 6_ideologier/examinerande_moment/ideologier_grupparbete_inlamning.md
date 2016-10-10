@@ -13,7 +13,7 @@
 **Tips:** Försök för denna uppgift inte bara tänka kring vad vi gått igenom under detta moment, utan också vad ni lärt er under tidigare moment...
 
 ### Att göra:
-1. Sätt er in i ideologierna med fokus på den ideologi ni kommer att representera. Börja inte direkt med själva grupparbetet, utan förbered er först individuellt. Läs och reflektera kring sidorna 133–154 i läroboken, extra-material i denna wiki och sök efter  andra källor. 
+1. Sätt er in i ideologierna med fokus på den ideologi ni kommer att representera. Börja inte direkt med själva grupparbetet, utan förbered er först individuellt. Läs och reflektera kring sidorna 133–154 i läroboken, extra-material här på hemsidan och sök efter  andra källor. 
 2. Skapa ett gemensamt dokument, förslagsvis i Google Docs (detta kommer att underlätta).
 3. Diskutera i gruppen vad ideologierna säger om:
 

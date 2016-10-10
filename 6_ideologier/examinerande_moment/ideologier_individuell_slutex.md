@@ -47,7 +47,7 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 1. Du läser och reflekterar kring sidorna **133–154 i läroboken.** 
 
-2. Du *bör* för denna uppgift använda dig av **ytterligare källor utöver Arena** och/eller åtminstone extra-material i denna wiki (se ["Det goda samhället"](../material/om_ideologierna.md)). För denna uppgift är det också *obligatoriskt* med en **källförteckning**. Vid direkta citat eller referat krävs också *källhänvisning* i text. 
+2. Du *bör* för denna uppgift använda dig av **ytterligare källor utöver Arena** och/eller åtminstone extra-material på denna hemsida (se ["Det goda samhället"](../material/om_ideologierna.md)). För denna uppgift är det också *obligatoriskt* med en **källförteckning**. Vid direkta citat eller referat krävs också *källhänvisning* i text. 
 
 3. Du genomför den huvudsakliga uppgiften på **minst 1 A4** och **max 3,5 A4** (teckenstorlek 12, vanligt radavstånd, standard sid-marginaler, källförteckning ej inräknad). 
 

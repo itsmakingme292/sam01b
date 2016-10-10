@@ -25,7 +25,7 @@
 15-34 (20 sid)
 
 
-#### Denna wiki
+#### Denna hemsida
 
 Se [centrala begrepp](struktur_centrala_begrepp.md) i huvudmenyn...
 
