@@ -39,7 +39,8 @@ Uppdelningen av dessa instuderingsfrågor följer till viss del ordningen i boke
 
     - Vilka krav/kriterier tycker du är extra viktiga att trycka på? Varför? Resonera lite extra kring minst 3 av de vanliga kraven/kriterierna (gärna några andra än allmän och lika rösträtt och majoritetsprincipen, eftersom dessa ändå är mer självklara). 
 
-    - Om du kommer på någon eget krav/kriterium som du tycker saknas: beskriv detta och ge argument för varför du tycker det är viktig.
+<!--    - Om du kommer på någon eget krav/kriterium som du tycker saknas: beskriv detta och ge argument för varför du tycker det är viktig. -->
+
     
 
 
@@ -72,7 +73,6 @@ Uppdelningen av dessa instuderingsfrågor följer till viss del ordningen i boke
 	- Vilka grundläggande fri- och rättigheter fastslås i RF?
 
 
-
 ## Riksdag och regering
 
 #### Kortare frågor:
@@ -99,7 +99,7 @@ Uppdelningen av dessa instuderingsfrågor följer till viss del ordningen i boke
 
 - Vad är Justitieombudsmännen (JO)? Beskriv kortfattat funktionen med detta och vilka som kan vända sig dit.
 
-- Vad innebär ministerstyre? Är detta överhuvudtaget lagligt i Sverige? Varför anser vi i Sverige (kortfattat) att detta är något dåligt?
+<!--- Vad innebär ministerstyre? Är detta överhuvudtaget lagligt i Sverige? Varför anser vi i Sverige (kortfattat) att detta är något dåligt? -->
 
 - Vad är en budgetproposition? Hur ofta, och av vem, framläggs en sådan? Vad innehåller denna kortfattat?
 
