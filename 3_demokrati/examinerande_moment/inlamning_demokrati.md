@@ -33,11 +33,7 @@ Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart 
 
 **OBS:** Tänk på att att inte bara rada upp dessa aspekter en efter en, utan försök också att utreda hur de hänger ihop. Tänk också på att exemplifiera.
 
-<!--borttaget: * Grundläggande fri- och rättigheter. -->
-<!--borttaget: , samt majoritetsprincipen. -->
 <!--borttaget: Olika funktioner inom den representativa demokratin, exempelvis remissrunda, eller sådant som poängen med partisystemet. -->
-<!--borttaget: Att politiker utgår ifrån "**folkviljan**" – att de är lyhörda. Samt hur detta hänger ihop med den representativa demokratin och politiskt deltagande. -->
-
 
 ## Att göra 
 
