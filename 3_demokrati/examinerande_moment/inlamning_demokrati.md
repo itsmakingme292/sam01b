@@ -17,11 +17,7 @@ Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart 
 
 ## Centrala delar & begrepp
 
-<!--*Fetstilade delar och begrepp är möjligen extra viktiga, men inget är oviktigt. Försök själva avgöra vad ni anser måste vara med i er text...* -->
-
 <!--**Kommentar:** Nedanstående lista är inte heltäckande utan en guide.  -->
-<!--tog bort ovan eftersom det bara blev förvirrande -->
-
 
 * Skillnaden mellan **representativ demokrati** och **direktdemokrati** samt skillnaden mellan **deltagardemokrati** och **elitdemokrati**/valdemokrati. 
 * Tillförlitliga och regelbundna val. Allmän, lika och hemlig **rösträtt**
@@ -33,7 +29,6 @@ Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart 
 * **Politiskt deltagande** och demokratisk kultur. Vilket exempelvis kan kopplas till de olika opinionsfriheterna och begreppet deltagardemokrati kontra begreppet elitdemokrati/valdemokrati. 
 * Vad det innebär att politiker är **lyhörda** och utgår ifrån "folkviljan". Samt hur detta hänger ihop med den representativa demokratin och politiskt deltagande. 
 
-<!--Inför punkten om folkviljan igen och ha med remissinstanser etc under denna Mjae? Eller? Alltså typ: -->
 <!--Vad det innebär att politiker är **lyhörda** och utgår ifrån "folkviljan". Hur detta hänger ihop med den representativa demokratin och politiskt deltagande genom konkreta exempel så som remissrundor. -->
 
 **OBS:** Tänk på att att inte bara rada upp dessa aspekter en efter en, utan försök också att utreda hur de hänger ihop. Tänk också på att exemplifiera.
