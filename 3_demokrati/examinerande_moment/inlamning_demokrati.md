@@ -19,7 +19,9 @@ Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart 
 
 <!--*Fetstilade delar och begrepp är möjligen extra viktiga, men inget är oviktigt. Försök själva avgöra vad ni anser måste vara med i er text...* -->
 
-**Kommentar:** Nedanstående lista är inte heltäckande utan en guide. 
+<!--**Kommentar:** Nedanstående lista är inte heltäckande utan en guide.  -->
+<!--tog bort ovan eftersom det bara blev förvirrande -->
+
 
 * Skillnaden mellan **representativ demokrati** och **direktdemokrati** samt skillnaden mellan **deltagardemokrati** och **elitdemokrati**/valdemokrati. 
 * Tillförlitliga och regelbundna val. Allmän, lika och hemlig **rösträtt**
