@@ -6,7 +6,7 @@ Obligatoriskt för denna uppgift är **Liberalismen** och **Socialismen** (och d
 
 **Tips:** Försök för denna uppgift inte bara tänka kring vad vi gått igenom under detta moment, utan också vad ni lärt er under tidigare moment...
 
-#### 1) Beskriv dina tre ideologier, samt dess olika grenar
+#### 1) Beskriv dina ideologier, samt dess olika grenar
 
 Vilka är de mest utmärkande dragen? Vad säger de exempelvis om:
 
