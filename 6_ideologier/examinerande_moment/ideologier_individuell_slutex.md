@@ -61,7 +61,7 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 <!--Borttaget under nummer 3:För den källkritiska analysen skriver du **minst 0,5 A4** och **max 1 A4** i slutet av din text. Totalt blir sidantalet alltså **max 4,5 sidor**. -->
 
-## Betygskriterier för uppgiften
+## Kunskapskrav för uppgiften
 
 #### Kriterier för betyget E
 

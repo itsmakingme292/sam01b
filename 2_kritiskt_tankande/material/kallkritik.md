@@ -9,6 +9,8 @@
 * ["Kolla källan" – Skolverkets portal för material om källhantering](http://www.skolverket.se/skolutveckling/resurser-for-larande/kollakallan). 
 	* Se exempelvis ["handledning i källkritik"](http://www.skolverket.se/skolutveckling/resurser-for-larande/kollakallan/kallkritik/fakta/handledning-i-kallkritik-1.150994)
 
+* [Amnesty, övningar i källkritik](http://www.anpdm.com/newsletterweb/4440504B754642504079474059/464250447945405D447541425943)
+
 ## Viralgranskning
 * [Viralgranskaren](http://www.metro.se/nyheter/viralgranskaren/): Tidningen Metro satsning där de granskar falska nyheter som sprids genom sociala medier. Se bland annat deras [varningslista](http://www.metro.se/nyheter/viralgranskarens-varningslista/EVHnfy!7M3vaeeacrHw2/) över sidor som sprider falska nyheter.
 * [Youtube DataViewer](http://www.amnestyusa.org/citizenevidence/): Amnesty internationals sida där man kan klistra in länken till ett Youtubeklipp för att se om detta kommer från ett helt annat sammanhang än det som påstås.

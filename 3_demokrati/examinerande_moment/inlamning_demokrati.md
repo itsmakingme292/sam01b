@@ -49,7 +49,7 @@ Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart 
 
 **OBS:** Misslyckas man med någon av punkterna 2-5 räknas det som en icke inlämnad uppgift... Vid osäkerhet om vad detta innebär: fråga mig.
 
-## Betygskriterier för uppgiften
+## Kunskapskrav för uppgiften
 
 #### Kriterier för betyget E
 

@@ -24,7 +24,7 @@
 
 - Presentation i olika former och med olika tekniker med betoning på det skriftliga och muntliga, till exempel debatter, debattartiklar och rapporter.
 
-## Kunskapskrav (betygskriterier)
+## Kunskapskrav
 
 ### Betyget E
 

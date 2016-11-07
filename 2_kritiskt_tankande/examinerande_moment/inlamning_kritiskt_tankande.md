@@ -58,7 +58,7 @@ Uppgiften går ut på att skriva en artikel om kritiskt tänkande (som ämnesomr
 
 
 
-## Betygskriterier för uppgiften
+## Kunskapskrav för uppgiften
 
 **Kriterier för betyget E**
 
