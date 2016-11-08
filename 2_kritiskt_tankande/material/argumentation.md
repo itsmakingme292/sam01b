@@ -38,9 +38,11 @@ Något som hänger ihop med behovet av preciseringar är skillnaden mellan vad v
 
 <!--nedan är första delen av detta avsnitt från filosofin (inga ändringar), ovanstående är dock tillagt -->
 
-Ett **implicit** påstående är ett påstående som "gömmer sig" bakom och/eller *logiskt följer* _av_ ett annat påstående. Det vi påstår implicit är allt det som vi *indirekt* säger. Om jag exempelvis påstår att min favoritfärg är röd påstår jag också *implicit* att min favoritfärg *inte är grön*. Att min favoritfärg inte är grön är en *logisk konsekvens* av att min favoritfärg är röd – och därför vad jag _också_ påstår _indirekt_ (även om jag _i ord_ inte säger just det). Ett **explicit** påstående är tvärtom det som vi _ordagrant_ yttrar. Alltså i detta fall endast det direkta påståendet: ”Min favoritfärg är röd”.
+Ett **implicit** påstående är ett påstående som *logiskt följer* _av_ ett annat påstående. Det vi påstår implicit är allt det som vi *indirekt* säger. Om jag exempelvis påstår att min favoritfärg är röd påstår jag också *implicit* att min favoritfärg *inte är grön*. Att min favoritfärg inte är grön är en *logisk konsekvens* av att min favoritfärg är röd – och därför vad jag _också_ påstår _indirekt_ (även om jag _i ord_ inte säger just det). Ett **explicit** påstående är tvärtom det som vi _ordagrant_ yttrar. Alltså i detta fall endast det direkta påståendet: ”Min favoritfärg är röd”.
 
-Då vi kritiserar någon i en diskussion gör vi ofta detta lika mycket på grund av det som sagts implicit, som på grund av det som sagts explicit. Om en person hävdar att “alla i Sverige måste jobba” kan en annan raskt svara: “så du menar att man inte ska få vara barn, utbilda sig, vara sjukskriven, föräldraledig eller pensionär?”. Vad den den andra personen i ett sådant fall gör är att den utsätter den första för *implikationen* av det som sagts explicit. 
+Att se till det implicita är alltid en bra början för kritisk granskning. Om vi talar om den implicita meningen, eller det implicita budskapet, i en bok, film, eller liknande, så frågar vi oss vad som _verkligen_ sägs. Och då vi kritiserar någon i en diskussion gör vi ofta detta lika mycket på grund av det som sagts implicit, som på grund av det som sagts explicit. 
+
+Om en person hävdar att “alla i Sverige måste jobba” kan en annan raskt svara: “så du menar att man inte ska få vara barn, utbilda sig, vara sjukskriven, föräldraledig eller pensionär?”. Vad den den andra personen i ett sådant fall gör är att den utsätter den första för *implikationen* av det som sagts explicit. 
 
 > _Fler exempel på implikation_
 > > **Explicit**: Alla borde träna, minst två dagar i veckan
