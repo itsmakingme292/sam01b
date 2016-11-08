@@ -1,8 +1,11 @@
 # Debattartikel – MR
 
 ## Instruktioner
-Denna uppgift är ett samarbete mellan alla svensk- och samhällslärare som har ettor och [instruktioner finner ni här](https://docs.google.com/document/d/12XUVy49l6p7Dm8AWOjFtcjhyu9BLPF1qZvyScoRJCyw/edit?usp=sharing).
+Denna uppgift är ett samarbete mellan alla svensk- och samhällslärare som har ettor och [**instruktioner finner ni här**](https://docs.google.com/document/d/12XUVy49l6p7Dm8AWOjFtcjhyu9BLPF1qZvyScoRJCyw/edit?usp=sharing).
 
+
+## Planering
+[Övergripande lektionsöversikt, svenska, samhällskunskap](https://docs.google.com/document/d/1lM4MkPVZsYMwAXduCs_0L5gd0Z0PRgjigrvhPjMrPOI/edit?usp=sharing)
 
 
 ## Inlämning

@@ -1,5 +1,5 @@
 # Material från Amnesty
-På [skola.amnesty.se](http://skola.amnesty.se) finner ni allt skolmaterial från Amnesty. Nedanstående filmer passar bra som kortare introduktion i ämnet.  
+På [skola.amnesty.se](http://skola.amnesty.se) finner ni allt skolmaterial från Amnesty. Nedanstående filmer passar bra som kortare introduktion i ämnet. För den första finns också ett antal diskussionsfrågor att utgå ifrån. 
 
 ***
 
@@ -7,7 +7,7 @@ På [skola.amnesty.se](http://skola.amnesty.se) finner ni allt skolmaterial frå
 
 [](https://youtu.be/8ZlA82nXYDo)
 
-För diskussionsfrågor se: [skola.amnesty.se/film](http://skola.amnesty.se/film/)
+[Klicka här för diskussionsfrågor](http://skola.amnesty.se/documents/75/Film_diskussionsfragor.pdf)
 
 ## Filmen om Amnesty
 
