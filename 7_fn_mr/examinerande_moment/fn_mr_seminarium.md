@@ -89,6 +89,8 @@ För ett högre omdöme gäller det att du i hög grad
 
 #### Några förslag på länkar för vidare läsning
 
+* [Kärnkonventioner](http://www.humanrights.se/mr-kunskapsbank/lankkategorier/karnkonventioner/) Fonden för mänskliga rättigheter samlar på denna sida PDFs med alla kärnkonventioner och tilläggsprotokoll. 
+
 - [*fn.se*](http://www.fn.se) Svenska FN-förbundets hemsida. Mycket information om FN:s roll och folkrätt. Se exempelvis olika faktablad i PDF-format [här](http://www.fn.se/fn-info/vad-gor-fn/fn-fakta/)
 
 - [*skola.expo.se – de mänskliga rättigheterna*](http://skola.expo.se/de-manskliga-rattigheterna_158.html) "Expo Skola" är en sida som utvecklats av Expo, en organisation som verkar mot anti-demokratiska och rasistiska rörelser i samhället. Detta är deras pedagogiska material för mänskliga rättigheter.

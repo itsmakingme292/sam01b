@@ -2,6 +2,8 @@
 
 _Nedan finns 20 rättigheter uppräknade. Dessa är rättigheter som du och många människor dagligen kan ta för givna. Det kan dock inte alla människor på jorden göra – och nu inte heller  ni._
 
+<!--**PS:** I mån av tid kan vi upprepa hela proceduren nedan... -->
+
 ***
 
 ## Att göra på egen hand
@@ -33,5 +35,6 @@ _Nedan finns 20 rättigheter uppräknade. Dessa är rättigheter som du och mån
 18. Rätten att bära de kläder du vill.
 19. Rätten att utbilda dig till det du vill.
 20. Rätten att vara ihop med vem du vill.
+
 
 
