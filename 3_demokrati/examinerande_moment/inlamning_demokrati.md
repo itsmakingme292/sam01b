@@ -41,7 +41,7 @@ Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart 
 
 2. Du *bör* för denna uppgift använda dig av **ytterligare källor utöver Arena** och/eller åtminstone extra-material på denna hemsida. För denna uppgift är det *obligatoriskt* med en *källförteckning* (men ingen källkritisk analys). Vid direkta citat eller referat krävs också *källhänvisning* i text. 
 
-3. Du genomför den huvudsakliga uppgiften på **minst 1 A4** och **max 3 A4** (exklusive källförteckning). Detta med teckenstorlek 12, vanligt radavstånd, standard sid-marginaler, osv. 
+3. Du genomför uppgiften på **minst 1 A4** och **max 3 A4** (exklusive källförteckning). Detta med standard teckenstorlek, vanligt radavstånd, standard sid-marginaler, osv. 
 
 4. Du sparar dokumentet som/i formatet ”**PDF**” och döper dokumentet efter formen ”**Klass, Efternamn, Förnamn, Samhällskunskap, Demokrati**”
 
