@@ -27,6 +27,10 @@
 
 - Folkrätten och internationella domstolar (sid. 408-411)
 
+#### Powerpoint
+
+[Presentationen vi gått igenom under ett antal lektioner finner ni här](https://docs.google.com/presentation/d/1N7Ns1X6AHwfnSlMWRSKBThE0bP_tKlfQGHiiP4nP7MA/edit?usp=sharing)
+
 #### Kompendium
 
 [Allmän förklaring om de mänskliga rättigheterna](../material/resurser/allmanforklaringomdemanskligarattigheterna.pdf)
