@@ -3,7 +3,7 @@
 ## Instruktioner
 Denna uppgift är ett samarbete mellan alla svensk- och samhällslärare som har ettor och [**instruktioner finner ni här**](https://docs.google.com/document/d/12XUVy49l6p7Dm8AWOjFtcjhyu9BLPF1qZvyScoRJCyw/edit?usp=sharing).
 
-**Tips:** Utöver länktips i uppgiften ovan hittar ni också sidanvisningar för läroboken, powerpoint och mer övergripande länktips under ["Innehåll & Läslista"](../innehall_laslista_fn_mr.md) på denna hemsida. 
+**Tips:** Utöver länktips i uppgiften ovan hittar ni också sidanvisningar för läroboken, powerpoint och mer övergripande länktips under ["Innehåll & Läslista"](../material/innehall_laslista_fn_mr.md) på denna hemsida. 
 
 
 ## Planering
