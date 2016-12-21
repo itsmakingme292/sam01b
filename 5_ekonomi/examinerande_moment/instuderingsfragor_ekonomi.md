@@ -31,9 +31,10 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
     - Vilka alternativa välfärdsmått finns det? Vad mäter dessa kortfattat?
 
 - Vilka är de tre huvudsakliga produktionsfaktorerna och vad innebär dessa? (se sid 187)
-    - Vad innebär det att en produktion kan vara arbetskraftsintensiv eller kapitalintensiv? Ge exempel.
     - Vad innebär produktivitet? 
     - Produktionen i ett land kan ökas på två grundläggande sätt. Vilka?  
+
+<!--Borttagen fråga:     - Vad innebär det att en produktion kan vara arbetskraftsintensiv eller kapitalintensiv? Ge exempel. -->
 
 - Beskriv vad som utgör goda förutsättningar för tillväxt (se sid 186-188)
     - Vilka "recept" för tillväxt anger boken? 
