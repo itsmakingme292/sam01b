@@ -49,8 +49,7 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 
 <!--Borttagen fråga:    - Vad är KPI och hur fungerar detta? -->
 
-- Försök med egna ord beskriva det "ekonomiska kretsloppet" (se sid 201, mfl)
-    - Vilken roll fyller kreditinstitutioner, företag, hushåll och offentlig sektor?
+- Försök med egna ord beskriva det "ekonomiska kretsloppet": vilken roll fyller kreditinstitutioner, företag, hushåll och offentlig sektor? (se sid 201, mfl)
 
 - Vad kännetecknar/orsakar en hög- respektive en lågkonjunktur? (se sid 205-207)
     - Vad är en konjunkturcykel?
