@@ -63,7 +63,7 @@
   * [Länklista: Källkritik](2_kritiskt_tankande/material/kallkritik.md)
   - - - -
   * # Övningar & Diskussionsunderlag
-  * [Bloggar & "Gammelmedia"](2_kritiskt_tankande/ovningar/bloggar_gammelmedia.md)
+  * [Nya medier & "Gammelmedia"](2_kritiskt_tankande/ovningar/bloggar_gammelmedia.md)
   * [Ledare & Politisk färg](2_kritiskt_tankande/ovningar/ledare_politisk_farg.md)
   * [Varför kritiskt tänkande?](2_kritiskt_tankande/ovningar/ovning_kritiskt_tankande.md)
 

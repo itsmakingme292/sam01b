@@ -1,4 +1,4 @@
-# Bloggar & "Gammelmedia"
+# Nya medier & "Gammelmedia"
 
 ## Att göra
 
