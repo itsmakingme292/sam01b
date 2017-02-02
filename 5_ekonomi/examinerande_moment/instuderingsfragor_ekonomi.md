@@ -1,6 +1,6 @@
 # Instuderingsfrågor
 
-Alla frågor går att besvara genom att använda kursboken samt [detta kompendium om konsumenträtt](../material/resurser/konsumentratt_kompendium.pdf) (men man får använda andra källor om man vill). Vissa frågor går snabbt att svara på, medan andra tar längre tid. Vilka frågor som tillhör vilken kategori kommer i de flesta fall bli uppenbart efter läsning, men om ni skulle känna er osäkra på hur detaljerade ni måste vara: fråga!
+Alla frågor går att besvara genom att använda kursboken samt [detta kompendium om konsumenträtt](../material/resurser/konsumentratt_kompendium.pdf) (men man får använda andra källor om man vill). Se även [presentationen vi gått igenom under ett antal lektioner](https://docs.google.com/presentation/d/1xImojsweFaybFf5SvcH45LEXn-YNhcCs8knDaTHC6is/edit?usp=sharing). Vissa frågor går snabbt att svara på, medan andra tar längre tid. Vilka frågor som tillhör vilken kategori kommer i de flesta fall bli uppenbart efter läsning, men om ni skulle känna er osäkra på hur detaljerade ni måste vara: fråga!
 
 **LYCKA TILL!**
 / Fredrik
@@ -15,9 +15,9 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 
 - Vilka är de fem grundläggande ekonomiska systemen och på vilket sätt skiljer sig dessa åt? (se sid 167-168)
 
-- Vad är marknadskrafterna och vad krävs för att dessa ska fungera på bästa sätt? (se sid 169-171)
+- Vad är efterfrågan och utbud (marknadskrafterna) och vad krävs för att dessa ska samspela på bästa sätt? (se sid 169-171)
+    - Hur ser sambandet mellan efterfrågan och utbud ut i fråga om kvantitet och pris? Ge konkreta exempel.
     - Vad innebär en "perfekt marknad"?
-    - Hur ser sambandet mellan efterfrågan och utbud ut (i fråga om kvantitet och pris). Ge konkreta exempel.
     - Vad händer vid jämviktspris och hur ofta tror du detta sker i verkligheten?
 
 - Vad innebär monopol, oligopol och kartellbildning? (se sid 174-176)
