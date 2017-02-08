@@ -16,7 +16,7 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 - Vilka är de fem grundläggande ekonomiska systemen och på vilket sätt skiljer sig dessa åt? (se sid 167-168)
 
 - Vad är efterfrågan och utbud (marknadskrafterna) och vad krävs för att dessa ska samspela på bästa sätt? (se sid 169-171)
-    - Hur ser sambandet mellan efterfrågan och utbud ut i fråga om kvantitet och pris? Ge konkreta exempel.
+    - Hur ser sambandet mellan efterfrågan och utbud ut i fråga om kvantitet och pris? Ge konkreta exempel på olika möjliga situationer. 
     - Vad innebär en "perfekt marknad"?
     - Vad händer vid jämviktspris och hur ofta tror du detta sker i verkligheten?
 
@@ -26,9 +26,10 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 
 - Vad är BNP och BNI? (se sid 180-184)
     - Vad innebär det kortfattat att mäta ovanstående per capita?
-    - Vad innebär det kortfattat att räkna ovanstående per capita och med PPP?
-    - Vad gör BNP/BNI problematiskt som välfärdsmått?
-    - Vilka alternativa välfärdsmått finns det? Vad mäter dessa kortfattat?
+    - Vad gör BNP/BNI problematiskt som välfärdsmått? 
+    - Vilka alternativa välfärdsmått anger Arena? Vad mäter dessa kortfattat?
+
+<!--    - Vad innebär det kortfattat att räkna ovanstående per capita och med PPP? -->
 
 - Vilka är de tre huvudsakliga produktionsfaktorerna och vad innebär dessa? (se sid 187)
     - Vad innebär produktivitet? 
@@ -36,7 +37,7 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 
 <!--Borttagen fråga:     - Vad innebär det att en produktion kan vara arbetskraftsintensiv eller kapitalintensiv? Ge exempel. -->
 
-- Beskriv vad som utgör goda förutsättningar för tillväxt (se sid 186-188)
+- Vad är tillväxt och vad som utgör goda förutsättningar för tillväxt (se sid 186-188)
     - Vilka "recept" för tillväxt anger boken? 
     - Hur kan man argumentera för dessa?
     - Finns det någon punkt du själv skulle vilja lägga till?
@@ -46,8 +47,7 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
     - Vad orsakar inflation?
     - Vad är motsatsen till inflation?
     - Vilka är inflationens huvudsakliga skadeverkningar?
-
-<!--Borttagen fråga:    - Vad är KPI och hur fungerar detta? -->
+    - Vad är KPI och hur fungerar detta? 
 
 - Försök med egna ord beskriva det "ekonomiska kretsloppet": vilken roll fyller kreditinstitutioner, företag, hushåll och offentlig sektor? (se sid 201, mfl)
 
@@ -59,8 +59,8 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 
 - Vad kan staten göra för att minska konjunktursvängningar? (se sid 208-211)
     - Vad är ekonomisk politik och vad är denna politiks huvudmål?
-    - Vad är finanspolitik, vad är det denna styr och vad är en vanlig grundläggande finanspolitisk princip för att lindra konjunktursvängningar?
-    - Vad är penningpolitik och vilket är penningpolitikens främsta redskap?
+    - Vad är finanspolitik, vad är det denna styr, hur påverkar denna ekonomin, och vad är en vanlig grundläggande finanspolitisk princip för att lindra konjunktursvängningar?
+    - Vad är penningpolitik och vilket är penningpolitikens främsta redskap? Förklara hur detta funkar.
 
 <!--- Borttagen fråga: Vilka argument kan man framföra för och emot statligt ägande? (se sid 168)     - Finns det några typer av verksamheter som är mindre lämpade för en konkurrensutsatt marknad? Varför då? Vad tänker du själv? -->
 
