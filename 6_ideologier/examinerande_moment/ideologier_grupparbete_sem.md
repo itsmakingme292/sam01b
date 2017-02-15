@@ -11,7 +11,7 @@
 
 **Tips:** Försök för denna uppgift inte bara tänka kring vad vi gått igenom under detta moment, utan också vad ni lärt er under tidigare moment...
 
-**OBS:** Ett litet tillägg. Till seminariet får man ha med sig hur mycket anteckningar man vill.
+**OBS:** Till seminariet får man ha med sig hur mycket anteckningar man vill.
 
 ## Att göra
 

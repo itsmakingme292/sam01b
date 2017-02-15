@@ -1,7 +1,7 @@
 # Det goda samhället
 **Om denna sida:** Varje ideologi försöker svara på frågan om vad ett *gott* samhälle innebär. Denna sida innehåller en sammanfattning av de tre stora ideologiernas respektive svar.
  
-**OBS:** Var uppmärksamma på denna sammanfattning innebär vissa förenklingar och att varje ideologi har flertalet förgreningar.
+**OBS:** Var uppmärksamma på denna sammanfattning (precis som alla andra) innebär vissa förenklingar och att varje ideologi har flertalet förgreningar.
 
 ***
 
@@ -33,9 +33,12 @@ Att svara på vad som är rättvist är att svara på vilket förhållande samh�
 
 <!--I detta har vi två relationer att utreda: 1. Individ – individ (människans förhållande till andra) 2. Individ – kollektiv (egenintressets förhållande till allmänintresset)  För att reda ut ovanstå Människans natur, Människan i förhållande till kollektivet  Kort och gott: På vilket sätt vi kan och bör vi leva tillsammans. -->
 
-Rättvisa är för samhället vad ”fair play” är för sport och spel. Rättvisa handlar om _vilka fördelar_ vi anser att det är *OK* att en individ har gentemot en annan individ. Samt i vilka fall vi anser att nackdelar inte är godtagbara och därför skall kompenseras. 
+Rättvisa är för samhället vad ”fair play” är för sport och spel. Rättvisa handlar om _vilka fördelar_ vi anser att det är *OK* att en individ har gentemot en annan individ. Samt i vilka fall vi anser att nackdelar inte är godtagbara och därför skall kompenseras. På ett sätt kan alltså frågan om rättvisa sammanfattas som _frågan om vad vi förtjänar_. Om vi anser att en situation är rättvis så handlar det om att alla berörda _fått vad de förtjänar_ – och om vi tvärtom anser att en situation inte är rättvis handlar det om att alla berörda _inte_ fått vad de förtjänar. 
 
-Till syvende och sist är frågan om rättvisa en fråga om vilket *ansvar* vi har inför varandras lycka och olycka. I sport och spel har vi spelregler som förhindrar "fusk" och "oschysst spel" – i ett samhälle har vi lagar och förordningar som reglerar rättigheter och skyldigheter. 
+<!--Få in exempel här, både ”positiva” någon får lite mer eller samma som någon annan och ”negativa” någon får ett straff som står i relation till vad denne gjort -->
+
+
+Till syvende och sist är dock frågan om rättvisa en fråga om vilket *ansvar* vi har inför varandras lycka och olycka. I sport och spel har vi spelregler som förhindrar "fusk" och "oschysst spel" – i ett samhälle har vi lagar och förordningar som reglerar _rättigheter_ och _skyldigheter_. Det är därför också i huvudsak här vi finner ideologiernas olika svar på vad som är rättvist och inte. 
 
 <!--och självförverkligande -->
 
@@ -77,8 +80,11 @@ Positiva rättigheter handlar om _rätten till_ något. Dessa kräver en aktiv h
 
 #### Socialismen
 
+<!--Här borde jag förklara jämlikhet i relation till rättvisa -->
+
 * Större fokus på positiva rättigheter
-	* Hur lika vi än är inför lagen, räcker inte detta för att göra ett samhälle jämlikt. Vissa ges "sämre kort" från första början (såväl socialt som biologiskt) och har därför inte samma förutsättningar.
+	* Hur lika vi än är inför lagen, räcker inte detta för att göra ett samhälle jämlikt och rättvist. Vissa ges "sämre kort" från första början (såväl socialt som biologiskt) och har därför inte samma förutsättningar.
+	* Om vi lämnas till vårt eget öde kommer vi aldrig att få vad vi faktiskt förtjänar. 
 	* Politiskt måste vi därför aktivt korrigera ojämlikhet  genom positiva rättigheter i stor utsträckning. 
 
 <!--Kanske ska jag ha en del om ekonomi istället för det jag har ovan? -->
@@ -147,12 +153,12 @@ En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideolo
 #### Konservatismen:
 1. Människan är svag och i stort behov av vägledning. 
 	* Människan är ej av naturen god. En mer pessimistisk syn på människan. 
-2. Människan behöver tydliga ramar och fasta normer. 
-	* En stark tradition, kultur och stadiga institutioner.
+2. Människan behöver tydliga ramar, hierarkier och fasta normer. 
+	* För att skapa goda människor krävs en stark tradition, kultur och stadiga institutioner.
 
 <!--dessa = delvis naturliga (kvinna/man som exempel) Iaf inget man bör förändra -->
 
-<!--Kommentar från Tobias: Människan kan vara både god och ond inom en konservatism. Men hmm.. Detta blir ju lite förvirande. Människan är ändå i grund och botten svag... -->
+<!--Kommentar från Tobias: Människan kan vara både god och ond inom en konservatism. Men hmm.. Detta blir ju lite förvirande. Människan är ändå i grund och botten svag... OCh la till "för att skapa goda människor" under tvåan nu -->
 
 
 
@@ -170,7 +176,7 @@ Kortfattat skulle statens grundläggande syfte inom de tre klassiska ideologiern
 
 #### Socialismen
 1. Ge människor så likartade möjligheter och förutsättningar det går.
-2. Genom stora omfördelningar av ekonomiska och sociala resurser i form av (delvis) gemensamt ägande och omfattande välfärd. Marknadsekonomin måste regleras (göras mindre kapitalistiskt) eller rentav avskaffas (ersättas med planekonomi). 
+2. Genom stora omfördelningar av ekonomiska och sociala resurser i form av (delvis) gemensamt ägande och omfattande välfärd. Marknadsekonomin måste regleras (göras mindre kapitalistiskt) eller rentav avskaffas genom revolution (ersättas med planekonomi). 
 
 #### Konservatismen
 1. Ge människor en trygg gemenskap med tydliga ramar. 
@@ -222,6 +228,6 @@ Som avrundning kan det vara bra att lite kort att säga något mer om ideologier
 
 **Liberalism:** Varken långsamt eller snabbt. Det beror på vad det gäller. Det sagt får politiska förändringar inte ingripa i för stor utsträckning i individens liv. 
 
-**Reformistisk socialism:** Det behövs stora förändringar i samhället, eftersom samhället i stor utsträckning är ojämlikt, men dessa ska ske stegvis samt på demokratisk väg. 
+**Reformistisk socialism:** Det behövs stora förändringar i samhället, eftersom samhället i stor utsträckning är ojämlikt och orättvist, men dessa ska ske _stegvis_ (vilket dock _inte_ innebär långsamt) samt på _demokratisk_ väg. 
 
 **Revolutionär socialism/kommunism**: Samhället måste förändras i grunden och detta är inte möjligt annat än genom en revolution där det "gamla samhället" helt omkullkastas. Inte minst därför att kapitalister (de rika, de som äger mycket i samhället) inte kommer att ge upp sin sociala, ekonomiska och politiska makt utan "en fajt". 

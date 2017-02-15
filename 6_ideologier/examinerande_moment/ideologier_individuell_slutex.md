@@ -1,5 +1,7 @@
 # Slutexamination: Det goda samhället
 
+**Notera att:** Denna uppgift kan genomföras antingen muntligt eller skriftligt. Se nedan för mer information och ställ gärna frågor till mig om skillnaden. 
+
 ## Instruktioner
 
 Obligatoriskt för denna uppgift är **Liberalismen** och **Socialismen** (och dess huvudsakliga förgreningar). Det är **valfritt** att skriva om **ytterligare en** av följande ideologier: Konservatism, Ekologism, Feminism eller Anarkism/Syndikalism.
@@ -47,15 +49,31 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 1. Du läser och reflekterar kring sidorna **133–154 i läroboken.** 
 
-2. Du *bör* för denna uppgift använda dig av **ytterligare källor utöver Arena** och/eller åtminstone extra-material på denna hemsida (se ["Det goda samhället"](../material/om_ideologierna.md)). För denna uppgift är det också *obligatoriskt* med en **källförteckning**. Vid direkta citat eller referat krävs också *källhänvisning* i text. 
+2. Du *bör* för denna uppgift använda dig av **ytterligare källor utöver Arena** och/eller åtminstone extra-materialet på denna hemsida (se ["Det goda samhället"](../material/om_ideologierna.md)). 
 
-3. Du genomför den huvudsakliga uppgiften på **minst 1 A4** och **max 3,5 A4** (teckenstorlek 12, vanligt radavstånd, standard sid-marginaler, källförteckning ej inräknad). 
+3. Du väljer om du vill genomföra uppgiften muntligt (enskilt samtal med mig) eller skriftligt (inlämning). 
 
-4. Du sparar dokumentet som/i formatet ”**PDF**” och döper dokumentet efter formen ”**Klass, Efternamn, Förnamn, Samhällskunskap, Ideologier**”
+**Tips:** Tänk på att välja den examinationsform som du tror ger dig bäst möjligheter att visa dina kunskaper. 
 
-5. Du skickar till **fredrik.stahl.metg@analys.urkund.se** (se deadline i provschema på schoolsoft)
+**För dig som väljer muntligt:**
 
-**OBS:** Misslyckas man med någon av punkterna 2-5 räknas det som en icke inlämnad uppgift... Vid osäkerhet om vad detta innebär: fråga mig.
+1. Du kommunicerar så tidigt som möjligt att du avser att genomföra uppgiften muntligt och säkerställer att du har en tid inbokad med mig för detta.
+
+2. Du förbereder dig inför det muntliga samtalet enligt instruktionerna ovan och genom att anteckna dina efterforskningar och slutsatser.
+
+3. Du sammanställer dina anteckningar i en _kortare_ och _översiktlig_ lathund som du tar med dig till vårt muntliga samtal. (Denna läser du inte innantill, utan har endast som stöd)
+
+**För dig som väljer skriftligt:**
+
+1. Du genomför den huvudsakliga uppgiften på **minst 1 A4** och **max 3,5 A4** (teckenstorlek 12, vanligt radavstånd, standard sid-marginaler, källförteckning ej inräknad). 
+
+2. För denna uppgift är det också *obligatoriskt* med en **källförteckning**. Vid direkta citat eller referat krävs också *källhänvisning* i text. 
+
+3. Du sparar dokumentet som/i formatet ”**PDF**” och döper dokumentet efter formen ”**Klass, Efternamn, Förnamn, Samhällskunskap, Ideologier**”
+
+4. Du skickar till **fredrik.stahl.metg@analys.urkund.se** (se deadline i provschema på schoolsoft)
+
+**OBS:** Misslyckas man med någon av punkterna räknas det som en icke inlämnad uppgift... Vid osäkerhet om vad detta innebär: fråga mig.
 
 <!--Borttaget under nummer 2: **och** en **källkritisk analys** av *samtliga* använda källor (inkl. Arena) -->
 
