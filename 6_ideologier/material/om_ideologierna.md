@@ -95,8 +95,8 @@ Positiva rättigheter handlar om _rätten till_ något. Dessa kräver en aktiv h
 
 #### Konservatismen
 * Individens rättigheter får aldrig gå före bevarandet av de värden som samhället byggt upp
-	* Medborgaren har en skyldighet att rätta sig efter kollektiva värderingar och delta i värnandet av kulturen och dess normer.
-	* Samhället är en "känslig organism" där alla spelar olika roller (funktionalism). Jämlikhet är i denna mening ett något främmande begrepp för konservatismen. Vi _är_ olika och bör därför _behandlas_ olika. 
+	* Medborgaren har en skyldighet att rätta sig efter kollektiva värderingar och delta i värnandet av kulturen och dess normer. 
+	* Samhället är en "känslig organism" där alla spelar olika roller (funktionalism). Jämlikhet är i denna mening ett något främmande begrepp för konservatismen. Vi _är_ olika och bör därför _behandlas_ och _agera_ olika (ett exempel på detta är att det är väldigt viktigt att upprätthålla könsroller för många konservativa – kvinnor bör vara kvinnor och män bör vara män eftersom de fyller olika funktion). 
 	* I den mån förändringar av normer och värden ska ske, bör detta ske långsamt. 
  
 <!--Vill bevara kultur/normer genom skydd i lag Modernt konservativt exempel: äktenskapet endast för heterosexuella Ibland, eller på ett sätt: Det som är informellt (traditionen) görs formellt (till en del av staten) Rättvisa för individen är därför egentligen underordnat vad som är bäst för samhället i stort Funktionalism Ex. kön Jämlikhet för konservatismen ett något främmande begrepp Vi ÄR olika och ska därför behandlas OLIKA -->
