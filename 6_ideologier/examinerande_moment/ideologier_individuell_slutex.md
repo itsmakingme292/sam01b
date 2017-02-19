@@ -47,9 +47,9 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 ### Att göra: 
 
-1. Du läser och reflekterar kring sidorna **133–154 i läroboken.** 
+1. Du läser läser och reflekterar kring texten **["Det goda samhället"](../material/om_ideologierna.md)** samt sidorna **133–154 i Arena**.**** 
 
-2. Du *bör* för denna uppgift använda dig av **ytterligare källor utöver Arena** och/eller åtminstone extra-materialet på denna hemsida (se ["Det goda samhället"](../material/om_ideologierna.md)). 
+2. Du är uppmärksam på eventuella problem och skillnader i texterna, jämför med andra källor, och ställer frågor till mig när så behövs. 
 
 3. Du väljer om du vill genomföra uppgiften muntligt (enskilt samtal med mig) eller skriftligt (inlämning). 
 
@@ -67,7 +67,7 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 1. Du genomför den huvudsakliga uppgiften på **minst 1 A4** och **max 3,5 A4** (teckenstorlek 12, vanligt radavstånd, standard sid-marginaler, källförteckning ej inräknad). 
 
-2. För denna uppgift är det också *obligatoriskt* med en **källförteckning**. Vid direkta citat eller referat krävs också *källhänvisning* i text. 
+2. Du skriver en **källförteckning** _om_ du använt källor utöver texten på denna sida och Arena. Vid direkta citat eller referat *källhänvisar* du i din text. 
 
 3. Du sparar dokumentet som/i formatet ”**PDF**” och döper dokumentet efter formen ”**Klass, Efternamn, Förnamn, Samhällskunskap, Ideologier**”
 

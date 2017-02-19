@@ -148,7 +148,7 @@ En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideolo
 	* Människan föds varken god eller ond utan formas av det omgivande samhället.
 2. Människans potential realiseras genom kollektivets styrka och avskaffandet av samhällsklasser (arbetare och kapitalister, underklass och överklass, fattiga och rika).
 	* Vårt självförverkligande och våra möjligheter i livet beror på hur det omgivande samhället ser ut.  
-	* Vi måste skapa ett _solidariskt_ samhälle, med andra ord ett samhälle där vi gemensamt tar ansvar för varandra.
+	* Vi måste skapa ett _solidariskt_ samhälle, med andra ord ett samhälle där vi tar ett _gemensamt_ ansvar för varandra.
 
 #### Konservatismen:
 1. Människan är svag och i stort behov av vägledning. 
@@ -207,7 +207,9 @@ I en välfärdsstat står staten för mer än skyddet av _liv_, _frihet_ och _eg
 
 Ekonomin i en välfärdstat är en blandekonomi. Detta innebär att man i stort har en marknadsekonomi men att staten sköter vissa grundläggande samhällsfunktioner.
 
-**Förespråkas av:** Social-liberaler och reformistiska socialister (däribland socialdemokrater). Vissa konservativa. För social-liberaler och konservativa handlar det dock om att se till vad man brukar kalla för _välfärdens kärna_. Med andra ord, välfärd är bra, men inte _för mycket_. 
+**Förespråkas av:** Social-liberaler och reformistiska socialister (däribland socialdemokrater). Vissa konservativa. 
+
+För social-liberaler och konservativa handlar det dock om att se till vad man brukar kalla för _välfärdens kärna_. Med andra ord, välfärd är bra, men inte _för mycket_. 
 
 #### Allomfattande stat
 
