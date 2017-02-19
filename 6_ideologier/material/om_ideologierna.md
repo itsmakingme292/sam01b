@@ -1,7 +1,7 @@
 # Det goda samhället
 **Om denna sida:** Varje ideologi försöker svara på frågan om vad ett *gott* samhälle innebär. Denna sida innehåller en sammanfattning av de tre stora ideologiernas respektive svar.
  
-**OBS:** Var uppmärksamma på denna sammanfattning (precis som alla andra) innebär vissa förenklingar och att varje ideologi har flertalet förgreningar.
+**OBS:** Var uppmärksamma på denna sammanfattning (precis som alla andra) innebär vissa förenklingar, att det finns olika möjliga tolkningar och att varje ideologi har flertalet förgreningar.
 
 ***
 
@@ -75,17 +75,17 @@ Positiva rättigheter handlar om _rätten till_ något. Dessa kräver en aktiv h
 #### Liberalismen
 
 * Fokus på negativa rättigheter
-	* Människor skall vara lika inför lagen och ges stora friheter.
-	* Människor ska själva få bestämma över sina liv så länge de inte skadar andra. Staten skall i högsta möjliga mån låta individen vara.
+	* Människor ska behandlas som jämlikar, ha samma rättigheter och därmed vara lika inför lagen. Alla människor förtjänar samma respekt och ingen ska diskrimineras.
+	* Människor ska ges stora friheter att själva få bestämma över sina liv så länge de inte skadar andra. Staten skall i största möjliga mån låta individen vara.
 
 #### Socialismen
 
 <!--Här borde jag förklara jämlikhet i relation till rättvisa -->
 
 * Större fokus på positiva rättigheter
-	* Hur lika vi än är inför lagen, räcker inte detta för att göra ett samhälle jämlikt och rättvist. Vissa ges "sämre kort" från första början (såväl socialt som biologiskt) och har därför inte samma förutsättningar.
+	* Hur lika vi än är inför lagen, räcker inte detta för att göra ett samhälle jämlikt och rättvist. Vissa ges "sämre kort" från första början (såväl socialt/ekonomiskt som biologiskt) och har därför inte samma förutsättningar.
 	* Om vi lämnas till vårt eget öde kommer vi aldrig att få vad vi faktiskt förtjänar. 
-	* Politiskt måste vi därför aktivt korrigera ojämlikhet  genom positiva rättigheter i stor utsträckning. 
+	* Politiskt måste vi därför aktivt korrigera ojämna förutsättningar genom positiva rättigheter i stor utsträckning. 
 
 <!--Kanske ska jag ha en del om ekonomi istället för det jag har ovan? -->
 
@@ -101,6 +101,7 @@ Positiva rättigheter handlar om _rätten till_ något. Dessa kräver en aktiv h
  
 <!--Vill bevara kultur/normer genom skydd i lag Modernt konservativt exempel: äktenskapet endast för heterosexuella Ibland, eller på ett sätt: Det som är informellt (traditionen) görs formellt (till en del av staten) Rättvisa för individen är därför egentligen underordnat vad som är bäst för samhället i stort Funktionalism Ex. kön Jämlikhet för konservatismen ett något främmande begrepp Vi ÄR olika och ska därför behandlas OLIKA -->
 
+**En liten kommentar:** Både socialismen och liberalismen förespråkar jämlikhet. De gör dock lite olika analys av vad jämlikhet bör innebära. I grund och botten handlar jämlikhet om att alla människor är lika värda och förtjänar samma respekt. Att ingen ska diskrimineras och att alla ska ha samma rättigheter. Men för socialismen räcker det inte med en jämlikhet som endast bygger på negativa rättigheter, socialister vill också ha _ekonomisk_ jämlikhet. Ojämlikhet ligger för socialismen inte bara i att vi kan _behandlas_ olika. Socialismen menar att ojämlikhet också (och framförallt) beror på de _ojämna förutsättningar_ som skapas i ett klassamhälle. 
 
 ## Människan och samhället
 
@@ -121,9 +122,9 @@ En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideolo
 
 #### Socialismen
 * Kollektivet
-	* Alla människor tillsammans. Genom solidaritet lyfter människor varandra. 
+	* Alla människor tillsammans. Genom solidaritet lyfter människor varandra. Fria är vi först när vi löser samhällets problem gemensamt.
 	* Socialismen bortser inte från individen, men kollektivet är likväl den viktigare politiska enheten. Detta eftersom _samhällsnyttan_ går före _egennyttan_.
-	*  Fokus i socialismen ligger på _social jämlikhet_. Människor har ett stort *ansvar* inför varandra. 
+	*  Fokus i socialismen ligger på _social och ekonomisk jämlikhet_. Människor har ett stort *ansvar* inför varandra. 
 
 <!--Det är alltså inte så att socialismen struntar i individen, detta är en nidbild.  Tvärtom är individen själva målet. Men den viktigare politiska enheten är likväl kollektivet Detta blir mer klart när vi kommer till nästa punkt -->
 
@@ -159,6 +160,8 @@ En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideolo
 <!--dessa = delvis naturliga (kvinna/man som exempel) Iaf inget man bör förändra -->
 
 <!--Kommentar från Tobias: Människan kan vara både god och ond inom en konservatism. Men hmm.. Detta blir ju lite förvirande. Människan är ändå i grund och botten svag... OCh la till "för att skapa goda människor" under tvåan nu -->
+
+<!--Få in något om att socialismens kollektivism på många sätt kan jämföras med konservatismen? -->
 
 
 
@@ -217,7 +220,9 @@ Exakt vad det innebär att en stat är "allomfattande" är en fråga för diskus
 
 Ett annat perspektiv på den allomfattande staten är att en sådan äger och fördelar samhällets (alla) resurser. Detta innebär att rätten till privategendom begränsas genom ett förstatligande av samtliga företag. Detta för att folket, genom staten, skall äga alla produktionsmedel gemensamt (kollektivt). I denna typ av stat råder planekonomi, vilket innebär att staten _planerar_ produktionen (frånvaro av _fri marknad_).
 
-Tanken med denna typ av stat är att det i en marknadsekonomi alltid kommer att uppstå en människofientlig och omoralisk kapitalism där vissa människor *suger ut* andra. Utan en mycket stor statlig inblandning och ett gemensamt ägande kommer vi därför aldrig att kunna uppnå ett klasslöst och därmed _jämlikt_ samhälle.
+Tanken med denna typ av stat är att det i en marknadsekonomi alltid kommer att uppstå en människofientlig och omoralisk kapitalism där vissa människor *suger ut* andra. Utan en mycket stor statlig inblandning och ett gemensamt ägande kommer vi därför aldrig att kunna uppnå ett klasslöst och därmed _jämlikt_ samhälle. 
+
+<!--Fria är vi först när vi slipper sälja vårt arbete och istället äger allt gemensamt. --> 
 
 **Förespråkas av:** Vissa kommunister
 
