@@ -208,9 +208,9 @@ En nattväktarstat är en slags minimi-stat. En sådant stat har endast en uppgi
 #### Välfärdsstat
 I en välfärdsstat står staten för mer än skyddet av _liv_, _frihet_ och _egendom_. I denna typ av stat är fokus på positiva rättigheter långt större. Framförallt syftar välfärdsstaten till att kompensera de individer som givits en allt för dålig lott i livets biologiska och sociala lotteri. Detta innebär att staten dels ger alla människor grundläggande förutsättningar att klara sig bra i livet genom sådant som _allmän vård_ och _allmän skola_. Men också genom ett större _skyddsnät_ i form av sådant som _pension_ och *sjukförsäkring*. I denna bemärkelse sker en viss omfördelning av resurser i ett välfärdssamhälle. Ofta genom att de som har mer beskattas högre. 
 
-Ekonomin i en välfärdstat är en blandekonomi. Detta innebär att man i stort har en marknadsekonomi men att staten sköter vissa grundläggande samhällsfunktioner.
+Ekonomin i en välfärdsstat är en blandekonomi. Detta innebär att man i stort har en marknadsekonomi men att staten sköter grundläggande samhällsfunktioner, omfördelar resurser, samt sätter vissa gränser för vad som är tillåtet på marknaden.
 
-**Förespråkas av:** Social-liberaler och reformistiska socialister (däribland socialdemokrater). Vissa konservativa. 
+**Förespråkas av:** Reformistiska socialister (däribland socialdemokrater) och social-liberaler. Vissa konservativa. 
 
 För social-liberaler och konservativa handlar det dock om att se till vad man brukar kalla för _välfärdens kärna_. Med andra ord, välfärd är bra, men inte _för mycket_. 
 
