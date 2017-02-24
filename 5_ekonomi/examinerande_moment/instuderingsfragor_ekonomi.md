@@ -32,16 +32,17 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 <!--    - Vad innebär det kortfattat att räkna ovanstående per capita och med PPP? -->
 
 - Vilka är de tre huvudsakliga produktionsfaktorerna och vad innebär dessa? (se sid 187)
-    - Vad innebär produktivitet? 
+    - Vad innebär produktivitet? Varför är detta viktigt?
     - Produktionen i ett land kan ökas på två grundläggande sätt. Vilka?  
 
 <!--Borttagen fråga:     - Vad innebär det att en produktion kan vara arbetskraftsintensiv eller kapitalintensiv? Ge exempel. -->
 
-- Vad är tillväxt och vad som utgör goda förutsättningar för tillväxt (se sid 186-188)
+- Vad är tillväxt och vad utgör goda förutsättningar för tillväxt (se sid 186-188)
     - Vilka "recept" för tillväxt anger boken? 
     - Hur kan man argumentera för dessa?
-    - Finns det någon punkt du själv skulle vilja lägga till?
     - På vilket sätt hänger dessa samman med produktionsfaktorerna?
+
+<!-- - Finns det någon punkt du själv skulle vilja lägga till? -->
 
 - Vad är inflation? (se sid 193-196)
     - Vad orsakar inflation?
@@ -59,8 +60,9 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 
 - Vad kan staten göra för att minska konjunktursvängningar? (se sid 208-211)
     - Vad är ekonomisk politik och vad är denna politiks huvudmål?
-    - Vad är finanspolitik, vad är det denna styr, hur påverkar denna ekonomin, och vad är en vanlig grundläggande finanspolitisk princip för att lindra konjunktursvängningar?
-    - Vad är penningpolitik och vilket är penningpolitikens främsta redskap? Förklara hur detta funkar.
+    - Vad är finanspolitik, vad är det denna styr, hur påverkar denna ekonomin, och vad är en vanlig grundläggande finanspolitisk princip för att lindra konjunktursvängningar? Förklara hur detta fungerar. 
+    - Vad är penningpolitik, vem/vilka ansvarar för penningpolitiken, och vilket är penningpolitikens främsta redskap? Förklara hur detta fungerar.
+
 
 <!--- Borttagen fråga: Vilka argument kan man framföra för och emot statligt ägande? (se sid 168)     - Finns det några typer av verksamheter som är mindre lämpade för en konkurrensutsatt marknad? Varför då? Vad tänker du själv? -->
 
@@ -70,11 +72,14 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 **Viktig info:** För denna del kommer vi ej ha genomgångar utan ni läser själva kompendiet *[”Konsumenträtt”](../material/resurser/konsumentratt_kompendium.pdf)*. Nedanstående frågor går också snabbare att svara på än frågorna under samhällsekonomi.
 
 - Vad innebär det att reklamera en vara?
-    - Vad är det man rent konkret gör och vart är det man i första hand vänder sig?
-    - För vad har man rätt att reklamera?
-    - Finns det några tidsgränser för reklamation och vad innebär i så fall dessa?
+    - Vad har man rätt att reklamera?
+    - Finns det några tidsgränser för reklamation?
     - Vad ska enligt lag hända efter det att man reklamerat (vilka alternativ finns)?
-    - Vad har man rätt till om man lämnat in en vara för reparation två gånger och den fortfarande inte fungerar som den ska?
+
+<!--    - Vad är det man rent konkret gör och vart är det man i första hand vänder sig? -->
+
+<!--    - Vad har man rätt till om man lämnat in en vara för reparation två gånger och den fortfarande inte fungerar som den ska? -->
+
 
 - Vad är en garanti? 
 	* På vilket sätt skiljer sig denna från rätten att reklamera?
