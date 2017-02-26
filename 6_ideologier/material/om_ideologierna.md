@@ -65,7 +65,7 @@ När det gäller rättigheter finner vi den stora skiljelinjen mellan ideologier
 
 Negativa rättigheter handlar om *friheten från* något. Sådana rättigheter kräver ingen _aktiv_ handling ifrån staten, tvärtom. Dessa innebär "endast" att vi slipper inblandning från staten. Ett exempel på en negativ rättighet är _yttrandefriheten_, vilken innebär att vi inte _blir hindrade_ eller censurerade då vi uttrycker vår åsikt. 
 
-Positiva rättigheter handlar om _rätten till_ något. Dessa kräver en aktiv handling från staten och någon form av inblandning i våra liv. Ett exempel på en positiv rättighet är _rätten till skolgång_. Många (dock ej nyliberaler/libertarianer) skulle argumentera för att det inte bara räcker med att staten säger att vi är _fria_ att gå i skolan, utan att staten också måste, om denna rättighet ska betyda något, ta ansvaret *för* och *ge* oss denna skolgång. 
+Positiva rättigheter handlar om _rätten till_ något. Dessa kräver en _aktiv_ handling från staten och någon form av inblandning i våra liv. Ett exempel på en positiv rättighet är _rätten till skolgång_. Många (dock ej nyliberaler/libertarianer) skulle argumentera för att det inte bara räcker med att staten säger att vi är _fria_ att gå i skolan, utan att staten också måste, om denna rättighet ska betyda något, ta ansvaret *för* och *ge* oss denna skolgång. 
 
 **En liten kommentar:** Ovanstående är också ett bra exempel för att belysa balansen mellan rättigheter och skyldigheter. För att staten ska kunna ge mig en skolgång måste det finnas pengar till denna, exempelvis via _skyldigheten_ att betala skatt, men för en nyliberal, innebär detta ett orimligt krav på medborgaren. Medborgaren ska inte tvingas betala någon annans skolgång om denne inte vill. 
 
@@ -84,7 +84,7 @@ Positiva rättigheter handlar om _rätten till_ något. Dessa kräver en aktiv h
 
 * Större fokus på positiva rättigheter
 	* Hur lika vi än är inför lagen, räcker inte detta för att göra ett samhälle jämlikt och rättvist. Vissa ges "sämre kort" från första början (såväl socialt/ekonomiskt som biologiskt) och har därför inte samma förutsättningar.
-	* Om vi lämnas till vårt eget öde kommer vi aldrig att få vad vi faktiskt förtjänar. 
+	* Om vi lämnas till vårt eget öde kommer vi aldrig att få vad vi faktiskt förtjänar.  
 	* Politiskt måste vi därför aktivt korrigera ojämna förutsättningar genom positiva rättigheter i stor utsträckning. 
 
 <!--Kanske ska jag ha en del om ekonomi istället för det jag har ovan? -->
@@ -212,13 +212,13 @@ Ekonomin i en välfärdsstat är en blandekonomi. Detta innebär att man i stort
 
 **Förespråkas av:** Reformistiska socialister (däribland socialdemokrater) och social-liberaler. Vissa konservativa. 
 
-För social-liberaler och konservativa handlar det dock om att se till vad man brukar kalla för _välfärdens kärna_. Med andra ord, välfärd är bra, men inte _för mycket_. 
+För social-liberaler och konservativa handlar det dock om att se till vad man brukar kalla för _välfärdens kärna_. Med andra ord, välfärd är bra, men inte _för mycket_. Enligt mer liberala och konservativa riskerar "för mycket" välfärd att passivisera människor (se exempelvis: [Reinfeldt, _Det sovande folket_](https://sv.wikipedia.org/wiki/Det_sovande_folket)). 
 
 #### Allomfattande stat
 
 Exakt vad det innebär att en stat är "allomfattande" är en fråga för diskussion. För många utgör en sådan stat endast ett skräckexempel på en typ av stat som ingriper i livets alla delar. En stat som spionerar på sina egna medborgare, fängslar de som inte anpassar sig till makten och reglerar samhället in i minsta detalj. 
 
-Ett annat perspektiv på den allomfattande staten är att en sådan äger och fördelar samhällets (alla) resurser. Detta innebär att rätten till privategendom begränsas genom ett förstatligande av samtliga företag. Detta för att folket, genom staten, skall äga alla produktionsmedel gemensamt (kollektivt). I denna typ av stat råder planekonomi, vilket innebär att staten _planerar_ produktionen (frånvaro av _fri marknad_).
+Ett annat perspektiv på den allomfattande staten är att en sådan äger och fördelar samhällets (alla) resurser. Detta innebär att rätten till privategendom begränsas genom ett förstatligande av samtliga företag. Detta för att folket, genom staten, skall äga alla produktionsmedel gemensamt (kollektivt). I denna typ av stat råder planekonomi, vilket innebär att staten _planerar_ produktionen (frånvaro av _fri marknad_). Den socialistiska/kommunistiska devisen är här: "Av var och en efter förmåga, åt var och en efter behov". 
 
 Tanken med denna typ av stat är att det i en marknadsekonomi alltid kommer att uppstå en människofientlig och omoralisk kapitalism där vissa människor *suger ut* andra. Utan en mycket stor statlig inblandning och ett gemensamt ägande kommer vi därför aldrig att kunna uppnå ett klasslöst och därmed _jämlikt_ samhälle. 
 
