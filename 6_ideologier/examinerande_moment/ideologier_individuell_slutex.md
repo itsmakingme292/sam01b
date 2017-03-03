@@ -47,7 +47,7 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 ### Att göra: 
 
-1. Du läser läser och reflekterar kring texten **["Det goda samhället"](../material/om_ideologierna.md)** samt sidorna **133–154 i Arena**.**** 
+1. Du läser läser och reflekterar kring texten **["Det goda samhället"](../material/om_ideologierna.md)** samt sidorna **133–154 i Arena**.
 
 2. Du är uppmärksam på eventuella problem och skillnader i texterna, jämför med andra källor, och ställer frågor till mig när så behövs. 
 
