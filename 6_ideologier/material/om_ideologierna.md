@@ -13,14 +13,14 @@ En ideologi är ett ”paket” som innehåller en uppfattning om samhället och
 > 1. Hur samhället ser ut och fungerar (just nu)
 	* Ideologisk analys
 		* Vilka är problemen i dagens samhälle?
-			* Fördelning av resurser och makt?
+			* Fördelning av resurser och makt? – Hur ser det ut? 
 		* Hur är människan funtad?
 			* Vad behöver hon?
 			* Vad är hon kapabel till?
 2. Hur samhället bör förändras (eller inte)
 	* Ideologiskt program
 		* Hur ska samhällets problem åtgärdas?
-			* Fördelning av resurser och makt?
+			* Fördelning av resurser och makt? –  Vem har rätt till vad?
 		* Vad är målet? Hur skulle ett idealsamhälle vara ordnat?
 			* Vad är frihet?
 			* Vad är rättvisa?
@@ -38,7 +38,7 @@ Rättvisa är för samhället vad ”fair play” är för sport och spel. Rätt
 <!--Få in exempel här, både ”positiva” någon får lite mer eller samma som någon annan och ”negativa” någon får ett straff som står i relation till vad denne gjort -->
 
 
-Till syvende och sist är dock frågan om rättvisa en fråga om vilket *ansvar* vi har inför varandras lycka och olycka. I sport och spel har vi spelregler som förhindrar "fusk" och "oschysst spel" – i ett samhälle har vi lagar och förordningar som reglerar _rättigheter_ och _skyldigheter_. Det är därför också i huvudsak här vi finner ideologiernas olika svar på vad som är rättvist och inte. 
+Till syvende och sist är frågan om rättvisa en fråga om vilket *ansvar* vi har inför varandras lycka och olycka. I sport och spel har vi spelregler som förhindrar "fusk" och "oschysst spel" – i ett samhälle har vi lagar och förordningar som reglerar _rättigheter_ och _skyldigheter_. Det är därför också i huvudsak här vi finner ideologiernas olika svar på vad som är rättvist och inte. 
 
 <!--och självförverkligande -->
 
@@ -86,6 +86,9 @@ Positiva rättigheter handlar om _rätten till_ något. Dessa kräver en _aktiv_
 	* Hur lika vi än är inför lagen, räcker inte detta för att göra ett samhälle jämlikt och rättvist. Vissa ges "sämre kort" från första början (såväl socialt/ekonomiskt som biologiskt) och har därför inte samma förutsättningar.
 	* Om vi lämnas till vårt eget öde kommer vi aldrig att få vad vi faktiskt förtjänar.  
 	* Politiskt måste vi därför aktivt korrigera ojämna förutsättningar genom positiva rättigheter i stor utsträckning. 
+
+<!--Få in något om: "Att alla FÅR göra allt betyder ingenting om många inte KAN göra många saker." -->
+
 
 <!--Kanske ska jag ha en del om ekonomi istället för det jag har ovan? -->
 
