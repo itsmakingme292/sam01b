@@ -2,9 +2,9 @@
 
 ## Beskrivning
 
-* Ni förbereder er gruppvis (2-3 personer) inför ett seminarium i halvklass. Till denna förberedelse får ni två lektionstillfällen (resten av arbetet görs utanför lektionstid). 
+* Ni förbereder er gruppvis (2-3 personer) inför ett seminarium i halvklass. Till denna förberedelse får ni lektionstid (men viss del av arbetet kan behöva göras utanför lektionstid). 
 * Under seminariet kommer ni att tillsammans "rollspela" ett samtal mellan de olika ideologierna. 
-* Varje grupp tilldelas en ideologi att specialisera sig på och sedan representerar under seminariet. 
+* Varje grupp tilldelas en ideologi att specialisera sig på och att representera under seminariet. 
 * Tanken är att ni ska vara experter på era egna ideologier, men för att kunna föra ett samtal måste ni förstå de andra ideologierna och veta hur dessa står i relation till er egen (likheter / olikheter / svaga punkter osv).
 
 <!--* Förutom sådant ni själva vill framhäva hos er egen tilldelade ideologi ska ni också fundera på och förbereda frågor att ställa till de andra ideologiernas representanter. -->
@@ -42,7 +42,7 @@
 ## Några avslutande punkter om tanken med seminariet
 * Poängen med seminariet är i första hand att förbereda er inför den individuella uppgiften. 
 * Under seminariet är diskussionen någorlunda fri och driver idealt sig själv. Tanken är att det är ni som för samtalet och att jag modererar så lite som bara möjligt (men jag kommer givetvis göra det i den mån det är nödvändigt). Det är därför viktigt att ni i era förberedelser har en framtida fruktbar diskussion i åtanke och inte en monolog. 
-* I slutet av (och möjligen till viss del under) seminariet kommer jag att ge er muntlig feedback. Denna är till för *hela klassen*, även om den i huvudsak kommer att vara "riktad mot" respektive ideologis representant. 
+* I slutet av (och möjligen till viss del under) seminariet kommer jag att ge er muntlig feedback. Denna är till för *hela klassen*, även om den i huvudsak kommer att vara "riktad mot" respektive ideologis representanter. 
 * Ni kommer alltså inte att få individuella kommentarer eller omdömen. Det sagt gör ni er själva en björntjänst om ni inte tar seminariet på allvar. 
 * Utifrån feedbacken och utifrån ert arbete tillsammans kommer ni förhoppningsvis att ha en mycket god grund att stå på inför ert slutliga individuella arbete [(slutexaminationen)](ideologier_individuell_slutex.md).
 * Viktigt är därför att ni antecknar under seminariet. Inte bara min feedback utan också de idéer och tankar som uppstår då ni hör de andra grupperna resonera och argumentera.

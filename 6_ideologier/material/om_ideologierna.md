@@ -78,6 +78,9 @@ Positiva rättigheter handlar om _rätten till_ något. Dessa kräver en _aktiv_
 	* Människor ska behandlas som jämlikar, ha samma rättigheter och därmed vara lika inför lagen. Alla människor förtjänar samma respekt och ingen ska diskrimineras.
 	* Människor ska ges stora friheter att själva få bestämma över sina liv så länge de inte skadar andra. Staten skall i största möjliga mån låta individen vara.
 
+<!--Göra sista punkten till en egen? Onödigt? -->
+
+
 #### Socialismen
 
 <!--Här borde jag förklara jämlikhet i relation till rättvisa -->
