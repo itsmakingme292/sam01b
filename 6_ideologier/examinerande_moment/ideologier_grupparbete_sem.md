@@ -26,7 +26,7 @@
 	* Ekonomin?
 	* Rättvisa? Frihet?
 	* Rättigheter & skyldigheter?
-	* Samhällets organisation och utveckling?
+	* Samhällets utveckling?
 	
 4. Slipa på era argument inför seminariet. Utgå ifrån vad som är styrkan i era respektive ideologier, och vad som ni anser är svagheten i de andras. Gå *inte* utanför era roller – ni *är* er ideologi – och var under seminariet inte rädda att "attackera" de andra. 
 5. Förbered frågor att ställa till, och "attacker" att rikta mot, de andra ideologiernas representanter och försök tänka på vilka typer av argument och frågor som kommer dyka upp under seminariet. Hur kommer representanterna från de andra ideologierna att reagera på era resonemang? Vad kommer de att ge för några motargument och hur skulle ni kunna svara? Det finns ingen gräns på hur väl förbereda ni kan vara här.

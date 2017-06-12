@@ -17,7 +17,7 @@ Vilka är de mest utmärkande dragen? Vad säger de exempelvis om:
 - Ekonomin?
 - Rättvisa? Frihet?
 - Rättigheter & skyldigheter?
-- Samhällets organisation och utveckling?
+- Samhällets utveckling?
 
 #### 2) Argumentera för och emot ideologierna och väg dem mot varandra
 
