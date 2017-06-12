@@ -65,7 +65,7 @@ När det gäller rättigheter finner vi den stora skiljelinjen mellan ideologier
 
 Negativa rättigheter handlar om *friheten från* något. Sådana rättigheter kräver ingen _aktiv_ handling ifrån staten, tvärtom. Dessa innebär "endast" att vi slipper inblandning från staten. Ett exempel på en negativ rättighet är _yttrandefriheten_, vilken innebär att vi inte _blir hindrade_ eller censurerade då vi uttrycker vår åsikt. 
 
-Positiva rättigheter handlar om _rätten till_ något. Dessa kräver en _aktiv_ handling från staten och någon form av inblandning i våra liv. Ett exempel på en positiv rättighet är _rätten till skolgång_. Många (dock ej nyliberaler/libertarianer) skulle argumentera för att det inte bara räcker med att staten säger att vi är _fria_ att gå i skolan, utan att staten också måste, om denna rättighet ska betyda något, ta ansvaret *för* och *ge* oss denna skolgång. 
+Positiva rättigheter handlar om _rätten till_ något. Dessa kräver en _aktiv_ handling från staten och någon form av inblandning i våra liv. Ett exempel på en positiv rättighet är _rätten till skolgång_. Många (dock ej nyliberaler/libertarianer) skulle argumentera för att det inte bara räcker med att staten säger att vi är _fria_ att gå i skolan om vi _kan_ och _vill_, utan att staten också måste, om denna rättighet ska betyda något, ta ansvaret *för* och *ge* oss denna skolgång (och att skolgång därmed bör vara en positiv rättighet). 
 
 **En liten kommentar:** Ovanstående är också ett bra exempel för att belysa balansen mellan rättigheter och skyldigheter. För att staten ska kunna ge mig en skolgång måste det finnas pengar till denna, exempelvis via _skyldigheten_ att betala skatt, men för en nyliberal, innebär detta ett orimligt krav på medborgaren. Medborgaren ska inte tvingas betala någon annans skolgång om denne inte vill. 
 
@@ -207,7 +207,7 @@ Den totala frånvaron av en stat förespråkas framförallt av den socialistiska
 De som förespråkar den totala avsaknaden av en stat menar att staten alltid utgör ett förtryck och en makt över individen som i det långa loppet inte kan rättfärdigas. 
 
 #### Nattväktarstat
-En nattväktarstat är en slags minimi-stat. En sådant stat har endast en uppgift: att skydda medborgarna från varandra och från övriga stater (och därmed säkra "den inre" och "den yttre" säkerheten). Detta innebär i praktiken att staten endast står för sådant som ett rättsväsende (polis och domstolar), militär samt brandkår. I denna typ av stat råder 100 procent oreglerad marknadsekonomi och det sker ingen omfördelning av resurser från statens sida. Statens uppgift begränsas till att skydda medborgaren _liv_, _frihet_ och _(privata) egendom_. Utöver detta skall staten vara _passiv_.
+En nattväktarstat är en slags minimi-stat. En sådant stat har endast en uppgift: att skydda medborgarna från varandra och från övriga stater (och därmed säkra "den inre" och "den yttre" säkerheten). Detta innebär i praktiken att staten endast står för sådant som ett rättsväsende (polis och domstolar), militär samt brandkår. I denna typ av stat råder 100 procent oreglerad marknadsekonomi och det sker ingen omfördelning av resurser från statens sida. Statens uppgift begränsas till att skydda medborgarens _liv_, _frihet_ och _(privata) egendom_. Utöver detta skall staten vara _passiv_.
 
 **Förespråkas av:** Nyliberaler/libertarianer. Vissa konservativa.
 

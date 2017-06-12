@@ -30,7 +30,7 @@ Om vi pratar om "mannen som norm" eller säger att "mannen är normen i vårt sa
 
 I detta hänger givetvis de två begreppen ihop. Om det ska vara gynnsamt för mig att "vara man" måste jag också "bete mig som en man", vilket innebär att jag följer de **normer** som hör till att vara en man. Med andra ord att jag beter mig som män förväntas bete sig. 
 
-Att vi har dessa två begrepp "norm" och "normen" kan ibland bli förvirrande och det är olyckligt att Arena inte förklarar denna skillnad (eller överhuvudtaget inte ens går igenom begreppet "normer). Exempelvis kan vi faktiskt med själva ordet "normen" referera både till begreppet "normen" och begreppet "normer" och vi kan dessutom syfta till "ett paket med normer" (exempelvis: heteronormen). Här är tre exempel som belyser detta:
+Att vi har dessa två begrepp "norm" och "normen" kan ibland bli förvirrande och det är olyckligt att Arena inte förklarar denna skillnad (eller överhuvudtaget inte ens går igenom begreppet "normer"). Exempelvis kan vi faktiskt med själva ordet "normen" referera både till begreppet "normen" och begreppet "normer" och vi kan dessutom syfta till "ett paket med normer" (exempelvis: heteronormen). Här är tre exempel som belyser detta:
 
 * "Jag tycker vi måste förändra normen att män inte ska prata känslor" = **normer** (en norm)
 * "Jag tillhör inte normen i Sverige eftersom jag varken är svensk, man eller medelklass" = **normen** 
@@ -141,7 +141,7 @@ Det är exempelvis skillnad på om jag inte får ett jobb därför att arbetsgiv
 
 Man kan givetvis diskrimineras av en enskild grupp, eller  "endast" av en enskild person, men ofta innebär diskriminering (också) en **strukturell diskriminering**. Detta innebär att vi ofta kan se en viss upprepning i hur människor blir behandlade och att vissa grupper missgynnas mer än andra genom *samhällets lagar* och/eller *samhällets normer*.
 
-I Sverige är det få lagar som verkar direkt diskriminerande –  de allra flesta sådana lagar är borta sedan länge. Värre är den svenska kulturen och samhällets normer. Även om Sverige  till stora delar *är* och *upplever sig* som ett allmänt tolerant och "upplyst" land där alla *ska* "behandlas lika", så diskrimineras människor dagligen (och systematiskt). Detta är dock inte detsamma som att alla är medvetna om den strukturella diskrimineringen. Strukturell diskriminering handlar ofta om "små saker" som upprepas vid flera tillfällen men som tillsammans skapar stora problem för de som är utsatta. 
+I Sverige finns det få lagar som är direkt diskriminerande –  de allra flesta sådana lagar är borta sedan länge. Värre är den svenska kulturen och samhällets normer. Även om Sverige  till stora delar *är* och *upplever sig* som ett allmänt tolerant och "upplyst" land där alla *ska* "behandlas lika", så diskrimineras människor dagligen (och systematiskt). Detta är dock inte detsamma som att alla är medvetna om den strukturella diskrimineringen. Strukturell diskriminering handlar ofta om "små saker" som upprepas vid flera tillfällen men som tillsammans skapar stora problem för de som är utsatta. 
 
 _Då det sker strukturell diskriminering innebär detta att:_
 
