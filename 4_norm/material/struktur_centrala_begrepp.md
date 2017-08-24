@@ -61,7 +61,7 @@ Detta kallas **socialisation** och denna är en till stor omedveten _process_. D
 
 Vår identitet är vilka vi "känner oss som" och denna formas i stor utsträckning av de grupper vi tillhör. Vi identifierar oss med andra, vi är och förblir flockdjur – vi vill tillhöra något (en grupp).
 
-Inom varje grupp finns det en norm, med andra ord en förväntan på ett beteendet hos de som tillhör gruppen och därmed finns det också en *avvikelse*. Beter vi oss inte som vi förväntas bete oss, och avviker för mycket, kan vi ibland riskera att uteslutas från gruppen. 
+Inom varje grupp finns det en norm, med andra ord en förväntan om ett visst beteende hos de som tillhör gruppen och därmed finns det också en *avvikelse*. Beter vi oss inte som vi förväntas bete oss, och avviker för mycket, kan vi ibland riskera att uteslutas från gruppen. 
 
 Baksidan av hur vi formar vår identitet är att denna leder till ett "vi och dom"-tänkande. För att vi ska kunna tillhöra en grupp måste det finnas någon som *inte gör det*. Som grupper definierar vi oss lika mycket utifrån vilka *vi är* som vilka *vi inte är*. 
 

@@ -1,7 +1,7 @@
 # Det goda samhället
 **Om denna sida:** Varje ideologi försöker svara på frågan om vad ett *gott* samhälle innebär. Denna sida innehåller en sammanfattning av de tre stora ideologiernas respektive svar.
  
-**OBS:** Var uppmärksamma på denna sammanfattning (precis som alla andra) innebär vissa förenklingar, att det finns olika möjliga tolkningar och att varje ideologi har flertalet förgreningar.
+**OBS:** Var uppmärksamma på att denna sammanfattning (precis som alla andra) innebär vissa förenklingar, att det finns olika möjliga tolkningar och att varje ideologi har flertalet förgreningar.
 
 ***
 
