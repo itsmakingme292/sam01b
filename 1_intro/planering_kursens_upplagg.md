@@ -11,18 +11,17 @@
 	* Ingen examination (men likväl viktigt)
 * Demokrati – i teori och praktik
 	* E-grundande salsprov (F eller OK)
-	* Långfråga salsprov, seminarium eller hemtenta
+	* Inlämningsuppgift
 * FN & Mänskliga rättigheter
-	* Seminarium 
+	* Debattartikel 
 
 ## Delmoment – VT
 * Kritiskt tänkande
 	* Ingen examination (men likväl viktigt)
 * Ekonomi
-	* E-grundande salsprov (F eller OK)
-	* Långfråga salsprov eller kortare hemtenta
+	* Salsprov
 * Ideologier
-	* Grupparbete eller seminarium
+	* Grupparbete och seminarium
 	* Individuell slutexamination (endast betyg)
 
 
