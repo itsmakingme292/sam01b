@@ -147,3 +147,24 @@ _Då det sker strukturell diskriminering innebär detta att:_
 
 1. Man kan se ett tydligt mönster. Med andra ord: det handlar inte om ett fåtal/enskilda händelser.
 2. Det finns en tydlig koppling till samhällets normer och/eller lagar samt att dessa tydligt missgynnar vissa och gynnar andra.
+
+## Segregation & integration
+
+**Segregation** handlar om någon form av separation mellan grupper i samhället. Att det sker lite utbyte mellan vissa grupper och att alla grupper inte har samma möjlighet att delta i samhället i stort. 
+
+En vanlig form av segregation är **boendesegregation**. Denna segregation är rent rumslig och innebär att olika grupper av människor bor i olika områden av en stad. Exempelvis att det bor fler människor från lägre klasser och med en icke-svensk bakgrund i Bergsjön och Hisingen än i Majorna och Linnéstaden.
+
+**Integration** handlar om att motverka denna uppdelning mellan olika grupper i samhället. Om att skapa förutsättningar för att alla ska kunna delta i samhället på samma villkor. 
+
+I huvudsak finns det tre olika förhållningssätt vad gäller integration: 
+
+1. **Assimilering:** Alla individer och grupper anpassar sig i första hand till den dominerande kulturen. Konkret innebär det exempelvis att man ställer kravet  att invandrare ska bli svenska.
+
+2. **Kulturell smältdegel:** Kulturer möts och förändrar varandra. Den dominerande kulturen ger plats åt andra kulturer och det sker en ömsesidig anpassning mellan grupper.
+
+3. **Kulturell pluralism**: Man låter kulturerna leva fredligt sida vid sida, men ställer inga större "krav" på ömsesidig påverkan. Nyckelordet för denna modell är _tolerans_. 
+
+
+
+
+
