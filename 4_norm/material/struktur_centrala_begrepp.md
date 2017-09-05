@@ -79,6 +79,9 @@ Sociala kategorier är en typ av grupptillhörigheter som vi själva (oftast) in
 ### Kön & Genus
 Vad gäller den sociala kategorin "kön" är det viktigt att dela upp denna. Dels kan vi tala om _biologiskt kön_ och dels kan vi tala om **genus** (det sociala könet). Genus är "summan" av alla de normer som är kopplade till vår könstillhörighet – vårt genus handlar om _könsroller_ och inte om naturliga skillnader. Genus är någonting som skapas inom vår kultur (en social konstruktion) och inget vi föds med. Vi _socialiseras_ in i vårt genus, vi lär oss att vara "som män" eller "som kvinnor". 
 
+
+> "Man föds inte till kvinna, man blir det" – Simone de Beauvoir
+
 ### Klass
 När vi pratar om olika klasser i samhället kan vi göra olika indelningar. Vanligast är att man pratar om överklass, medelklass och arbetarklass/underklass. Men vad handlar då klass om? Ofta tänker vi på ekonomi, om att de som tillhör en högre klass har mer pengar och tillgångar än de som tillhör en lägre klass. Men klass handlar inte bara om detta. Sociologen Pierre Bourdieu menar att klass framförallt handlar om vilken tillgång man har till följande fyra typer av kapital: 
 
