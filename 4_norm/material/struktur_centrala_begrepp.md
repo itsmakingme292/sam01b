@@ -140,6 +140,19 @@ Ett annat sätt att beskriva diskriminering är att man gör en negativ åtskill
 
 Det är exempelvis skillnad på om jag inte får ett jobb därför att arbetsgivaren får reda på att jag är homosexuell eller därför att jag inte är tillräckligt kvalificerad. I det första fallet är jag solklart diskriminerad, i det andra fallet är jag det inte (hur tråkigt det än känns).
 
+> **Diskrimineringsgrunder enligt svensk lag (diskrimineringsförbud):**
+> 
+> - Kön
+> - Könsöverskridande identitet eller uttryck
+> - Nationellt eller etniskt ursprung, hudfärg eller annat liknande förhållande
+> - Religion eller annan trosuppfattning
+> - Sexuell läggning
+> - Funktionsnedsättning
+> - Ålder
+> 
+> *Se mer om dessa på [diskrimineringsombudsmannens hemsida](http://www.do.se/om-diskriminering/skyddade-diskrimineringsgrunder/)*
+
+
 ### Strukturell diskriminering
 
 Man kan givetvis diskrimineras av en enskild grupp, eller  "endast" av en enskild person, men ofta innebär diskriminering (också) en **strukturell diskriminering**. Detta innebär att vi ofta kan se en viss upprepning i hur människor blir behandlade och att vissa grupper missgynnas mer än andra genom *samhällets lagar* och/eller *samhällets normer*.
