@@ -166,19 +166,20 @@ _Då det sker strukturell diskriminering innebär detta att:_
 
 ## Segregation & integration
 
-**Segregation** handlar om någon form av separation mellan grupper i samhället. Att det sker lite utbyte mellan vissa grupper och att alla grupper inte har samma möjlighet att delta i samhället i stort. 
+**Segregation** handlar om någon form av uppdelning mellan grupper i samhället. Att det sker mycket lite utbyte mellan vissa grupper och att alla grupper inte har samma möjlighet att delta i samhället i stort. 
 
 En vanlig form av segregation är **boendesegregation**. Denna segregation är rent rumslig och innebär att olika grupper av människor bor i olika områden av en stad. Exempelvis att det bor fler människor från lägre klasser och med en icke-svensk bakgrund i Bergsjön och Hisingen än i Majorna och Linnéstaden.
 
-**Integration** handlar om att motverka denna uppdelning mellan olika grupper i samhället. Om att skapa förutsättningar för att alla ska kunna delta i samhället på samma villkor. 
+**Integration** handlar om att motverka  uppdelningen mellan olika grupper i samhället. Om att skapa förutsättningar för att alla ska kunna delta i samhället på lika villkor. 
 
-I huvudsak finns det tre olika förhållningssätt vad gäller integration: 
+I huvudsak finns det tre olika förhållningssätt som vi kan pendla mellan vad gäller integration: 
 
-1. **Assimilering:** Alla individer och grupper anpassar sig i första hand till den dominerande kulturen. Konkret innebär det exempelvis att man ställer kravet  att invandrare ska bli svenska.
+1. **Assimilering:** Alla individer och grupper anpassar sig i första hand till den dominerande kulturen. Konkret innebär det exempelvis att man ställer kravet  att invandrare helt och fullt ska "bli svenska" (och ge upp tidigare kulturell bakgrund i mycket stor utsträckning).
 
 2. **Kulturell smältdegel:** Kulturer möts och förändrar varandra. Den dominerande kulturen ger plats åt andra kulturer och det sker en ömsesidig anpassning mellan grupper.
 
-3. **Kulturell pluralism**: Man låter kulturerna leva fredligt sida vid sida, men ställer inga större "krav" på ömsesidig påverkan. Nyckelordet för denna modell är _tolerans_. 
+3. **Kulturell pluralism**: Man låter olika kulturer leva fredligt sida vid sida, men ställer inga större krav på ömsesidig påverkan. Nyckelordet för denna modell är _tolerans_. 
+
 
 
 
