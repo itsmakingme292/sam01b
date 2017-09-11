@@ -3,12 +3,13 @@
 
 # Kulturell och social tillhörighet
 
-- Nedanstående frågor är tankeväckande. Det går bra att fokusera mer på vissa än andra. 
+## Instruktioner
+
+- Nedanstående frågor är tankeväckande. Det går bra att fokusera mer på vissa än på andra. 
 - Om det känns allt för utelämnande, personligt eller jobbigt att använda sig själv “som exempel” kan man (för samtliga, eller vissa frågor) istället välja att diskutera mer generellt och utifrån fiktiva scenarion och personer.
 - Svara inte bara "Ja" eller "Nej" på nedanstående frågor. Diskutera **hur** och **varför** – samt ge **exempel**.
 
 ***
-
 
 ## Frågor att diskutera
 - Har du valt din kulturella tillhörighet eller har det "bara blivit så”? 
