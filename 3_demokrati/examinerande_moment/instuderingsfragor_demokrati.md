@@ -1,11 +1,15 @@
 # Instuderingsfrågor
 
-Uppdelningen av dessa instuderingsfrågor följer till viss del ordningen i boken [(se läslista)](../material/innehall_laslista_demokrati.md). Använd er gärna av andra källor, men var källkritiska. Ta också hjälp av [kompendiet](../material/innehall_laslista_demokrati.md#Kompendium) med ett urval av riksdagens studiematerial.
+### Kort info
+
+* Uppdelningen av nedanstående instuderingsfrågor följer till viss del ordningen i Arena [(se läslista)](../material/innehall_laslista_demokrati.md#Läslista).  
+* Ta även hjälp av [kompendiet](../material/innehall_laslista_demokrati.md#Kompendium) med ett urval av riksdagens studiematerial, samt anteckningar och [powerpoints från de genomgångar](../material/innehall_laslista_demokrati.md#Genomgångar) vi haft.
+* Använd er gärna av andra källor –  men var källkritiska.
+
+**OBS:** Dessa instuderingsfrågor är dels förberedelse inför ett kortare salsprov/kunskapstest (se provschema på schoolsoft) men de är också förberedelser inför [inlämningsuppgiften](inlamning_demokrati.md). När det är dags för ett kunskapstestet kommer vi att göra detta på [socrative.com](http://socrative.com)
 
 **LYCKA TILL!**
 / Fredrik
-
-**OBS:** Dessa instuderingsfrågor är dels förberedelse inför ett kortare salsprov/kunskapstest (se provschema på schoolsoft) men de är också förberedelser inför [inlämningsuppgiften](inlamning_demokrati.md). När det är dags för ett kunskapstestet kommer vi att göra detta på [socrative.com](http://socrative.com)
 
 ***
 

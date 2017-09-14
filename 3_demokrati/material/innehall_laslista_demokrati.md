@@ -11,8 +11,8 @@
 *I praktiken:*
 
 * Sveriges statsskick & grundlagar
-* Riksdag & regering 
-* Politikens nivåer och delar (myndigheter, kommuner, landsting och EU; ytterst kortfattat och grundläggande)
+* Politikens nivåer och delar
+* Arbetet i riksdag & regering 
 
 <!--* Sveriges politiska partier (eventuellt) -->
 
@@ -39,9 +39,11 @@
 
 Ett urval av riksdagens studiematerial (58 sid, lättläst och kan till stor del ersätta delar av Arena). [Klicka här för att ladda ner som PDF](resurser/kompendium_sv_pol_system.pdf)
 
-### Föreläsningsanteckningar & Powerpoint
+### Genomgångar
 
-Utöver ovanstående bör ni givetvis också använda er av era egna föreläsningsanteckningar. Under detta delmoment har vi också haft lektioner  med powerpoint och här finner ni den: [Val till val, powerpoint, PDF](resurser/val_till_val_pp.pdf)
+* [Demokrati](https://docs.google.com/presentation/d/1rz9FylgowWsJtsQex_UiZeBL1IkN84dSe5VW0mSa_hw/edit?usp=sharing) – Powerpoint om olika former av demokrati, samt vad som gör ett samhälle (mer) demokratiskt
+* [Sveriges statsskick](https://docs.google.com/presentation/d/1HxLMtloBjXUGjtQUH7k69ox3Kr_MEZ7Y25tO6IeRNj4/edit?usp=sharing) – Powerpoint om Sveriges statsskick, våra grundlagar och olika politiska nivåer
+* [Från val till val](https://docs.google.com/presentation/d/1ZrI0MwcNyEThRAurBx3xZWdF0FXePdL8W0NQ_pdOmT4/edit?usp=sharing) – Powerpoint om hur arbetet i riksdagen går till under en mandatperiod
 
-<!--**Kommentar:** Jag för gärna en diskussion med er angående fördelarna och nackdelar med powerpoints och tavlan. Min grundinställning är att använda tavlan så mycket som möjligt och att powerpoints endast används i undantagsfall. Fördelen med powerpoints är att man lätt kan presentera mycket information och det i en given ordning – men detta är också nackdelen. Tavlan är mer flexibel och skapar lättare en bra "takt" i undervisningen.  -->
+**Kommentar:** Utöver ovanstående bör ni givetvis också gå igenom era egna föreläsningsanteckningar.
 
