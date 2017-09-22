@@ -43,11 +43,9 @@ Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart 
 
 3. Du genomför uppgiften på **minst 1 A4** och **max 3 A4** (exklusive källförteckning). Detta med standard teckenstorlek, vanligt radavstånd, standard sid-marginaler, osv. 
 
-4. Du sparar dokumentet som/i formatet ”**PDF**” och döper dokumentet efter formen ”**Klass, Efternamn, Förnamn, Samhällskunskap, Demokrati**”
+4. Du skapar ett Docs-dokument i Classroom och lämnar in via classroom innan deadline (se deadline i provschema på schoolsoft)
 
-5. Du skickar till **fredrik.stahl.metg@analys.urkund.se** (se deadline i provschema på schoolsoft)
-
-**OBS:** Misslyckas man med någon av punkterna 2-5 räknas det som en icke inlämnad uppgift... Vid osäkerhet om vad detta innebär: fråga mig.
+**OBS:** Misslyckas man med någon av punkterna 2-4 räknas det som en icke inlämnad uppgift... Vid osäkerhet om vad detta innebär: fråga mig.
 
 ## Kunskapskrav för uppgiften
 
