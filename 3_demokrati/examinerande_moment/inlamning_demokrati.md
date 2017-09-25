@@ -39,13 +39,11 @@ Här kan man ställa flera olika frågor, och jag vill inte begränsa er i vart 
 
 1. Du jobbar först med [instuderingsfrågorna](instuderingsfragor_demokrati.md) inför salsprovet och läser de angivna sidorna i läroboken och extramaterialet under ["Innehåll och läslista"](../material/innehall_laslista_demokrati.md) samt läser noggrant igenom och funderar kring instruktionerna ovan.
 
-2. Du *bör* för denna uppgift använda dig av **ytterligare källor utöver Arena** och/eller åtminstone extra-material på denna hemsida. För denna uppgift är det *obligatoriskt* med en *källförteckning* (men ingen källkritisk analys). Vid direkta citat eller referat krävs också *källhänvisning* i text. 
+2. Du *bör* för denna uppgift använda dig av **ytterligare källor utöver Arena** och/eller åtminstone extra-material på denna hemsida. För denna uppgift är det *obligatoriskt* med en **källförteckning** (men ingen källkritisk analys). Vid direkta citat eller referat krävs också *källhänvisning* i text. 
 
-3. Du genomför uppgiften på **minst 1 A4** och **max 3 A4** (exklusive källförteckning). Detta med standard teckenstorlek, vanligt radavstånd, standard sid-marginaler, osv. 
+3. Du skapar ett **Docs**-dokument under uppgiften i **Classroom** och lämnar in före deadline (se deadline i provschema på schoolsoft). Du genomför uppgiften på **minst 1 A4** och **max 3 A4** (teckenstorlek 12, vanligt radavstånd, standard sid-marginaler, exklusive ev. källförteckning). 
 
-4. Du skapar ett Docs-dokument i Classroom och lämnar in via classroom innan deadline (se deadline i provschema på schoolsoft)
-
-**OBS:** Misslyckas man med någon av punkterna 2-4 räknas det som en icke inlämnad uppgift... Vid osäkerhet om vad detta innebär: fråga mig.
+**OBS:** Misslyckas man med punkt 2 eller 3 räknas det som en icke inlämnad uppgift... Vid osäkerhet om vad detta innebär: fråga mig.
 
 ## Kunskapskrav för uppgiften
 
