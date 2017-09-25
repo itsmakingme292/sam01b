@@ -39,7 +39,8 @@
 
 Ett urval av riksdagens studiematerial (58 sid, lättläst och kan till stor del ersätta delar av Arena). [Klicka här för att ladda ner som PDF](resurser/kompendium_sv_pol_system.pdf)
 
-### Genomgångar
+
+## Genomgångar
 
 * [Demokrati](https://docs.google.com/presentation/d/1rz9FylgowWsJtsQex_UiZeBL1IkN84dSe5VW0mSa_hw/edit?usp=sharing) – Powerpoint om olika former av demokrati, samt vad som gör ett samhälle (mer) demokratiskt
 * [Sveriges statsskick](https://docs.google.com/presentation/d/1HxLMtloBjXUGjtQUH7k69ox3Kr_MEZ7Y25tO6IeRNj4/edit?usp=sharing) – Powerpoint om Sveriges statsskick, våra grundlagar och olika politiska nivåer
