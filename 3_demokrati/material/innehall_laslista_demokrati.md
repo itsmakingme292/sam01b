@@ -30,8 +30,8 @@
 **Svenskt statsskick**
 66-93 (27 sid)
 
-**Europeiska Unionen**
-111-122 (11 sid)
+**Europeiska Unionen** (olika sidor, beroende på upplaga)
+Detta kapitel är inte av samma vikt som de andra kapitlen för provet och inlämningen (så prioritera detta kapitel lägre). 
 
 <!--**Sveriges politiska partier** 154-164 (10 sid) -->
 
