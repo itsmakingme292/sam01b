@@ -33,6 +33,8 @@
 **Europeiska Unionen** (olika sidor, beroende på upplaga)
 Detta kapitel är inte av samma vikt som de andra kapitlen för provet och inlämningen (så prioritera detta kapitel lägre). 
 
+<!--Första upplagan: 111-122 (11 sid) Andra upplagan: 122-142 (20 sid) -->
+
 <!--**Sveriges politiska partier** 154-164 (10 sid) -->
 
 ### Kompendium
