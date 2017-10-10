@@ -79,7 +79,7 @@
 
 #### Kortare frågor:
 
-- Vem är riksdagens ordförande?
+- Vem är riksdagens ordförande? (Ni behöver inte kunna hens namn, men ni behöver kunna det ord/begrepp man använder för denna)
 
 - Vad är ett mandat och vad innebär det att dessa fördelas proportionerligt?
 
