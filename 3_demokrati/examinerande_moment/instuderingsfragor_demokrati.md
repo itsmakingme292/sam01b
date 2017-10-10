@@ -72,7 +72,7 @@
 
 	- Vad innebär den svenska offentlighetsprincipen och varför är denna så viktig?
 	
-	- Vilka grundläggande fri- och rättigheter fastslås i RF?
+	- Ge exempel på viktiga grundläggande fri- och rättigheter som fastslås i regeringsformen (RF).
 
 
 ## Riksdag och regering
