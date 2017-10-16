@@ -25,9 +25,9 @@ Frågor ställer man i första hand under lektionstid. Om man känner att man in
 
 **Och kom ihåg:** Var frågvisa – man lär sig mer då!
 
-#### Angående information & Schoolsoft
+#### Angående information, Schoolsoft & Classroom
 
-Det är i första hand på denna sida ni finner information om delmomenten, material och uppgifter. Via Schoolsoft kommer främst omdömen och betyg att rapporteras, samt deadlines för inlämningar och provtillfällen i provschemat. 
+Det är i första hand på denna sida ni finner information om delmomenten, material och uppgifter. Uppgifter genomförs via Classroom och kommer vanligen länka till instruktioner på denna sida. Via Schoolsoft och/eller Classroom kommer också omdömen och betyg att rapporteras, samt deadlines för inlämningar och provtillfällen (provschemat i scs).
 
 För mer information om bedömning och betyg [klicka här](1_intro/bedomning.md).
 
