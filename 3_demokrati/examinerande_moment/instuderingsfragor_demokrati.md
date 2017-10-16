@@ -35,7 +35,7 @@
 
     - Vad är skillnaden mellan de två huvudtyperna av representativ demokrati: valdemokrati och deltagardemokrati? Vilka fördelar respektive nackdelar har dessa? 
 
-    - Hur viktigt anser du att politiskt deltagande är bland medborgarna? Vad anser du om vilka krav bör man ställa på folket i en demokrati här? Varför och hur? 
+    - Hur viktigt anser du att politiskt deltagande är bland medborgarna? Vilka krav bör man ställa på folket i en demokrati? Varför och hur? 
 
     - Borde vi ha fler folkomröstningar i Sverige? Vad innebär det att folkomröstningar endast är ”rådgivande” i Sverige? Vad anser du om detta? Skulle folk bli mer intresserade av politik om de fick en större direkt påverkan? Vilka möjligheter har vi egentligen att påverka politiska beslut i en representativ demokrati?
 
