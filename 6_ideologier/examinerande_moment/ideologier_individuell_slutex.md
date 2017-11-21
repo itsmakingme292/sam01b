@@ -65,13 +65,9 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 **För dig som väljer skriftligt:**
 
-1. Du genomför den huvudsakliga uppgiften på **minst 1 A4** och **max 3,5 A4** (teckenstorlek 12, vanligt radavstånd, standard sid-marginaler, källförteckning ej inräknad). 
+1. Du skapar ett **Docs**-dokument under uppgiften i **Classroom** och lämnar in före deadline (se deadline i provschema på schoolsoft). Du genomför uppgiften (med standard teckenstorlek, radavstånd och sid-marginaler) på **minst 1 A4** och **max 3 A4** (exkl. källförteckning).
 
-2. Du skriver en **källförteckning** _om_ du använt källor utöver texten på denna sida och Arena. Vid direkta citat eller referat *källhänvisar* du i din text. 
-
-3. Du sparar dokumentet som/i formatet ”**PDF**” och döper dokumentet efter formen ”**Klass, Efternamn, Förnamn, Samhällskunskap, Ideologier**”
-
-4. Du skickar till **fredrik.stahl.metg@analys.urkund.se** (se deadline i provschema på schoolsoft)
+2. Du skriver en **källförteckning** _om_ du använt källor utöver texten på denna sida och Arena. Vid direkta citat, referat eller hänvisning till mer specifika fakta krävs också *källhänvisning* i text. Det krävs ingen _skriftlig_ källkritisk analys – men var likväl källkritiska.
 
 **OBS:** Misslyckas man med någon av punkterna räknas det som en icke inlämnad uppgift... Vid osäkerhet om vad detta innebär: fråga mig.
 
