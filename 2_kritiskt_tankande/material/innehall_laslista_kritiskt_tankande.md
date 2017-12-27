@@ -1,8 +1,8 @@
 # Kritiskt tänkande
 
-**Om begreppet kritiskt tänkande:** Det finns många sätt att definiera vad ett kritiskt tänkande innebär. Enkelt uttryckt kan vi kalla det kritiska tänkandet för "tänkandet om tänkandet". Det är dock svårt att ge en fullgod definition som *alla* kan hålla med om. Poängen med detta delmoment är att ni ska ges en *verktygslåda* och få en bättre förståelse för vad ett kritiskt tänkande *kan* innebära. 
+**Om begreppet kritiskt tänkande:** Det finns många sätt att definiera vad ett kritiskt tänkande innebär. Enkelt uttryckt kan vi kalla det kritiska tänkandet för "det förnuftiga tänkandet" och "tänkandet om tänkandet". Det är dock svårt att ge en fullgod definition som *alla* kan hålla med om. Poängen med detta delmoment är att ni ska ges en *verktygslåda* och få en bättre förståelse för vad ett kritiskt tänkande *kan* innebära. 
 
-**Om delmomentet i relation till kursens helhet**: Detta är ett delmoment som till stora delar går in i andra delmoment. Exempelvis går vi alltid igenom källkritik under kursens start (och ev. repeterar vi detta under detta moment). I vilken utsträckning (antal lektioner ex.) denna del av kursen genomförs som ett eget fristående delmoment beror därför också  på vilket utrymme som finns i planeringen, vad vi gjort innan, osv.
+**Om delmomentet i relation till kursens helhet**: Detta är ett delmoment som till stora delar går in i andra delmoment. Exempelvis går vi oftast igenom källkritik under kursens start (och ev. repeterar vi detta under detta moment). I vilken utsträckning (antal lektioner ex.) denna del av kursen genomförs som ett eget fristående delmoment beror därför också  på vilket utrymme som finns i planeringen, vad vi gjort innan, osv.
 ***
 
 ## Delmomentets innehåll
@@ -25,12 +25,14 @@ Detta delmoment behandlar i huvudsak följande frågeställningar och ämnesomr�
 ## Läslista
 <!--*För mer info, se inlämningsuppgiften...* -->
 
+#### Genomgång
+[Presentation om kritiskt tänkande finner ni här](https://docs.google.com/presentation/d/1oy1fn1TcZl5XUAOdmc6YYkvZ1uAy19zqDvMqPb5LZZo/edit?usp=sharing)
+
 #### Arena
 
-Kapitel 13 och 18. Med fokus på sidorna 289-299, 304-307, 434 samt 443-450 
-(övriga sidor är ej obligatoriska).
+Kapitel 13 och 18. Med fokus på sidorna 289-299, 304-307, 434 samt 443-450.
 
-#### Ev. extra material
+#### Extra material
 
-Se denna hemsida... Läs i första hand texten om [argumentation](argumentation.md). 
+Läs i första hand texten om [argumentation](argumentation.md). Se även [länklistan för källkritik](kallkritik.md)
 
