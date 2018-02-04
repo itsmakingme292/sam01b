@@ -10,7 +10,7 @@ Huvudpoängen med denna uppgift är att ni ska resonera kring kopplingen mellan 
 _Mer konkret innebär detta att ni utreder:_
 
 1. Vilken roll de grundläggande fri- och rättigheterna i Sveriges grundlagar spelar för vår demokrati. 
-2. Fördelar och nackdelar med representativ demokrati (i jämförelse med direktdemokrati) och hur en sådan fungerar på bästa sätt.
+2. Fördelar och nackdelar med representativ demokrati (i jämförelse med direktdemokrati) och hur en sådan fungerar på bästa sätt (deltagardemokrati kontra elitdemokrati).
 3. Vilka kriterier eller krav för en god demokrati som Sverige uppfyller (eller inte uppfyller) och i vilken utsträckning. 
 
 Tänk på att ni har ett begränsat antal sidor att skriva på – så börja först med att _planera_ vad ni vill ta upp i er text. Till er hjälp har ni nedanstående centrala delar och begrepp att utgå ifrån (sådant som är extra viktigt).

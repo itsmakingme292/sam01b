@@ -26,4 +26,4 @@ Fokus under detta delmoment kommer att ligga på *samhälls*ekonomi. *Privat*eko
 * [Kompendium om konsumenträtt](../material/resurser/konsumentratt_kompendium.pdf)
 
 
-**Ett tips:** För detta moment kan ni även använda er av Klas Eklunds kortversion av boken "Vår ekonomi". Denna är förvisso fortfarande 150 sidor lång, men man kan läsa valda delar. [Här finns en PDF](../material/resurser/var_ekonomi.pdf)
+**Ett tips:** För detta moment kan ni även använda er av Klas Eklunds kortversion av boken "Vår ekonomi". Denna är förvisso  146 sidor lång, men man kan läsa valda delar. [Här finns en PDF](../material/resurser/var_ekonomi.pdf)
