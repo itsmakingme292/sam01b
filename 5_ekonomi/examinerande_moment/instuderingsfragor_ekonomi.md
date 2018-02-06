@@ -17,11 +17,11 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 
 - Vad är efterfrågan och utbud (marknadskrafterna) och vad krävs för att dessa ska samspela på bästa sätt? (se sid 169-171)
     - Hur ser sambandet mellan efterfrågan och utbud ut i fråga om kvantitet och pris? Ge konkreta exempel på olika möjliga situationer. 
+    - Vad händer vid jämviktspris?
     - Vad innebär en "perfekt marknad"?
-    - Vad händer vid jämviktspris och hur ofta tror du detta sker i verkligheten?
 
 - Vad innebär monopol, oligopol och kartellbildning? (se sid 174-176)
-    - På vilket sätt är dessa problematiska i förhållande till en fri marknad och konkurrens?
+    - På vilket sätt är dessa problematiska för en fri marknad?
     - Vad innebär detta för konsumenten?
 
 - Vad är BNP och BNI? (se sid 180-184)
@@ -32,13 +32,13 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 <!--    - Vad innebär det kortfattat att räkna ovanstående per capita och med PPP? -->
 
 - Vilka är de tre huvudsakliga produktionsfaktorerna och vad innebär dessa? (se sid 187)
-    - Vad innebär produktivitet? Varför är detta viktigt?
     - Produktionen i ett land kan ökas på två grundläggande sätt. Vilka?  
+    - Vad innebär produktivitet? Hur ökar man denna? Och varför är produktivitet viktigt?
 
 <!--Borttagen fråga:     - Vad innebär det att en produktion kan vara arbetskraftsintensiv eller kapitalintensiv? Ge exempel. -->
 
 - Vad är tillväxt och vad utgör goda förutsättningar för tillväxt (se sid 186-188)
-    - Vilka "recept" för tillväxt anger boken? 
+    - Vilka "recept" för tillväxt anger boken? Vilka har vi gått igenom?
     - Hur kan man argumentera för dessa?
     - På vilket sätt hänger dessa samman med produktionsfaktorerna?
 
@@ -60,8 +60,8 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 
 - Vad kan staten göra för att minska konjunktursvängningar? (se sid 208-211)
     - Vad är ekonomisk politik och vad är denna politiks huvudmål?
-    - Vad är finanspolitik, vad är det denna styr, hur påverkar denna ekonomin, och vad är en vanlig grundläggande finanspolitisk princip för att lindra konjunktursvängningar? Förklara hur detta fungerar. 
-    - Vad är penningpolitik, vem/vilka ansvarar för penningpolitiken, och vilket är penningpolitikens främsta redskap? Förklara hur detta fungerar.
+    - Vad är finanspolitik, vad är det denna styr, hur påverkar denna ekonomin, och vad är en vanlig grundläggande finanspolitisk princip för att lindra konjunktursvängningar? Förklara hur allt detta fungerar (de ekonomiska sambanden). 
+    - Vad är penningpolitik och vilket är penningpolitikens främsta redskap? Förklara hur, när och varför riksbanken påverkar penningmängden.
 
 
 <!--- Borttagen fråga: Vilka argument kan man framföra för och emot statligt ägande? (se sid 168)     - Finns det några typer av verksamheter som är mindre lämpade för en konkurrensutsatt marknad? Varför då? Vad tänker du själv? -->
@@ -106,4 +106,4 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 
 - Vid vilken ålder får man enligt lag sluta ett avtal och vad innebär en bindningstid? 
 
-- -->
+-->
