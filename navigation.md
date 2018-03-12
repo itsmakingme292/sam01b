@@ -86,6 +86,7 @@
   * [Det goda samhället](6_ideologier/material/om_ideologierna.md)
   - - - -
   * # Övningar & Diskussionsunderlag
+  * [Vad är rättvisa?](6_ideologier/ovningar/vad_ar_rattvisa.md)
   * [Vad bör staten göra?](6_ideologier/ovningar/diskussionsunderlag_ideologier.md)
   * [UR "Drömsamhället"](6_ideologier/ovningar/ur_dromsamhallet.md)
   * [Ledare & Politisk färg](2_kritiskt_tankande/ovningar/ledare_politisk_farg.md)

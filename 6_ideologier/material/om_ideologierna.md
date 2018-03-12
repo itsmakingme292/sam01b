@@ -109,7 +109,7 @@ Positiva rättigheter handlar om _rätten till_ något. Dessa kräver en _aktiv_
 
 **Ett litet förtydligande:** Både socialismen och liberalismen förespråkar jämlikhet. De gör dock lite olika analys av vad jämlikhet bör innebära. I grund och botten handlar jämlikhet om att alla människor är lika värda och förtjänar samma respekt. Att ingen ska diskrimineras och att alla ska ha samma rättigheter. Men för socialismen räcker det inte med en jämlikhet som endast (eller till större delen) bygger på negativa rättigheter, socialister vill också ha _ekonomisk_ jämlikhet. _Ojämlikhet_ ligger för socialismen inte bara i att vi kan _behandlas_ olika. Socialismen menar att ojämlikhet också (och framförallt) handlar om _ojämna förutsättningar_.
 
-## Människan och samhället
+## Människan & samhället
 
 ### Primära ideologiska enheter och fokus
 En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideologi fokuserar på i sin analys av samhället och i sitt ideologiska program (förslag på förändringar).
@@ -171,7 +171,7 @@ En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideolo
 
 
 
-## Statens uppgift
+## Statens uppgift & ekonomin
 ### Statens grundläggande syfte
 Kortfattat skulle statens grundläggande syfte inom de tre klassiska ideologierna kunna förklaras som följande:
 
@@ -206,10 +206,12 @@ Den totala frånvaron av en stat förespråkas framförallt av den socialistiska
 
 De som förespråkar den totala avsaknaden av en stat menar att staten alltid utgör ett förtryck och en makt över individen som i det långa loppet inte kan rättfärdigas. 
 
-#### Nattväktarstat
+#### Nattväktarstat (liten stat)
 En nattväktarstat är en slags minimi-stat. En sådant stat har endast en uppgift: att skydda medborgarna från varandra och från övriga stater (och därmed säkra "den inre" och "den yttre" säkerheten). Detta innebär i praktiken att staten endast står för sådant som ett rättsväsende (polis och domstolar), militär samt brandkår. I denna typ av stat råder 100 procent oreglerad marknadsekonomi och det sker ingen omfördelning av resurser från statens sida. Statens uppgift begränsas till att skydda medborgarens _liv_, _frihet_ och _(privata) egendom_. Utöver detta skall staten vara _passiv_.
 
 **Förespråkas av:** Nyliberaler/libertarianer. Vissa konservativa.
+
+Vad gäller konservativa är det vanligt att man som konservativ är _värdekonservativ_ och samtidigt *marknad*sliberal. Vissa konservativa är är alltså liberala när det kommer till marknaden (den ska vara fri, och staten ska inte lägga sig i), men konservativa när det kommer till värderingar (staten ska verka för att bevara nationens kultur osv). Dessa konservativa vill därför ha en nattväktarstat i en viss bemärkelse, och inte alls i en annan. 
 
 #### Välfärdsstat
 I en välfärdsstat står staten för mer än skyddet av _liv_, _frihet_ och _egendom_. I denna typ av stat är fokus på positiva rättigheter långt större. Framförallt syftar välfärdsstaten till att kompensera de individer som givits en allt för dålig lott i livets biologiska och sociala lotteri. Detta innebär att staten dels ger alla människor grundläggande förutsättningar att klara sig bra i livet genom sådant som _allmän vård_ och _allmän skola_. Men också genom ett större _skyddsnät_ i form av sådant som _pension_ och *sjukförsäkring*. I denna bemärkelse sker en viss omfördelning av resurser i ett välfärdssamhälle. Ofta genom att de som har mer beskattas högre. 
@@ -218,7 +220,7 @@ Ekonomin i en välfärdsstat är en blandekonomi. Detta innebär att man i stort
 
 **Förespråkas av:** Reformistiska socialister (däribland socialdemokrater) och social-liberaler. Vissa konservativa. 
 
-För social-liberaler och konservativa handlar det dock om att se till vad man brukar kalla för _välfärdens kärna_. Med andra ord, välfärd är bra, men inte _för mycket_. Enligt mer liberala och konservativa riskerar "för mycket" välfärd att passivisera människor (se exempelvis: [Reinfeldt, _Det sovande folket_](https://sv.wikipedia.org/wiki/Det_sovande_folket)). 
+För social-liberaler och konservativa handlar det dock om att se till vad man brukar kalla för _välfärdens kärna_. Med andra ord, välfärd är bra, men inte _för mycket_. Enligt mer liberala och konservativa riskerar "för mycket" välfärd att passivisera människor (se exempelvis: [Reinfeldt, _Det sovande folket_](https://sv.wikipedia.org/wiki/Det_sovande_folket)). Reformistiska socialister delar _inte_ denna bild. Välfärden ska inte bara vara en slags "grundservice" den ska också förändra samhällsstrukturen (göra samhället mer jämlikt) genom att korrigera marknadens orättvisa utfall (exempelvis högre skatt för rika).
 
 #### Allomfattande stat
 
@@ -226,11 +228,13 @@ Exakt vad det innebär att en stat är "allomfattande" är en fråga för diskus
 
 Ett annat perspektiv på den allomfattande staten är att en sådan äger och fördelar samhällets (alla) resurser. Detta innebär att rätten till privategendom begränsas genom ett förstatligande av samtliga företag. Detta för att folket, genom staten, skall äga alla produktionsmedel gemensamt (kollektivt). I denna typ av stat råder planekonomi, vilket innebär att staten _planerar_ produktionen (frånvaro av _fri marknad_). Den socialistiska/kommunistiska devisen är här: *"Av var och en efter förmåga, åt var och en efter behov"*. 
 
-Tanken med denna typ av stat är att det i en marknadsekonomi alltid kommer att uppstå en människofientlig och omoralisk kapitalism där vissa människor *suger ut* andra. Utan en mycket stor statlig inblandning och ett gemensamt ägande kommer vi därför aldrig att kunna uppnå ett klasslöst och därmed _jämlikt_ samhälle. 
+Tanken med denna typ av stat är att det i en marknadsekonomi alltid kommer att uppstå en människofientlig och omoralisk kapitalism där vissa människor *suger ut* andra (vissa blir rikare och rikare på andras bekostnad). Utan en mycket stor statlig inblandning och ett gemensamt ägande kommer vi därför aldrig att kunna uppnå ett klasslöst och därmed _jämlikt_ samhälle. 
 
 <!--Fria är vi först när vi slipper sälja vårt arbete och istället äger allt gemensamt. --> 
 
 **Förespråkas av:** Vissa kommunister
+
+**Ordförklaring:** *Kapitalism* innebär att produktionsmedlen ägs privat och inte kollektivt. För socialister innebär kapitalism en konfliktfylld (och i längden ohållbar) uppdelning av samhället där några (kapitalister) äger och resten (proletärer) arbetar för de som äger. 
 
 
 ## Samhällets förändring 
