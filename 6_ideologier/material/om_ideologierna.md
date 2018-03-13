@@ -157,6 +157,8 @@ En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideolo
 	* Vårt självförverkligande och våra möjligheter i livet beror på hur det omgivande samhället ser ut.  
 	* Vi måste skapa ett _solidariskt_ samhälle, med andra ord ett samhälle där vi tar ett _gemensamt_ ansvar för varandra.
 
+**Ordförklaring:** *Kapitalism* innebär att produktionsmedlen ägs privat och inte kollektivt. För socialister innebär kapitalism en konfliktfylld (och i längden ohållbar) uppdelning av samhället där några (kapitalister) äger och resten (proletärer) arbetar för de som äger. 
+
 #### Konservatismen:
 1. Människan är svag och i stort behov av vägledning. 
 	* Människan är ej av naturen god. En mer pessimistisk syn på människan. 
@@ -233,9 +235,6 @@ Tanken med denna typ av stat är att det i en marknadsekonomi alltid kommer att 
 <!--Fria är vi först när vi slipper sälja vårt arbete och istället äger allt gemensamt. --> 
 
 **Förespråkas av:** Vissa kommunister
-
-**Ordförklaring:** *Kapitalism* innebär att produktionsmedlen ägs privat och inte kollektivt. För socialister innebär kapitalism en konfliktfylld (och i längden ohållbar) uppdelning av samhället där några (kapitalister) äger och resten (proletärer) arbetar för de som äger. 
-
 
 ## Samhällets förändring 
 
