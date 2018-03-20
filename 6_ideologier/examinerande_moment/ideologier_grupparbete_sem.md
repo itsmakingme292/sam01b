@@ -56,7 +56,7 @@
 
 <!-- Datum och tider finns, eller kommer att finnas i provschemat på schoolsoft. Gruppindelning kommer att komma som ett meddelande och/eller nyhet en vecka innan eller så. Är man osäker, så frågar man. -->
 
-[Här hittar ni gruppindelningar och tider](https://docs.google.com/a/ga.mikaelelias.se/document/d/1BzdHtEqq26MK53Hvm_G0h8_OhVE1EppsyMrX9UcjaJs/edit?usp=sharing)
+Se classroom
 
 **LYCKA TILL!**
 
