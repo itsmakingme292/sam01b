@@ -4,7 +4,7 @@
 
 ## Instruktioner
 
-*Obligatoriskt* för denna uppgift är **Liberalismen** och **Socialismen** (och dess huvudsakliga förgreningar). Det är *valfritt* att skriva om ytterligare en av följande ideologier: Konservatism, Ekologism, Feminism eller Anarkism/Syndikalism (detta innebär dock inte per automatik ett högre omdöme).
+*Obligatoriskt* för denna uppgift är **Liberalismen** och **Socialismen** (och dess huvudsakliga förgreningar). Man _får om man vill_ behandla ytterligare *en* av följande ideologier: Konservatism, Ekologism, Feminism eller Anarkism/Syndikalism (men det innebär inte per automatik ett högre omdöme).
 
 <!--**Tips:** Försök för denna uppgift inte bara tänka kring vad vi gått igenom under detta moment, utan också vad ni lärt er under tidigare moment... -->
 
@@ -49,7 +49,7 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 1. Du läser läser och reflekterar kring texten **["Det goda samhället"](../material/om_ideologierna.md)** och kompletterar denna med avsnittet om ideologier **i Arena** och/eller **andra källor** som du själv söker upp.
 
-2. Du är uppmärksam på eventuella problem och skillnader i texterna, du jämför, är källkritisk och ställer frågor till mig när så behövs. 
+2. Du är uppmärksam på eventuella problem och skillnader i texterna, du jämför, är källkritisk, och ställer frågor till mig när så behövs. 
 
 3. Du väljer om du vill genomföra uppgiften muntligt (enskilt samtal med mig) eller skriftligt (inlämning). 
 
