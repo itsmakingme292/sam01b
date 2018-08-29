@@ -6,22 +6,21 @@
 
 ## Delmoment – HT
 * Introduktion
-	* Kort om kursen, bedömning, källhantering etc. 
-* Norm & makt
-	* Ingen examination (men likväl viktigt)
+	* Kort om kursen 
 * Demokrati – i teori och praktik
-	* E-grundande salsprov (F eller OK)
-	* Inlämningsuppgift
+	* Prov?
+* Norm & makt
+	* Ev. Ingen examination (men likväl viktigt)
 * FN & Mänskliga rättigheter
-	* Debattartikel 
+	* Debattartikel?
 
 ## Delmoment – VT
 * Kritiskt tänkande
-	* Ingen examination (men likväl viktigt)
+	* Ev. Ingen examination (men likväl viktigt)
 * Ekonomi
 	* Salsprov
 * Ideologier
-	* Grupparbete och seminarium
+	* Grupparbete och seminarium (med halvklass-feedback)
 	* Individuell slutexamination (endast betyg)
 
 

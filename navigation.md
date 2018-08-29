@@ -13,18 +13,6 @@
   * [Källor & Plagiat](1_intro/kallhantering.md)
   - - - -
   * [Kursutvärdering](kursutvardering.md)
-  
-[Norm & Makt]()
-
-  * # Material
-  * [Innehåll & Läslista](4_norm/material/innehall_laslista_norm_makt.md)
-  * [Centrala Begrepp](4_norm/material/struktur_centrala_begrepp.md)
-  - - - -
-  * # Övningar & Diskussionsunderlag
-  * [Vem har mest makt?](4_norm/diskussionsunderlag/vem_har_mest_makt.md)
-  * [Manligt & Kvinnligt](4_norm/diskussionsunderlag/genus_manligt_kvinnligt_ovning.md)
-  * [Diskriminering](4_norm/diskussionsunderlag/diskriminering.md)
-  * [Kulturell & Social tillhörighet](4_norm/diskussionsunderlag/kulturell_och_social_tillhorighet.md)
 
 [Demokrati]()
 
@@ -39,9 +27,22 @@
   <!--  * [Die Welle (Film)](3_demokrati/ovningar/die_welle.md) -->
   - - - -
   * # Examinerande moment
-  * [Instuderingsfrågor inför prov](3_demokrati/examinerande_moment/instuderingsfragor_demokrati.md)
-  * [Inlämningsuppgift](3_demokrati/examinerande_moment/inlamning_demokrati.md)
+  * [*Kommer...*](...)
+
+<!--  * [Instuderingsfrågor inför prov](3_demokrati/examinerande_moment/instuderingsfragor_demokrati.md)   * [Inlämningsuppgift](3_demokrati/examinerande_moment/inlamning_demokrati.md) -->
   
+[Norm & Makt]()
+
+  * # Material
+  * [Innehåll & Läslista](4_norm/material/innehall_laslista_norm_makt.md)
+  * [Centrala Begrepp](4_norm/material/struktur_centrala_begrepp.md)
+  - - - -
+  * # Övningar & Diskussionsunderlag
+  * [Vem har mest makt?](4_norm/diskussionsunderlag/vem_har_mest_makt.md)
+  * [Manligt & Kvinnligt](4_norm/diskussionsunderlag/genus_manligt_kvinnligt_ovning.md)
+  * [Diskriminering](4_norm/diskussionsunderlag/diskriminering.md)
+  * [Kulturell & Social tillhörighet](4_norm/diskussionsunderlag/kulturell_och_social_tillhorighet.md)
+
 [FN & MR]()
 
   * # Material
@@ -53,7 +54,10 @@
   * [Material från Amnesty](7_fn_mr/diskussion_ovningar/amnesty.md)
   - - - -
   * # Examinerande moment
-  * [Debattartikel](7_fn_mr/examinerande_moment/debattartikel_mr.md)
+  * [*Kommer...*](...)
+  
+<!--  * [Debattartikel](7_fn_mr/examinerande_moment/debattartikel_mr.md) -->
+
 
 [Kritiskt tänkande]()
 
@@ -77,7 +81,10 @@
   * [Strandsatt på en öde ö](5_ekonomi/ovningsuppgifter/ekonomi_ovning_ode_o.md)
   - - - -
   * # Examinerande moment
-  * [Instuderingsfrågor inför prov](5_ekonomi/examinerande_moment/instuderingsfragor_ekonomi.md)
+  * [*Kommer...*](...)
+
+<!-- * [Instuderingsfrågor inför prov](5_ekonomi/examinerande_moment/instuderingsfragor_ekonomi.md) -->
+
 
 [Ideologier]()
 
@@ -94,6 +101,6 @@
   <!--* [Läsuppgift, Arena](6_ideologier/ovningar/lasning_arena_och_diskussion.md) -->
   - - - -
   * # Examinerande moment
-  * [Grupparbete & Seminarium](6_ideologier/examinerande_moment/ideologier_grupparbete_sem.md)
-  * [Individuell slutexamination](6_ideologier/examinerande_moment/ideologier_individuell_slutex.md)
-  
+  * [*Kommer...*](...)
+
+<!--  * [Grupparbete & Seminarium](6_ideologier/examinerande_moment/ideologier_grupparbete_sem.md)   * [Individuell slutexamination](6_ideologier/examinerande_moment/ideologier_individuell_slutex.md)    -->
