@@ -50,3 +50,8 @@ Ett urval av riksdagens studiematerial (58 sid, lättläst och kan till stor del
 
 **Kommentar:** Utöver ovanstående bör ni givetvis också gå igenom era egna föreläsningsanteckningar.
 
+
+## Etc
+
+Gör ett virtuellt besök i riksdagen på [upplev.riksdagen.se](http://www.riksdagen.se/sv/upplev/)
+

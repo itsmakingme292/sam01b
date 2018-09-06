@@ -1,5 +1,4 @@
 # Upplev riksdagen
 
-Besök riksdagen virtuellt via din dator:
-[upplev.riksdagen.se](http://www.riksdagen.se/sv/upplev/)
+Gör ett virtuellt besök i riksdagen på [upplev.riksdagen.se](http://www.riksdagen.se/sv/upplev/)
 
