@@ -24,14 +24,12 @@
 
 ### Arena
 
-**Demokrati och diktatur**
-36-59 (23 sid)
+*Kapitel att läsa i Arena:*
+* **Demokrati och diktatur**
+* **Svenskt statsskick**
 
-**Svenskt statsskick**
-66-93 (27 sid)
+<!--**Europeiska Unionen**  Detta kapitel är inte av samma vikt som de andra kapitlen för provet och inlämningen (så prioritera detta kapitel lägre).  -->
 
-**Europeiska Unionen** (olika sidor, beroende på upplaga)
-Detta kapitel är inte av samma vikt som de andra kapitlen för provet och inlämningen (så prioritera detta kapitel lägre). 
 
 <!--Första upplagan: 111-122 (11 sid) Andra upplagan: 122-142 (20 sid) -->
 
