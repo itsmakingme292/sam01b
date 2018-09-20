@@ -20,7 +20,7 @@
 
 ## Läslista
 
-**Tips:** Glöm inte att titta på [instuderingsfrågorna](../examinerande_moment/instuderingsfragor_demokrati.md) innan ni börjar läsa.
+**Tips:** Glöm inte att titta på [instuderingsfrågorna](nya instuderingsfrågor kommer, länk här V.39) innan ni börjar läsa.
 
 ### Arena
 
