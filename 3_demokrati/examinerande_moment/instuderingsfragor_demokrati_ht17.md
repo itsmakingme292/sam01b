@@ -6,7 +6,8 @@
 * Ta även hjälp av [kompendiet](../material/innehall_laslista_demokrati.md#Kompendium) med ett urval av riksdagens studiematerial, samt anteckningar och [powerpoints från de genomgångar](../material/innehall_laslista_demokrati.md#Genomgångar) vi haft.
 * Använd er gärna av andra källor –  men var källkritiska.
 
-**OBS:** Dessa instuderingsfrågor är dels förberedelse inför ett kortare salsprov/kunskapstest (se provschema på schoolsoft) men de är också förberedelser inför [inlämningsuppgiften](inlamning_demokrati.md). När det är dags för ett kunskapstestet kommer vi att göra detta på [socrative.com](http://socrative.com)
+<!--**OBS:** Dessa instuderingsfrågor är dels förberedelse inför ett kortare salsprov/kunskapstest (se provschema på schoolsoft) men de är också förberedelser inför [inlämningsuppgiften](inlamning_demokrati.md). När det är dags för ett kunskapstestet kommer vi att göra detta på [socrative.com](http://socrative.com) -->
+
 
 **LYCKA TILL!**
 / Fredrik
@@ -33,9 +34,9 @@
 
 - Vilka fördelar, respektive nackdelar, har de båda formerna av demokrati? Är representativ demokrati ett verkligt folkstyre? Eller har vi endast sann demokrati vart fjärde år och en slags lättare variant av diktatur däremellan? Är en fullvärdig direktdemokrati ens en praktisk möjlighet? Eller är det bättre att politiker sköter politiken? Vilken form av demokrati finner du själv mest tilltalande? Varför?
 
-    - Vad är skillnaden mellan de två huvudtyperna av representativ demokrati: valdemokrati och deltagardemokrati? Vilka fördelar respektive nackdelar har dessa? 
+    - Vad är skillnaden mellan de två huvudtyperna av representativ demokrati: valdemokrati/elitdemokrati och deltagardemokrati? Vilka fördelar respektive nackdelar har dessa? 
 
-    - Hur viktigt anser du att politiskt deltagande är bland medborgarna? Vilka krav bör man ställa på folket i en demokrati? Varför och hur? 
+    - Varför är det viktigt med politiskt deltagande är bland medborgarna? Vilka krav bör man ställa på folket i en demokrati? Varför och hur? 
 
     - Borde vi ha fler folkomröstningar i Sverige? Vad innebär det att folkomröstningar endast är ”rådgivande” i Sverige? Vad anser du om detta? Skulle folk bli mer intresserade av politik om de fick en större direkt påverkan? Vilka möjligheter har vi egentligen att påverka politiska beslut i en representativ demokrati?
 
@@ -52,7 +53,7 @@
 
 - Vad krävs för att kunna ändra en grundlag i Sverige?
 
-- Vad är riksdagsordningen och är denna en grundlag? (obs  endast mycket kortfattat)
+<!--- Vad är riksdagsordningen och är denna en grundlag? (obs  endast mycket kortfattat) -->
 
 - Vem är Sveriges statschef?
 
@@ -83,9 +84,9 @@
 
 - Vad är ett mandat och vad innebär det att dessa fördelas proportionerligt?
 
-- Vad innebär 4%-spärren och vilka argument kan man framföra för denna?
-
 - Hur många riksdagsledamöter sitter det i Sveriges riksdag? Varför just detta antal?
+
+- Vad innebär 4%-spärren och vilka argument kan man framföra för denna?
 
 - Vad krävs för att få rösta i svenska riksdagsval? Vad krävs för att man ska vara valbar som riksdagsledamot?
 
@@ -97,9 +98,10 @@
 
 - Vad är en interpellation och hur går denna till?
 
-- Vad är konstitutionsutskottet (KU)? Beskriv kortfattat funktionen med detta och vilka som kan vända sig dit.
+* Vad är konstitutionsutskottet (KU)? Beskriv kortfattat funktionen med detta och vilka som kan vända sig dit.  
 
-- Vad är Justitieombudsmännen (JO)? Beskriv kortfattat funktionen med detta och vilka som kan vända sig dit.
+* Vad är Justitieombudsmännen (JO)? Beskriv kortfattat funktionen med detta och vilka som kan vända sig dit.
+
 
 <!--- Vad innebär ministerstyre? Är detta överhuvudtaget lagligt i Sverige? Varför anser vi i Sverige (kortfattat) att detta är något dåligt? -->
 

@@ -20,13 +20,14 @@
 
 ## Läslista
 
-**Tips:** Glöm inte att titta på [instuderingsfrågorna](nya instuderingsfrågor kommer, länk här V.39) innan ni börjar läsa.
+**Tips:** Glöm inte att titta på [instuderingsfrågorna](../examinerande_moment/instuderingsfragor_demokrati_ht18.md) innan ni börjar läsa.
 
 ### Arena
 
 *Kapitel att läsa i Arena:*
-* **Demokrati och diktatur**
-* **Svenskt statsskick**
+
+* Demokrati och diktatur
+* Svenskt statsskick
 
 <!--**Europeiska Unionen**  Detta kapitel är inte av samma vikt som de andra kapitlen för provet och inlämningen (så prioritera detta kapitel lägre).  -->
 
