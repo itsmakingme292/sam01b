@@ -1,6 +1,6 @@
 # Bedömning & Betyg
 
-**Om denna sida:** Nedanstående text är skriven av mig och Travis Trimmer och är en del i ett pågående arbete med lärande bedömning här på Mikael Elias. 
+**Om denna sida:** Nedanstående text är skriven av mig och Travis Trimmer (en tidigare kollega) och är en del i ett pågående arbete med lärande bedömning här på Klara. 
 
 När vi talar om bedömning blandar vi ofta samman två olika typer av bedömning. Den ena typen av bedömning kallas *summativ bedömning* och den andra *formativ bedömning* eller *bedömning för lärande*.
 
@@ -38,7 +38,7 @@ Motsatsen till ett *fixed mindset* är ett *growth mindset*. Personer med detta 
 
 ## Lärande bedömning i grupp
 
-En viktig sista punkt är att lärande bedömning inte endast behöver handla om en individuell bedömning, utan att den framförallt (och mer effektivt) handlar om att läraren bedömer vart klassen som helhet för tillfället befinner sig i sitt lärande. Det stora arbetet med bedömning för lärande sker under lektionstid och kräver en tvåvägskommunikation – även under föreläsningar. Om elever sitter tysta är det omöjligt för läraren att veta vilket lärande som skett. Om läraren inte får information om vad som är oklart eller vad som är svårt att förstå kan läraren inte anpassa sig till eleverna – och därmed blir inlärningen sämre. Det är därför viktigt att man som elev inte bara räcker upp handen när man "har det rätta svaret" utan också när man inte har det (när man inte förstår och/eller har en fråga). Bedömning för lärande är ett samarbete mellan elever och lärare.
+En viktig sista punkt är att lärande bedömning inte nödvändigtvis handlar om en individuell bedömning, utan att den framförallt (och mer effektivt) handlar om att läraren bedömer vart klassen som helhet för tillfället befinner sig i sitt lärande. Det stora arbetet med bedömning för lärande sker under lektionstid och kräver en tvåvägskommunikation – även under föreläsningar. Om elever sitter tysta är det omöjligt för läraren att veta vilket lärande som skett. Om läraren inte får information om vad som är oklart eller vad som är svårt att förstå kan läraren inte anpassa sig till eleverna – och därmed blir inlärningen sämre. Det är därför viktigt att man som elev inte bara räcker upp handen när man "har det rätta svaret" utan också när man inte har det (när man inte förstår och/eller har en fråga). Bedömning för lärande är ett samarbete mellan elever och lärare.
 
 ## Skolverket om betygssättning
 

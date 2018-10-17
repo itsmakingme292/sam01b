@@ -106,7 +106,7 @@
 
 - Vad har statsministern för funktion?
 
-- Vad är en interpellation och hur går denna till?
+- Vad är en interpellation och hur går denna till? 
 
 <!--- Vad är konstitutionsutskottet (KU)? Beskriv kortfattat funktionen med detta och vilka som kan vända sig dit.  - Vad är Justitieombudsmännen (JO)? Beskriv kortfattat funktionen med detta och vilka som kan vända sig dit. -->
 
