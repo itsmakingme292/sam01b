@@ -1,6 +1,6 @@
 # Centrala begrepp
 
-**OBS:** Denna sida är ett _komplement_ till kursboken (s. 15-34)
+**OBS:** Denna sida är ett _komplement_ till Arena (kapitlet "Individen i samhället")
 
 ![BILD](resurser/centrala_begrepp.svg)
 
@@ -8,23 +8,23 @@
 
 ## Samhällsstruktur(er) & normer
 
-Begreppet struktur används för att beskriva de _mönster_ vi kan se i hur människor beter sig (gentemot varandra). Att vi kan se mönster handlar om att beteenden och situationer ofta upprepar sig. En samhällsstruktur är det samspelsmönster vi kan se på övergripande samhällelig nivå (se kartan ovan). Denna struktur bestäms av hur samhället är ordnat genom dess institutioner (politiskt) men också genom hur samhällets individer generellt agerar (kulturen). 
+Begreppet struktur används för att beskriva de _mönster_ vi kan se i hur människor agerar och beter sig gentemot varandra. Att vi kan se mönster handlar om att beteenden och situationer _upprepar_ sig – en människas beteende är sällan något unikt. 
 
-Samhällets (hela) struktur har i detta två olika delar. De **formella strukturerna** är de "regler" som står skrivna, svart på vit –  exempelvis i _lagen_. De **informella strukturerna** är de "regler" som inte står skrivna, men som vi ändå förväntas att följa – med andra ord **normer**. 
+En samhällsstruktur är det samspelsmönster vi kan se på övergripande samhällelig nivå (se kartan ovan). Denna struktur bestäms av hur samhället är ordnat genom dess institutioner (politiskt) men också genom hur samhällets individer generellt agerar (kulturen). Samhällets (hela) struktur har i detta två olika delar. De **formella strukturerna** är de "regler" som står skrivna, svart på vit –  exempelvis i _lagen_. De **informella strukturerna** är de "regler" som inte står skrivna, men som vi ändå förväntas att följa – med andra ord **normer**. 
 
 **Kommentar:** Vad gäller kopplingen mellan det formella och det informella kan vi antingen stifta lagar för att _stärka_ vissa normer eller tvärtom för att _motverka_ vissa normer. Exempelvis kanske vi stiftar lagar som förbjuder bruk av narkotika (och därmed stärker normen att "det är dåligt att knarka") eller så kanske vi stiftar en lag om delad föräldraledighet för att få fler pappor att vara pappalediga och därmed motverka normen att "kvinnor är mer omhändertagande än män". 
 
-Begreppet **norm** ligger inte jättelångt ifrån begreppet struktur. Skillnaden är att en norm är en specifik oskriven regel, värdering eller ett ideal och att flera normer tillsammans är med och skapar en viss struktur (ett samspelsmönster). 
+Begreppet **norm** ligger inte jättelångt ifrån begreppet struktur. Skillnaden är att en norm är *en specifik* oskriven regel, värdering, förväntning eller ett ideal och att flera normer tillsammans är med och *skapar* en viss struktur (ett samspelsmönster). 
 
 <!--borttaget: I vissa sammanhang kan vi även kalla en juridisk lag för en norm, men det är vanligen inte det vi menar med begreppet.  -->
 
-Ett samhälle binds samman av gemensamma förväntningar och regler (nedskrivna som oskrivna). Samhällsstrukturen är en slags ram för samhället som reglerar vilka beteenden som är ok och inte. Samhällets strukturer kan därför vara lika förtryckande som de är nödvändiga. Strukturer möjliggör vårt liv tillsammans men de kan också innebära en ibland oönskad och ofta problematisk makt över våra liv genom att de begränsar oss i hur vi tillåts vara. 
+Ett samhälle binds samman av gemensamma förväntningar och regler (nedskrivna som oskrivna). Samhällsstrukturen är en slags ram för samhället som styr vårt beteende och definierar vilka beteenden som är ok och inte. Samhällets strukturer kan därför vara lika förtryckande som de är nödvändiga. Strukturer möjliggör vårt liv tillsammans men de kan också innebära en ibland oönskad och ofta problematisk makt över våra liv genom att de begränsar oss i hur vi tillåts vara. 
 
 **Kommentar:** Ibland används ordet samhällsstruktur i singular (samhällstrukturen) och ibland i plural (samhällstrukturer). Ibland för att peka ut vissa delar av samhällstrukturen, ibland inte. Men oavsett om vi använder plural eller singular är det samma sak vi pratar om. Orsaken till detta är att flera strukturer tillsammans skapar en övergripande struktur, så grammatiskt beror det helt enkelt på vår "zoom"-nivå. 
 
 ### Normen & normer
 
-I _Arena_ på sidan 20 används begreppet "normen". Detta begrepp skiljer sig från begreppet "normer". Med **normen** menar man (ibland) den grupp som det är mest gynnsamt att vara och bete sig som. 
+I _Arena_ används begreppet "normen". Detta begrepp skiljer sig från begreppet "normer". Med **normen** menar man (ibland) den grupp som det är mest gynnsamt att vara och bete sig som. 
 
 Om vi pratar om "mannen som norm" eller säger att "mannen är normen i vårt samhälle" menar vi att män (generellt sett) har mer makt än kvinnor och att vad vi ser som typiskt manliga egenskaper är mer eftersträvansvärda än vad vi ser som typiskt kvinnliga egenskaper. Det som är "manligt" blir en slags måttstock som allt annat vägs emot (i detta fall, mer konkret: det som är kvinnligt). 
 
@@ -38,7 +38,7 @@ Att vi har dessa två begrepp "norm" och "normen" kan ibland bli förvirrande oc
 
 ## Kultur
 
-Begreppet kultur finns det 100-tals olika definitioner av, men den kanske enklaste är att en **kultur** utgör ett slags "paket" med normer inom en viss grupp. En kultur reglerar genom dess normer vad som *värdesätts* inom gruppen och vad som *förväntas av oss* när vi tillhör denna grupp.
+Begreppet kultur finns det 100-tals olika definitioner av, men den kanske enklaste är att en **kultur** utgör ett slags "paket" med normer inom en viss grupp. En kultur "bestämmer" (reglerar) genom dess normer vad som *värdesätts* inom gruppen och vad som *förväntas av oss* när vi tillhör denna grupp.
 
 Kulturer existerar på olika nivåer och vissa är mer  dominerande än andra. Vi kan prata om nationella kulturer (exempelvis den svenska kulturen), subkulturer (exempelvis hip-hop-kulturen), regionala kulturer (exempelvis den göteborska kulturen), osv. Olika kulturer har därför olika "effekt" på den övergripande samhällsstrukturen. 
 

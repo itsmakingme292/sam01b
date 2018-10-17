@@ -21,8 +21,9 @@
 
 #### Arena
 
-**Individen i samhället**
-15-34 (20 sid)
+*Kapitel att läsa i Arena:*
+
+* Individen i samhället
 
 
 #### Denna hemsida
