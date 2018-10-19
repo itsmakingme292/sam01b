@@ -25,14 +25,21 @@ Detta delmoment behandlar i huvudsak följande frågeställningar och ämnesomr�
 ## Läslista
 <!--*För mer info, se inlämningsuppgiften...* -->
 
-#### Genomgång
-[Presentation om kritiskt tänkande finner ni här](https://docs.google.com/presentation/d/1oy1fn1TcZl5XUAOdmc6YYkvZ1uAy19zqDvMqPb5LZZo/edit?usp=sharing)
+### Arena
+*Kapitel att läsa i Arena:*
 
-#### Arena
+* Massmedia 
+* Metod i samhällsvetenskaplig analys med fokus på avsnittet ["Källor och källkritik"](https://gleerupsportal.se/laromedel/arena-123/article/1febc1f6-764b-4e16-a3e6-0454c463238f)
 
-Kapitel 13 och 18. Med fokus på sidorna 289-299, 304-307, 434 samt 443-450.
+### Extra material
 
-#### Extra material
+* Läs i första hand texten om [argumentation](argumentation.md). 
+* Se även [länklistan för källkritik](kallkritik.md)
 
-Läs i första hand texten om [argumentation](argumentation.md). Se även [länklistan för källkritik](kallkritik.md)
+## Genomgångar
+
+* [Presentationen om kritiskt tänkande finner ni här](https://docs.google.com/presentation/d/1F5EZVP7tm8ivY-XOg9TARWPOG9H_JrUntY6oQk_e0gU/edit?usp=sharing)
+
+
+
 

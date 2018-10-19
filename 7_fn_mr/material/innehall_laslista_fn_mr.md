@@ -17,28 +17,24 @@
 <!--Borttaget: - Något exempel på andra konventioner inom folkrätten (ex. Genèvekonventionerna). -->
 
 
+
 ## Läslista
 
-#### Sidor i boken
+### Arena
+*Kapitel att läsa i Arena:*
 
-- Internationell politik, globalisering och aktörer (sid. 393-399)
+- Internationell politik
 
-- FN och mänskliga rättigheter (sid. 400-405)
+### Kompendium
 
-- Folkrätten och internationella domstolar (sid. 408-411)
-
-#### Powerpoint
-
-[Presentationen vi gått igenom under ett antal lektioner finner ni här](https://docs.google.com/presentation/d/1N7Ns1X6AHwfnSlMWRSKBThE0bP_tKlfQGHiiP4nP7MA/edit?usp=sharing)
-
-#### Kompendium
-
-[Allmän förklaring om de mänskliga rättigheterna](../material/resurser/allmanforklaringomdemanskligarattigheterna.pdf)
+* [Allmän förklaring om de mänskliga rättigheterna](../material/resurser/allmanforklaringomdemanskligarattigheterna.pdf)
 
 **OBS:** Detta kompendium utgör obligatorisk läsning!
 
+## Genomgångar
+* [Presentationen vi gått igenom under ett antal lektioner](https://docs.google.com/presentation/d/13XaZw05Z85AmNai8VEU8Eyy_8Xw43VQ8xavTii15C1o/edit?usp=sharing)
 
-#### Några förslag på länkar för vidare läsning
+## Förslag på länkar för vidare läsning
 
 * [Kärnkonventioner](http://www.humanrights.se/mr-kunskapsbank/lankkategorier/karnkonventioner/) Fonden för mänskliga rättigheter samlar på denna sida PDFs med alla kärnkonventioner och tilläggsprotokoll. 
 

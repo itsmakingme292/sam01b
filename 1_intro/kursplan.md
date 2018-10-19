@@ -1,34 +1,35 @@
 # Kursplan SAMSAM01b
 
-**Om denna sida:** Nedanstående text är kopierad från skolverkets kursplan för samhällskunskap 1b. Kommentarer från mig är skrivna inom rutor.
+**Om denna sida:** Nedanstående text är kopierad från skolverkets kursplan för samhällskunskap 1b (samt i slutet av texten från skolverkets stödmaterial). Kommentarer från mig är skrivna inom rutor. 
 
 ## Centralt innehåll
 
-- Demokrati och politiska system på lokal och nationell nivå samt inom EU. Internationella och nordiska samarbeten. Medborgarnas möjligheter att påverka politiska beslut på de olika nivåerna. Maktfördelning och påverkansmöjligheter i olika system och på olika nivåer utifrån grundläggande demokratimodeller och den digitala teknikens möjligheter. Politiska ideologier och deras koppling till samhällsbyggande och välfärdsteorier.
+* Demokrati och politiska system på lokal och nationell nivå samt inom EU. Internationella och nordiska samarbeten. Medborgarnas möjligheter att påverka politiska beslut på de olika nivåerna. Maktfördelning och påverkansmöjligheter i olika system och på olika nivåer utifrån grundläggande demokratimodeller. Möjligheter och utmaningar med digitaliseringen när de gäller frågor om demokrati och politik. Politiska ideologier och deras koppling till samhällsbyggande och välfärdsteorier.
 
-- De mänskliga rättigheterna; vilka de är, hur de förhåller sig till stat och individ och hur man kan utkräva sina individuella och kollektiva mänskliga rättigheter.
+* De mänskliga rättigheterna; vilka de är, hur de förhåller sig till stat och individ och hur man kan utkräva sina individuella och kollektiva mänskliga rättigheter.
 
-- Folkrätten i väpnade konflikter. Den internationella humanitära rätten och skyddet för civila i väpnade konflikter.
+* Folkrätten i väpnade konflikter. Den internationella humanitära rätten och skyddet för civila i väpnade konflikter.
 
-- Arbetsmarknad, arbetsrätt och arbetsmiljö. Arbetsmarknadens parter, deras olika roller och betydelse för samhällsutvecklingen. Arbetsmarknadens sätt att fungera, anställningsvillkor.
+* Arbetsmarknad, arbetsrätt och arbetsmiljö. Arbetsmarknadens parter, deras olika roller och betydelse för samhällsutvecklingen. Digitaliseringens påverkan på arbetsmarknaden.
 
-- Gruppers och individers identitet, relationer och sociala livsvillkor med utgångspunkt i att människor grupperas utifrån kategorier som skapar både gemenskap och utanförskap.
+* Gruppers och individers identitet, relationer och sociala livsvillkor med utgångspunkt i att människor grupperas utifrån kategorier som skapar både gemenskap och utanförskap.
 
-- Samhällsekonomi, till exempel ekonomiska strukturer och flöden i Sverige och internationellt. Försörjning, tillväxt och företagande, resursanvändning och resursfördelning utifrån olika förutsättningar.
+* Samhällsekonomi, till exempel ekonomiska strukturer och flöden i Sverige och internationellt. Försörjning, tillväxt och företagande, resursanvändning och resursfördelning utifrån olika förutsättningar.
 
-- Privatekonomi. Hushållets inkomster, utgifter, tillgångar och skulder. Konsumenträtt samt konsumtion i förhållande till behov och resurser. Hur privatekonomin påverkas av samhällsekonomiska förändringar.
+* Privatekonomi. Hushållets inkomster, utgifter, tillgångar och skulder. Konsumenträtt samt konsumtion i förhållande till behov och resurser. Hur privatekonomin påverkas av samhällsekonomiska förändringar.
 
-- Massmediers och informationsteknikens roll i samhället. Deras möjligheter att påverka människor och samhällsutvecklingen samt de möjligheter de ger människor att påverka. Mediers innehåll och nyhetsvärdering.
+* Mediers och informationsteknikens roll i samhället. Deras möjligheter att påverka människor och samhällsutvecklingen samt de möjligheter de ger människor att påverka. Mediers innehåll och nyhetsvärdering.
 
-- Samhällsvetenskapliga begrepp, teorier, modeller och metoder i samband med undersökningar av samhällsfrågor och samhällsförhållanden. Exempel på metoder för att samla in information är intervju, enkät och observation. Exempel på metoder för att bearbeta information är statistiska metoder, samhällsvetenskaplig textanalys, argumentationsanalys och källkritik.
+* Källkritik. Metoder för att söka, kritiskt granska, värdera och bearbeta information från källor i digital och annan form.
 
-- Presentation i olika former och med olika tekniker med betoning på det skriftliga och muntliga, till exempel debatter, debattartiklar och rapporter.
+* Samhällsvetenskapliga begrepp, teorier, modeller och metoder i samband med undersökningar av samhällsfrågor och samhällsförhållanden. Exempel på metoder för att samla in information är intervju, enkät och observation. Exempel på metoder för att bearbeta information är statistiska metoder, samhällsvetenskaplig textanalys, argumentationsanalys.
 
+* Presentation i olika former, till exempel debatter, debattinlägg och rapporter.
 ## Kunskapskrav
 
 ### Betyget E
 
-Eleven kan **översiktligt** redogöra för och analysera olika samhällens organisation och samhällsförhållanden samt de bakomliggande idéerna. Eleven kan också **översiktligt** redogöra för de mänskliga rättigheterna. I sin analys förklarar eleven **enkla** samband och drar **enkla** slutsatser om likheter och skillnader mellan olika samhällens organisation. Dessutom kan eleven **översiktligt** redogöra för de historiska förutsättningarnas betydelse och dra **enkla** slutsatser om hur nutida samhällsförhållanden, exempelvis arbetslivets utveckling, påverkar och påverkas av individer, grupper och samhällsstrukturer.
+Eleven kan **översiktligt** redogöra för och analysera olika samhällens organisation och samhällsförhållanden samt de bakomliggande idéerna. Eleven kan också **översiktligt** redogöra för de mänskliga rättigheterna. I sin analys förklarar eleven **enkla** samband och drar **enkla** slutsatser om likheter och skillnader mellan olika samhällens organisation. Dessutom kan eleven **översiktligt** redogöra för de historiska förutsättningarnas betydelse och dra **enkla** slutsatser om hur nutida samhällsförhållanden påverkar och påverkas av individer, grupper och samhällsstrukturer.
 
 Eleven kan analysera samhällsfrågor och identifiera **någon** orsak och konsekvens. I analysen använder eleven **med viss säkerhet** samhällsvetenskapliga begrepp, teorier, modeller och metoder. Eleven diskuterar **översiktligt** orsakerna och konsekvenserna samt möjliga lösningar på samhällsfrågorna. Eleven kan ge **enkla** argument för sina ståndpunkter och värderar med **enkla** omdömen andras ståndpunkter.
 
@@ -48,7 +49,7 @@ Betyget D innebär att kunskapskraven för E och till övervägande del för C �
 
 **Kommentar:** "Utförligt" innebär enligt skolverkets stödmaterial att elevens svar är "mer exakt, fylligt och innehållsrikt, såväl kvalitativt som kvantitativt". Med detta menas kort och gott att man i hög utsträckning redogör för sådant som är centralt inom ämnet på ett korrekt sätt. "Välgrundade slutsatser" handlar vidare om att man har fog för det man säger, att man backar upp påståenden med fakta, gör rimliga tolkningar, osv. 
 
-Eleven kan **utförligt** redogöra för och analysera olika samhällens organisation och samhällsförhållanden samt de bakomliggande idéerna. Eleven kan också **utförligt** redogöra för de mänskliga rättigheterna. I sin analys förklarar eleven samband och drar **välgrundade** slutsatser om likheter och skillnader mellan olika samhällens organisation. Dessutom kan eleven **utförligt** redogöra för de historiska förutsättningarnas betydelse och dra **välgrundade** slutsatser om hur nutida samhällsförhållanden, exempelvis arbetslivets utveckling, påverkar och påverkas av individer, grupper och samhällsstrukturer.
+Eleven kan **utförligt** redogöra för och analysera olika samhällens organisation och samhällsförhållanden samt de bakomliggande idéerna. Eleven kan också **utförligt** redogöra för de mänskliga rättigheterna. I sin analys förklarar eleven samband och drar **välgrundade** slutsatser om likheter och skillnader mellan olika samhällens organisation. Dessutom kan eleven **utförligt** redogöra för de historiska förutsättningarnas betydelse och dra **välgrundade** slutsatser om hur nutida samhällsförhållanden påverkar och påverkas av individer, grupper och samhällsstrukturer.
 
 Eleven kan analysera samhällsfrågor och identifiera **några** orsaker och konsekvenser. I analysen använder eleven **med viss säkerhet** samhällsvetenskapliga begrepp, teorier, modeller och metoder **samt värderar dem med enkla omdömen**. Eleven diskuterar **utförligt** orsakerna och konsekvenserna samt möjliga lösningar på samhällsfrågorna. Eleven kan ge **välgrundade** argument för sina ståndpunkter och värderar med **enkla** omdömen andras ståndpunkter.
 
@@ -68,7 +69,7 @@ Betyget B innebär att kunskapskraven för C och till övervägande del för A �
 
 **Kommentar:** "Nyanserat" innebär enligt skolverkets stödmaterial (bland annat) att elevens svar "innehåller flera olika perspektiv och infallsvinklar". För att ge en nyanserad beskrivning räcker det dock inte att bara rada upp en mängd möjliga perspektiv på en viss fråga eller ett visst ämnesinnehåll. Att redogöra för något på ett nyanserat vis handlar också om att kunna se olika aspekter, viktiga "detaljer", styrkor och svagheter _inom_ ett visst perspektiv samt att kunna se viktiga skillnader och likheter _mellan_ olika perspektiv. Att vara nyanserad handlar lika mycket om att gå på djupet, som att gå på bredden. Men det räcker inte med kvantitet, vi måste också ha en viss kvalitet i våra redogörelser och resonemang. Kort sagt är vi nyanserade först när vi undgår att dra för snabba slutsatser, för en god argumentation (i flera led), är logiskt sammanhängande, och inte utelämnar sådant som är av vikt för vår analys.
 
-Eleven kan **utförligt och nyanserat** redogöra för och analysera olika samhällens organisation och samhällsförhållanden samt de bakomliggande idéerna. Eleven kan också **utförligt och nyanserat** redogöra för de mänskliga rättigheterna. I sin analys förklarar eleven **komplexa** samband och drar **välgrundade** slutsatser om likheter och skillnader mellan olika samhällens organisation. Dessutom kan eleven **utförligt och nyanserat** redogöra för de historiska förutsättningarnas betydelse och dra **välgrundade och nyanserade** slutsatser om hur nutida samhällsförhållanden, exempelvis arbetslivets utveckling, påverkar och påverkas av individer, grupper och samhällsstrukturer.
+Eleven kan **utförligt och nyanserat** redogöra för och analysera olika samhällens organisation och samhällsförhållanden samt de bakomliggande idéerna. Eleven kan också **utförligt och nyanserat** redogöra för de mänskliga rättigheterna. I sin analys förklarar eleven **komplexa** samband och drar **välgrundade** slutsatser om likheter och skillnader mellan olika samhällens organisation. Dessutom kan eleven **utförligt och nyanserat** redogöra för de historiska förutsättningarnas betydelse och dra **välgrundade och nyanserade** slutsatser om hur nutida samhällsförhållanden påverkar och påverkas av individer, grupper och samhällsstrukturer.
 
 Eleven kan analysera samhällsfrågor och identifierar **flera** orsaker och konsekvenser. I analysen använder eleven **med säkerhet** samhällsvetenskapliga begrepp, teorier, modeller och metoder **samt värderar dem med nyanserade omdömen**. Eleven diskuterar **utförligt och nyanserat** orsakerna och konsekvenserna samt möjliga lösningar på samhällsfrågorna. Eleven kan ge **nyanserade** argument för sina ståndpunkter och värderar med **nyanserade** omdömen andras ståndpunkter.
 
