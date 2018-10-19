@@ -18,3 +18,4 @@ Gör tillsammans en **rangordning** av personerna nedan där den som har mest ma
 
 Vi jämför hur alla grupper rangordnat och resonerat. 
 
+

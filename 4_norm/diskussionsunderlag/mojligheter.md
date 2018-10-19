@@ -13,4 +13,7 @@
 3. Diskutera vilka faktorer som är möjliga för individen att själv påverka
 
 ## Helklass
-Vi jämför varandras listor och tankar...
+
+1. Varje grupp redovisar sina tre viktigaste faktorer och vi skriver upp dem på tavlan 
+
+2. Vi diskuterar gemensamt vad punkterna innebär och hur de kan tänkas hänga ihop
