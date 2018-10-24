@@ -61,7 +61,7 @@ Detta kallas **socialisation** och denna är en till stor omedveten _process_. D
 
 Vår identitet är vilka vi "känner oss som" och denna formas i stor utsträckning av de grupper vi tillhör. Vi identifierar oss med andra, vi är och förblir flockdjur – vi vill tillhöra något (en grupp).
 
-Inom varje grupp finns det en norm, med andra ord en förväntan om ett visst beteende hos de som tillhör gruppen och därmed finns det också en *avvikelse*. Beter vi oss inte som vi förväntas bete oss, och avviker för mycket, kan vi ibland riskera att uteslutas från gruppen. 
+Inom varje grupp finns det en norm, med andra ord en förväntan om ett visst beteende hos de som tillhör gruppen och därmed finns det också en *avvikelse* (ett sätt som man inte ska bete sig på). Beter vi oss inte som vi förväntas bete oss, och avviker för mycket, kan vi ibland riskera att uteslutas från gruppen. 
 
 Baksidan av hur vi formar vår identitet är att denna leder till ett "vi och dom"-tänkande. För att vi ska kunna tillhöra en grupp måste det finnas någon som *inte gör det*. Som grupper definierar vi oss lika mycket utifrån vilka *vi är* som vilka *vi inte är*. Som ett exempel är fotbollshulliganers hat mot andra lag är ofta större än kärleken för det egna. 
 
@@ -78,7 +78,6 @@ Sociala kategorier är en typ av grupptillhörigheter som vi själva (oftast) in
 
 ### Kön & Genus
 Vad gäller den sociala kategorin "kön" är det viktigt att dela upp denna. Dels kan vi tala om _biologiskt kön_ och dels kan vi tala om **genus** (det sociala könet). Genus är "summan" av alla de normer som är kopplade till vår könstillhörighet – vårt genus handlar om _könsroller_ och inte om naturliga skillnader. Genus är någonting som skapas inom vår kultur (en social konstruktion) och inget vi föds med. Vi _socialiseras_ in i vårt genus, vi lär oss att vara "som män" eller "som kvinnor". 
-
 
 > "Man föds inte till kvinna, man blir det" – Simone de Beauvoir
 
@@ -104,9 +103,11 @@ _En etnisk grupp har:_
 
 ### Intersektionalitet
 
-Olika positioner och sociala kategorier samverkar med varandra. Det är exempelvis en sak att vara arbetarklass och man och det är (ofta) en helt annan sak att vara arbetarklass och kvinna. Intersektionalitet handlar i detta inte bara om att det är "extra jobbigt" att tillhöra flera missgynnade sociala kategorier (exempelvis: kvinna, svart/rasifierad och arbetarklass) utan också om att själva de sociala kategorierna *förändras* genom relationen mellan dem. Vad det exempelvis *innebär* att vara arbetarklass är olika beroende på om man är kvinna eller man, och vad det i sin tur innebär att vara kvinna är beroende av om man är "vit" eller "rasifierad", osv. 
+Olika positioner och sociala kategorier samverkar med varandra. Det är exempelvis en sak att vara arbetarklass och man och det är (ofta) en helt annan sak att vara arbetarklass och kvinna. Intersektionalitet handlar i detta inte *bara* om att det är "extra jobbigt" att tillhöra flera missgynnade sociala kategorier (exempelvis: kvinna, ej etniskt svensk och arbetarklass) utan också om att själva de sociala kategorierna *förändras* genom relationen mellan dem. Vad det exempelvis *innebär* att vara arbetarklass är olika beroende på om man är kvinna eller man, och vad det i sin tur innebär att vara kvinna är beroende av ens etnicitet, osv.
 
-**Kommentar**: Begreppet "rasifiering" belyser att det framförallt är "icke-vita" och "icke-etniskt" västerländska personer som ses som "en viss typ" (ras) av människor. Vita, västerländska människor är, i stort, normen (och därmed inte det "avvikande"). Kring vita människor sker kort sagt inte samma typ av stereotypifiering (fördomar) som kring "icke-vita" (rasifierade). <!--En grundbult i den moderna rasismen om man så vill.  -->
+För att verkligen förstå identitet, makt och förtryck måste vår analys vara intersektionell. De förväntningar som en somalisk tjej från Angered möter är ofta helt andra än de förväntningar som en etniskt svensk tjej från Majorna möter. Normer som rör genus, etnicitet, klass, osv, samspelar med varandra på _olika_ sätt. Att endast analysera samhällsstrukturen utifrån en social kategori ger kort sagt inte hela bilden. Vissa kvinnor har mer makt än vissa män (trots att de är kvinnor) – detta eftersom _klass_ och _etnicitet_ spelar minst lika stor roll som kön/genus. Och en man som inte tillhör den etniska normen eller en "högre" klass har givetvis inte samma fördelar som de män som gör det, osv.
+
+<!--**Kommentar**: Begreppet "rasifiering" belyser att det framförallt är "icke-vita" och "icke-etniskt" västerländska personer som ses som "en viss typ" (ras) av människor. Vita, västerländska människor är, i stort, normen (och därmed inte det "avvikande"). Kring vita människor sker kort sagt inte samma typ av stereotypifiering (fördomar) som kring "icke-vita" (rasifierade).  -->
 
 
 ## Makt
@@ -168,7 +169,7 @@ _Då det sker strukturell diskriminering innebär detta att:_
 
 **Segregation** handlar om någon form av uppdelning mellan grupper i samhället. Att det sker mycket lite utbyte mellan vissa grupper och att alla grupper inte har samma möjlighet att delta i samhället i stort. 
 
-En vanlig form av segregation är **boendesegregation**. Denna segregation är rent rumslig och innebär att olika grupper av människor bor i olika områden av en stad. Exempelvis att det bor fler människor från lägre klasser och med en icke-svensk bakgrund i Bergsjön och Hisingen än i Majorna och Linnéstaden.
+En vanlig form av segregation är **boendesegregation**. Denna segregation är rent rumslig och innebär att olika grupper av människor bor i olika områden av en stad. Exempelvis att det bor fler människor från lägre klasser och med en icke-svensk bakgrund i Bergsjön och Hisingen än i Askim och Linnéstaden.
 
 **Integration** handlar om att motverka  uppdelningen mellan olika grupper i samhället. Om att skapa förutsättningar för att alla ska kunna delta i samhället på lika villkor. 
 
