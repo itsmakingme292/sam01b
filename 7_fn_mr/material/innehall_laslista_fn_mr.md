@@ -28,11 +28,12 @@
 ### Kompendium
 
 * [Allmän förklaring om de mänskliga rättigheterna](../material/resurser/allmanforklaringomdemanskligarattigheterna.pdf)
+* [Amnesty: Vad är mänskliga rättigheter](https://skola.amnesty.se/documents/162/Elevtext_VadarMR_2018_v4.pdf)
 
-**OBS:** Detta kompendium utgör obligatorisk läsning!
+**OBS:** Den allmänna förklaringen utgör obligatorisk läsning!
 
 ## Genomgångar
-* [Presentationen vi gått igenom under ett antal lektioner](https://docs.google.com/presentation/d/13XaZw05Z85AmNai8VEU8Eyy_8Xw43VQ8xavTii15C1o/edit?usp=sharing)
+* [MR, Folkrätt & FN](https://docs.google.com/presentation/d/13XaZw05Z85AmNai8VEU8Eyy_8Xw43VQ8xavTii15C1o/edit?usp=sharing) – Powerpoint för ett antal lektioner om mänskliga rättigheter, folkrätt och FN. 
 
 ## Förslag på länkar för vidare läsning
 
