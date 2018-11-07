@@ -53,6 +53,7 @@
   * # Övningar & Diskussionsunderlag
   * [Deklarationen: Artikel 1](7_fn_mr/diskussion_ovningar/forsta_artikeln_diskussion.md)
   * [Prioritera rättigheter](7_fn_mr/diskussion_ovningar/rattigheter_prio.md)
+  * [Diskriminering](4_norm/diskussionsunderlag/diskriminering.md)
   * [Material från Amnesty](7_fn_mr/diskussion_ovningar/amnesty.md)
   - - - -
   * # Examinerande moment

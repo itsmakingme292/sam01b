@@ -8,7 +8,7 @@
 * Introduktion
 	* Kort om kursen 
 * Demokrati – i teori och praktik
-	* Prov?
+	* Salsprov
 * Norm & makt
 	* Ev. Ingen examination (men likväl viktigt)
 * FN & Mänskliga rättigheter
