@@ -57,9 +57,7 @@
   * [Material från Amnesty](7_fn_mr/diskussion_ovningar/amnesty.md)
   - - - -
   * # Examinerande moment
-  * [*Kommer...*](...)
-  
-<!--  * [Debattartikel](7_fn_mr/examinerande_moment/debattartikel_mr.md) -->
+  * [Inlämningsuppgift](7_fn_mr/examinerande_moment/uppgift_mr.md)
 
 
 [Kritiskt tänkande]()
