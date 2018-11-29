@@ -45,7 +45,7 @@
   * [Diskriminering](4_norm/diskussionsunderlag/diskriminering.md)
   * [Kulturell & Social tillhörighet](4_norm/diskussionsunderlag/kulturell_och_social_tillhorighet.md)
 
-[FN & MR]()
+[MR & FN]()
 
   * # Material
   * [Innehåll & Läslista](7_fn_mr/material/innehall_laslista_fn_mr.md)
