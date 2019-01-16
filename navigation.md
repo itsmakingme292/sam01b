@@ -72,6 +72,7 @@
   * [Vad blir en nyhet?](2_kritiskt_tankande/ovningar/vad_blir_en_nyhet.md)
   * [Ledare & Politisk färg](2_kritiskt_tankande/ovningar/ledare_politisk_farg.md)
   * [Varför kritiskt tänkande?](2_kritiskt_tankande/ovningar/ovning_kritiskt_tankande.md)
+  * [Argumentationsfel](2_kritiskt_tankande/ovningar/argumentationsfel.md)
 
 [Ekonomi]()
 
