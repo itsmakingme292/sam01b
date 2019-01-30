@@ -81,6 +81,7 @@
   - - - -
   * # Övningar & Diskussionsunderlag
   * [Strandsatt på en öde ö](5_ekonomi/ovningsuppgifter/ekonomi_ovning_ode_o.md)
+  * [Konsumenträtt](5_ekonomi/ovningsuppgifter/konsumentratt.md)
   - - - -
   * # Examinerande moment
   * [*Kommer...*](...)
