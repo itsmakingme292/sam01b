@@ -2,6 +2,7 @@
 ## Instruktioner
 * Besvara nedanstående frågor med hjälp av [detta kompendium](../material/resurser/konsumentratt_kompendium.pdf).
 * Arbeta gärna två och två, det blir roligare så.
+* Om ni blir klara innan alla andra: använd tiden till att förhöra varandra på frågorna.
 
 **Ett litet tips:** Det kommer att komma en mindre del om konsumenträtt på provet. Kan man nedanstående frågor kan man också den delen av provet.
 
