@@ -1,6 +1,7 @@
 # Instuderingsfrågor
+Se [innehåll och läslista för material](../material/innehall_laslista_ekonomi.md). Gå igenom genomgångarna vi haft och dina egna anteckningar, läs i boken och eventuellt extramaterial. Försök googla så lite som möjligt.
 
-Alla frågor går att besvara genom att använda kursboken samt [detta kompendium om konsumenträtt](../material/resurser/konsumentratt_kompendium.pdf) (men man får använda andra källor om man vill). Se även [presentationen vi gått igenom under ett antal lektioner](https://docs.google.com/presentation/d/1xImojsweFaybFf5SvcH45LEXn-YNhcCs8knDaTHC6is/edit?usp=sharing). Vissa frågor går snabbt att svara på, medan andra tar längre tid. Vilka frågor som tillhör vilken kategori kommer i de flesta fall bli uppenbart efter läsning, men om ni skulle känna er osäkra på hur detaljerade ni måste vara: fråga!
+Vissa frågor går snabbt att svara på, medan andra tar längre tid. Vilka frågor som tillhör vilken kategori kommer i de flesta fall bli uppenbart efter läsning, men om ni skulle känna er osäkra på hur detaljerade ni måste vara: fråga!
 
 **LYCKA TILL!**
 / Fredrik
@@ -10,8 +11,6 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 ## Samhällsekonomi
 
 **OBS:** Försök också tänka på kopplingar _mellan_ frågorna. Pricka inte bara av dem en och en utan försök se helheten. Vissa frågor går också snabbare att svara på än andra. Om ni känner er osäkra på vilka som är vilka, fråga. 
-
-*Se kapitel 8 & 9 i läroboken*
 
 - Vilka är de fem grundläggande ekonomiska systemen och på vilket sätt skiljer sig dessa åt? <!--(se sid 167-168) -->
 
@@ -27,7 +26,7 @@ Alla frågor går att besvara genom att använda kursboken samt [detta kompendiu
 - Vad är BNP och BNI? <!--(se sid 180-184) -->
     - Vad innebär det kortfattat att mäta ovanstående per capita?
     - Vad gör BNP/BNI problematiskt som välfärdsmått? 
-    - Vilka alternativa välfärdsmått anger Arena? Vad mäter dessa kortfattat?
+    - Vilka alternativa välfärdsmått finns det? Vad mäter dessa kortfattat?
 
 <!--    - Vad innebär det kortfattat att räkna ovanstående per capita och med PPP? -->
 

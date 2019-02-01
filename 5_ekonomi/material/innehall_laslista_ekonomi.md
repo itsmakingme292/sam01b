@@ -23,7 +23,8 @@ Fokus under detta delmoment kommer att ligga på *samhälls*ekonomi. *Privat*eko
 ### Arena
 *Kapitel att läsa i Arena:*
 
-* Kapitel 8 & 9 i läroboken
+* Ekonomins grunder
+* Ekonomisk politik 
 
 ### Övrig läsning
 * [Kompendium om konsumenträtt](../material/resurser/konsumentratt_kompendium.pdf)

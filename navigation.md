@@ -84,9 +84,7 @@
   * [Konsumenträtt](5_ekonomi/ovningsuppgifter/konsumentratt.md)
   - - - -
   * # Examinerande moment
-  * [*Kommer...*](...)
-
-<!-- * [Instuderingsfrågor inför prov](5_ekonomi/examinerande_moment/instuderingsfragor_ekonomi.md) -->
+  * [Instuderingsfrågor inför prov](5_ekonomi/examinerande_moment/instuderingsfragor_ekonomi.md)
 
 
 [Ideologier]()
