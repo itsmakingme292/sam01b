@@ -3,13 +3,13 @@
  
 **OBS:** Var uppmärksamma på att denna sammanfattning (precis som alla andra) innebär vissa förenklingar, att det finns olika möjliga tolkningar och att varje ideologi har flertalet förgreningar.
 
-***
+<hr>
 
 ## Ideologierna och dess två komponenter
 En ideologi är ett ”paket” som innehåller en uppfattning om samhället och idéer för dess förändring. En slags helhet med lika delar beskrivande teori som grundläggande värderingar
 
 > _Varje ideologi förklarar:_
->
+> 
 > 1. Hur samhället ser ut och fungerar (just nu)
 	* Ideologisk analys
 		* Vilka är problemen i dagens samhälle?
@@ -24,8 +24,8 @@ En ideologi är ett ”paket” som innehåller en uppfattning om samhället och
 		* Vad är målet? Hur skulle ett idealsamhälle vara ordnat?
 			* Vad är frihet?
 			* Vad är rättvisa?
-			
-		
+
+
 ## Rättvisa
 Alla gillar rättvisa. Det är inte frågan huruvida samhället *bör* vara rättvist som delar politiken, det är frågan om vad rättvisa *innebär*. Så vad är det vi egentligen talar om när vi talar om rättvisa och varför är det så svårt att komma överens?
 
@@ -53,7 +53,7 @@ Till syvende och sist är frågan om rättvisa en fråga om vilket *ansvar* vi h
 ## Rättigheter & skyldigheter
 Oavsett ideologi, måste vi ha en balans mellan rättigheter och skyldigheter. För att jag ska ges en rättighet, måste det finnas någon som har en skyldighet, och vice versa. Rättigheter och skyldigheter förutsätter varandra. Skillnaden mellan ideologierna ligger främst i omfattningen, och typen, av skyldigheter och rättigheter. De svarar kort och gott olika på de tätt sammanvävda frågorna:
 
- * Vad kan medborgaren kräva av samhället?  
+ * Vad kan medborgaren kräva av samhället?
  * Vad kan samhället kräva av medborgaren?
 
 <!--Men som sagt: oavsett ideologi hänger svaret på den första frågan alltid samman med svaret på den andra. -->
@@ -104,7 +104,7 @@ Positiva rättigheter handlar om _rätten till_ något. Dessa kräver en _aktiv_
 	* Medborgaren har en skyldighet att rätta sig efter kollektiva värderingar och delta i värnandet av kulturen och dess normer. 
 	* Samhället är en "känslig organism" där alla spelar olika roller (funktionalism). Jämlikhet är i denna mening ett något främmande begrepp för konservatismen. Vi _är_ olika och bör därför _behandlas_ och _agera_ olika (ett exempel på detta är att det är väldigt viktigt att upprätthålla könsroller för många konservativa – kvinnor bör vara kvinnor och män bör vara män eftersom de fyller olika funktion). 
 	* I den mån förändringar av normer och värden ska ske, bör detta ske långsamt. 
- 
+		 
 <!--Vill bevara kultur/normer genom skydd i lag Modernt konservativt exempel: äktenskapet endast för heterosexuella Ibland, eller på ett sätt: Det som är informellt (traditionen) görs formellt (till en del av staten) Rättvisa för individen är därför egentligen underordnat vad som är bäst för samhället i stort Funktionalism Ex. kön Jämlikhet för konservatismen ett något främmande begrepp Vi ÄR olika och ska därför behandlas OLIKA -->
 
 **Ett litet förtydligande:** Både socialismen och liberalismen förespråkar jämlikhet. De gör dock lite olika analys av vad jämlikhet bör innebära. I grund och botten handlar jämlikhet om att alla människor är lika värda och förtjänar samma respekt. Att ingen ska diskrimineras och att alla ska ha samma rättigheter. Men för socialismen räcker det inte med en jämlikhet som endast (eller till större delen) bygger på negativa rättigheter, socialister vill också ha _ekonomisk_ jämlikhet. _Ojämlikhet_ ligger för socialismen inte bara i att vi kan _behandlas_ olika. Socialismen menar att ojämlikhet också (och framförallt) handlar om _ojämna förutsättningar_.
@@ -146,22 +146,27 @@ En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideolo
 #### Liberalismen
 1. Människan har stor potential att bli den hon vill.
 	* Människan är i grunden god, handlingskraftig och kreativ.
+	* Människan är egoistisk – och tänker på sig själv *i första hand*. 
 2. Varje människa kan och _ska_ vara sin "egen lyckas smed".
-	* Det är upp till dig! Samhället är inte skyldig dig något annat än din frihet.
+	* Det är upp till dig! Samhället är inte skyldig dig något annat än din frihet. Så ta tillvara på denna.
+	* När människan gör vad som är bra för henne själv är detta också bra för samhället. Egoism driver samhällsutvecklingen (ekonomin) framåt. 
+
+
+<!--Få in Smith och bagaren här? -->
 
 #### Socialismen:
 1. Människan har stor potential att bli den hon vill.
 	* Människan är i grunden kreativ och handlingskraftig  _men_ hon hämmas (och vissa korrumperas moraliskt) i ett kapitalistisk klassamhälle.
 	* Människan föds varken god eller ond utan formas av det omgivande samhället.
 2. Människans potential realiseras genom kollektivets styrka och avskaffandet av samhällsklasser (arbetare och kapitalister, underklass och överklass, fattiga och rika).
-	* Vårt självförverkligande och våra möjligheter i livet beror på hur det omgivande samhället ser ut.  
+	* Vårt självförverkligande och våra möjligheter i livet beror på hur det omgivande samhället ser ut.
 	* Vi måste skapa ett _solidariskt_ samhälle, med andra ord ett samhälle där vi tar ett _gemensamt_ ansvar för varandra.
 
 **Ordförklaring:** *Kapitalism* innebär att produktionsmedlen ägs privat och inte kollektivt. För socialister innebär kapitalism en konfliktfylld (och i längden ohållbar) uppdelning av samhället där några (kapitalister) äger och resten (proletärer) arbetar för de som äger. 
 
 #### Konservatismen:
 1. Människan är svag och i stort behov av vägledning. 
-	* Människan är ej av naturen god. En mer pessimistisk syn på människan. 
+	* Människan är ej av naturen god. En mer pessimistisk syn på människan.
 2. Människan behöver tydliga ramar, hierarkier och fasta normer. 
 	* För att skapa goda människor krävs en stark tradition, kultur och stadiga institutioner.
 
@@ -199,7 +204,7 @@ Kortfattat skulle statens grundläggande syfte inom de tre klassiska ideologiern
 ### Statens storlek och form
 Hur vi ser på statens uppgift påverkar vår syn på statens omfattning. Statens storlek är därför en bra gradskala utifrån vilken vi kan placera olika ideologier. I stora drag kan denna skala se ut som följande:
 
-![BILD](resurser/statens_storlek.svg)
+![BILD][image-1]
 
 Viktigt att komma ihåg är att vi inte nödvändigtvis står i valet mellan någon av dessa typer utan att vi ideologiskt kan hamna mittemellan två av dem. Många liberaler hamnar någonstans mellan nattväktarstat och välfärdsstat (eftersom de vill ha så lite statlig inblandning som möjligt i människors liv, men samtidigt vill ha en viss grundtrygghet) medan många socialister hamnar någonstans mellan välfärdsstat och allomfattandestat (då de ofta vill ha en större omfördelning av resurser i samhället, men inte ersätta marknadsekonomin helt). 
 
@@ -211,7 +216,7 @@ De som förespråkar den totala avsaknaden av en stat menar att staten alltid ut
 #### Nattväktarstat (liten stat)
 En nattväktarstat är en slags minimi-stat. En sådant stat har endast en uppgift: att skydda medborgarna från varandra och från övriga stater (och därmed säkra "den inre" och "den yttre" säkerheten). Detta innebär i praktiken att staten endast står för sådant som ett rättsväsende (polis och domstolar), militär samt brandkår. I denna typ av stat råder 100 procent oreglerad marknadsekonomi och det sker ingen omfördelning av resurser från statens sida. Statens uppgift begränsas till att skydda medborgarens _liv_, _frihet_ och _(privata) egendom_. Utöver detta skall staten vara _passiv_.
 
-**Förespråkas av:** Nyliberaler/libertarianer. Vissa konservativa.
+> **Förespråkas av:** Nyliberaler/libertarianer. Vissa konservativa.
 
 Vad gäller konservativa är det vanligt att man som konservativ är _värdekonservativ_ och samtidigt *marknad*sliberal. Vissa konservativa är är alltså liberala när det kommer till marknaden (den ska vara fri, och staten ska inte lägga sig i), men konservativa när det kommer till värderingar (staten ska verka för att bevara nationens kultur osv). Dessa konservativa vill därför ha en nattväktarstat i en viss bemärkelse, och inte alls i en annan. 
 
@@ -220,9 +225,11 @@ I en välfärdsstat står staten för mer än skyddet av _liv_, _frihet_ och _eg
 
 Ekonomin i en välfärdsstat är en blandekonomi. Detta innebär att man i stort har en marknadsekonomi men att staten sköter grundläggande samhällsfunktioner, omfördelar resurser, samt sätter vissa gränser för vad som är tillåtet på marknaden.
 
-**Förespråkas av:** Reformistiska socialister (däribland socialdemokrater) och social-liberaler. Vissa konservativa. 
+> **Förespråkas av:** Reformistiska socialister (däribland socialdemokrater) och social-liberaler. Vissa konservativa. 
 
-För social-liberaler och konservativa handlar det dock om att se till vad man brukar kalla för _välfärdens kärna_. Med andra ord, välfärd är bra, men inte _för mycket_. Enligt mer liberala och konservativa riskerar "för mycket" välfärd att passivisera människor (se exempelvis: [Reinfeldt, _Det sovande folket_](https://sv.wikipedia.org/wiki/Det_sovande_folket)). Reformistiska socialister delar _inte_ denna bild. Välfärden ska inte bara vara en slags "grundservice" den ska också förändra samhällsstrukturen (göra samhället mer jämlikt) genom att korrigera marknadens orättvisa utfall (exempelvis högre skatt för rika).
+För social-liberaler och konservativa handlar det dock om att se till vad man brukar kalla för _välfärdens kärna_. Med andra ord: ”välfärd är bra, men inte _för mycket_”. Enligt mer liberala och konservativa riskerar "för mycket" välfärd att passivisera människor (se exempelvis: [Reinfeldt, _Det sovande folket_][1]). I första hand ska välfärden ge en ”bra start” i livet (genom exempelvis obligatorisk skolgång) och längre fram i livet ge ett *mindre* skyddsnät (man ska inte kunna svälta osv). 
+
+Reformistiska socialister delar _inte_ denna bild. Välfärden ska inte bara vara en slags "grundservice" den ska också förändra samhällsstrukturen (göra samhället mer jämlikt) genom att korrigera marknadens orättvisa utfall (exempelvis: högre skatt för rika). Reformistiska socialister vill ha en relativt stor stat – men inte en allomfattande. Till skillnad från kommunister står de för en blandekonomi som bevarar marknadsekonomins ”positiva sidor” samtidigt som den görs mindre kapitalistisk genom regleringar och stora omfördelningar (och i vissa fall: delvis gemensamt ägande).  
 
 #### Allomfattande stat
 
@@ -232,20 +239,24 @@ Ett annat perspektiv på den allomfattande staten är att en sådan äger och f�
 
 Tanken med denna typ av stat är att det i en marknadsekonomi alltid kommer att uppstå en människofientlig och omoralisk kapitalism där vissa människor *suger ut* andra (vissa blir rikare och rikare på andras bekostnad). Utan en mycket stor statlig inblandning och ett gemensamt ägande kommer vi därför aldrig att kunna uppnå ett klasslöst och därmed _jämlikt_ samhälle. 
 
-<!--Fria är vi först när vi slipper sälja vårt arbete och istället äger allt gemensamt. --> 
+<!--Fria är vi först när vi slipper sälja vårt arbete och istället äger allt gemensamt. -->
 
-**Förespråkas av:** Vissa kommunister
+> **Förespråkas av:** Vissa kommunister
 
-## Samhällets förändring 
+## Samhällets förändring
 
 Som avrundning kan det vara bra att lite kort att säga något mer om ideologierna och dess förgreningars olika syn på samhällets förändring (genom politiken). 
 
 **Konservatismen:** Långsam förändring som värnar om samhällets rötter. De flesta konservativa anser dock att samhällets förändring redan gått för snabbt och att vi därför, i praktiken,  först måste "backa bandet".
 
-**Liberalism:** Varken långsamt eller snabbt. Det beror på vad det gäller. Det sagt får politiska förändringar inte ingripa i för stor utsträckning i individens liv. 
+**Liberalism:** Det är inte staten/politiken som ska bestämma i vilken riktning samhället går – det är summan av alla enskilda individers handlingar. Politiken är bara ett medel för att skapa *handlingsutrymme* (ge människor frihet). **Nyliberaler** anser att det i första hand är *marknadskrafterna* som driver samhället framåt (genom varje människas egoism) och att staten *aldrig* ska ställa sig i vägen för denna utveckling. **Socialliberaler** kan till viss del acceptera och förespråka begränsningar av marknadens framfart (exempelvis miljölagstiftning eller lagstiftning kring arbetsmiljö). 
 
 **Reformistisk socialism:** Det behövs stora förändringar i samhället, eftersom samhället i stor utsträckning är ojämlikt och orättvist, men dessa ska ske _stegvis_ (vilket dock _inte_ innebär långsamt) samt på _demokratisk_ väg. 
 
 **Revolutionär socialism/kommunism**: Samhället måste förändras i grunden och detta är inte möjligt annat än genom en revolution där det "gamla samhället" helt omkullkastas. Inte minst därför att kapitalister (de rika, de som äger mycket i samhället) inte kommer att ge upp sin sociala, ekonomiska och politiska makt utan "en fajt". 
 
 **OBS:** I Arena används aldrig begreppet _reformistisk_ socialism. Istället används begreppet _revisionistisk_ socialism. Jag har valt begreppet reformistisk socialism eftersom det dels är vanligare och dels bättre _belyser skillnaden_ gentemot _revolutionär_ socialism. Användningen i Arena riskerar inte minst att skapa viss förvirring eftersom en revisionistisk socialist inte nödvändigtvis måste vara reformist (ej revolutionär). Revisionism handlar i första hand endast om att _revidera_, omarbeta och (delvis) bryta mot Marx läror (revisionister är så att säga mindre "bokstavstroende").
+
+[1]:	https://sv.wikipedia.org/wiki/Det_sovande_folket
+
+[image-1]:	resurser/statens_storlek.svg
