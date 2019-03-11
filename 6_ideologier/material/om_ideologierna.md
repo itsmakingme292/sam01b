@@ -120,9 +120,9 @@ En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideolo
 
 #### Liberalismen
 * Individen
-	* Varje människas "egen utopi" och största möjliga handlingsutrymme. 
-	* Ingen bättre än individen själv vet vad ett gott liv innebär för denne. Inte heller skall individen _tvingas_ in i ett kollektivt ansvar för andra människors liv.
-	* Fokus i liberalismen ligger på _individens valfrihet_. Individen ansvarar i första hand inför sig själv. 
+	* Varje människas "egen utopi" och största möjliga handlingsutrymme. Ingen bättre än individen själv vet vad ett gott liv innebär för denne. 
+	* När människan gör vad som är bra för henne själv är detta också bra för samhället. Egoism driver samhällsutvecklingen (ekonomin) framåt. 
+	* Fokus i liberalismen ligger på _individens valfrihet_. Individen ansvarar i första hand inför sig själv. Individen får aldrig _tvingas_ in i ett kollektivt ansvar för andra människors liv.
 
 <!--Med andra ord: största möjliga handlingsutrymme för individen -->
 
@@ -146,10 +146,10 @@ En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideolo
 #### Liberalismen
 1. Människan har stor potential att bli den hon vill.
 	* Människan är i grunden god, handlingskraftig och kreativ.
-	* Människan är egoistisk – och tänker på sig själv *i första hand*. 
+	* Det sagt tänker hon på sig själv *i första hand* (egoism).
 2. Varje människa kan och _ska_ vara sin "egen lyckas smed".
 	* Det är upp till dig! Samhället är inte skyldig dig något annat än din frihet. Så ta tillvara på denna.
-	* När människan gör vad som är bra för henne själv är detta också bra för samhället. Egoism driver samhällsutvecklingen (ekonomin) framåt. 
+	* Människan utvecklas genom sin egoism och individualitet – inte genom kollektiv gemenskap.
 
 
 <!--Få in Smith och bagaren här? -->
@@ -160,7 +160,7 @@ En ideologisk enhet är det "objekt" eller den "del" av samhället som en ideolo
 	* Människan föds varken god eller ond utan formas av det omgivande samhället.
 2. Människans potential realiseras genom kollektivets styrka och avskaffandet av samhällsklasser (arbetare och kapitalister, underklass och överklass, fattiga och rika).
 	* Vårt självförverkligande och våra möjligheter i livet beror på hur det omgivande samhället ser ut.
-	* Vi måste skapa ett _solidariskt_ samhälle, med andra ord ett samhälle där vi tar ett _gemensamt_ ansvar för varandra.
+	* Vi måste därför skapa ett _solidariskt_ samhälle: ett samhälle där vi tar ett _gemensamt_ ansvar för varandra. 
 
 **Ordförklaring:** *Kapitalism* innebär att produktionsmedlen ägs privat och inte kollektivt. För socialister innebär kapitalism en konfliktfylld (och i längden ohållbar) uppdelning av samhället där några (kapitalister) äger och resten (proletärer) arbetar för de som äger. 
 
@@ -227,7 +227,7 @@ Ekonomin i en välfärdsstat är en blandekonomi. Detta innebär att man i stort
 
 > **Förespråkas av:** Reformistiska socialister (däribland socialdemokrater) och social-liberaler. Vissa konservativa. 
 
-För social-liberaler och konservativa handlar det dock om att se till vad man brukar kalla för _välfärdens kärna_. Med andra ord: ”välfärd är bra, men inte _för mycket_”. Enligt mer liberala och konservativa riskerar "för mycket" välfärd att passivisera människor (se exempelvis: [Reinfeldt, _Det sovande folket_][1]). I första hand ska välfärden ge en ”bra start” i livet (genom exempelvis obligatorisk skolgång) och längre fram i livet ge ett *mindre* skyddsnät (man ska inte kunna svälta osv). 
+För social-liberaler och konservativa handlar det dock om att se till vad man brukar kalla för _välfärdens kärna_. Med andra ord: ”välfärd är bra, men inte \_för mycket\_”. Enligt mer liberala och konservativa riskerar "för mycket" välfärd att passivisera människor (se exempelvis: [Reinfeldt, _Det sovande folket_][1]). I första hand ska välfärden ge en ”bra start” i livet (genom exempelvis obligatorisk skolgång) och längre fram i livet ge ett *mindre* skyddsnät (man ska inte kunna svälta osv). 
 
 Reformistiska socialister delar _inte_ denna bild. Välfärden ska inte bara vara en slags "grundservice" den ska också förändra samhällsstrukturen (göra samhället mer jämlikt) genom att korrigera marknadens orättvisa utfall (exempelvis: högre skatt för rika). Reformistiska socialister vill ha en relativt stor stat – men inte en allomfattande. Till skillnad från kommunister står de för en blandekonomi som bevarar marknadsekonomins ”positiva sidor” samtidigt som den görs mindre kapitalistisk genom regleringar och stora omfördelningar (och i vissa fall: delvis gemensamt ägande).  
 
