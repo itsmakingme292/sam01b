@@ -102,6 +102,8 @@
   <!--* [Läsuppgift, Arena](6_ideologier/ovningar/lasning_arena_och_diskussion.md) -->
   - - - -
   * # Examinerande moment
-  * [*Kommer...*](...)
+  * [Grupparbete & Seminarium](6_ideologier/examinerande_moment/ideologier_grupparbete_sem.md)   
+  * [*Individuell slutexamination kommer...*](...)
+  
+<!--  * [Individuell slutexamination](6_ideologier/examinerande_moment/ideologier_individuell_slutex.md) -->
 
-<!--  * [Grupparbete & Seminarium](6_ideologier/examinerande_moment/ideologier_grupparbete_sem.md)   * [Individuell slutexamination](6_ideologier/examinerande_moment/ideologier_individuell_slutex.md)    -->

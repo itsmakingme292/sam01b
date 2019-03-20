@@ -17,7 +17,7 @@
 
 <!--Borttaget under punkt 1: Börja inte direkt med själva grupparbetet, utan förbered er först individuellt. -->
 
-1. Sätt er in i ideologierna med fokus på den ideologi ni själva kommer att representera. Läs och reflektera kring texten ["Det goda samhället"](../material/om_ideologierna.md) på denna hemsida samt sidorna 133–154 i läroboken och sök själva efter komplementerande källor. 
+1. Sätt er in i ideologierna med fokus på den ideologi ni själva kommer att representera. Läs och reflektera kring texten ["Det goda samhället"][1] på denna hemsida, kapitlet om ideologier i läroboken och sök själva efter komplementerande källor. 
 2. Skapa ett gemensamt dokument, förslagsvis i Google Docs (detta kommer att underlätta) som ni under era förberedelser gemensamt antecknar i och som ni under seminariet kan ha som underlag.
 3. Diskutera i er grupp vad er ideologi säger om:
 
@@ -27,7 +27,7 @@
 	* Rättvisa? Frihet?
 	* Rättigheter & skyldigheter?
 	* Samhällets utveckling?
-	
+
 4. Slipa på era argument inför seminariet. Utgå ifrån vad som är styrkan i era respektive ideologier, och vad som ni anser är svagheten i de andras. Gå *inte* utanför era roller – ni *är* er ideologi – och var under seminariet inte rädda att "attackera" de andra. 
 5. Förbered frågor att ställa till, och "attacker" att rikta mot, de andra ideologiernas representanter och försök tänka på vilka typer av argument och frågor som kommer dyka upp under seminariet. Hur kommer representanterna från de andra ideologierna att reagera på era resonemang? Vad kommer de att ge för några motargument och hur skulle ni kunna svara? Det finns ingen gräns på hur väl förbereda ni kan vara här.
 
@@ -46,7 +46,7 @@
 * Under seminariet är diskussionen någorlunda fri och driver idealt sig själv. Tanken är att det är ni som för samtalet och att jag modererar så lite som bara möjligt (men jag kommer givetvis göra det i den mån det är nödvändigt). Det är därför viktigt att ni i era förberedelser har en framtida fruktbar diskussion i åtanke och inte en monolog. 
 * I slutet av (och möjligen till viss del under) seminariet kommer jag att ge er muntlig feedback. Denna är till för *hela klassen*, även om den i huvudsak kommer att vara "riktad mot" respektive ideologis representanter. 
 * Ni kommer alltså inte att få individuella kommentarer eller omdömen. Det sagt gör ni er själva en björntjänst om ni inte tar seminariet på allvar. 
-* Utifrån feedbacken och utifrån ert arbete tillsammans kommer ni förhoppningsvis att ha en mycket god grund att stå på inför ert slutliga individuella arbete [(slutexaminationen)](ideologier_individuell_slutex.md).
+* Utifrån feedbacken och utifrån ert arbete tillsammans kommer ni förhoppningsvis att ha en mycket god grund att stå på inför ert slutliga individuella arbete <!--[(slutexaminationen)] -->.
 * Viktigt är därför att ni antecknar under seminariet. Inte bara min feedback utan också de idéer och tankar som uppstår då ni hör de andra grupperna resonera och argumentera.
 
 <!--Ha exempel på frågor man kan ta upp här? -->
@@ -61,3 +61,5 @@ Se classroom
 **LYCKA TILL!**
 
 / Fredrik
+
+[1]:	../material/om_ideologierna.md
