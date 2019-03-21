@@ -38,6 +38,7 @@
 * Feminister och ekologister bör bestämma sig för om de även sympatiserar med någon viss annan ideologi. Detta för att kunna instämma samt göra tillägg och kopplingar till hur andra ideologier hänger samman med den egna ideologin. Man bör här också fundera en extra gång kring vilka ideologier (eller delar av ideologierna) man inte är lika kompatibel med. Feminismen och ekologismen har kanske inte lika naturliga fiender som de klassiska ideologierna, men de kan sannerligen rikta hård kritik åt en rad olika håll.
 * Som feminist och konservativ bör man bestämma sig för vilken typ av feminist eller konservativ man är. För feminismen är detta relativt enkelt, det handlar framförallt om huruvida man lutar mer åt särartsfeminism eller likhetsfeminism. För konservatismen är detta något svårare och handlar om en rad olika frågor.
 * Som (reformistisk) socialist bör man bestämma sig för hur man ser på marknadsekonomi, i vilken utsträckning man vill reglera denna (och varför), samt i hur stor utsträckning man vill se mer planekonomiska inslag. 
+* Som revolutionär socialist är det enklast om man väljer den form som utgår ifrån en stor stat med gemensamt ägande. Varianten där staten på sikt ska försvinna riskerar att bli otydlig i diskussionen (men det är OK att välja denna variant om man vill). 
 * Som social-liberal måste man vara tydlig med vad som skiljer den egna ideologin från en reformistisk socialism med avseende på välfärden, samt varför man inte är nyliberal.
 
 
