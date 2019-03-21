@@ -213,6 +213,8 @@ Den totala frånvaron av en stat förespråkas framförallt av den socialistiska
 
 De som förespråkar den totala avsaknaden av en stat menar att staten alltid utgör ett förtryck och en makt över individen som i det långa loppet inte kan rättfärdigas. 
 
+> **Förespråkas av:** Anarkister och vissa kommunister.
+
 #### Nattväktarstat (liten stat)
 En nattväktarstat är en slags minimi-stat. En sådant stat har endast en uppgift: att skydda medborgarna från varandra och från övriga stater (och därmed säkra "den inre" och "den yttre" säkerheten). Detta innebär i praktiken att staten endast står för sådant som ett rättsväsende (polis och domstolar), militär samt brandkår. I denna typ av stat råder 100 procent oreglerad marknadsekonomi och det sker ingen omfördelning av resurser från statens sida. Statens uppgift begränsas till att skydda medborgarens _liv_, _frihet_ och _(privata) egendom_. Utöver detta skall staten vara _passiv_.
 
@@ -227,7 +229,7 @@ Ekonomin i en välfärdsstat är en blandekonomi. Detta innebär att man i stort
 
 > **Förespråkas av:** Reformistiska socialister (däribland socialdemokrater) och social-liberaler. Vissa konservativa. 
 
-För social-liberaler och konservativa handlar det dock om att se till vad man brukar kalla för _välfärdens kärna_. Med andra ord: ”välfärd är bra, men inte _för mycket_”. Enligt mer liberala och konservativa riskerar "för mycket" välfärd att passivisera människor (se exempelvis: [Reinfeldt, _Det sovande folket_][1]). I första hand ska välfärden ge en ”bra start” i livet (genom exempelvis obligatorisk skolgång) och längre fram i livet ge ett *mindre* skyddsnät (man ska inte kunna svälta osv). 
+För social-liberaler och konservativa handlar det dock om att se till vad man brukar kalla för _välfärdens kärna_. Med andra ord: ”välfärd är bra, men inte *för mycket*”. Enligt mer liberala och konservativa riskerar "för mycket" välfärd att passivisera människor (se exempelvis: [Reinfeldt, _Det sovande folket_][1]). I första hand ska välfärden ge en ”bra start” i livet (genom exempelvis obligatorisk skolgång) och längre fram i livet ge ett *mindre* skyddsnät (man ska inte kunna svälta osv). 
 
 Reformistiska socialister delar _inte_ denna bild. Välfärden ska inte bara vara en slags "grundservice" den ska också förändra samhällsstrukturen (göra samhället mer jämlikt) genom att korrigera marknadens orättvisa utfall (exempelvis: högre skatt för rika). Reformistiska socialister vill ha en relativt stor stat – men inte en allomfattande. Till skillnad från kommunister står de för en blandekonomi som bevarar marknadsekonomins ”positiva sidor” samtidigt som den görs mindre kapitalistisk genom regleringar och stora omfördelningar (och i vissa fall: delvis gemensamt ägande).  
 
@@ -241,7 +243,7 @@ Tanken med denna typ av stat är att det i en marknadsekonomi alltid kommer att 
 
 <!--Fria är vi först när vi slipper sälja vårt arbete och istället äger allt gemensamt. -->
 
-> **Förespråkas av:** Vissa kommunister
+> **Förespråkas av:** Revolutionära socialister (kommunister)
 
 ## Samhällets förändring
 
