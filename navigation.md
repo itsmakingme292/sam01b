@@ -103,7 +103,5 @@
   - - - -
   * # Examinerande moment
   * [Grupparbete & Seminarium](6_ideologier/examinerande_moment/ideologier_grupparbete_sem.md)   
-  * [*Individuell slutexamination kommer...*](...)
-  
-<!--  * [Individuell slutexamination](6_ideologier/examinerande_moment/ideologier_individuell_slutex.md) -->
+  * [Individuell slutexamination](6_ideologier/examinerande_moment/ideologier_individuell_slutex.md)
 

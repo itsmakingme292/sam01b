@@ -30,13 +30,13 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 ### Att tänka på:
 
-- Hur du väljer att lägga upp din text är upp till dig. Du behöver inte skriva i exakt den ordning som frågorna ovan följer – men du måste ha någon form av struktur. Kanske väljer du att baka samman jämförelserna med själva redovisningen av respektive ideologi, kanske väljer du att spränga in dina egna argument under dessa delar och inte bara i den avslutande slutsatsen, osv. Om du är osäker, diskutera ev. upplägg med mig. 
+- Hur du väljer att lägga upp din text är upp till dig. Du behöver inte skriva i exakt den ordning som frågorna ovan följer – men du måste ha någon form av struktur. Kanske väljer du att baka samman jämförelserna med själva redovisningen av respektive ideologi, kanske väljer du att spränga in dina egna argument under dessa delar och inte bara i den avslutande slutsatsen, osv. Om du är osäker, diskutera ev. upplägg med mig.
 
-- En möjlig ståndpunkt/slutsats kan vara att du helst ser någon form av kombination mellan några,  eller alla, av de ideologier du valt att skriva om. Om detta är fallet: beskriv då hur du tänker dig att denna kombination skulle se ut och *varför* den är att föredra.
+- En möjlig ståndpunkt/slutsats kan vara att du helst ser någon form av kombination mellan några, eller alla, av de ideologier du valt att skriva om. Om detta är fallet: beskriv då hur du tänker dig att denna kombination skulle se ut och *varför* den är att föredra.
 
 - Har du svårt att *ta ställning,* måste du likväl kunna *resonera* kring detta. Vilka aspekter av en viss ideologi ger den fördelar gentemot en viss annan? Varför anser du att det står och väger mellan dem? Osv.
 
-- Socialismen har i Arena flertalet grenar och förgreningar. Du *behöver* *inte* skriva om leninism och stalinism eller anarkism och syndikalism (men du får om du vill). _Obligatoriskt_ för socialismen är **reformistisk socialism** (socialdemokrati) och **revolutionär socialism** (kommunism/marxism). _Obligatoriskt_ för liberalismen är **nyliberalism** (libertarianism) och **social-liberalism**. 
+- Socialismen har i Arena flertalet grenar och förgreningar. Du *behöver* *inte* skriva om leninism och stalinism eller anarkism och syndikalism (men du får om du vill). _Obligatoriskt_ för socialismen är **reformistisk socialism** (socialdemokrati) och **revolutionär socialism** (kommunism/marxism). _Obligatoriskt_ för liberalismen är **nyliberalism** (libertarianism) och **social-liberalism**.
 
 **OBS:** Utelämnar man liberalismen och socialismens obligatoriska förgreningar har man ej möjlighet till ett högre betyg. 
 
@@ -45,13 +45,13 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 - Man kan absolut lyfta in andra ideologier än de två eller tre man har sitt fokus på. Andra ideologier kan exempelvis bidra med intressant kritik eller hjälpa till att förklara skillnader. Var dock tydlig med vilka ideologier som är ditt fokus och tänk på att du har ett begränsat utrymme att genomföra uppgiften på.
 
 
-### Att göra: 
+### Att göra:
 
-1. Du läser läser och reflekterar kring texten **["Det goda samhället"](../material/om_ideologierna.md)** och kompletterar denna med avsnittet om ideologier **i Arena** och/eller **andra källor** som du själv söker upp.
+1. Du läser läser och reflekterar kring texten **["Det goda samhället"][1]** och kompletterar denna med kapitlet om ideologier **i Arena** och/eller **andra källor** som du själv söker upp.
 
-2. Du är uppmärksam på eventuella problem och skillnader i texterna, du jämför, är källkritisk samt ställer frågor till mig när så behövs. 
+2. Du är uppmärksam på eventuella problem och skillnader i texterna, du jämför, är källkritisk samt ställer frågor till mig när så behövs.
 
-3. Du väljer om du vill genomföra uppgiften muntligt (enskilt samtal med mig) eller skriftligt (inlämning). 
+3. Du väljer om du vill genomföra uppgiften muntligt (enskilt samtal med mig) eller skriftligt (inlämning).
 
 **Tips:** Tänk på att välja den examinationsform som du tror ger dig bäst möjligheter att visa dina kunskaper. 
 
@@ -104,8 +104,12 @@ Vilka fördelar och nackdelar har de? Hur skulle man som ”anhängare” av en 
 
 - Eleven drar **välgrundade och nyanserade slutsatser** och ger **välgrundade och nyanserade argument** för och emot ideologierna samt för sin egen ståndpunkt i mycket hög grad och uttrycker sig på ett **strukturerat** och **sammanhängande** sätt.
 
+**Kommentar:** Att vara nyanserad handlar om att inte förenkla det som inte ska förenklas, att visa på olika perspektiv och att inte dra för snabba slutsatser. Vad gäller ideologierna innebär detta konkret att vi ger en så rättvis bild som möjligt av deras innehåll, att våra argument inte utgår ifrån karikatyrer av våra ”motståndare” och att vi inte utelämnar viktiga aspekter. 
+
 **TIPS:** Fundera alltid kring vilka relevanta motargument det finns för det du påstår och försäkra dig om att du också bemöter dessa. 
 
 **LYCKA TILL!**
 
 / Fredrik
+
+[1]:	../material/om_ideologierna.md

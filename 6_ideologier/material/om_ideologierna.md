@@ -63,7 +63,7 @@ Oavsett ideologi, måste vi ha en balans mellan rättigheter och skyldigheter. F
 ### Positiva & negativa rättigheter
 När det gäller rättigheter finner vi den stora skiljelinjen mellan ideologierna i vilket fokus de lägger på _negativa_ respektive _positiva_ rättigheter. 
 
-Negativa rättigheter handlar om *friheten från* något. Sådana rättigheter kräver ingen _aktiv_ handling ifrån staten, tvärtom. Dessa innebär "endast" att vi slipper inblandning från staten. Ett exempel på en negativ rättighet är _yttrandefriheten_, vilken innebär att vi inte _blir hindrade_ eller censurerade då vi uttrycker vår åsikt. 
+Negativa rättigheter handlar om *friheten från* något. Sådana rättigheter kräver ingen _aktiv_ handling ifrån staten – tvärtom. Dessa innebär "endast" att vi slipper inblandning från staten. Ett exempel på en negativ rättighet är _yttrandefriheten_, vilken innebär att vi inte _blir hindrade_ eller censurerade då vi uttrycker vår åsikt. 
 
 Positiva rättigheter handlar om _rätten till_ något. Dessa kräver en _aktiv_ handling från staten och någon form av inblandning i våra liv. Ett exempel på en positiv rättighet är _rätten till skolgång_. Många (dock ej nyliberaler/libertarianer) skulle argumentera för att det inte bara räcker med att staten säger att vi är _fria_ att gå i skolan om vi _kan_ och _vill_, utan att staten också måste, om denna rättighet ska betyda något, ta ansvaret *för* och *ge* oss denna skolgång (och att skolgång därmed bör vara en positiv rättighet). 
 
@@ -231,7 +231,7 @@ Ekonomin i en välfärdsstat är en blandekonomi. Detta innebär att man i stort
 
 För social-liberaler och konservativa handlar det dock om att se till vad man brukar kalla för _välfärdens kärna_. Med andra ord: ”välfärd är bra, men inte *för mycket*”. Enligt mer liberala och konservativa riskerar "för mycket" välfärd att passivisera människor (se exempelvis: [Reinfeldt, _Det sovande folket_][1]). I första hand ska välfärden ge en ”bra start” i livet (genom exempelvis obligatorisk skolgång) och längre fram i livet ge ett *mindre* skyddsnät (man ska inte kunna svälta osv). 
 
-Reformistiska socialister delar _inte_ denna bild. Välfärden ska inte bara vara en slags "grundservice" den ska också förändra samhällsstrukturen (göra samhället mer jämlikt) genom att korrigera marknadens orättvisa utfall (exempelvis: högre skatt för rika). Reformistiska socialister vill ha en relativt stor stat – men inte en allomfattande. Till skillnad från kommunister står de för en blandekonomi som bevarar marknadsekonomins ”positiva sidor” samtidigt som den görs mindre kapitalistisk genom regleringar och stora omfördelningar (och i vissa fall: delvis gemensamt ägande).  
+Reformistiska socialister delar _inte_ denna bild. Välfärden ska inte bara vara en slags "grundservice" den ska också förändra samhällsstrukturen (göra samhället mer jämlikt) genom att korrigera marknadens orättvisa utfall (exempelvis: högre skatt för rika). Reformistiska socialister vill ha en relativt stor stat – men inte en allomfattande. Till skillnad från kommunister står de för en blandekonomi (iaf här och nu) som bevarar marknadsekonomins ”positiva sidor” samtidigt som den görs mindre kapitalistisk genom regleringar och stora omfördelningar (och i vissa fall: delvis gemensamt ägande).  
 
 #### Allomfattande stat
 
