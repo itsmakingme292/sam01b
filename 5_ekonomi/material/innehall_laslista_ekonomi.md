@@ -33,4 +33,4 @@ Fokus under detta delmoment kommer att ligga på *samhälls*ekonomi. *Privat*eko
 
 ## Genomgångar
 
-* [Presentationen vi gått igenom under ett antal lektioner](https://docs.google.com/presentation/d/1EpdRYQvr16RbuqWsdsUS0c1Hf0KM8CZ9v0j4tzQLhG8/edit?usp=sharing)
+* [Presentationen vi gått igenom under ett antal lektioner](https://docs.google.com/presentation/d/1iL9JPeDIM0BZ3Xj7QIp7lZufM3JVLbvz9kLDsQ8ng2g/edit?usp=sharing)
