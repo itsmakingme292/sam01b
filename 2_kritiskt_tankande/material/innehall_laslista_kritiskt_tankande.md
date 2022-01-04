@@ -38,7 +38,7 @@ Detta delmoment behandlar i huvudsak följande frågeställningar och ämnesomr�
 
 ## Genomgångar
 
-* [Presentationen om kritiskt tänkande finner ni här](https://docs.google.com/presentation/d/1F5EZVP7tm8ivY-XOg9TARWPOG9H_JrUntY6oQk_e0gU/edit?usp=sharing)
+* [Presentationen om kritiskt tänkande finner ni här](https://docs.google.com/presentation/d/1wVzlPZJkoLY69KuCk3tp7oHQt5iJ_tOpTf65bytiNfU/edit?usp=sharing)
 
 
 
