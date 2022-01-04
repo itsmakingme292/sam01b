@@ -43,9 +43,9 @@ Ett urval av riksdagens studiematerial (58 sid, lättläst och kan till stor del
 
 ## Genomgångar
 
-* [Demokrati](https://docs.google.com/presentation/d/1YXXK5ZrN8vu4g1l7Ko207Qa4uNaGGqSs9Lb3PbVWAz0/edit?usp=sharing) – Powerpoint om olika former av demokrati, samt vad som gör ett samhälle (mer) demokratiskt
-* [Sveriges statsskick](https://docs.google.com/presentation/d/19ZG7qPrDV5C4hEDGqLPfAvCvqA87nq7Rf-Shb5LHg0s/edit?usp=sharing) – Powerpoint om Sveriges statsskick, våra grundlagar och olika politiska nivåer
-* [Från val till val](https://docs.google.com/presentation/d/1ABeJtAQoMEYVFoRA6rGONNCsKTB-iYm5ljEzSWVptB4/edit?usp=sharing) – Powerpoint om hur arbetet i riksdagen går till under en mandatperiod
+* [Demokrati](https://docs.google.com/presentation/d/1EeCaxFMxvmF8RN53RRAD1aeVhaLzBBT5vb1k4W_wDGc/edit?usp=sharing) – Powerpoint om olika former av demokrati, samt vad som gör ett samhälle (mer) demokratiskt
+* [Sveriges statsskick](https://docs.google.com/presentation/d/1kqrRxcdZdoRVThY8fnptx1wOdMb-C2ebE38wWtgqZeg/edit?usp=sharing) – Powerpoint om Sveriges statsskick, våra grundlagar och olika politiska nivåer
+* [Från val till val](https://docs.google.com/presentation/d/16LSD8vYKDGAnzBRTrGXB6OD54V5eV-B0w3kO9WC0dbc/edit?usp=sharing) – Powerpoint om hur arbetet i riksdagen går till under en mandatperiod
 
 **Kommentar:** Utöver ovanstående bör ni givetvis också gå igenom era egna föreläsningsanteckningar.
 
