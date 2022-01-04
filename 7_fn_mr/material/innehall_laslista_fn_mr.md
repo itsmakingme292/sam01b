@@ -33,7 +33,7 @@
 **OBS:** Den allmänna förklaringen utgör obligatorisk läsning!
 
 ## Genomgångar
-* [MR, Folkrätt & FN](https://docs.google.com/presentation/d/13XaZw05Z85AmNai8VEU8Eyy_8Xw43VQ8xavTii15C1o/edit?usp=sharing) – Powerpoint för ett antal lektioner om mänskliga rättigheter, folkrätt och FN. 
+* [MR, Folkrätt & FN](https://docs.google.com/presentation/d/1jE7QTxlm3W_m3CAvr6l6nYj4XM8swmYKVqe8wtjyzzs/edit?usp=sharing) – Powerpoint för ett antal lektioner om mänskliga rättigheter, folkrätt och FN. 
 
 ## Förslag på länkar för vidare läsning
 
