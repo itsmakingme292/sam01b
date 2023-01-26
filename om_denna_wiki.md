@@ -7,5 +7,5 @@
 Om man som lärare vill komma i kontakt med mig kan man använda nedanstående formulär. Om så bara för att berätta att man använder sidan på ett eller annat sätt. Man kan också komma med förslag på förbättringar, även om större uppdateringar i dagsläget dessvärre inte är aktuellt. 
 
 <div class="gformular">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSew_1nG0Mgg1FzJSxKFf3lI-FokpGXs0tHD2ZtjAIatoorsFA/viewform?embedded=true" width="640" height="1400" frameborder="0" marginheight="0" marginwidth="0">Läser in …</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSew_1nG0Mgg1FzJSxKFf3lI-FokpGXs0tHD2ZtjAIatoorsFA/viewform?embedded=true" width="100%" height="1400" frameborder="0" marginheight="0" marginwidth="0">Läser in …</iframe>
 </div>
